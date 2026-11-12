@@ -13,6 +13,7 @@ jobs:
         with:
           node-version: '22'
       - run: npm install --ignore-scripts
+      - run: node scripts/test-competition-history.js
       - run: node scripts/test-wikidata-priority.js
       - run: node test-almanac.js
       - run: node test-v4-modes.js
@@ -31,13 +32,17 @@ jobs:
         run: node scripts/build-official.js --check
       - name: Verifica nuovo archivio storico Champions Mondiali Europei
         run: node scripts/test-deep-history.js
+      - name: Amplia Mondiali ed Europei con fonti storiche CC0
+        env:
+          FL_HISTORY_BUDGET_MS: '150000'
+        run: node scripts/build-competition-history.js
       - name: Controlla numero e qualità di ogni categoria
         run: node scripts/audit-categories.js
       - name: Pubblica solo se cambia il dataset
         run: |
           git config user.name 'football-legends-bot'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
-          git add questions-generated.json people-generated.json wikidata-generated.json wikidata-clubs.json wikidata-club-cache.json category-report.json category-report.md
+          git add competition-history-generated.json questions-generated.json people-generated.json wikidata-generated.json wikidata-clubs.json wikidata-club-cache.json category-report.json category-report.md
           if ! git diff --cached --quiet; then
             git commit -m 'Aggiorna archivio domande dal calcio storico'
             git push

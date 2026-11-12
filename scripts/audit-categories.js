@@ -2,7 +2,7 @@
 const fs=require('fs'),path=require('path'),crypto=require('crypto');
 const base=path.join(__dirname,'..');
 const policy=require(path.join(base,'category-policy.json'));
-const files=['questions.json','portugal-questions.json','people-questions.json','classics-questions.json','questions-generated.json','people-generated.json','wikidata-generated.json','official-questions.json','history-expansion.json','deep-history.json'];
+const files=['questions.json','portugal-questions.json','people-questions.json','classics-questions.json','questions-generated.json','people-generated.json','wikidata-generated.json','official-questions.json','history-expansion.json','deep-history.json','competition-history-generated.json'];
 const all=[],sourceStats={};
 for(const file of files){
  let obj;try{obj=JSON.parse(fs.readFileSync(path.join(base,file),'utf8'))}catch(e){sourceStats[file]={present:false,loaded:0};continue}
