@@ -1,6 +1,6 @@
 {
   "version": "3.3.4",
-  "generatedAt": "2026-11-12T13:20:18.081Z",
+  "generatedAt": "2026-11-12T13:38:09.398Z",
   "minimumPerCategory": 2000,
   "sourceStats": {
     "questions.json": {
@@ -45,11 +45,15 @@
     },
     "competition-history-generated.json": {
       "present": true,
-      "loaded": 501
+      "loaded": 805
+    },
+    "european-cups-generated.json": {
+      "present": true,
+      "loaded": 431
     }
   },
-  "rawCount": 35071,
-  "validUniquePlayable": 35005,
+  "rawCount": 35806,
+  "validUniquePlayable": 35740,
   "filteredByKind": 6,
   "invalid": 0,
   "duplicates": 60,
@@ -107,9 +111,12 @@
     "Gol e primati": 10,
     "Miglior giocatore": 8,
     "Sedi delle grandi finali": 35,
+    "Percorso massimo": 304,
     "Incroci storici": 313,
     "Protagonisti delle finali": 85,
-    "Percorso nelle fasi finali": 68
+    "Percorso nelle fasi finali": 68,
+    "Incroci nelle coppe europee": 359,
+    "Percorsi nelle coppe europee": 72
   },
   "categories": [
     {
@@ -211,9 +218,9 @@
     {
       "group": "Coppe e tornei",
       "category": "Champions League",
-      "available": 291,
+      "available": 722,
       "target": 2000,
-      "missing": 1709,
+      "missing": 1278,
       "met": false
     },
     {
@@ -227,9 +234,9 @@
     {
       "group": "Coppe e tornei",
       "category": "Mondiali",
-      "available": 462,
+      "available": 678,
       "target": 2000,
-      "missing": 1538,
+      "missing": 1322,
       "met": false
     },
     {
@@ -379,9 +386,9 @@
     {
       "group": "Categorie aggiuntive",
       "category": "Europei",
-      "available": 303,
+      "available": 391,
       "target": 2000,
-      "missing": 1697,
+      "missing": 1609,
       "met": false
     },
     {
