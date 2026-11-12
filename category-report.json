@@ -1,0 +1,477 @@
+{
+  "version": "3.3.4",
+  "generatedAt": "2026-11-12T13:02:23.682Z",
+  "minimumPerCategory": 2000,
+  "sourceStats": {
+    "questions.json": {
+      "present": true,
+      "loaded": 131
+    },
+    "portugal-questions.json": {
+      "present": true,
+      "loaded": 99
+    },
+    "people-questions.json": {
+      "present": true,
+      "loaded": 183
+    },
+    "classics-questions.json": {
+      "present": true,
+      "loaded": 156
+    },
+    "questions-generated.json": {
+      "present": true,
+      "loaded": 1409
+    },
+    "people-generated.json": {
+      "present": true,
+      "loaded": 18000
+    },
+    "wikidata-generated.json": {
+      "present": true,
+      "loaded": 13692
+    },
+    "official-questions.json": {
+      "present": true,
+      "loaded": 67
+    },
+    "history-expansion.json": {
+      "present": true,
+      "loaded": 483
+    },
+    "deep-history.json": {
+      "present": true,
+      "loaded": 350
+    }
+  },
+  "rawCount": 34570,
+  "validUniquePlayable": 34504,
+  "filteredByKind": 6,
+  "invalid": 0,
+  "duplicates": 60,
+  "byKind": {
+    "Storico": 125,
+    "Storia e curiosità": 99,
+    "Vincitore per anno": 70,
+    "Premi calciatori": 38,
+    "Allenatori vincenti": 14,
+    "Club degli allenatori": 14,
+    "Premi Mondiali": 13,
+    "Commissari tecnici EURO": 17,
+    "Nazionali degli allenatori": 17,
+    "Campioni del mondo": 22,
+    "Campioni d’Europa": 17,
+    "Campioni d’Europa per club": 33,
+    "Finali memorabili": 10,
+    "Stadi e città": 25,
+    "Grandi protagonisti": 37,
+    "Grandi derby": 11,
+    "Confronti tra club": 262,
+    "Podio del campionato": 456,
+    "Record del campionato": 565,
+    "Campioni e classifiche": 126,
+    "Epoca dei protagonisti": 5758,
+    "Nazionalità": 6426,
+    "Ruolo": 5757,
+    "Carriere Wikidata": 3588,
+    "Biografie Wikidata": 3597,
+    "Città di nascita Wikidata": 3571,
+    "Nazionalità Wikidata": 2936,
+    "Albi d’oro ufficiali": 67,
+    "Finali mondiali": 22,
+    "Paesi ospitanti": 39,
+    "Finali Europei": 17,
+    "Finali Champions": 32,
+    "Anni dei premiati": 46,
+    "Record Pallone d’Oro": 10,
+    "Club e stadi": 122,
+    "Rivalità storiche": 28,
+    "Leggende e club": 92,
+    "Leggende e nazionali": 92,
+    "Allenatori campioni": 22,
+    "Finali storiche": 38,
+    "Grandi marcatori": 20,
+    "Record e gol": 20,
+    "Coppa dei Campioni": 37,
+    "Finali di un tempo": 37,
+    "Allenatori europei": 32,
+    "Sedi delle finali": 32,
+    "Coppa UEFA ed Europa League": 25,
+    "Finaliste Europa League": 25,
+    "Allenatori campioni d’Europa": 17,
+    "Marcatori Europei": 10,
+    "Gol e primati": 10,
+    "Miglior giocatore": 8
+  },
+  "categories": [
+    {
+      "group": "Campionati",
+      "category": "Serie A",
+      "available": 142,
+      "target": 2000,
+      "missing": 1858,
+      "met": false
+    },
+    {
+      "group": "Campionati",
+      "category": "Premier League",
+      "available": 186,
+      "target": 2000,
+      "missing": 1814,
+      "met": false
+    },
+    {
+      "group": "Campionati",
+      "category": "La Liga",
+      "available": 155,
+      "target": 2000,
+      "missing": 1845,
+      "met": false
+    },
+    {
+      "group": "Campionati",
+      "category": "Bundesliga",
+      "available": 179,
+      "target": 2000,
+      "missing": 1821,
+      "met": false
+    },
+    {
+      "group": "Campionati",
+      "category": "Ligue 1",
+      "available": 113,
+      "target": 2000,
+      "missing": 1887,
+      "met": false
+    },
+    {
+      "group": "Campionati",
+      "category": "Primeira Liga portoghese",
+      "available": 188,
+      "target": 2000,
+      "missing": 1812,
+      "met": false
+    },
+    {
+      "group": "Campionati",
+      "category": "Campionato svizzero",
+      "available": 12,
+      "target": 2000,
+      "missing": 1988,
+      "met": false
+    },
+    {
+      "group": "Campionati",
+      "category": "Challenge League svizzera",
+      "available": 0,
+      "target": 2000,
+      "missing": 2000,
+      "met": false
+    },
+    {
+      "group": "Campionati",
+      "category": "Süper Lig turca",
+      "available": 31,
+      "target": 2000,
+      "missing": 1969,
+      "met": false
+    },
+    {
+      "group": "Campionati",
+      "category": "Championship inglese",
+      "available": 92,
+      "target": 2000,
+      "missing": 1908,
+      "met": false
+    },
+    {
+      "group": "Campionati",
+      "category": "Segunda División",
+      "available": 89,
+      "target": 2000,
+      "missing": 1911,
+      "met": false
+    },
+    {
+      "group": "Coppe e tornei",
+      "category": "Champions",
+      "available": 13,
+      "target": 2000,
+      "missing": 1987,
+      "met": false
+    },
+    {
+      "group": "Coppe e tornei",
+      "category": "Champions League",
+      "available": 291,
+      "target": 2000,
+      "missing": 1709,
+      "met": false
+    },
+    {
+      "group": "Coppe e tornei",
+      "category": "Coppe europee",
+      "available": 0,
+      "target": 2000,
+      "missing": 2000,
+      "met": false
+    },
+    {
+      "group": "Coppe e tornei",
+      "category": "Mondiali",
+      "available": 186,
+      "target": 2000,
+      "missing": 1814,
+      "met": false
+    },
+    {
+      "group": "Coppe e tornei",
+      "category": "Europei e nazionali",
+      "available": 17,
+      "target": 2000,
+      "missing": 1983,
+      "met": false
+    },
+    {
+      "group": "Coppe e tornei",
+      "category": "Marcatori dei Mondiali",
+      "available": 0,
+      "target": 2000,
+      "missing": 2000,
+      "met": false
+    },
+    {
+      "group": "Coppe e tornei",
+      "category": "Coppa Svizzera",
+      "available": 0,
+      "target": 2000,
+      "missing": 2000,
+      "met": false
+    },
+    {
+      "group": "Protagonisti e storia",
+      "category": "Pallone d’Oro",
+      "available": 126,
+      "target": 2000,
+      "missing": 1874,
+      "met": false
+    },
+    {
+      "group": "Protagonisti e storia",
+      "category": "Calciatori nel mondo",
+      "available": 30934,
+      "target": 2000,
+      "missing": 0,
+      "met": true
+    },
+    {
+      "group": "Protagonisti e storia",
+      "category": "Calciatori leggendari",
+      "available": 51,
+      "target": 2000,
+      "missing": 1949,
+      "met": false
+    },
+    {
+      "group": "Protagonisti e storia",
+      "category": "Leggende",
+      "available": 12,
+      "target": 2000,
+      "missing": 1988,
+      "met": false
+    },
+    {
+      "group": "Protagonisti e storia",
+      "category": "Leggende del calcio",
+      "available": 199,
+      "target": 2000,
+      "missing": 1801,
+      "met": false
+    },
+    {
+      "group": "Protagonisti e storia",
+      "category": "Allenatori e tecnici",
+      "available": 699,
+      "target": 2000,
+      "missing": 1301,
+      "met": false
+    },
+    {
+      "group": "Protagonisti e storia",
+      "category": "Allenatori storici",
+      "available": 84,
+      "target": 2000,
+      "missing": 1916,
+      "met": false
+    },
+    {
+      "group": "Protagonisti e storia",
+      "category": "Nazionale italiana",
+      "available": 6,
+      "target": 2000,
+      "missing": 1994,
+      "met": false
+    },
+    {
+      "group": "Altro",
+      "category": "Stadi leggendari",
+      "available": 25,
+      "target": 2000,
+      "missing": 1975,
+      "met": false
+    },
+    {
+      "group": "Altro",
+      "category": "Curiosità",
+      "available": 10,
+      "target": 2000,
+      "missing": 1990,
+      "met": false
+    },
+    {
+      "group": "Altro",
+      "category": "Derby e rivalità",
+      "available": 39,
+      "target": 2000,
+      "missing": 1961,
+      "met": false
+    },
+    {
+      "group": "Altro",
+      "category": "Grandi club",
+      "available": 0,
+      "target": 2000,
+      "missing": 2000,
+      "met": false
+    },
+    {
+      "group": "Altro",
+      "category": "Europa",
+      "available": 10,
+      "target": 2000,
+      "missing": 1990,
+      "met": false
+    },
+    {
+      "group": "Categorie aggiuntive",
+      "category": "2. Bundesliga tedesca",
+      "available": 133,
+      "target": 2000,
+      "missing": 1867,
+      "met": false
+    },
+    {
+      "group": "Categorie aggiuntive",
+      "category": "Eredivisie olandese",
+      "available": 67,
+      "target": 2000,
+      "missing": 1933,
+      "met": false
+    },
+    {
+      "group": "Categorie aggiuntive",
+      "category": "Europei",
+      "available": 113,
+      "target": 2000,
+      "missing": 1887,
+      "met": false
+    },
+    {
+      "group": "Categorie aggiuntive",
+      "category": "League One inglese",
+      "available": 94,
+      "target": 2000,
+      "missing": 1906,
+      "met": false
+    },
+    {
+      "group": "Categorie aggiuntive",
+      "category": "Ligue 2 francese",
+      "available": 74,
+      "target": 2000,
+      "missing": 1926,
+      "met": false
+    },
+    {
+      "group": "Categorie aggiuntive",
+      "category": "Stadi famosi",
+      "available": 122,
+      "target": 2000,
+      "missing": 1878,
+      "met": false
+    },
+    {
+      "group": "Categorie aggiuntive",
+      "category": "Super League greca",
+      "available": 12,
+      "target": 2000,
+      "missing": 1988,
+      "met": false
+    }
+  ],
+  "samples": {
+    "invalid": [],
+    "duplicates": [
+      {
+        "id": "classic-e11ddfb284ef938",
+        "source": "classics-questions.json",
+        "reason": "id o testo ripetuto"
+      },
+      {
+        "id": "bio-48ddb3bf7b6230e4db",
+        "source": "people-generated.json",
+        "reason": "id o testo ripetuto"
+      },
+      {
+        "id": "bio-658c6f0a22a649c6ae",
+        "source": "people-generated.json",
+        "reason": "id o testo ripetuto"
+      },
+      {
+        "id": "bio-7c1c0cb0fffdd360aa",
+        "source": "people-generated.json",
+        "reason": "id o testo ripetuto"
+      },
+      {
+        "id": "bio-8b11f3641cf45f0a06",
+        "source": "people-generated.json",
+        "reason": "id o testo ripetuto"
+      },
+      {
+        "id": "bio-0c5399f9b52f16bf72",
+        "source": "people-generated.json",
+        "reason": "id o testo ripetuto"
+      },
+      {
+        "id": "bio-060b80e5dd9d76e4a7",
+        "source": "people-generated.json",
+        "reason": "id o testo ripetuto"
+      },
+      {
+        "id": "bio-4aa74dbed7f86b62b1",
+        "source": "people-generated.json",
+        "reason": "id o testo ripetuto"
+      },
+      {
+        "id": "bio-b96d0b1d2c0b2b81e6",
+        "source": "people-generated.json",
+        "reason": "id o testo ripetuto"
+      },
+      {
+        "id": "bio-13374e3f5f59d133e4",
+        "source": "people-generated.json",
+        "reason": "id o testo ripetuto"
+      },
+      {
+        "id": "bio-3e522b4b6add1b6c80",
+        "source": "people-generated.json",
+        "reason": "id o testo ripetuto"
+      },
+      {
+        "id": "bio-e05af5c46fd2674e7b",
+        "source": "people-generated.json",
+        "reason": "id o testo ripetuto"
+      }
+    ]
+  }
+}

@@ -1,0 +1,7912 @@
+{
+  "countriesDone": [
+    "Q38"
+  ],
+  "countriesFailed": [],
+  "clubs": [
+    {
+      "id": "Q100148971",
+      "name": "Sesto 2012",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q100354146",
+      "name": "Unione Sportiva Vibonese Calcio 2020-2021",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q100804172",
+      "name": "Ternana Calcio 2020-2021",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q101423729",
+      "name": "Unione Sportiva Grosseto 1912 2020-2021",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q1026324",
+      "name": "Chieti F.C. 1922",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q104865484",
+      "name": "Sasso Marconi Zola SSD",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q1052316",
+      "name": "Alma Juventus Fano 1906",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q1052365",
+      "name": "Acireale FC",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q1056821",
+      "name": "Unione Sportiva Pontedera 1912",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q1057306",
+      "name": "Football Club Bolzano 1996",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q1058649",
+      "name": "Giugliano Calcio 1928",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q10595150",
+      "name": "Nazionale Piloti",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q106011752",
+      "name": "Cjarlins Muzane",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q106130942",
+      "name": "A.S.D. San Luigi Calcio",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q106153898",
+      "name": "A.S.D. Cordenons Calcio",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q106254380",
+      "name": "A.S.D. Pro Romans",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q106298729",
+      "name": "A.S.D. Sevegliano",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q1064102",
+      "name": "US Sestri Levante 1919",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q106610803",
+      "name": "A.S. Centro del Mobile Calcio",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q106618569",
+      "name": "Brandizzo",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q106706865",
+      "name": "Ausonia Football Club",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q107222619",
+      "name": "Guidonia Montecelio 1937 Football Club",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q107490590",
+      "name": "A.S.D. Football Club Matese",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q1077477",
+      "name": "Società Sportiva San Giovanni",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q1082273",
+      "name": "Vigor Trani Calcio",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q1082282",
+      "name": "Licata Calcio 1931",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q1082290",
+      "name": "Matera 1933",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q1083326",
+      "name": "Atessa Val di Sangro",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q1083334",
+      "name": "Celano Calcio",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q108607248",
+      "name": "USD Pont Donnaz Hône Arnad Evançon",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q108649606",
+      "name": "F.C. Lamezia Terme",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q108666261",
+      "name": "Sport Club Juventus",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q1087549",
+      "name": "A.V.C. Vogherese 1919",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q108757770",
+      "name": "Club Sportivo Olympia",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q1088962",
+      "name": "Sestrese Bor. 1919",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q1089028",
+      "name": "U.S. Imperia 1923",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q1089769",
+      "name": "Atletico Piombino SSD",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q1091208",
+      "name": "Polisportiva Monterotondo Calcio",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q109378202",
+      "name": "Gruppo Sportivo Isotta Fraschini",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q1093796",
+      "name": "Associazione Sportiva Pro Gorizia",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q1100592",
+      "name": "Manfredonia Calcio 1932",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q110455106",
+      "name": "Club Calcio Femminile Catania",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q1110712",
+      "name": "Naples Foot-Ball & Cricket Club",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q111914165",
+      "name": "Audace 1919",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q111969089",
+      "name": "Football Club Sangiuliano City",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q1120838",
+      "name": "Como 1907",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q1122596",
+      "name": "Polisportiva Brescello",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q1124405",
+      "name": "Associazione Calcio Dilettantistica Poggese",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q112598158",
+      "name": "ASD Novese Gunners",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q1130870",
+      "name": "Associazione Calcio Mestre",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q1131416",
+      "name": "A.C. Ponte San Pietro",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q1132621",
+      "name": "Scafatese Football Club",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q113331193",
+      "name": "A.S.D. Anaune Val di Non",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q1136016",
+      "name": "Cosenza Calcio",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q1153687",
+      "name": "Virtus Bergamo 1909",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q115621941",
+      "name": "Centro Histórico de Lebowski",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q115660428",
+      "name": "Football Club Clivense",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q116949682",
+      "name": "Società Ginnastica di Torino",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q116974165",
+      "name": "Pol. Real Torino F.C.F.",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q118951018",
+      "name": "Orbassano Calcio",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q120881664",
+      "name": "Alcione Milano 1952",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q121213625",
+      "name": "Atalanta Bergamasca Calcio U23",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q121842610",
+      "name": "ASD Castelfranco CF",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q123759720",
+      "name": "Cesena Football Club",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q124719004",
+      "name": "AS Savignanese",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q124719017",
+      "name": "CBR Carli Pietracuta",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q125101791",
+      "name": "Centro Storico Lebowski",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q125784026",
+      "name": "Team Altamura",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q126009453",
+      "name": "Calcio Caldiero Terme",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q126923253",
+      "name": "Milan Futuro",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q1279917",
+      "name": "Pistoiese Football Club",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q128694624",
+      "name": "Como 1907 Primavera",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q130549905",
+      "name": "Athletic Club Palermo",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q130705307",
+      "name": "Associazione Calcio Villasanta",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q130753106",
+      "name": "Dopolavoro Aziendale Redaelli",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q130852051",
+      "name": "Società Ginnastica Fortitudo",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q130853737",
+      "name": "Unione Sportiva Gerli",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q130854602",
+      "name": "Gruppo Sportivo Cantiere Tosi",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q130943364",
+      "name": "Associazione Calcio Galliate",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q131098495",
+      "name": "Dopolavoro Aziendale Breda",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q131098526",
+      "name": "Dopolavoro Aziendale Caproni",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q131098564",
+      "name": "Associazione Calcio Cinzano",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q131098628",
+      "name": "Dopolavoro Ferroviario Rimini",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q131099104",
+      "name": "Associazione Calcio Aviosicula",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q131099621",
+      "name": "Unione Sportiva Bondenese",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q131101157",
+      "name": "Unione Sportiva Ardens",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q131101173",
+      "name": "Unione Sportiva Mantovana",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q131101186",
+      "name": "Gruppo Sportivo Dopolavoristico Fabbriche Riunite Amido Glucosio Destrina",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q131101219",
+      "name": "Gruppo Sportivo Marelli",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q131101266",
+      "name": "Sport Club Ligorna 1922",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q131107158",
+      "name": "Gruppo Sportivo Elettronica",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q131107177",
+      "name": "Gruppo Sportivo Littorio Firenze",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q131299168",
+      "name": "Società di Educazione Fisica Virtus",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q131340134",
+      "name": "Sisport",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q131340280",
+      "name": "Dopolavoro Portuale Livorno",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q131465482",
+      "name": "Ghiviborgo VDS",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q131470582",
+      "name": "A.S.D. Tau Calcio Altopascio",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q131540818",
+      "name": "Lentigione Calcio",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q1328077",
+      "name": "Unione Sportiva Fiumana",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q133566447",
+      "name": "Dolomiti Bellunesi Calcio",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q13381",
+      "name": "US Triestina Calcio 1918",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q133810466",
+      "name": "FC Zeta Milano",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q13385",
+      "name": "S.P.A.L.",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q13391",
+      "name": "US Lecce",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q1349814",
+      "name": "Ravenna Football Club",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q135196550",
+      "name": "Ternana Women",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q135415841",
+      "name": "Union Brescia",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q135451504",
+      "name": "Football Club Internazionale Milano U23",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q135735640",
+      "name": "Monterosi Tuscia FC",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q136996780",
+      "name": "ASD JUVENILIA ROSETO",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q138086288",
+      "name": "FBC Gravina",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q1380971",
+      "name": "Viareggio Calcio",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q138690837",
+      "name": "ASD Golfo Paradiso Pro Recco Camogli Avegno",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q138704850",
+      "name": "Camogli FC",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q1387710",
+      "name": "FC Südtirol",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q139399",
+      "name": "Calcio Foggia 1920",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q139667239",
+      "name": "Desenzano Football Club",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q1403417",
+      "name": "Associazione Sportiva Petrarca Calcio",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q141524049",
+      "name": "Compagnia Il Girasole",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q1416763",
+      "name": "Unione Sportiva Dilettantistica Follonica Gavorrano",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q141807693",
+      "name": "S.C. Victoria Marra",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q1422",
+      "name": "Juventus FC",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q1435421",
+      "name": "Foligno Calcio",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q1451177",
+      "name": "Centese Calcio",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q1457",
+      "name": "UC Sampdoria",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q1465587",
+      "name": "Sport Club Audace Torino",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q1466165",
+      "name": "Società per l'Educazione Fisica Mediolanum",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q1508747",
+      "name": "Sorrento Calcio 1945",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q1512790",
+      "name": "Unione Sportiva Fiorenzuola 1922",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q15140971",
+      "name": "Puteolana 1902",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q1520422",
+      "name": "Cavese 1919",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q1538737",
+      "name": "Internazionale Torino",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q1543",
+      "name": "AC Milan",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q15675810",
+      "name": "Associazione Femminile Dilettantistica Grifo Perugia",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q1570559",
+      "name": "L'Aquila Calcio 1927",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q15712979",
+      "name": "Torino F.C. Primavera",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q15714350",
+      "name": "Associazione Calcio Gonzaga",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q15965612",
+      "name": "Associazione Sportiva Dilettantistica Corigliano Schiavonea Calcio",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q15982366",
+      "name": "Associazione Sportiva Tevere Roma",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q16156019",
+      "name": "Amatori del Giuoco del Calcio Football Club",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q16268140",
+      "name": "Audax Football Club Modena",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q1628616",
+      "name": "ASD Vigevano Calcio 1921",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q16323078",
+      "name": "Unione Sportiva Dilettantistica San Severo",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q16334",
+      "name": "Città di Casale",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q16339",
+      "name": "USD Novese",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q16344",
+      "name": "AC Perugia Calcio",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q16348",
+      "name": "Forza e Coraggio Alessandria",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q1637277",
+      "name": "Seregno FBC",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q1639656",
+      "name": "Arzignano Calcio a 5",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q1645839",
+      "name": "Unione Sportiva Oratorio Calcio",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q16481752",
+      "name": "Calcistica Romanese",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q16481877",
+      "name": "Fiorente Football Club",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q1648612",
+      "name": "Nuovo Monselice Calcio",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q16487774",
+      "name": "Unione Sportiva Alessandrina",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q16529202",
+      "name": "Associazione Sportiva Cossatese 1946",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q16529212",
+      "name": "Associazione Sportiva Dilettantistica Corbetta F.C.",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q16529235",
+      "name": "Associazione Sportiva Dilettantistica Monturanese Calcio",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q16529240",
+      "name": "Associazione Sportiva Dilettantistica Popoli Calcio 1912",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q16529260",
+      "name": "Associazione Sportiva Dilettantistica Vadese Calcio",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q16529313",
+      "name": "Associazione Sportiva Vercellesi Erranti",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q16555053",
+      "name": "Fabriano Calcio",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q16556206",
+      "name": "Firenze Foot-Ball Club",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q16566716",
+      "name": "Itala Football Club",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q16599913",
+      "name": "San Ferdinando Calcio",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q16607001",
+      "name": "Società Sportiva Portorecanati",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q16608664",
+      "name": "Statistiche e record dell'Unione Calcio Sampdoria",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q16615977",
+      "name": "Tita Fumei",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q16619537",
+      "name": "Unione Sportiva Melzo",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q16619601",
+      "name": "Unione Sportiva Trapanese",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q16623427",
+      "name": "Woman Soccer Catanzaro",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q16735576",
+      "name": "Associazione Sportiva Giana Erminio",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q1681805",
+      "name": "Savona F.B.C. 1907",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q16836323",
+      "name": "A.S. Atletico Calcio",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q16836858",
+      "name": "A.S.D. Boca Ascesa Val Liona",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q16837921",
+      "name": "Correggese Calcio 1948",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q16838441",
+      "name": "U.S. Dro",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q16839107",
+      "name": "FCD Conegliano Calcio 1907",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q16841377",
+      "name": "Unione Sportiva Inveruno",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q16842284",
+      "name": "A.S.D. Jolly Montemurlo",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q16843044",
+      "name": "Sassari Calcio Latte Dolce",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q16844632",
+      "name": "A.C. Marano A.S.D.",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q16844756",
+      "name": "Società Sportiva Matelica Calcio 1921",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q16846934",
+      "name": "N.F.C. Orlandina A.S.D.",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q16848065",
+      "name": "A.C.D. Pro Dronero",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q16848188",
+      "name": "Internapoli Football Club",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q16848551",
+      "name": "A.S.D. Real Metapontino",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q16848845",
+      "name": "A.C.D. Union Ripa La Fenadora",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q16848949",
+      "name": "Cesena Football Club",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q16849394",
+      "name": "A.S.D. Nuova Santa Maria delle Mole Marino",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q16852148",
+      "name": "A.S.D. Thermal Abano Teolo",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q16852427",
+      "name": "Associazione Sportiva Dilettantistica Torrecuso Calcio",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q16912515",
+      "name": "Associazione Sportiva Falconarese",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q16960063",
+      "name": "Associazione Sportiva Dilettantistica Vittorio Falmec San Martino Colle",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q17154548",
+      "name": "Associazione Sportiva Dilettantistica Forlimpopoli 1928",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q17462058",
+      "name": "Associazione Calcio Femminile Milan 82",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q17488804",
+      "name": "Calcio Femminile Scalese",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q17509881",
+      "name": "Football Club Dilettantistico Altovicentino",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q17620991",
+      "name": "Associazione Calcio Terzigno 1964",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q17621034",
+      "name": "Associazione Calcio Femminile Urbe Tevere",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q17621539",
+      "name": "Associazione Calcistica Caltagirone",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q17621548",
+      "name": "Associazione Dilettantistica Sportiva Nuova Sangiorgese",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q17621641",
+      "name": "Associazione Sportiva Dilettantistica Acerrana",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q17621645",
+      "name": "Orobica Calcio Bergamo",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q17621650",
+      "name": "Associazione Sportiva Dilettantistica Baia Alassio Calcio",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q17621657",
+      "name": "Associazione Sportiva Dilettantistica Folgore Selinunte",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q17621667",
+      "name": "Associazione Sportiva Dilettantistica Porto Sant'Elpidio Calcio",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q17623208",
+      "name": "Calcio Femminile Südtirol Damen Bolzano",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q17636796",
+      "name": "Società Sportiva Pro Italia",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q17637011",
+      "name": "Sport Club Vigor Trapani",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q17639043",
+      "name": "Unione Polisportiva Dilettantistica Scicli 2013",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q17639181",
+      "name": "Unione Sportiva Mirandolese",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q1785447",
+      "name": "U.S. Sambenedettese",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q17986763",
+      "name": "Biancoscudati Padova",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q18086159",
+      "name": "Associazione Calcistica Castellana Calcio",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q18124291",
+      "name": "A.S. Roma Primavera",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q18125148",
+      "name": "Abano Calcio",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q18128910",
+      "name": "A.S.D. U.S. Scafatese Calcio",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q18129452",
+      "name": "Unione Sportiva Dilettantistica Zagarolo",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q18202805",
+      "name": "Pro Napoli Sport Club",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q18207714",
+      "name": "A.S.D.P. Ciliverghe di Mazzano",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q18207722",
+      "name": "U.S. Ciserano",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q18229089",
+      "name": "Gruppo Sportivo Dilettantistico Castelfidardo",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q18288313",
+      "name": "Foot Ball Club Lilion Snia Varedo",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q1833715",
+      "name": "Associazione Milanese del Calcio",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q18349367",
+      "name": "Associazione Polisportiva Dilettantistica Ribelle 1927",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q18349370",
+      "name": "A.S.D. Comunale Fontanafredda",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q18349373",
+      "name": "A.S.D. Mori Santo Stefano",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q18389779",
+      "name": "Football Club Union Pro",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q18397558",
+      "name": "Unione Sportiva Vimercatese",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q18416267",
+      "name": "Associazione Sportiva Sant'Anna Trieste",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q18417845",
+      "name": "Falck Arcore Calcio",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q18418222",
+      "name": "Gruppo Sportivo S.T.E.F.E.R. Roma",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q18420450",
+      "name": "Società Sportiva San Giovanni Trieste",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q18420451",
+      "name": "Società Sportiva Sangiorgina",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q18420650",
+      "name": "Calcio Femminile Permac Vittorio Veneto",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q18420656",
+      "name": "Unione Sportiva Melegnanese",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q1853088",
+      "name": "Football Club Canavese",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q1854811",
+      "name": "Unione Sportiva Dilettantistica Poggibonsi",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q1856552",
+      "name": "US Vibonese Calcio",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q18574355",
+      "name": "Quarto Football Club",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q18574491",
+      "name": "Unione Sportiva Balzolese",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q18590146",
+      "name": "Dopolavoro Portuale Genova",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q18600448",
+      "name": "Associazione Sportiva Dilettantistica Quarrata Olimpia",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q18601773",
+      "name": "Associazione Calcio Cologna Veneta",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q18640072",
+      "name": "A.P.D. Leonfortese",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q18640073",
+      "name": "A.S.D. Roccella",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q18640075",
+      "name": "San Donato Tavarnelle",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q18640077",
+      "name": "A.S.D. Tiger Brolo",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q18640079",
+      "name": "A.S.D. Villabiagio",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q1865284",
+      "name": "Società Sportiva Monopoli",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q1866129",
+      "name": "F.C.D. Lottogiaveno",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q18718757",
+      "name": "Unione Sportiva Arsenale",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q1884655",
+      "name": "Club Sportivo Audace Roma",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q1886",
+      "name": "Atalanta Bergamasca Calcio",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q1886341",
+      "name": "Casertana Football Club",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q1893",
+      "name": "Bologna FC 1909",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q1899815",
+      "name": "Sanremese Calcio",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q1900",
+      "name": "Cagliari Calcio",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q1912441",
+      "name": "Nazionale Lombardia Foot-Ball Club",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q1923699",
+      "name": "Associazione Sportiva Dilettantistica Sansepolcro Calcio",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q1926428",
+      "name": "Polisportiva Alghero",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q1948889",
+      "name": "Vigor Lamezia Calcio 1919",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q19545277",
+      "name": "Associazione Calcio Contarina",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q19545280",
+      "name": "Associazione Calcio Sammaurese",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q19545282",
+      "name": "L.F. Jesina Femminile",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q19545283",
+      "name": "Associazione Sportiva Dilettantistica Argentana",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q19545386",
+      "name": "Gruppo Aziendale Ala Littoria",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q19622264",
+      "name": "Gruppo Sportivo Vigili del Fuoco Palermo",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q19631801",
+      "name": "Circolo Sportivo Giovanni Gerbi Pisa",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q1968070",
+      "name": "Unione Sportiva Pergolettese 1932",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q1968424",
+      "name": "US Massese 1919 SSD",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q1972437",
+      "name": "Associazione Sportiva Cervia 1920",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q1980651",
+      "name": "Unione Sportiva Dilettantistica Rivarolese 1906",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q1990243",
+      "name": "Società Calcistica Caronnese",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q20007378",
+      "name": "Calcio Femminile Acese",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q20008141",
+      "name": "Amatori Calcio Bologna",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q20008157",
+      "name": "Balilla Football Club",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q20008286",
+      "name": "Gruppo Sportivo Dipendenti Municipali La Spezia",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q20008359",
+      "name": "Giovani Calciatori Officine Elettro Meccaniche Rivarolo",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q20008570",
+      "name": "Pro Caserta",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q20008724",
+      "name": "Storia dell'Associazione Sportiva Dilettantistica Sport Club Nissa 1962",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q20009051",
+      "name": "Associazione Calcio Juve Stabia",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q20009055",
+      "name": "Associazione Calcio Stabia",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q20009134",
+      "name": "Club Ginnastica e Scherma Cesarano Padova",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q20009192",
+      "name": "Football Club Stabiese",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q20009216",
+      "name": "Italia Libera Roma",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q20009361",
+      "name": "Società Sportiva Vittoria",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q20009475",
+      "name": "Storia della Casertana Football Club",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q20009529",
+      "name": "Unione Sportiva Veloci Embriaci",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q20009545",
+      "name": "Gruppo Sportivo Vigili del Fuoco Roma",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q20009875",
+      "name": "Associazione Sportiva Dilettantistica Intercomunale Monsummano 1921",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q20010030",
+      "name": "Santa Lucia di Piave Calcio",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q20011939",
+      "name": "Associazione Calcio Fortitudo Trieste",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q20011940",
+      "name": "Associazione Calcistica Emilio Morrone Cosenza",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q20011941",
+      "name": "Associazione Sportiva Dilettantistica Calcio Pieris",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q20011942",
+      "name": "Associazione Sportiva Dilettantistica Pontassieve Calcio",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q20011943",
+      "name": "Associazione Sportiva Dilettantistica Pro Cervignano Muscoli",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q20011944",
+      "name": "Associazione Sportiva Dilettantistica Ronchi Calcio",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q20012067",
+      "name": "Football Club Moglia",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q20012077",
+      "name": "Ostiglia Football Club",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q20165143",
+      "name": "San Bernardo Luserna Calcio Femminile",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q2016981",
+      "name": "Ardita Ausonia Football Club",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q2018",
+      "name": "Catania Football Club",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q2031462",
+      "name": "U.S. Pro Melfi",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q2037",
+      "name": "Associazione Calcio ChievoVerona",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q2052",
+      "name": "ACF Fiorentina",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q2058135",
+      "name": "U.S.C. Colognese",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q20706646",
+      "name": "A.C. Ancona",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q2074",
+      "name": "Genoa CFC",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q2084931",
+      "name": "Football Club Igea Virtus Barcellona",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q2087976",
+      "name": "Football Club Carpenedolo Società Sportiva Dilettantistica",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q2087988",
+      "name": "Associazione Calcio Sansovino",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q2089680",
+      "name": "F.C. Fossombrone",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q2095117",
+      "name": "Fermana Football Club",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q2095185",
+      "name": "Barletta 1922",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q20990733",
+      "name": "Associazione Calcio Dilettantistica Campodarsego",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q2107075",
+      "name": "Juventus Italia Football Club",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q2114224",
+      "name": "Football Club Trapani 1905",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q21180965",
+      "name": "F.C. Atletico Montichiari",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q2118510",
+      "name": "Latina Calcio 1932",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q21193145",
+      "name": "Sport Club Veloces",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q21210448",
+      "name": "Società Sportiva Pro Ficuzza",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q21210800",
+      "name": "Foot Ball Club Volontari",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q21211095",
+      "name": "Foot-Ball Club Bergamo",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q21211099",
+      "name": "Associazione Sportiva Dilettantistica Castellana Calcio",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q21211107",
+      "name": "Football Club Sempione",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q21211109",
+      "name": "Junior Football Club",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q21211113",
+      "name": "Società Lambro",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q21211129",
+      "name": "Associazione Sportiva Dilettantistica Pro Gioia",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q21211131",
+      "name": "Società Sportiva Dilettantistica Polisportiva Sarnese Calcio 1926",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q21211133",
+      "name": "Società Sportiva Pro Gorla Sezione Calcio Ausonia",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q21211135",
+      "name": "Spinola Football Club",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q21211162",
+      "name": "Unione Sportiva Vercellese",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q21211164",
+      "name": "Unitas Club",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q21211168",
+      "name": "Società Calcistica Virtus Torino",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q2142498",
+      "name": "Unione Sportiva Forcoli 1921",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q2146906",
+      "name": "Solbiatese Calcio 1911",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q2147776",
+      "name": "A.S.D. Sporting Terni",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q2158769",
+      "name": "Savoia 1908 Football Club",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q2176062",
+      "name": "Associazione Calcio Bellaria Igea Marina",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q2184038",
+      "name": "Unione Sportiva Romana",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q2191086",
+      "name": "Unione Sportiva Milanese",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q2205008",
+      "name": "Palestra Ginnastica Fiorentina Libertas",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q2213699",
+      "name": "Football Club Neapolis Mugnano",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q2246447",
+      "name": "Football Club Rieti 1936",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q2247329",
+      "name": "Brindisi FC",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q2249141",
+      "name": "F.C.D. Pro Vasto",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q2251415",
+      "name": "Marsala 1912",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q2253772",
+      "name": "Associazione Calcio Nuova Valdagno",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q2254067",
+      "name": "Associazione Calcio Mezzocorona",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q2255709",
+      "name": "Rovigo Calcio",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q2271138",
+      "name": "Associazione Sportiva Dilettantistica Cassino Calcio 1924",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q2273813",
+      "name": "Tritium Calcio 1908",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q2276413",
+      "name": "Virtus Entella",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q22936201",
+      "name": "S.S.C. Napoli Youth Sector",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q2304084",
+      "name": "Valenzana Mado",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q2311455",
+      "name": "Associazione Calcio Sampierdarenese",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q2312334",
+      "name": "Bassano Virtus 55 Soccer Team",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q2314607",
+      "name": "Martina Calcio 1947",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q2319961",
+      "name": "Club Sportivo Scandicci 1908",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q2344890",
+      "name": "A.S. Deruta",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q2349150",
+      "name": "Associazione Calcio Salò",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q2355346",
+      "name": "Unione Sportiva Olginatese",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q2360700",
+      "name": "Associazione Sportiva Modica Calcio",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q23695477",
+      "name": "A.S.D. Carlin's Boys",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q2393275",
+      "name": "Associazione Calcio Dilettantistica Città di Vittoria",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q24035133",
+      "name": "Virtus Francavilla Calcio",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q2414604",
+      "name": "Vis Pesaro dal 1898",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q2415539",
+      "name": "Olbia Calcio 1905",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q2426652",
+      "name": "Orvietana Calcio",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q24337049",
+      "name": "Gordige Calcio Ragazze",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q2438284",
+      "name": "Vigor Football Club",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q2452000",
+      "name": "Unione Sportiva Sestese Calcio",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q2456343",
+      "name": "FC Ivrea",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q2457991",
+      "name": "Potenza Calcio",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q2462850",
+      "name": "Foot Ball Club di Roma",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q2484001",
+      "name": "Noja Calcio 96",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q24883990",
+      "name": "A.S.D. Bagnoli Calcio 1967",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q24884033",
+      "name": "A.C. Tombolo",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q24884598",
+      "name": "List of A.S. Livorno Calcio seasons",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q24897470",
+      "name": "S.S.D. Vigontina Calcio",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q24897505",
+      "name": "A.S. Giorgianna",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q24937866",
+      "name": "Unione Sportiva Terranova Gela",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q24937867",
+      "name": "Juventina Gela",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q24938121",
+      "name": "A.S.D. Trastevere Calcio",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q24939116",
+      "name": "Gruppo Sportivo Bolognese",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q24940494",
+      "name": "Gruppo Sportivo Dilettantistico Volpiano Pianese",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q24941044",
+      "name": "Edera Calcio Forlì",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q25053880",
+      "name": "Novara Calcio Primavera",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q25230762",
+      "name": "Brera Calcio",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q2524107",
+      "name": "Teramo Calcio 1913",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q2527202",
+      "name": "Associazione Sportiva Cecina",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q2541580",
+      "name": "Real Marcianise Calcio",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q2543506",
+      "name": "Virtus Juventusque",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q2556933",
+      "name": "Associazione Calcio Sportiva Dilettantistica Saluzzo",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q25688859",
+      "name": "SS Panchina",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q257078",
+      "name": "Pordenone Football Club",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q2609",
+      "name": "SS Lazio",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q2617104",
+      "name": "A.C.D. Rivoli",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q2641",
+      "name": "SSC Napoli",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q2650690",
+      "name": "F.C. Ponsacco 1920 Società Sportiva Dilettantistica",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q2660146",
+      "name": "Vico Equense 1958",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q2663810",
+      "name": "Sapri Calcio 1928",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q2674",
+      "name": "Palermo FC",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q2693",
+      "name": "Parma Calcio 1913",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q2703612",
+      "name": "Pro Sesto 1913",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q2710",
+      "name": "Delfino Pescara 1936",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q2739",
+      "name": "AS Roma",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q2755428",
+      "name": "Associazione Sportiva Pizzighettone",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q2756",
+      "name": "Siena Football Club",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q2756916",
+      "name": "SPES Livorno",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q2768",
+      "name": "Torino FC",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q27961043",
+      "name": "Polisportiva Olympia Agnonese",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q2798",
+      "name": "Udinese Calcio",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q2818907",
+      "name": "Associazione Sportiva Dilettantistica Elpidiense Cascinare",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q28195113",
+      "name": "Unione Sportiva Siracusa",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q28195192",
+      "name": "A.S. Cosenza Calcio",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q28228818",
+      "name": "Potenza Sport Club",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q28228831",
+      "name": "A.S.D. Città di Giulianova 1924",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q28228837",
+      "name": "A.S.D. Tre Pini Matese",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q28228841",
+      "name": "F.W.P. Matese",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q28228842",
+      "name": "A.S.D. Alliphae",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q28229220",
+      "name": "A.S.D. Varesina",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q28229321",
+      "name": "ACF Fiorentina Primavera",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q28229333",
+      "name": "S.S. Lazio Primavera",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q28229335",
+      "name": "U.S. Sassuolo Calcio Primavera",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q28229337",
+      "name": "Empoli FC Youth Sector",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q2843679",
+      "name": "Unione Sportiva Città di Jesolo",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q2866115",
+      "name": "Unione Sportiva Arzanese 1924",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q28668011",
+      "name": "Associazione Sportiva Pordenone Albatros",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q28668061",
+      "name": "Football Club Femminile Cagliari",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q28669946",
+      "name": "Calcio Femminile Chieti",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q28670668",
+      "name": "Chatillon Saint-Vincent Calcio",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q2868210",
+      "name": "Associazione Calcio Crevalcore",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q2868211",
+      "name": "Associazione Calcio Isola Liri",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q2868212",
+      "name": "Unione Fincantieri Monfalcone",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q2868213",
+      "name": "Football Club Atletico Montichiari",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q2868215",
+      "name": "AC Magenta 1945",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q2868216",
+      "name": "Associazione Sportiva Gualdo Calcio",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q2874234",
+      "name": "Real Aversa 1925",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q287695",
+      "name": "Fidelis Andria 2018",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q289029",
+      "name": "Società Sportiva Calcio Ancona",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q2891756",
+      "name": "Battipagliese 1929",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q289186",
+      "name": "ASD Fanfulla",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q289289",
+      "name": "Associazione Calcio Legnano",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q289339",
+      "name": "Associazione Calcio Lumezzane",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q289482",
+      "name": "AC Monza",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q289521",
+      "name": "Associazione Calcio Pavia 1911",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q289613",
+      "name": "Pisa Sporting Club",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q289656",
+      "name": "Associazione Calcio Prato",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q289668",
+      "name": "Associazione Calcio Renate",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q289696",
+      "name": "Sangiovannese 1927",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q289707",
+      "name": "AC Reggiana 1919",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q289713",
+      "name": "Rimini Football Club",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q2929903",
+      "name": "S.S. Juventus Roma",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q2933677",
+      "name": "Calcio Castel San Pietro Terme",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q29390",
+      "name": "ACR Messina",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q29400",
+      "name": "Taranto FC 1927",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q297360",
+      "name": "Figline 1965",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q297416",
+      "name": "ASD Biellese 1902",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q297430",
+      "name": "SS Arezzo",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q297431",
+      "name": "Associazione Calcistica Dilettantistica Castel di Sangro Cep 1953",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q297680",
+      "name": "Nocerina 1910",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q298217",
+      "name": "US Avellino 1912",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q2982968",
+      "name": "Società Sportiva Colleferro Calcio",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q298314",
+      "name": "AS Gubbio 1910",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q298333",
+      "name": "Lucchese 1905",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q298392",
+      "name": "Associazione Sportiva Pescina Valle del Giovenco",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q3003160",
+      "name": "Crociati Noceto",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q3046854",
+      "name": "Ebolitana",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q3076503",
+      "name": "Associazione Sportiva Dilettantistica Femminile Juventus Torino",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q3076526",
+      "name": "Football Club Pastore",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q3077308",
+      "name": "FC Forlì",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q30879829",
+      "name": "Unione Sportiva Catanese",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q30888408",
+      "name": "Football Club Dilettantistico Megara 1908",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q30889657",
+      "name": "Associazione Calcio Femminile Dilettantistica Tradate",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q30914556",
+      "name": "ACF Conegliano",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q3093415",
+      "name": "Gruppo Sportivo Calcio Banco di Roma",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q30939691",
+      "name": "Unione Sportiva Salernitana",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q3094781",
+      "name": "Gallarate Calcio",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q3105024",
+      "name": "Associazione Calcio Giacomense",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q3149156",
+      "name": "Imolese Calcio 1919",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q31821",
+      "name": "Feralpisalò",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q323783",
+      "name": "Unione Sportiva Folgore Caratese",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q3299830",
+      "name": "AC Milan Primavera",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q3304997",
+      "name": "Società Sportiva Tivoli Calcio 1919",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q3305152",
+      "name": "Pro Palazzolo",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q3319507",
+      "name": "Unione Sportiva Reno Molinella 1911",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q3361628",
+      "name": "Palmese 1914",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q3391273",
+      "name": "A.S. Ostiamare Lido Calcio",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q3391284",
+      "name": "Football Club Messina",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q3391303",
+      "name": "A.P.D. Tortona Villalvernia",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q3391312",
+      "name": "A.S.D. Flaminia CivitaCastellana",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q3391323",
+      "name": "Associazione Calcio Este",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q3391458",
+      "name": "Budoni Calcio",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q3394275",
+      "name": "Campobasso Football Club",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q3395169",
+      "name": "Juventus Football Club Primavera",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q339596",
+      "name": "Giulianova Calcio",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q3460943",
+      "name": "Società Sportiva Sacilese Calcio",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q3468767",
+      "name": "Associazione Calcio Gozzano",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q3468789",
+      "name": "Associazione Calcio Bra",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q3470711",
+      "name": "Associazione Calcio Sambonifacese",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q3487457",
+      "name": "Associazione Sportiva Dilettantistica S.E.F. Tempio Pausania",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q3487463",
+      "name": "Società Sportiva Milazzo",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q3501099",
+      "name": "Lupa Roma Football Club",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q3506172",
+      "name": "Suzzara Sport Club",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q3550633",
+      "name": "Unione Sportiva Borgo a Buggiano 1920",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q3558943",
+      "name": "Società Sportiva Villacidrese",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q35971952",
+      "name": "Cuneo Calcio Femminile",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q3600335",
+      "name": "A.S.D. Città del Golfo",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q3600352",
+      "name": "Cristo Risorto Pro Scicli",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q3600354",
+      "name": "A.S.D. Speranza 1912 F.C.",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q3600568",
+      "name": "A.C.F. Brescia Calcio Femminile",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q3600569",
+      "name": "Associazione Calcio Femminile Aurora Bergamo",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q3600578",
+      "name": "ACF Trento",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q3604743",
+      "name": "Associazione Sportiva Dilettantistica Acqui Football Club",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q3605147",
+      "name": "Adelaide Nicastro Calcio",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q3606591",
+      "name": "Agliana Calcio Femminile",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q3606594",
+      "name": "Aglianese Calcio 1923",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q3607383",
+      "name": "Akragas 2018",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q3607814",
+      "name": "Alaska Gelati Veglie",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q3607939",
+      "name": "Foot-ball Club Albenga 1905",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q3608763",
+      "name": "Albinese Calcio",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q3620904",
+      "name": "Almas Roma",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q3625739",
+      "name": "Associazione Calcio Audace",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q3625740",
+      "name": "Associazione Sportiva Dilettantistica Asti",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q3625751",
+      "name": "Associazione Calcio Belluno 1905",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q3625798",
+      "name": "Associazione Calcio Caerano",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q3625800",
+      "name": "Associazione Calcio Cantù Gruppo Sportivo San Paolo",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q3625803",
+      "name": "Associazione Calcio Casoria",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q3625805",
+      "name": "Cattolica Calcio 1923",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q3625823",
+      "name": "Associazione Calcio Chiari 1912",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q3625861",
+      "name": "Union Clodiense Chioggia Football Club",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q3625862",
+      "name": "Associazione Calcio Città di Castello Società Sportiva Dilettantistica",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q3625866",
+      "name": "R.C. Codogno 1908",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q3625870",
+      "name": "Associazione Calcio Crema 1908",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q3625872",
+      "name": "Associazione Calcio Dalmazia",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q3625874",
+      "name": "Ars et Labor Grottaglie",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q3625875",
+      "name": "Associazione Calcio Dilettantistica Guidonia Montecelio",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q3625876",
+      "name": "Molfetta Sportiva 1917",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q3625877",
+      "name": "Sammargheritese 1903",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q3625878",
+      "name": "Settimo Calcio 1912",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q3625879",
+      "name": "Associazione Sportiva Dilettantistica Siderno 1911",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q3625881",
+      "name": "SS Ercolanese 1924",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q3625882",
+      "name": "Associazione Calcio Falck Vobarno",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q3625885",
+      "name": "Associazione Calcio Femminile Alessandria",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q3625886",
+      "name": "Associazione Calcio Femminile Dilettantistica Venezia 1984",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q3625889",
+      "name": "Associazione Calcio Femminile Genova",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q3625891",
+      "name": "Associazione Calcio Femminile Gravina",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q3625894",
+      "name": "Associazione Calcio Fidenza 1922",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q3625977",
+      "name": "Unione Sportiva Fucecchio",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q3625979",
+      "name": "Associazione Calcio Gazzi",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q3626033",
+      "name": "Associazione Calcio Jesolo",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q3626037",
+      "name": "Associazione Calcio La Dominante",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q3626069",
+      "name": "Associazione Calcio Massiminiana",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q3626071",
+      "name": "Associazione Calcio Meda 1913",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q3626072",
+      "name": "Associazione Calcio Messina",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q3626073",
+      "name": "Associazione Calcio Messina",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q3626104",
+      "name": "Associazione Calcio Montevecchio",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q3626105",
+      "name": "Associazione Calcio Montagnana",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q3626249",
+      "name": "Associazione Calcio Palmanova",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q3626252",
+      "name": "Football Club Parabiago",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q3626292",
+      "name": "Associazione Calcio Riunite Messina",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q3626293",
+      "name": "Riozzese",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q3626313",
+      "name": "Associazione Calcio Salernitana Femminile",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q3626326",
+      "name": "Associazione Calcio Sangiustese",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q3626328",
+      "name": "Associazione Sportiva Dilettantistica Sant'Angelo",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q3626329",
+      "name": "Associazione Calcio Savoia",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q3626371",
+      "name": "Associazione Calcio Stelvio",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q3626373",
+      "name": "Associazione Calcio Thiene",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q3626520",
+      "name": "Società Sportiva Dilettantistica Rapallo R. 1914 Rivarolese",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q3626521",
+      "name": "Associazione Calcistica Locri 1909",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q3626532",
+      "name": "Associazione Dilettantistica Polisportiva Termitana",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q3626721",
+      "name": "Associazione Sportiva Alatri",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q3626746",
+      "name": "Arona Calcio",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q3626796",
+      "name": "Associazione Sportiva Bisceglie",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q3626798",
+      "name": "Città di Fasano",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q3626799",
+      "name": "Associazione Sportiva Canicattì",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q3626800",
+      "name": "Associazione Sportiva Canelli",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q3626802",
+      "name": "Casatese Merate",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q3626807",
+      "name": "Associazione Calcio Cesenatico",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q3626838",
+      "name": "Associazione Sportiva Città di Bagheria",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q3626839",
+      "name": "Associazione Sportiva Dilettanti Carbonia Calcio",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q3626841",
+      "name": "Associazione Sportiva Dilettantistica Abbiategrasso",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q3626842",
+      "name": "Associazione Sportiva Dilettantistica Angelana 1930",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q3626843",
+      "name": "Angizia Luco 1925",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q3626845",
+      "name": "Anzio Calcio 1924",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q3626846",
+      "name": "Atletico Tricase",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q3626847",
+      "name": "Associazione Sportiva Dilettantistica Astrea",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q3626849",
+      "name": "Associazione Calcio Boca San Lazzaro",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q3626850",
+      "name": "Associazione Sportiva Dilettantistica Breno",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q3626854",
+      "name": "Associazione Sportiva Dilettantistica Camaiore Calcio",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q3626856",
+      "name": "Associazione Sportiva Dilettantistica Canosa Calcio",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q3626857",
+      "name": "Associazione Sportiva Dilettantistica Calcio Pomigliano",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q3626858",
+      "name": "Associazione Sportiva Dilettantistica Cascina",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q3626859",
+      "name": "Associazione Sportiva Dilettantistica Cerveteri Calcio",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q3626861",
+      "name": "Associazione Sportiva Dilettantistica Ceccano",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q3626863",
+      "name": "Corniglianese 1919",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q3626865",
+      "name": "Associazione Sportiva Dilettantistica Cynthia 1920",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q3626866",
+      "name": "Football Club Internazionale Milano",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q3626868",
+      "name": "A.C. ChievoVerona Women",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q3626870",
+      "name": "Fortis Juventus 1909",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q3626871",
+      "name": "Fossano Calcio",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q3626872",
+      "name": "Francavilla Calcio 1927",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q3626873",
+      "name": "Associazione Sportiva Dilettantistica Giorgione 1911",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q3626875",
+      "name": "Associazione Sportiva Dilettantistica Gruppo Sportivo Bagnolese",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q3626877",
+      "name": "Associazione Sportiva Dilettantistica Gladiator 1912",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q3626880",
+      "name": "Associazione Sportiva Dilettantistica Ilvamaddalena",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q3626881",
+      "name": "Associazione Sportiva Dilettantistica Itala San Marco Gradisca",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q3626882",
+      "name": "Sicula Leonzio",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q3626883",
+      "name": "Associazione Sportiva Dilettantistica Lanciotto Campi Bisenzio",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q3626886",
+      "name": "Football Club Liberty",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q3626889",
+      "name": "Narnese Calcio",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q3626891",
+      "name": "Associazione Sportiva Dilettantistica Nardò Calcio",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q3626892",
+      "name": "Associazione Sportiva Dilettantistica Norba Calcio Conversano",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q3626893",
+      "name": "Nissa Football Club",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q3626894",
+      "name": "Associazione Sportiva Dilettantistica Nuova Lucera Calcio",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q3626899",
+      "name": "Associazione Sportiva Dilettantistica Policoro Heraclea",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q3626900",
+      "name": "Associazione Sportiva Dilettantistica Polisportiva Tamai",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q3626902",
+      "name": "Associazione Sportiva Dilettantistica Pontevecchio",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q3626904",
+      "name": "Unione Sportiva Squinzano",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q3626907",
+      "name": "Associazione Sportiva Dilettantistica Rinascita Rutiglianese",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q3626909",
+      "name": "Associazione Sportiva Dilettantistica Sanvitese",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q3626910",
+      "name": "Associazione Sportiva Dilettantistica Saviglianese Calcio",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q3626911",
+      "name": "Unitas Sciacca Calcio",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q3626912",
+      "name": "Unione Sportiva Sarzanese 1906",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q3626913",
+      "name": "Siena Calcio Femminile",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q3626915",
+      "name": "Associazione Sportiva Dilettantistica Stasia Calcio",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q3626916",
+      "name": "Unione Sportiva Baracca Lugo",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q3626917",
+      "name": "Associazione Sportiva Dilettantistica Torviscosa",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q3626919",
+      "name": "Associazione Sportiva Dilettantistica Sulmona Calcio 1921",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q3626922",
+      "name": "Associazione Sportiva Dilettantistica Unione Sportiva Corsico 1908",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q3626923",
+      "name": "Associazione Sportiva Dilettantistica Ventimiglia Calcio",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q3626924",
+      "name": "Orlandia97 Capo d'Orlando",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q3626931",
+      "name": "Associazione Sportiva Ferentino Calcio",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q3626957",
+      "name": "Veliterna Juventus Sportiva Velletri",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q3626962",
+      "name": "Associazione Sportiva Libertas Trieste",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q3626995",
+      "name": "Associazione Sportiva Messina",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q3626998",
+      "name": "Associazione Sportiva Multedo 1930",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q3626999",
+      "name": "Valdinievole Montecatini",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q3627000",
+      "name": "Associazione Sportiva Morro d'Oro",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q3627003",
+      "name": "Associazione Sportiva Orceana Calcio",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q3627006",
+      "name": "Associazione Sportiva Penne Calcio",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q3627007",
+      "name": "Associazione Sportiva Pineto Calcio",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q3627010",
+      "name": "Associazione Sportiva Portuense",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q3627013",
+      "name": "Associazione Sportiva Pro Cisterna 1926",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q3627171",
+      "name": "Associazione Sportiva Sancolombano",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q3627183",
+      "name": "Sora Calcio 1907",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q3627186",
+      "name": "Associazione Sportiva Terracina",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q3627220",
+      "name": "Associazione Sportiva Trino Calcio",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q3627222",
+      "name": "Associazione Sportiva Urbino",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q3627234",
+      "name": "Associazione Sportiva Virtus Villese",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q3627235",
+      "name": "Associazione Sportiva Vis Nova Giussano",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q3627849",
+      "name": "Polisportiva Comunale Almennese Atalanta Femminile",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q3628971",
+      "name": "Atletico Milano",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q3628973",
+      "name": "Atletico Van Goof",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q3629463",
+      "name": "Società Sportiva Audace Cerignola",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q3629464",
+      "name": "Audace Football Club",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q3629465",
+      "name": "Audacia Napoli",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q3631057",
+      "name": "Forza e Coraggio Avezzano",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q3638170",
+      "name": "Benevento Calcio a Cinque",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q3638320",
+      "name": "Istituzione comunale Marcantonio Bentegodi",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q3642591",
+      "name": "Borgosesia Calcio",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q3648238",
+      "name": "C.S. Virtus",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q3650357",
+      "name": "Calcio Schio 1905",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q3650358",
+      "name": "Calcio Spalato",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q3651805",
+      "name": "Campania Foot-Ball Club",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q3659590",
+      "name": "AS Pro Piacenza 1919",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q3659833",
+      "name": "Associazione Calcio Sandonà 1922",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q3659841",
+      "name": "Ischia Calcio",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q3660049",
+      "name": "Virtus Verona",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q3660082",
+      "name": "A.C. M.M. Sarego A.S.D.",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q3660099",
+      "name": "Associazione Sportiva Dilettantistica Calcio Verbania",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q3660128",
+      "name": "N.K. Kras A.S.D.",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q3661459",
+      "name": "Casalotti Calcio",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q3663022",
+      "name": "Castelsardo Calcio",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q3664706",
+      "name": "Centro Giovanile Virescit Boccaleone",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q3677550",
+      "name": "Circolo Lavoratori Terni",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q3677567",
+      "name": "C.S. Trevigliese",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q3678796",
+      "name": "SSD Civitanovese Calcio",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q3678801",
+      "name": "Associazione Sportiva Dilettantistica Civitavecchia Calcio 1920",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q3681831",
+      "name": "Coar Orvieto",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q3686494",
+      "name": "Conegliano Calcio",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q370728",
+      "name": "Unione Sportiva Castelnuovo Garfagnana",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q3714092",
+      "name": "Dopolavoro Cirio",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q3726252",
+      "name": "Entella Femminile Chiavari",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q3733107",
+      "name": "Esperia Football Club",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q373419",
+      "name": "Valdelsa Football Colligiana",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q3738304",
+      "name": "Faenza Calcio",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q3745645",
+      "name": "Fincantieri Calcio",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q3746683",
+      "name": "Florence Football Club",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q3747545",
+      "name": "Foot-Ball Club Internazionale-Naples",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q3747547",
+      "name": "Foot-Ball Club Veloce 1910",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q3747548",
+      "name": "Associazione Sportiva Dilettantistica Foot-Ball Club Saronno 1910",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q3747571",
+      "name": "Foot Ball Club Casteggio Broni",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q3747607",
+      "name": "Football & Cricket Club",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q3747632",
+      "name": "Football Club Calcio Acri",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q3747642",
+      "name": "Football Club Dolo 1909",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q3747646",
+      "name": "Football Club Dilettantistico Enotria 1908",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q3747742",
+      "name": "Città di Isernia San Leucio Roccasicura",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q3747750",
+      "name": "Football Club Lavello",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q3747751",
+      "name": "Football Club Legnago Salus",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q3747758",
+      "name": "Football Club Luino Calcio",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q3747770",
+      "name": "Football Club Merano Calcio",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q3747782",
+      "name": "Football Club Monteponi Iglesias",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q3747786",
+      "name": "Football Club Ospitaletto 2000",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q3747792",
+      "name": "Football Club Rhodense",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q3747793",
+      "name": "Football Club Sangiuseppese",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q3747794",
+      "name": "Football Club Sant'Antonio Abate",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q3747804",
+      "name": "Football Club Vittoria",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q3758194",
+      "name": "Football Club Arzignano Valchiampo",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q3763940",
+      "name": "Giarre Calcio",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q3764542",
+      "name": "Enna Calcio",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q3766175",
+      "name": "Giovani Calciatori Grifone",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q3768519",
+      "name": "Gioventù Brindisi Calcio",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q3777414",
+      "name": "Gruppo Sportivo Armando Casalini",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q3777416",
+      "name": "Gruppo Sportivo Dilettantistico Rosignano Sei Rose",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q3777418",
+      "name": "Gruppo Sportivo Falck",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q3777427",
+      "name": "Gruppo Sportivo Incedit",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q3777430",
+      "name": "Unione Sportiva Mazara",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q3777431",
+      "name": "Gruppo Sportivo Mira",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q3777433",
+      "name": "Gruppo Sportivo Telgate",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q3785718",
+      "name": "HinterReggio Calcio",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q3796525",
+      "name": "Ilva Bagnolese",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q3808103",
+      "name": "Jesina Calcio",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q3809840",
+      "name": "Jolly Componibili Catania",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q3820995",
+      "name": "Società Sportiva Pro Roma",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q3821025",
+      "name": "ASD La Palma Cagliari",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q3826804",
+      "name": "Lanerossi Vicenza",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q3831677",
+      "name": "A.S.D Gioiese 1918",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q3832316",
+      "name": "Associazione del Calcio Ligure",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q3836349",
+      "name": "Lodo Petrucci",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q3839070",
+      "name": "Ludos Palermo",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q384592",
+      "name": "Chiarbola Ponziana Calcio",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q3850585",
+      "name": "Marzotto Manerbio",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q3855386",
+      "name": "Messina Football Club",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q3855387",
+      "name": "Messina Football Club",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q3855388",
+      "name": "Messina Sporting Club",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q3855889",
+      "name": "Associazione Sportiva Dilettantistica Mezzolara Calcio",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q3860587",
+      "name": "Moncalieri Calcio",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q3867290",
+      "name": "F.C. Verbano Calcio",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q3867402",
+      "name": "GSD RapalloBogliasco",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q3867441",
+      "name": "Football Club Nola",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q3870303",
+      "name": "Napoli Barrese",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q3877601",
+      "name": "Nobili Torino",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q3882141",
+      "name": "Omegna Calcio 1906",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q3886980",
+      "name": "Ostuni Calcio 24",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q3887026",
+      "name": "Osvaldo Soriano Football Club",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q3892754",
+      "name": "Palmarès del Torino Football Club",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q3893297",
+      "name": "Associazione Calcio Panigale",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q3904889",
+      "name": "Eclisse CareniPievigina",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q3905166",
+      "name": "Football Club Dilettantistico Pinerolo",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q39052565",
+      "name": "Associazione Sportiva Siracusa",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q3905693",
+      "name": "Pisa Calcio Femminile",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q3907377",
+      "name": "Arzachena Academy Costa Smeralda Società Sportiva Dilettantistica",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q3907379",
+      "name": "Polisportiva Comiso",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q3907380",
+      "name": "Paternò Calcio",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q3907382",
+      "name": "Polisportiva Gaeta",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q3907384",
+      "name": "Polisportiva Gialeto",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q3907389",
+      "name": "Associazione Sportiva Dilettantistica Rosetana Calcio",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q3907394",
+      "name": "Associazione Sportiva Dilettantistica Viribus Unitis",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q3907799",
+      "name": "Pomezia Calcio",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q3916767",
+      "name": "Sporting Club Trestina",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q3922213",
+      "name": "Afragolese 1944",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q3922221",
+      "name": "A.S.D. Galatina Calcio",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q3922222",
+      "name": "Pro Livorno 1919 Sorgenti",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q3922246",
+      "name": "Pro Reggina 97",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q3930980",
+      "name": "Real Cerretese",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q3931787",
+      "name": "Reggio Football Club",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q3932646",
+      "name": "Renato Curi Angolana",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q39406",
+      "name": "Progetto Calcio Sant'Elia",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q3944999",
+      "name": "École de football Saint-Christophe",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q3948811",
+      "name": "Sant'Elena Quartu",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q3954712",
+      "name": "Selargius Calcio",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q39604",
+      "name": "SS Maceratese 1922",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q3963302",
+      "name": "Società Bergamasca di Ginnastica e Scherma",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q3963304",
+      "name": "Società Calcio Albanova",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q3963306",
+      "name": "Società Calcio Leffe",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q3963365",
+      "name": "Società Ginnastica Sportiva Tiberis",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q3963451",
+      "name": "Società Polisportiva Tharros",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q3963479",
+      "name": "Società Sportiva Calcio Campania",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q3963481",
+      "name": "Società Sportiva Calcio Gragnano",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q3963549",
+      "name": "Società Sportiva Casalecchio 1921",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q3963559",
+      "name": "Società Sportiva Chinotto Neri",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q3963561",
+      "name": "Società Sportiva Dilettantistica Calcio Castelfiorentino",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q3963566",
+      "name": "Santegidiese 1948",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q3963569",
+      "name": "Società Sportiva Formia Calcio Associazione Sportiva Dilettantistica",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q3963571",
+      "name": "Società Sportiva Giovani Calciatori Cappuccini",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q3963722",
+      "name": "Società Sportiva Mortara",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q3963739",
+      "name": "Società Sportiva Portici 1906",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q3963740",
+      "name": "Società Sportiva Pro Lissone",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q3963742",
+      "name": "S.S. Romulea",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q3963745",
+      "name": "Società Sportiva Real Montecchio Associazione Sportiva Dilettantistica",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q3963746",
+      "name": "Società Sportiva Salernitanaudax",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q3963750",
+      "name": "Società Sportiva Signa 1914",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q3963751",
+      "name": "Società Sportiva Sparta Novara",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q3963754",
+      "name": "Società Sportiva Umberto I",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q3963756",
+      "name": "Società Sportiva Virtus Catania",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q3964714",
+      "name": "Sondrio Calcio",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q3965124",
+      "name": "Sorso Calcio",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q3966545",
+      "name": "Spes Football Club",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q3967034",
+      "name": "Sport Club Libertas Palermo",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q3967035",
+      "name": "Sport Club Molassana Boero 1918",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q3967344",
+      "name": "Squadra Calcio FEDIT",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q3975678",
+      "name": "OltrepoVoghera",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q4001817",
+      "name": "Unione Calcistica Femminile Sezze",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q4002371",
+      "name": "Unione Sportiva Vigor Senigallia Calcio Femminile",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q4004788",
+      "name": "Unione Calcio Montecchio Maggiore",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q4004877",
+      "name": "Unione Giovanile Manduria Sport",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q4004936",
+      "name": "Unione Sportiva Adriese 1906",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q4004980",
+      "name": "Unione Sportiva Alessandro Volta",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q4004981",
+      "name": "Unione Sportiva Altamura",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q4004982",
+      "name": "Unione Sportiva Altedo Calcio",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q4004985",
+      "name": "Antonio Toma Maglie",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q4004986",
+      "name": "Unione Sportiva Aosta",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q4004987",
+      "name": "Unione Sportiva Arco",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q4004989",
+      "name": "Unione Sportiva Angri 1927",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q4004990",
+      "name": "Unione Sportiva Ariano",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q4004991",
+      "name": "Unione Sportiva Arsenale",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q4004992",
+      "name": "Unione Sportiva Aurora Desio 1922",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q4004993",
+      "name": "Unione Sportiva Audace",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q4005031",
+      "name": "Unione Sportiva Benacense 1905 Riva",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q4005032",
+      "name": "Boys Caivanese",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q4005033",
+      "name": "Unione Sportiva Borgomanerese",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q4005035",
+      "name": "Unione Sportiva Brembillese",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q4005040",
+      "name": "Unione Sportiva Dilettantistica Bitonto Calcio",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q4005042",
+      "name": "Associazione Sportiva Dilettantistica Cairese",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q4005043",
+      "name": "Unione Sportiva Calcio Grumese",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q4005045",
+      "name": "Unione Sportiva Canzese",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q4005047",
+      "name": "Unione Sportiva Catanese Elefante",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q4005050",
+      "name": "Castrovillari Calcio",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q4005109",
+      "name": "Bolzanetese Virtus",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q4005110",
+      "name": "Unione Sportiva Dilettantistica Juventus Domo",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q4005111",
+      "name": "Alba Alcamo 1928",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q4005112",
+      "name": "Atletico Catania",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q4005113",
+      "name": "Unione Sportiva Darfo Boario Società Sportiva Dilettantistica",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q4005114",
+      "name": "Unione Sportiva Dilettantistica Mariano Calcio",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q4005115",
+      "name": "Unione Sportiva Dilettantistica Pietrasanta Marina 1911",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q4005116",
+      "name": "US Recanatese",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q4005118",
+      "name": "Unione Sportiva Rivarolese 1919",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q4005119",
+      "name": "Unione Sportiva Feltreseprealpi",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q4005120",
+      "name": "Unione Sportiva Dilettantistica Sebinia Alto Sebino",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q4005151",
+      "name": "Unione Sportiva Follonica",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q4005152",
+      "name": "Unione Sportiva Forte dei Marmi",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q4005153",
+      "name": "Calcio Frattese 1928",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q4005155",
+      "name": "Unione Sportiva Giostra",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q4005163",
+      "name": "Unione Sportiva Guspini",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q4005164",
+      "name": "Unione Sportiva Ideale",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q4005165",
+      "name": "Unione Sportiva Juventina Palermo",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q4005167",
+      "name": "Unione Sportiva Ladispoli",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q4005292",
+      "name": "Unione Sportiva Malo",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q4005293",
+      "name": "Unione Sportiva Messinese",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q4005295",
+      "name": "Opitergina",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q4005296",
+      "name": "Unione Sportiva Miranese Calcio",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q4005298",
+      "name": "USD Osimana",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q4005299",
+      "name": "Unione Sportiva Orbetello",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q4005336",
+      "name": "Unione Sportiva Palmese",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q4005337",
+      "name": "Unione Sportiva Paolana",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q4005339",
+      "name": "Unione Sportiva Peloro",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q4005345",
+      "name": "Unione Sportiva Pontedecimo 1907",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q4005346",
+      "name": "Unione Sportiva Pro Italia",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q4005364",
+      "name": "Ragusa Calcio",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q4005369",
+      "name": "Unione Sportiva Renato Serra",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q4005370",
+      "name": "Unione Sportiva Rovereto",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q4005375",
+      "name": "Unione Sportiva Russi",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q4005448",
+      "name": "Unione Sportiva Sessana",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q4005451",
+      "name": "Unione Sportiva Tenente Mario Passamonte",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q4005452",
+      "name": "Unione Sportiva Soresinese",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q4005456",
+      "name": "Unione Sportiva Termoli",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q4005457",
+      "name": "Unione Sportiva Tolentino",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q4005464",
+      "name": "Unione Sportiva Torinese",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q4005539",
+      "name": "Unione Sportiva Tuscania",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q4005541",
+      "name": "Unione Sportiva Vigor Senigallia",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q4006951",
+      "name": "Rondinella Marzocco",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q4007576",
+      "name": "Valdiano Calcio 1985",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q4008686",
+      "name": "Varazze 1912 Don Bosco",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q4009857",
+      "name": "Verbania Sportiva",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q4014613",
+      "name": "Casarano Calcio",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q4022981",
+      "name": "Associazione Sportiva Sambiase",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q4024184",
+      "name": "Calcio Padova Femminile",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q42534204",
+      "name": "Sulmona Calcio 1921",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q430931",
+      "name": "Associazione Calcio Juvenes/Dogana",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q430993",
+      "name": "Mantova 1911",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q433529",
+      "name": "Atletico Roma F.C.",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q4482909",
+      "name": "A.C. Feralpi Lonato",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q4596550",
+      "name": "Associazione Calcio Agrigento",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q459794",
+      "name": "Piacenza Calcio 1919",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q4647035",
+      "name": "A.C.D. Città di Concordia",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q4647037",
+      "name": "A.C.D. Torgiano",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q4647049",
+      "name": "A.C. Calenzano",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q4647051",
+      "name": "A.C. Castellettese",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q4647057",
+      "name": "A.C. Formigine A.S.D.",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q4647058",
+      "name": "A.C. Horatiana Venosa A.S.D.",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q4647061",
+      "name": "A.C. Merate",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q4647065",
+      "name": "A.C. Monteriggioni A.S.D.",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q4647072",
+      "name": "Siracusa Calcio 1924",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q4647073",
+      "name": "A.C. Petacciato",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q4647075",
+      "name": "A.C. Porto Torres",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q4647078",
+      "name": "A.C. Somma",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q4647113",
+      "name": "Associazione Dilettantistica Voluntas Calcio Spoleto",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q4647290",
+      "name": "A.S.C. St. Georgen",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q4647291",
+      "name": "Associazione Sportiva Dilettantistica Calcio Ba.Se. 96 Seveso",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q4647292",
+      "name": "A.S.D.P. Ribera 1954",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q4647293",
+      "name": "Società Sportiva Dilettantistica Albalonga Calcio",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q4647294",
+      "name": "A.S.D. Aquanera Comollo Novi",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q4647295",
+      "name": "A.S.D. Angelo Cristofaro",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q4647296",
+      "name": "A.S.D. Arenzano F.C.",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q4647297",
+      "name": "A.S.D. Atletico Boville Ernica",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q4647300",
+      "name": "A.S.D. Bacoli Sibilla Flegrea",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q4647301",
+      "name": "Unione Sportiva Bojano Calcio",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q4647302",
+      "name": "A.S.D. CTL Campania Piscinola",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q4647303",
+      "name": "A.S.D. Cagliese Calcio",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q4647304",
+      "name": "Associazione Sportiva Dilettantistica Chieri Calcio 1955",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q4647305",
+      "name": "Gualdo Casacastalda",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q4647306",
+      "name": "A.S.D. Campobello",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q4647308",
+      "name": "A.S.D. Castiglione",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q4647309",
+      "name": "A.S.D. Cerea 1912",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q4647310",
+      "name": "A.S.D. Chiavari Calcio Caperana",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q4647311",
+      "name": "A.S.D. Città di Marino Calcio",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q4647312",
+      "name": "A.S.D. Club Calcio San Gregorio",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q4647313",
+      "name": "A.S.D. F.C. Bassano Romano",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q4647314",
+      "name": "Associazione Calcio Nuova Rosarnese",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q4647316",
+      "name": "A.S.D. Fo.Ce. Vara",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q4647318",
+      "name": "A.S.D. Forza e Coraggio",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q4647319",
+      "name": "A.S.D. Francavilla Calcio",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q4647321",
+      "name": "A.S.D. G.C. CastelnuovoSandrà",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q4647323",
+      "name": "ASD Imperia",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q4647324",
+      "name": "A.S.D. Leonessa Altamura",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q4647325",
+      "name": "A.S.D. Luco Canistro",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q4647326",
+      "name": "A.S.D. Manzanese",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q4647331",
+      "name": "A.S.D. Miglianico Calcio",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q4647333",
+      "name": "A.S.D. Pianura",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q4647334",
+      "name": "A.S.D. Pierantonio Calcio 1965",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q4647335",
+      "name": "A.S.D. Pelli Santacroce Sport",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q4647336",
+      "name": "A.S.D. Pisoniano",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q4647338",
+      "name": "A.S.D. Porfido Albiano",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q4647341",
+      "name": "A.S.D. Real Nocera Superiore",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q4647342",
+      "name": "A.S.D. Pro Settimo & Eureka",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q4647343",
+      "name": "A.S.D. Quarto",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q4647345",
+      "name": "A.S.D. Rivignano",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q4647346",
+      "name": "A.S.D. Sanluri Calcio",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q4647348",
+      "name": "Associazione Calcio Tuttocuoio 1957 San Miniato",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q4647350",
+      "name": "A.S.D. Santhià Calcio",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q4647353",
+      "name": "A.S.D. Sarone",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q4647354",
+      "name": "A.S.D. Socio Culturale Castiadas",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q4647356",
+      "name": "A.S.D. Trezzano Calcio",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q4647357",
+      "name": "A.S.D. Todi",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q4647358",
+      "name": "A.S.D. Vallée d’Aoste Charvensod",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q4647359",
+      "name": "A.S.D. Universitaria Albignasego",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q4647361",
+      "name": "A.S.D. Villafranca",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q4647362",
+      "name": "A.S.D. Virtus Pavullese",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q4647364",
+      "name": "A.S.D. Verucchio",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q4647367",
+      "name": "A.S. Atletico Trivento",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q4647368",
+      "name": "Castel Rigone Calcio",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q4647373",
+      "name": "A.S. Fortis Spoleto F.C.",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q4647376",
+      "name": "A.S. Ippogrifo Sarno A.S.D.",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q4647383",
+      "name": "A.S. Morolo Calcio",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q4647395",
+      "name": "A.S. Union Quinto",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q4647398",
+      "name": "A.S. Valle Grecanica",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q4654151",
+      "name": "ASDCF Reggiana",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q4792806",
+      "name": "Armando Picchi Calcio",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q4812692",
+      "name": "Atalanta Primavera",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q4822606",
+      "name": "Aurora Seriate Calcio",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q48800539",
+      "name": "Unione Sportiva Dilettantistica Civitas Conversano 1924",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q48800796",
+      "name": "Liguria Foot Ball Club",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q48800952",
+      "name": "Giovani Calciatori Legnanesi",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q48802322",
+      "name": "Associazione Culturale Sportiva Football Cagliari",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q48803557",
+      "name": "Storia del Torino Football Club",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q48804868",
+      "name": "Union Feltre Società Sportiva Dilettantistica",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q48806476",
+      "name": "Associazione Calcio Femminile Lugo",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q48807137",
+      "name": "Gruppo Calcio Alfa Romeo",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q48808121",
+      "name": "Valle d'Aosta Calcio",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q48810808",
+      "name": "Vallassinese",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q48845013",
+      "name": "Atalanta B.C. Youth Sector",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q48850590",
+      "name": "Benevento Calcio Youth Sector",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q501245",
+      "name": "Venezia FC",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q501372",
+      "name": "US Catanzaro 1929",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q5018786",
+      "name": "Luparense San Paolo Football Club",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q50529939",
+      "name": "Nazionale Emilia Foot-Ball Club",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q517395",
+      "name": "F.B.C. Calangianus",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q521360",
+      "name": "Paganese Calcio",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q534448",
+      "name": "Football Club Torinese",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q5423676",
+      "name": "Football Club Castiglione",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q5423689",
+      "name": "F.C. Fidene",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q5423691",
+      "name": "Football Club Francavilla",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q5423698",
+      "name": "Football Club Internazionale Milano Elite Academy",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q5423717",
+      "name": "F.C. Rossanese 1909 A.S.D.",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q5423727",
+      "name": "F.C. Sporting Genzano",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q5512086",
+      "name": "G.S.D. Lascaris",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q5530391",
+      "name": "A.S.D Gelbison Cilento Vallo della Lucania",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q5533425",
+      "name": "Genoa C.F.C. Primavera",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q55830795",
+      "name": "Associazione Calcio Salernitana Femminile",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q55831784",
+      "name": "Associazione Calcio Femminile Dilettantistica Aquile Bagheria",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q55831792",
+      "name": "Società Sportiva Enotria",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q55832613",
+      "name": "Associazione Calcio Femminile Arezzo Associazione Sportiva Dilettantistica",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q55833444",
+      "name": "Sport Club Virtus",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q56025745",
+      "name": "Juventus Next Gen",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q56323752",
+      "name": "Dopolavoro Aziendale Ilva",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q56328608",
+      "name": "Unione Sportiva Tarantina",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q56385481",
+      "name": "Giulianova Calcio 1924",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q56385888",
+      "name": "A.S.D. Castellalto",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q56387165",
+      "name": "Nocerina 1910",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q56395410",
+      "name": "A.S.D. Città di Agropoli",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q56420841",
+      "name": "Polisportiva Nocera Superiore",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q56420879",
+      "name": "Associazione Calcio Nocerina",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q56526518",
+      "name": "Veloce Foot-Ball Club",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q56542463",
+      "name": "L.R. Vicenza",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q56542608",
+      "name": "Football Club Bassano 1903",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q57171585",
+      "name": "F.C. Ideale",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q5775768",
+      "name": "Cosenza Calcio 1914",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q580209",
+      "name": "Atletico Elmas",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q581713",
+      "name": "Associazione Calcio Rodengo Saiano",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q582310",
+      "name": "Città di Gela",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q58235208",
+      "name": "A.S.D. Città de la Cava 1394",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q58236505",
+      "name": "U.S. Poseidon 1958",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q58237080",
+      "name": "A.S.D. Castel San Giorgio Calcio",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q58237098",
+      "name": "A.S.D. Sporting Baia",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q583361",
+      "name": "Calcio Montebelluna 1919",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q59140415",
+      "name": "Associazione Sportiva Dilettantistica Monterotondo Calcio",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q591456",
+      "name": "S.S Turris",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q59146092",
+      "name": "A.S.D. Maccarese Calcio",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q59148934",
+      "name": "Pol. Maccarese Giada",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q59196321",
+      "name": "A.S.D. S.F.F. Atletico",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q59241904",
+      "name": "A.S. Fiumicino 1926",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q59341609",
+      "name": "Polisportiva Città di Ciampino",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q5942712",
+      "name": "Hungaria FbC Roma",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q59769689",
+      "name": "A.C. Palazzolo A.S.D.",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q60038697",
+      "name": "Milano City FC",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q602108",
+      "name": "Cuoiopelli Cappiano Romaiano",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q60630467",
+      "name": "A.C.D. Mussolente",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q60836924",
+      "name": "Associazione Sportiva Dilettantistica Aullese 1919",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q60836938",
+      "name": "Open Air Sporting Club",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q60837056",
+      "name": "Associazione Sportiva Dilettantistica Polisportiva Calcio Budoni",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q60837746",
+      "name": "Sport Club Edera",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q60838711",
+      "name": "Gruppo Sportivo 94º Reparto Distrettuale",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q60838761",
+      "name": "Dopolavoro Aziendale S.G.E.M. Villafranca",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q60839017",
+      "name": "Associazione Giovani Calciatori Budrio",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q60839139",
+      "name": "Società Sportiva Enzo Andreanelli",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q60839253",
+      "name": "Circolo Sportivo Tommaso Gargallo",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q60839351",
+      "name": "Gruppo Sportivo Trancerie Mossina",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q60839358",
+      "name": "Gruppo Sportivo R.S.T. Littorio",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q60840295",
+      "name": "Avio Squadra Bari",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q60840841",
+      "name": "Polisportiva Siracusana",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q60840843",
+      "name": "Esperia SR",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q60840845",
+      "name": "Insuperabile",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q609554",
+      "name": "AC Cuneo 1905 Olmo",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q610482",
+      "name": "Alba Roma 1907",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q610621",
+      "name": "AC Carpi SSD",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q611018",
+      "name": "Football Club Aprilia Racing Club",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q611222",
+      "name": "Treviso Foot Ball Club",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q61447823",
+      "name": "Template:Calcio Lido dei Pini",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q631",
+      "name": "FC Inter",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q63521993",
+      "name": "Unione Calcio Cuoiopelli",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q63522011",
+      "name": "Associazione Sportiva Dilettantistica Femminile Inter Milano",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q63524140",
+      "name": "Club Foot-Ball Challenge",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q638882",
+      "name": "AC Trento 1921",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q63994855",
+      "name": "Football Club Lumezzane",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q643418",
+      "name": "Racing Libertas Club",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q64876680",
+      "name": "AZ Picerno",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q650365",
+      "name": "Carrarese Calcio 1908",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q65048663",
+      "name": "Associazione Sportiva Dilettantistica Romagna Centro",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q65129020",
+      "name": "Unione Sportiva Badia Polesine",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q65130326",
+      "name": "Calcio Zola Predosa",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q652516",
+      "name": "Benevento Calcio",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q6529066",
+      "name": "A.S.D. Fersina Perginese",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q655036",
+      "name": "US Viterbese 1908",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q655828",
+      "name": "Associazione Calcio Borgomanero",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q6630",
+      "name": "Ascoli Calcio 1898 FC",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q66387099",
+      "name": "Roma City F.C.",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q6641",
+      "name": "SSC Bari",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q665003",
+      "name": "Associazione Sportiva Albese Calcio",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q6651",
+      "name": "Brescia Calcio",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q665690",
+      "name": "Società di Ginnastica e Scherma Fortitudo",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q6664",
+      "name": "Cesena Football Club",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q6673",
+      "name": "AS Cittadella",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q66771800",
+      "name": "Gruppo Sportivo Pirelli",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q6690",
+      "name": "FC Crotone",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q6703",
+      "name": "Empoli Football Club",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q6721",
+      "name": "U.S. Grosseto 1912",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q6748",
+      "name": "SS Juve Stabia",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q6767",
+      "name": "US Livorno 1915",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q6835185",
+      "name": "S.S. Comprensorio Montalto Uffugo Calcio",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q7069944",
+      "name": "Nuova Verolese Calcio A.S.D.",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q7116974",
+      "name": "P.D. Castellarano",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q7139135",
+      "name": "Parma F.C. Academy",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q71429258",
+      "name": "Sancataldese Calcio",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q7197165",
+      "name": "Piovese Calcio 1919",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q7208798",
+      "name": "Pol. Adrano Calcio",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q7208799",
+      "name": "Pol. Bisaccese",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q7208800",
+      "name": "Pol. C.S. Pisticci",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q7208802",
+      "name": "Pol. San Giorgio a Cremano",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q7208803",
+      "name": "Polisportiva Virtus Castelfranco Emilia Calcio",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q728986",
+      "name": "Unione Sportiva Internazionale Napoli",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q7301044",
+      "name": "Real Rimini F.C.",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q7301099",
+      "name": "Real Vicenza",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q732251",
+      "name": "ASD Derthona FBC 1908",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q732844",
+      "name": "City Rende Football Club",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q7369745",
+      "name": "Olympic Rossanese 1909",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q737832",
+      "name": "Montevarchi Calcio Aquila 1902",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q7387266",
+      "name": "S.P. Grottammare 1899",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q7387267",
+      "name": "S.P. Reno Centese A.S.D.",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q7387268",
+      "name": "S.P.D. Amiternina",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q7387279",
+      "name": "S.S.D. Centobuchi",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q7387280",
+      "name": "S.S.D. Domegliara",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q7387281",
+      "name": "S.S.D. Eurotezze",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q7387284",
+      "name": "S.S.D. San Nicolò Calcio",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q7387297",
+      "name": "S.S. Tavolara Calcio",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q7413398",
+      "name": "U.S. Palestrina 1919",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q7418011",
+      "name": "Associazione Polisportiva Dilettantistica Sangimignano",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q747976",
+      "name": "Riccione Calcio 1926",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q748406",
+      "name": "Associazione Sportiva Sestese Calcio",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q748649",
+      "name": "Associazione Calcio Bastia 1924",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q751595",
+      "name": "Club Sportivo Firenze",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q752483",
+      "name": "Unione Calcio AlbinoLeffe",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q759482",
+      "name": "US Cremonese",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q777337",
+      "name": "Aurora Pro Patria 1919",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q779148",
+      "name": "Unione Sportiva Dilettantistica Nuorese Calcio 1930",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q7863009",
+      "name": "Delta Calcio Porto Tolle",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q7863010",
+      "name": "U.S.D. Calcio Rudianese",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q7863011",
+      "name": "Unione Sportiva Dilettantistica Caravaggio",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q7863013",
+      "name": "U.S.D. Cirié Calcio",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q7863014",
+      "name": "U.S.D. FiesoleCaldine",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q7863015",
+      "name": "Real Forte dei Marmi-Querceta",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q7863016",
+      "name": "U.S.D. Irsinese Calcio Matera",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q7863032",
+      "name": "Associazione Sportiva Dilettantistica Unione Sportiva Agropoli",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q7863042",
+      "name": "U.S. Alta Vallagarina",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q7863073",
+      "name": "Unione Sportiva Ausonia La Spezia",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q7863135",
+      "name": "U.S. Comacchio Lidi",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q7863272",
+      "name": "U.S. Paolana",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q7863276",
+      "name": "U.S. Pergolese",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q7863279",
+      "name": "Unione Sportiva Pianese",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q7863439",
+      "name": "U.S. Venafro",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q7863453",
+      "name": "Associazione Sportiva Lupa Castelli Romani",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q8408",
+      "name": "Modena Football Club 2018",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q8416",
+      "name": "Novara FC",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q8428",
+      "name": "Calcio Padova",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q84425239",
+      "name": "Associazione Sportiva Dilettantistica Asti",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q845043",
+      "name": "Frosinone Calcio",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q8455",
+      "name": "FC Pro Vercelli 1892",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q847587",
+      "name": "US Salernitana 1919",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q8476",
+      "name": "Reggina 1914",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q85859510",
+      "name": "Associazione Calcistica Dilettante Cormonese",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q85861923",
+      "name": "Dopolavoro Aziendale Vittorio Necchi",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q85863674",
+      "name": "Gruppo Rionale Fascista Vincenzo Benini",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q8603",
+      "name": "Unione Sportiva Sassuolo Calcio",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q8615",
+      "name": "Spezia Calcio",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q8623",
+      "name": "Nuova Ternana 1925",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q8633",
+      "name": "Varese Calcio",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q8639",
+      "name": "H. Verona",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q8643",
+      "name": "Vicenza Calcio",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q8648",
+      "name": "Lanciano Calcio 1920",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q86660663",
+      "name": "Società Sportiva Comunale",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q89498813",
+      "name": "Siracusa Calcio",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q89695067",
+      "name": "Associazione Sportiva Dilettantistica Sport Club Palazzolo",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q913041",
+      "name": "Calcio Portogruaro-Summaga",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q9172099",
+      "name": "A.S.D. Casoli Calcio",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q9195376",
+      "name": "Noto Calcio",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q9197288",
+      "name": "A.S.D. San Cesareo Calcio",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q9199371",
+      "name": "A.C.R.D. Acicatena",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q9213732",
+      "name": "A.S.D. MapelloBonate Calcio",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q9301778",
+      "name": "Associazione Sportiva Pro Belvedere Vercelli",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q944876",
+      "name": "Calcio Lecco 1912",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q949799",
+      "name": "Vado FC 1913",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q950089",
+      "name": "Società Sportiva Racing Club Fondi",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q954970",
+      "name": "Motori Alimentatori Trasformatori Elettrici Roma",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q961663",
+      "name": "Gruppo Sportivo Fascio Giovanni Grion Pola",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q963110",
+      "name": "Torres",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q969912",
+      "name": "FC Young Santarcangelo",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q98072742",
+      "name": "Associazione Sportiva Dilettantistica Todi Calcio",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q98398777",
+      "name": "Unione Sportiva Catanzaro 1929 2020-2021",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q994918",
+      "name": "Città di Gallipoli",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q99970434",
+      "name": "Società Sportiva Virtus Lanciano 1924",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    },
+    {
+      "id": "Q99971998",
+      "name": "A.S.D. Marcianese",
+      "country": "Italia",
+      "category": "Calciatori nel mondo"
+    }
+  ],
+  "countriesCatalog": [
+    {
+      "id": "Q38",
+      "name": "Italia"
+    },
+    {
+      "id": "Q29",
+      "name": "Spagna"
+    },
+    {
+      "id": "Q145",
+      "name": "Regno Unito"
+    },
+    {
+      "id": "Q183",
+      "name": "Germania"
+    },
+    {
+      "id": "Q142",
+      "name": "Francia"
+    },
+    {
+      "id": "Q39",
+      "name": "Svizzera"
+    },
+    {
+      "id": "Q45",
+      "name": "Portogallo"
+    },
+    {
+      "id": "Q43",
+      "name": "Turchia"
+    },
+    {
+      "id": "Q55",
+      "name": "Paesi Bassi"
+    },
+    {
+      "id": "Q31",
+      "name": "Belgio"
+    },
+    {
+      "id": "Q40",
+      "name": "Austria"
+    },
+    {
+      "id": "Q35",
+      "name": "Danimarca"
+    },
+    {
+      "id": "Q20",
+      "name": "Norvegia"
+    },
+    {
+      "id": "Q34",
+      "name": "Svezia"
+    },
+    {
+      "id": "Q36",
+      "name": "Polonia"
+    },
+    {
+      "id": "Q41",
+      "name": "Grecia"
+    },
+    {
+      "id": "Q224",
+      "name": "Croazia"
+    },
+    {
+      "id": "Q403",
+      "name": "Serbia"
+    },
+    {
+      "id": "Q218",
+      "name": "Romania"
+    },
+    {
+      "id": "Q219",
+      "name": "Bulgaria"
+    },
+    {
+      "id": "Q213",
+      "name": "Repubblica Ceca"
+    },
+    {
+      "id": "Q212",
+      "name": "Ucraina"
+    },
+    {
+      "id": "Q30",
+      "name": "Stati Uniti"
+    },
+    {
+      "id": "Q155",
+      "name": "Brasile"
+    },
+    {
+      "id": "Q414",
+      "name": "Argentina"
+    },
+    {
+      "id": "Q96",
+      "name": "Messico"
+    },
+    {
+      "id": "Q408",
+      "name": "Australia"
+    },
+    {
+      "id": "Q17",
+      "name": "Giappone"
+    },
+    {
+      "id": "Q262",
+      "name": "Algeria"
+    },
+    {
+      "id": "Q298",
+      "name": "Cile"
+    },
+    {
+      "id": "Q419",
+      "name": "Perù"
+    },
+    {
+      "id": "Q258",
+      "name": "Sudafrica"
+    },
+    {
+      "id": "Q265",
+      "name": "Uzbekistan"
+    },
+    {
+      "id": "Q739",
+      "name": "Colombia"
+    },
+    {
+      "id": "Q717",
+      "name": "Venezuela"
+    },
+    {
+      "id": "Q668",
+      "name": "India"
+    },
+    {
+      "id": "Q711",
+      "name": "Mongolia"
+    },
+    {
+      "id": "Q334",
+      "name": "Singapore"
+    },
+    {
+      "id": "Q733",
+      "name": "Paraguay"
+    },
+    {
+      "id": "Q16",
+      "name": "Canada"
+    },
+    {
+      "id": "Q148",
+      "name": "Cina"
+    },
+    {
+      "id": "Q33",
+      "name": "Finlandia"
+    },
+    {
+      "id": "Q79",
+      "name": "Egitto"
+    },
+    {
+      "id": "Q222",
+      "name": "Albania"
+    },
+    {
+      "id": "Q228",
+      "name": "Andorra"
+    },
+    {
+      "id": "Q27",
+      "name": "Irlanda"
+    },
+    {
+      "id": "Q227",
+      "name": "Azerbaigian"
+    },
+    {
+      "id": "Q32",
+      "name": "Lussemburgo"
+    },
+    {
+      "id": "Q115",
+      "name": "Etiopia"
+    },
+    {
+      "id": "Q242",
+      "name": "Belize"
+    },
+    {
+      "id": "Q229",
+      "name": "Cipro"
+    },
+    {
+      "id": "Q117",
+      "name": "Ghana"
+    },
+    {
+      "id": "Q114",
+      "name": "Kenya"
+    },
+    {
+      "id": "Q241",
+      "name": "Cuba"
+    },
+    {
+      "id": "Q191",
+      "name": "Estonia"
+    },
+    {
+      "id": "Q230",
+      "name": "Georgia"
+    },
+    {
+      "id": "Q189",
+      "name": "Islanda"
+    },
+    {
+      "id": "Q211",
+      "name": "Lettonia"
+    },
+    {
+      "id": "Q252",
+      "name": "Indonesia"
+    },
+    {
+      "id": "Q217",
+      "name": "Moldavia"
+    },
+    {
+      "id": "Q232",
+      "name": "Kazakistan"
+    },
+    {
+      "id": "Q233",
+      "name": "Malta"
+    },
+    {
+      "id": "Q28",
+      "name": "Ungheria"
+    },
+    {
+      "id": "Q159",
+      "name": "Russia"
+    },
+    {
+      "id": "Q214",
+      "name": "Slovacchia"
+    },
+    {
+      "id": "Q215",
+      "name": "Slovenia"
+    },
+    {
+      "id": "Q37",
+      "name": "Lituania"
+    },
+    {
+      "id": "Q236",
+      "name": "Montenegro"
+    },
+    {
+      "id": "Q347",
+      "name": "Liechtenstein"
+    },
+    {
+      "id": "Q398",
+      "name": "Bahrein"
+    },
+    {
+      "id": "Q424",
+      "name": "Cambogia"
+    },
+    {
+      "id": "Q423",
+      "name": "Corea del Nord"
+    },
+    {
+      "id": "Q574",
+      "name": "Timor Est"
+    },
+    {
+      "id": "Q657",
+      "name": "Ciad"
+    },
+    {
+      "id": "Q664",
+      "name": "Nuova Zelanda"
+    },
+    {
+      "id": "Q685",
+      "name": "Isole Salomone"
+    },
+    {
+      "id": "Q691",
+      "name": "Papua Nuova Guinea"
+    },
+    {
+      "id": "Q683",
+      "name": "Samoa"
+    },
+    {
+      "id": "Q695",
+      "name": "Palau"
+    },
+    {
+      "id": "Q712",
+      "name": "Figi"
+    },
+    {
+      "id": "Q697",
+      "name": "Nauru"
+    },
+    {
+      "id": "Q672",
+      "name": "Tuvalu"
+    },
+    {
+      "id": "Q710",
+      "name": "Kiribati"
+    },
+    {
+      "id": "Q678",
+      "name": "Tonga"
+    },
+    {
+      "id": "Q709",
+      "name": "Isole Marshall"
+    },
+    {
+      "id": "Q750",
+      "name": "Bolivia"
+    },
+    {
+      "id": "Q686",
+      "name": "Vanuatu"
+    },
+    {
+      "id": "Q736",
+      "name": "Ecuador"
+    },
+    {
+      "id": "Q734",
+      "name": "Guyana"
+    },
+    {
+      "id": "Q730",
+      "name": "Suriname"
+    },
+    {
+      "id": "Q77",
+      "name": "Uruguay"
+    },
+    {
+      "id": "Q225",
+      "name": "Bosnia ed Erzegovina"
+    },
+    {
+      "id": "Q244",
+      "name": "Barbados"
+    },
+    {
+      "id": "Q221",
+      "name": "Macedonia del Nord"
+    },
+    {
+      "id": "Q238",
+      "name": "San Marino"
+    },
+    {
+      "id": "Q237",
+      "name": "Città del Vaticano"
+    },
+    {
+      "id": "Q184",
+      "name": "Bielorussia"
+    },
+    {
+      "id": "Q399",
+      "name": "Armenia"
+    },
+    {
+      "id": "Q235",
+      "name": "Principato di Monaco"
+    },
+    {
+      "id": "Q702",
+      "name": "Stati Federati di Micronesia"
+    },
+    {
+      "id": "Q1014",
+      "name": "Liberia"
+    },
+    {
+      "id": "Q916",
+      "name": "Angola"
+    },
+    {
+      "id": "Q902",
+      "name": "Bangladesh"
+    },
+    {
+      "id": "Q1009",
+      "name": "Camerun"
+    },
+    {
+      "id": "Q1000",
+      "name": "Gabon"
+    },
+    {
+      "id": "Q1006",
+      "name": "Guinea"
+    },
+    {
+      "id": "Q858",
+      "name": "Siria"
+    },
+    {
+      "id": "Q1016",
+      "name": "Libia"
+    },
+    {
+      "id": "Q1019",
+      "name": "Madagascar"
+    },
+    {
+      "id": "Q1028",
+      "name": "Marocco"
+    },
+    {
+      "id": "Q1030",
+      "name": "Namibia"
+    },
+    {
+      "id": "Q1029",
+      "name": "Mozambico"
+    },
+    {
+      "id": "Q1032",
+      "name": "Niger"
+    },
+    {
+      "id": "Q1033",
+      "name": "Nigeria"
+    },
+    {
+      "id": "Q945",
+      "name": "Togo"
+    },
+    {
+      "id": "Q1037",
+      "name": "Ruanda"
+    },
+    {
+      "id": "Q1246",
+      "name": "Kosovo"
+    },
+    {
+      "id": "Q1049",
+      "name": "Sudan"
+    },
+    {
+      "id": "Q1036",
+      "name": "Uganda"
+    },
+    {
+      "id": "Q766",
+      "name": "Giamaica"
+    },
+    {
+      "id": "Q774",
+      "name": "Guatemala"
+    },
+    {
+      "id": "Q810",
+      "name": "Giordania"
+    },
+    {
+      "id": "Q843",
+      "name": "Pakistan"
+    },
+    {
+      "id": "Q846",
+      "name": "Qatar"
+    },
+    {
+      "id": "Q924",
+      "name": "Tanzania"
+    },
+    {
+      "id": "Q1041",
+      "name": "Senegal"
+    },
+    {
+      "id": "Q1045",
+      "name": "Somalia"
+    },
+    {
+      "id": "Q948",
+      "name": "Tunisia"
+    },
+    {
+      "id": "Q778",
+      "name": "Bahamas"
+    },
+    {
+      "id": "Q781",
+      "name": "Antigua e Barbuda"
+    },
+    {
+      "id": "Q769",
+      "name": "Grenada"
+    },
+    {
+      "id": "Q784",
+      "name": "Dominica"
+    },
+    {
+      "id": "Q783",
+      "name": "Honduras"
+    },
+    {
+      "id": "Q792",
+      "name": "El Salvador"
+    },
+    {
+      "id": "Q800",
+      "name": "Costa Rica"
+    },
+    {
+      "id": "Q757",
+      "name": "Saint Vincent e Grenadine"
+    },
+    {
+      "id": "Q763",
+      "name": "Saint Kitts e Nevis"
+    },
+    {
+      "id": "Q790",
+      "name": "Haiti"
+    },
+    {
+      "id": "Q760",
+      "name": "Saint Lucia"
+    },
+    {
+      "id": "Q754",
+      "name": "Trinidad e Tobago"
+    },
+    {
+      "id": "Q794",
+      "name": "Iran"
+    },
+    {
+      "id": "Q796",
+      "name": "Iraq"
+    },
+    {
+      "id": "Q786",
+      "name": "Repubblica Dominicana"
+    },
+    {
+      "id": "Q851",
+      "name": "Arabia Saudita"
+    },
+    {
+      "id": "Q813",
+      "name": "Kirghizistan"
+    },
+    {
+      "id": "Q811",
+      "name": "Nicaragua"
+    },
+    {
+      "id": "Q804",
+      "name": "Panama"
+    },
+    {
+      "id": "Q819",
+      "name": "Laos"
+    },
+    {
+      "id": "Q817",
+      "name": "Kuwait"
+    },
+    {
+      "id": "Q822",
+      "name": "Libano"
+    },
+    {
+      "id": "Q826",
+      "name": "Maldive"
+    },
+    {
+      "id": "Q833",
+      "name": "Malaysia"
+    },
+    {
+      "id": "Q805",
+      "name": "Yemen"
+    },
+    {
+      "id": "Q837",
+      "name": "Nepal"
+    },
+    {
+      "id": "Q889",
+      "name": "Afghanistan"
+    },
+    {
+      "id": "Q842",
+      "name": "Oman"
+    },
+    {
+      "id": "Q878",
+      "name": "Emirati Arabi Uniti"
+    },
+    {
+      "id": "Q884",
+      "name": "Corea del Sud"
+    },
+    {
+      "id": "Q854",
+      "name": "Sri Lanka"
+    },
+    {
+      "id": "Q917",
+      "name": "Bhutan"
+    },
+    {
+      "id": "Q863",
+      "name": "Tagikistan"
+    },
+    {
+      "id": "Q921",
+      "name": "Brunei"
+    },
+    {
+      "id": "Q874",
+      "name": "Turkmenistan"
+    },
+    {
+      "id": "Q912",
+      "name": "Mali"
+    },
+    {
+      "id": "Q881",
+      "name": "Vietnam"
+    },
+    {
+      "id": "Q928",
+      "name": "Filippine"
+    },
+    {
+      "id": "Q962",
+      "name": "Benin"
+    },
+    {
+      "id": "Q963",
+      "name": "Botswana"
+    },
+    {
+      "id": "Q967",
+      "name": "Burundi"
+    },
+    {
+      "id": "Q965",
+      "name": "Burkina Faso"
+    },
+    {
+      "id": "Q970",
+      "name": "Comore"
+    },
+    {
+      "id": "Q929",
+      "name": "Repubblica Centrafricana"
+    },
+    {
+      "id": "Q986",
+      "name": "Eritrea"
+    },
+    {
+      "id": "Q977",
+      "name": "Gibuti"
+    },
+    {
+      "id": "Q983",
+      "name": "Guinea Equatoriale"
+    },
+    {
+      "id": "Q1011",
+      "name": "Capo Verde"
+    },
+    {
+      "id": "Q958",
+      "name": "Sudan del Sud"
+    },
+    {
+      "id": "Q1008",
+      "name": "Costa d'Avorio"
+    },
+    {
+      "id": "Q954",
+      "name": "Zimbabwe"
+    },
+    {
+      "id": "Q953",
+      "name": "Zambia"
+    },
+    {
+      "id": "Q1007",
+      "name": "Guinea-Bissau"
+    },
+    {
+      "id": "Q1005",
+      "name": "Gambia"
+    },
+    {
+      "id": "Q1013",
+      "name": "Lesotho"
+    },
+    {
+      "id": "Q1020",
+      "name": "Malawi"
+    },
+    {
+      "id": "Q1027",
+      "name": "Mauritius"
+    },
+    {
+      "id": "Q1025",
+      "name": "Mauritania"
+    },
+    {
+      "id": "Q1050",
+      "name": "Eswatini"
+    },
+    {
+      "id": "Q1039",
+      "name": "São Tomé e Príncipe"
+    },
+    {
+      "id": "Q1042",
+      "name": "Seychelles"
+    },
+    {
+      "id": "Q1044",
+      "name": "Sierra Leone"
+    },
+    {
+      "id": "Q21203",
+      "name": "Aruba"
+    },
+    {
+      "id": "Q25279",
+      "name": "Curaçao"
+    },
+    {
+      "id": "Q26273",
+      "name": "Sint Maarten"
+    },
+    {
+      "id": "Q26988",
+      "name": "Isole Cook"
+    },
+    {
+      "id": "Q801",
+      "name": "Israele"
+    },
+    {
+      "id": "Q971",
+      "name": "Repubblica del Congo"
+    },
+    {
+      "id": "Q836",
+      "name": "Myanmar"
+    },
+    {
+      "id": "Q23681",
+      "name": "Cipro del Nord"
+    },
+    {
+      "id": "Q869",
+      "name": "Tailandia"
+    },
+    {
+      "id": "Q974",
+      "name": "Repubblica Democratica del Congo"
+    },
+    {
+      "id": "Q123027565",
+      "name": "Kashmir Sultanate"
+    },
+    {
+      "id": "Q188736",
+      "name": "Bosnia"
+    },
+    {
+      "id": "Q157734",
+      "name": "Sultanato di Mascate e Oman"
+    },
+    {
+      "id": "Q165763",
+      "name": "Principato di Waldeck-Pyrmont"
+    },
+    {
+      "id": "Q219060",
+      "name": "Stato di Palestina"
+    },
+    {
+      "id": "Q5740166",
+      "name": "Abbasid Caliphate of Cairo"
+    },
+    {
+      "id": "Q756617",
+      "name": "Regno di Danimarca"
+    },
+    {
+      "id": "Q3175929",
+      "name": "Mirdasidi"
+    },
+    {
+      "id": "Q16881283",
+      "name": "Sultanato di Mascate"
+    },
+    {
+      "id": "Q131588685",
+      "name": "Emirate of Al Qawasim"
+    },
+    {
+      "id": "Q140030295",
+      "name": "Maragheh Khanate"
+    },
+    {
+      "id": "Q34020",
+      "name": "Niue"
+    },
+    {
+      "id": "Q34754",
+      "name": "Somaliland"
+    },
+    {
+      "id": "Q12191529",
+      "name": "Emirate of Lengeh"
+    },
+    {
+      "id": "Q29999",
+      "name": "Regno dei Paesi Bassi"
+    },
+    {
+      "id": "Q107258515",
+      "name": "Stato Imperiale dell'Iran"
+    }
+  ]
+}
