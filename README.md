@@ -1,3 +1,3 @@
-# Football Legends 4.1 — Cinematic Edition
+# Football Legends V4.3 — MEGA archivio storico
 
-Leggi `README_V4_1_INSTALLAZIONE.md` per la procedura di installazione e importazione dell’archivio.
+Leggi `README_V4_3_MEGA_ARCHIVIO.md` per installazione e verifiche.

@@ -61,6 +61,22 @@ function buildTournament({year,competition,url,data}){
     put('Percorso nelle fasi finali',`participant-${s}-${participant}`,`Quale nazionale raggiunse ${s==='finale'?'la finale':'le semifinali'} del ${label}?`,participant,notPresent,`${participant} raggiunse ${s==='finale'?'la finale':'le semifinali'} del ${label}.`,cat,2);
   }
  }
+ // Percorso massimo verificabile: una domanda per nazionale e edizione, non risultati di gironi.
+ const order=['ottavi di finale','quarti di finale','semifinale','finale'];
+ const stagesPresent=new Set(allStages.map(m=>stage(m.round)));
+ if([...stagesPresent].filter(s=>order.includes(s)).length>=3){
+  const highest=new Map();
+  for(const m of allStages){const s=stage(m.round),rank=order.indexOf(s);if(rank<0)continue;
+   for(const country of [m.team1,m.team2])if(!highest.has(country)||rank>highest.get(country))highest.set(country,rank);
+  }
+  // Una sola domanda per nazionale sul turno massimo, senza varianti ripetitive.
+  for(const [country,rank] of highest){
+   const correct=order[rank],wrong=[...stagesPresent].filter(s=>order.includes(s)&&s!==correct);
+   if(wrong.length<2)continue;
+   put('Percorso massimo',`maxstage-${country}`,`Quale fu il turno più avanzato raggiunto da ${country} al ${label}?`,correct,wrong,
+    `${country} raggiunse al massimo ${correct} al ${label}, come risulta dai turni a eliminazione diretta registrati.`,cat,2);
+  }
+ }
  return rows;
 }
 const read=p=>{try{const o=JSON.parse(fs.readFileSync(p,'utf8'));return Array.isArray(o)?o:o.questions||[]}catch{return []}};
