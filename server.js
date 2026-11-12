@@ -96,7 +96,7 @@ const httpServer=http.createServer((req,res)=>{
  if(pathname==='/api/leaderboard/status'){res.writeHead(200,{'Content-Type':'application/json; charset=utf-8','Cache-Control':'no-store'});return res.end(JSON.stringify(ranking.status()))}
  if(pathname==='/api/leaderboard'){res.writeHead(200,{'Content-Type':'application/json; charset=utf-8','Cache-Control':'no-store'});return ranking.leaderboard(30).then(rows=>res.end(JSON.stringify({status:ranking.status(),players:rows}))).catch(e=>res.end(JSON.stringify({status:{...ranking.status(),ready:false},players:[]})))}
  if(pathname==='/api/topics'){res.writeHead(200,{'Content-Type':'application/json; charset=utf-8','Cache-Control':'no-store'});return res.end(JSON.stringify({groups:topicFilters.counts(questions),available:questions.length}));}
- if(pathname==='/api/version'){res.writeHead(200,{'Content-Type':'application/json; charset=utf-8','Cache-Control':'no-store'});return res.end(JSON.stringify({version:'4.0.4-lab',game:'Football Legends LAB',state:bankStatus.state,questions:bankStatus.count}))}
+ if(pathname==='/api/version'){res.writeHead(200,{'Content-Type':'application/json; charset=utf-8','Cache-Control':'no-store'});return res.end(JSON.stringify({version:'4.1.0-lab',game:'Football Legends LAB',state:bankStatus.state,questions:bankStatus.count}))}
  if(pathname==='/api/status'){res.writeHead(200,{'Content-Type':'application/json; charset=utf-8','Cache-Control':'no-store'});return res.end(JSON.stringify(bankStatus))}
  // File immagine locali: serviti dal server Node.js con percorso ristretto e tipo MIME corretto.
  if(/^\/assets\/categories\/[a-z0-9-]+\.webp$/.test(pathname)){
@@ -108,6 +108,8 @@ const httpServer=http.createServer((req,res)=>{
   });
   return;
  }
+ if(pathname==='/v41.css'||pathname==='/v41-design.js'){const f=pathname.slice(1);res.writeHead(200,{'Content-Type':f.endsWith('.css')?'text/css; charset=utf-8':'application/javascript; charset=utf-8','Cache-Control':'no-store'});return res.end(fs.readFileSync(path.join(__dirname,f)))}
+ if(pathname==='/assets/stadium-v41.webp'){res.writeHead(200,{'Content-Type':'image/webp','Cache-Control':'public, max-age=86400'});return res.end(fs.readFileSync(path.join(__dirname,'assets/stadium-v41.webp')))}
  if(pathname==='/v4-ui.js'){res.writeHead(200,{'Content-Type':'application/javascript; charset=utf-8','Cache-Control':'no-store'});return res.end(fs.readFileSync(path.join(__dirname,'v4-ui.js')))}
  if(pathname!=='/'&&pathname!=='/index.html'){res.writeHead(404);return res.end('Not found')}
  const data=fs.readFileSync(path.join(__dirname,'index.html'));res.writeHead(200,{'Content-Type':'text/html; charset=utf-8','Cache-Control':'no-store'});res.end(data)

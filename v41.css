@@ -1,0 +1,40 @@
+
+/* Football Legends 4.1 — premium cinematic desktop skin, functional v4 logic unchanged */
+:root{--bg:#060c16;--surface:#111c2b;--line:#334355;--text:#f6f5ee;--mute:#9daebd;--lime:#c5ff75;--yellow:#dfb66b;--cyan:#84dfe0}
+html{scroll-behavior:smooth}body{background:radial-gradient(ellipse at 80% 5%,#23483e88,transparent 35%),radial-gradient(ellipse at 8% 70%,#192c49aa,transparent 55%),#060c16;color:#f4f5f3;font-family:Inter,'Segoe UI',system-ui,sans-serif}
+body:before{content:'';position:fixed;inset:0;z-index:-1;pointer-events:none;background-image:linear-gradient(90deg,#ffffff05 1px,transparent 1px),linear-gradient(#ffffff04 1px,transparent 1px);background-size:54px 54px;mask-image:linear-gradient(#0008,transparent 90%)}
+main{max-width:1440px;padding:23px clamp(18px,3.8vw,58px) 80px}header{height:70px;margin:0 0 23px;padding:0 22px;border:1px solid #7e997a40;border-radius:19px;background:linear-gradient(120deg,#091622ee,#15282bcc);box-shadow:0 15px 50px #0005;backdrop-filter:blur(15px)}
+.brand{font-size:17px;letter-spacing:3.6px}.brand b{color:var(--yellow)}header .pill{background:#d7ad5d19;color:#f6d58b;border-color:#d7ad5d65;letter-spacing:1.4px}
+#home .hero{position:relative;min-height:480px;padding:64px clamp(26px,5vw,72px) 52px;border:1px solid #77988d55;border-radius:27px;overflow:hidden;background:linear-gradient(92deg,#06101bf5 0%,#071423ef 32%,#081624a6 55%,#09192828 100%),url('/assets/stadium-v41.webp') center 54%/cover no-repeat;box-shadow:0 25px 80px #000a,inset 0 0 0 1px #ffffff06}
+#home .hero:after{display:none}.hero:before{content:'THE NEXT LEVEL';position:absolute;right:4%;bottom:13px;color:#ffffff09;letter-spacing:14px;font-size:clamp(18px,4vw,60px);font-weight:1000;white-space:nowrap;pointer-events:none}
+#home .hero .eyebrow{color:#f4cd87;letter-spacing:3.4px;font-size:12px}
+#home .hero h1{font-size:clamp(54px,7vw,112px);line-height:.96;max-width:830px;letter-spacing:-5px;margin:23px 0 26px;text-shadow:0 6px 25px #000a}
+#home .hero h1 span{background:linear-gradient(115deg,#f9e3a9,#e6ae5f 65%,#f9e8c0);background-clip:text;color:transparent}
+#home .hero p{max-width:595px;color:#d5e3e3;line-height:1.65;font-size:16px;font-weight:500;text-shadow:0 3px 10px #0009}
+.v41-live-tag{display:inline-flex;align-items:center;gap:9px;margin:15px 0 2px;padding:9px 13px;border:1px solid #c7d9ba63;border-radius:40px;background:#102a2bb8;font-size:11px;letter-spacing:1.2px;font-weight:900;color:#e6e7d6}
+.v41-live-pulse{display:block;width:8px;height:8px;border-radius:50%;background:#bbff74;box-shadow:0 0 0 5px #baff7430,0 0 18px #baff74}
+.release-line{color:#c7d9d7;margin-top:20px}.release-line span{color:var(--yellow)}
+.v41-section-head{display:flex;align-items:center;justify-content:space-between;gap:14px;flex-wrap:wrap;margin:34px 0 15px}.v41-section-head h2{margin:0;font-size:24px;letter-spacing:-.8px}.v41-section-head p{margin:0;font-size:12px;color:#a3b3bf;letter-spacing:.6px}
+#home .modes{grid-template-columns:repeat(3,minmax(0,1fr));gap:17px;margin:0 0 20px}
+#home .mode{min-height:205px;border:1px solid #546d7059;border-radius:20px;background:linear-gradient(138deg,#1b2938ea,#111e2df7);box-shadow:0 16px 38px #0005,inset 0 1px #ffffff09;padding:25px;transition:transform .22s,border-color .22s,box-shadow .22s}
+#home .mode:nth-child(1){background:linear-gradient(130deg,#273b35,#0c1925 80%)}
+#home .mode:nth-child(3){background:linear-gradient(130deg,#243747,#0d1b2d 80%)}
+#home .mode:nth-child(4){background:linear-gradient(130deg,#423127,#1c1d26 90%)}
+#home .mode:nth-child(5){background:linear-gradient(130deg,#403824,#1b1f28 90%)}
+#home .mode:nth-child(6){background:linear-gradient(130deg,#28334e,#101a2d 90%)}
+#home .mode:hover,#home .mode:focus-visible{transform:translateY(-6px);border-color:#ecd18a;box-shadow:0 25px 55px #0009,0 0 0 1px #dcb86955}
+#home .mode:after{color:#e2bd7b;opacity:1}#home .mode .emoji{font-size:33px;filter:drop-shadow(0 5px 15px #0009)}#home .mode strong{font-size:21px;margin-top:23px;letter-spacing:-.5px}#home .mode small{font-size:12px;color:#b6c4cf;line-height:1.6}
+.panel,.v4card{background:linear-gradient(145deg,#182637ed,#101b2aed);border:1px solid #40536b88;border-radius:20px;box-shadow:0 12px 45px #0004}
+.panel{padding:25px}.panel-title{color:#f3cc88}
+.stat b{color:#faf7e9;font-variant-numeric:tabular-nums;font-size:34px;letter-spacing:-1px}.stat small{color:#b6c3d2}
+.btn{background:linear-gradient(135deg,#f4d68c,#b78841);color:#111820;box-shadow:0 8px 25px #eabb603b;border:1px solid #f9df96}
+.btn:hover:not(:disabled){filter:brightness(1.1)}.btn.secondary{background:#202f40;border:1px solid #53647b;color:#ecf3f7}
+.chip.active{background:#ecc779;color:#1a1a19;border-color:#ecc779}.category-gallery .category-card.active{border-color:#f0cf88;box-shadow:0 0 0 2px #f4ce7e,0 9px 28px #f4c87333}.category-gallery .category-card.active .cat-name{background:#eaca85;color:#171b1e}
+.category-gallery .chip.category-card{min-height:165px;border-radius:19px;border:1px solid #53667b88}.category-gallery .category-card .cat-name{padding:13px;min-height:47px;background:#0c1728eb;font-size:13px}.category-card .cat-picture{inset:0 0 37px;filter:saturate(1.07)}
+.category-gallery .category-card .cat-count{background:#091b2af2;padding:5px 9px;color:#f3d594}
+#game .panel,#result .panel,#lobby .panel{border-radius:25px}#game .timer{box-shadow:0 0 35px #d8b47330}#game button{transition:transform .16s}#game button:hover:not(:disabled){transform:translateY(-2px)}
+.v4card{padding:25px}.v4choices button{background:linear-gradient(115deg,#23334b,#111f30)!important;border-color:#607080!important;padding:20px!important;border-radius:16px!important}.v4choices button:hover:not(:disabled){border-color:#eed18a!important;box-shadow:0 0 24px #e7bb5b22}
+#v4t .v4round{background:#182a3b;border-color:#78887855}#v4rank .v4card{background:linear-gradient(145deg,#322f28,#121e2e)}
+.v41-badge-strip{display:flex;gap:10px;flex-wrap:wrap;margin:18px 0}.v41-badge-strip span{border:1px solid #ffffff30;padding:8px 11px;border-radius:999px;background:#0f202cb8;color:#ebf3e8;font-size:11px;font-weight:800;letter-spacing:1px}
+@media(max-width:900px){#home .modes{grid-template-columns:repeat(2,1fr)}#home .hero{min-height:440px}#home .hero h1{font-size:clamp(56px,9vw,95px)}}
+@media(max-width:570px){header{height:auto;padding:15px;flex-wrap:wrap}#home .hero{padding:37px 23px;min-height:465px;background-position:61% center}#home .hero h1{font-size:58px;letter-spacing:-3px}#home .modes{grid-template-columns:1fr}#home .mode{min-height:155px}main{padding:14px 13px 55px}}
