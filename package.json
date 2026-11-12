@@ -1,8 +1,8 @@
 {
   "name": "football-legends-v4-lab",
-  "version": "4.0.0-lab",
+  "version": "4.0.4-lab",
   "private": true,
-  "description": "Football Legends 4.0 LAB — istanza di test indipendente",
+  "description": "Football Legends 4.0.4 — Arena, Tornei, Ranked e Rush (LAB)",
   "scripts": {
     "start": "node server.js"
   },

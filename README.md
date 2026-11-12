@@ -1,3 +1,7 @@
+# Football Legends 4.0.4 LAB
+
+**La release nuova è documentata in [README_RELEASE_4_0_4.md](README_RELEASE_4_0_4.md).** Usare esclusivamente il repository `football-legends-v4`.
+
 # Football Legends 2.0 — Almanacco divertente
 
 **Focus:** Mondiali, EURO, Champions, stadi famosi, derby, leggende, allenatori, Pallone d’Oro e campionati europei. Sempre tre scelte.

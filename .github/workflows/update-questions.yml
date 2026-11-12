@@ -15,6 +15,7 @@ jobs:
       - run: npm install --ignore-scripts
       - run: node scripts/test-wikidata-priority.js
       - run: node test-almanac.js
+      - run: node test-v4-modes.js
       - run: node scripts/build-bank.js
       - name: Genera domande su calciatori e allenatori
         run: node scripts/build-people.js

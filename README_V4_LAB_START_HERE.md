@@ -1,6 +1,6 @@
 # FOOTBALL LEGENDS 4.0 — LAB (progetto separato)
 
-Questa è la **base sperimentale 4.0**, derivata dalla versione 3.3.7, con la grafica conservata e il generatore protetto. È uno starter funzionante, **non** un rilascio finale delle nuove modalità 4.0.
+Questa è la **base sperimentale 4.0**, derivata dalla versione 3.3.7, con la grafica conservata e il generatore protetto. Include modalità Rush, Ranked, Tornei e sala d’attesa con conferma di disponibilità.
 
 ## Sicurezza / isolamento
 
@@ -11,7 +11,7 @@ Questa è la **base sperimentale 4.0**, derivata dalla versione 3.3.7, con la gr
 - Per vedere subito grafica e giocare in solitaria puoi non configurare `DATABASE_URL`; i profili persistenti e la classifica online richiedono invece il DB di test.
 - Gli aggiornamenti del lunedì sono **disattivati nella V4**; rimane `Run workflow` manuale.
 - Gli archivi `*-generated.json` non sono inclusi in questo pacchetto. Sono conservati nel repository ufficiale e **non vengono modificati** dalla V4. Per avere la stessa quantità di domande in V4, copia nel solo repository V4 i file generati dal repository ufficiale, oppure avvia manualmente il generatore sul repo V4.
-- La versione V4 è identificabile da `/api/version`: `4.0.0-lab`.
+- La versione V4 è identificabile da `/api/version`: `4.0.4-lab`.
 
 ## Installazione GitHub Desktop
 
@@ -30,13 +30,21 @@ New > Web Service > repository `cupra82/football-legends-v4`.
 - Environment: `NODE_ENV=production`
 - Environment: NON copiare `DATABASE_URL` del Render ufficiale. Quando il secondo Supabase sarà pronto, inserisci la sua stringa e `FL_V4_DB_ISOLATED=YES`.
 
-## Roadmap 4.0 (non ancora implementata)
+## Funzioni incluse in 4.0.4
 
-1. Sala d'attesa evoluta: avatar/nickname, presenza, host, configurazione stanza e cronologia incontri.
-2. Tornei a eliminazione per 4/8 amici, tabellone e gestione riconnessioni.
-3. Ranking ELO con stagione e divisioni, separato dalle statistiche storiche.
-4. Modalità Rush (60/90 secondi), classifica dedicata.
-5. Statistiche per argomento e domande viste per account.
-6. Archivio di domande con qualità verificata, distribuzione equilibrata e nessuna ripetizione frequente.
+- **Arena online classica**: resta disponibile con profili, partite e rivincite.
+- **Sala d'attesa**: nickname, conferma "Pronto" e countdown di 3 secondi. La conferma è obbligatoria per Ranked.
+- **Ranked**: selezione in Arena online prima di creare la stanza; Elo iniziale 1000, aggiornato nel DB test in base al risultato. Classifica separata dalle amichevoli.
+- **Tornei 4/8 giocatori**: i partecipanti entrano con codice, confermano Pronto e disputano turni eliminatori con 10 quesiti. I perdenti seguono come spettatori, mentre il vincitore viene registrato nel DB test.
+- **Rush 60/90 secondi**: quesiti e risposta gestiti lato server, bonus per serie corrette, record personali e classifica dedicata su Supabase test.
+- **Nuove tabelle**: fl_v4_ratings, fl_v4_ranked_rounds, fl_v4_rush, fl_v4_tournaments. Il server le crea all'avvio con la DATABASE_URL del progetto Supabase V4.
 
-**Non modificare** il servizio Render ufficiale, la sua variabile `DATABASE_URL`, o il repository `football-legends`.
+## Limiti noti e collaudo
+
+- Non è implementata la riconnessione a tornei interrotti: se un partecipante si disconnette il torneo si annulla. Anche le stanze Arena originali non supportano la ripresa integrale dopo un riavvio Render.
+- Il rating è un Elo base senza stagioni; non è un matchmaking pubblico: giochiamo con codici privati.
+- Rush e tornei richiedono un nickname registrato in Arena online e il database Supabase LAB configurato.
+- Le sessioni Rush e i tornei in corso sono tenuti in memoria sul server; un riavvio Render interrompe la sessione ma non cancella i record già salvati.
+- Non esistono ancora vere prove di carico online con otto browser contemporanei: prima di considerarlo stabile, verificare una partita con amici.
+
+**Non modificare** il servizio Render ufficiale, la sua variabile `DATABASE_URL` o il repository `football-legends`.
