@@ -1,1 +1,1977 @@
-{"stats":{"newQuestions":0,"total":0,"clubsChecked":0},"questions":[]}
+{
+  "stats": {
+    "newQuestions": 123,
+    "total": 123,
+    "clubsChecked": 500
+  },
+  "questions": [
+    {
+      "id": "stadium-wd-Q1026324",
+      "category": "Stadi leggendari",
+      "kind": "Stadi Wikidata",
+      "difficulty": 2,
+      "question": "Quale stadio è indicato da Wikidata come impianto di casa di Chieti F.C. 1922?",
+      "options": [
+        "Stadio Renzo Barbera",
+        "Catania – Palermo",
+        "stadio Guido Angelini"
+      ],
+      "answer": 2,
+      "explanation": "Wikidata collega Chieti F.C. 1922 allo stadio stadio Guido Angelini.",
+      "source": "https://www.wikidata.org/wiki/Q1026324",
+      "sourceName": "Wikidata (CC0)"
+    },
+    {
+      "id": "stadium-wd-Q1052365",
+      "category": "Stadi leggendari",
+      "kind": "Stadi Wikidata",
+      "difficulty": 2,
+      "question": "Quale stadio è indicato da Wikidata come impianto di casa di Acireale FC?",
+      "options": [
+        "Derbi sevillano",
+        "Stadio Aci e Galatea",
+        "Stadio Diego Armando Maradona"
+      ],
+      "answer": 1,
+      "explanation": "Wikidata collega Acireale FC allo stadio Stadio Aci e Galatea.",
+      "source": "https://www.wikidata.org/wiki/Q1052365",
+      "sourceName": "Wikidata (CC0)"
+    },
+    {
+      "id": "stadium-wd-Q1056821",
+      "category": "Stadi leggendari",
+      "kind": "Stadi Wikidata",
+      "difficulty": 2,
+      "question": "Quale stadio è indicato da Wikidata come impianto di casa di Unione Sportiva Pontedera 1912?",
+      "options": [
+        "stadio Ettore Mannucci",
+        "Stadio Artemio Franchi",
+        "Eternal derby"
+      ],
+      "answer": 0,
+      "explanation": "Wikidata collega Unione Sportiva Pontedera 1912 allo stadio stadio Ettore Mannucci.",
+      "source": "https://www.wikidata.org/wiki/Q1056821",
+      "sourceName": "Wikidata (CC0)"
+    },
+    {
+      "id": "stadium-wd-Q1057306",
+      "category": "Stadi leggendari",
+      "kind": "Stadi Wikidata",
+      "difficulty": 2,
+      "question": "Quale stadio è indicato da Wikidata come impianto di casa di Football Club Bolzano 1996?",
+      "options": [
+        "stadio Druso",
+        "Zurigo",
+        "Monaco"
+      ],
+      "answer": 0,
+      "explanation": "Wikidata collega Football Club Bolzano 1996 allo stadio stadio Druso.",
+      "source": "https://www.wikidata.org/wiki/Q1057306",
+      "sourceName": "Wikidata (CC0)"
+    },
+    {
+      "id": "stadium-wd-Q1058649",
+      "category": "Stadi leggendari",
+      "kind": "Stadi Wikidata",
+      "difficulty": 2,
+      "question": "Quale stadio è indicato da Wikidata come impianto di casa di Giugliano Calcio 1928?",
+      "options": [
+        "Der Klassiker",
+        "2008",
+        "stadio Alberto De Cristofaro"
+      ],
+      "answer": 2,
+      "explanation": "Wikidata collega Giugliano Calcio 1928 allo stadio stadio Alberto De Cristofaro.",
+      "source": "https://www.wikidata.org/wiki/Q1058649",
+      "sourceName": "Wikidata (CC0)"
+    },
+    {
+      "id": "stadium-wd-Q1077477",
+      "category": "Stadi leggendari",
+      "kind": "Stadi Wikidata",
+      "difficulty": 2,
+      "question": "Quale stadio è indicato da Wikidata come impianto di casa di Società Sportiva San Giovanni?",
+      "options": [
+        "campo sportivo di Borgo Maggiore",
+        "Ajax – PSV Eindhoven",
+        "1968"
+      ],
+      "answer": 0,
+      "explanation": "Wikidata collega Società Sportiva San Giovanni allo stadio campo sportivo di Borgo Maggiore.",
+      "source": "https://www.wikidata.org/wiki/Q1077477",
+      "sourceName": "Wikidata (CC0)"
+    },
+    {
+      "id": "stadium-wd-Q1082282",
+      "category": "Stadi leggendari",
+      "kind": "Stadi Wikidata",
+      "difficulty": 2,
+      "question": "Quale stadio è indicato da Wikidata come impianto di casa di Licata Calcio 1931?",
+      "options": [
+        "Basilea",
+        "Cechia",
+        "stadio Dino Liotta"
+      ],
+      "answer": 2,
+      "explanation": "Wikidata collega Licata Calcio 1931 allo stadio stadio Dino Liotta.",
+      "source": "https://www.wikidata.org/wiki/Q1082282",
+      "sourceName": "Wikidata (CC0)"
+    },
+    {
+      "id": "stadium-wd-Q1082290",
+      "category": "Stadi leggendari",
+      "kind": "Stadi Wikidata",
+      "difficulty": 2,
+      "question": "Quale stadio è indicato da Wikidata come impianto di casa di Matera 1933?",
+      "options": [
+        "Stadion Wankdorf",
+        "Dortmund",
+        "stadio XXI Settembre-Franco Salerno"
+      ],
+      "answer": 2,
+      "explanation": "Wikidata collega Matera 1933 allo stadio stadio XXI Settembre-Franco Salerno.",
+      "source": "https://www.wikidata.org/wiki/Q1082290",
+      "sourceName": "Wikidata (CC0)"
+    },
+    {
+      "id": "stadium-wd-Q100354146",
+      "category": "Stadi leggendari",
+      "kind": "Stadi Wikidata",
+      "difficulty": 2,
+      "question": "Quale stadio è indicato da Wikidata come impianto di casa di Unione Sportiva Vibonese Calcio 2020-2021?",
+      "options": [
+        "stadio XXI Settembre-Franco Salerno",
+        "stadio Luigi Razza",
+        "Estádio Municipal de Braga"
+      ],
+      "answer": 1,
+      "explanation": "Wikidata collega Unione Sportiva Vibonese Calcio 2020-2021 allo stadio stadio Luigi Razza.",
+      "source": "https://www.wikidata.org/wiki/Q100354146",
+      "sourceName": "Wikidata (CC0)"
+    },
+    {
+      "id": "stadium-wd-Q100804172",
+      "category": "Stadi leggendari",
+      "kind": "Stadi Wikidata",
+      "difficulty": 2,
+      "question": "Quale stadio è indicato da Wikidata come impianto di casa di Ternana Calcio 2020-2021?",
+      "options": [
+        "Lens – Lille",
+        "Palermo",
+        "Stadio Libero Liberati"
+      ],
+      "answer": 2,
+      "explanation": "Wikidata collega Ternana Calcio 2020-2021 allo stadio Stadio Libero Liberati.",
+      "source": "https://www.wikidata.org/wiki/Q100804172",
+      "sourceName": "Wikidata (CC0)"
+    },
+    {
+      "id": "stadium-wd-Q101423729",
+      "category": "Stadi leggendari",
+      "kind": "Stadi Wikidata",
+      "difficulty": 2,
+      "question": "Quale stadio è indicato da Wikidata come impianto di casa di Unione Sportiva Grosseto 1912 2020-2021?",
+      "options": [
+        "Nizza",
+        "stadio Carlo Zecchini",
+        "Braga"
+      ],
+      "answer": 1,
+      "explanation": "Wikidata collega Unione Sportiva Grosseto 1912 2020-2021 allo stadio stadio Carlo Zecchini.",
+      "source": "https://www.wikidata.org/wiki/Q101423729",
+      "sourceName": "Wikidata (CC0)"
+    },
+    {
+      "id": "stadium-wd-Q107222619",
+      "category": "Stadi leggendari",
+      "kind": "Stadi Wikidata",
+      "difficulty": 2,
+      "question": "Quale stadio è indicato da Wikidata come impianto di casa di Guidonia Montecelio 1937 Football Club?",
+      "options": [
+        "Stadio comunale",
+        "Stamford Bridge",
+        "Chelsea – Fulham"
+      ],
+      "answer": 0,
+      "explanation": "Wikidata collega Guidonia Montecelio 1937 Football Club allo stadio Stadio comunale.",
+      "source": "https://www.wikidata.org/wiki/Q107222619",
+      "sourceName": "Wikidata (CC0)"
+    },
+    {
+      "id": "stadium-wd-Q1100592",
+      "category": "Stadi leggendari",
+      "kind": "Stadi Wikidata",
+      "difficulty": 2,
+      "question": "Quale stadio è indicato da Wikidata come impianto di casa di Manfredonia Calcio 1932?",
+      "options": [
+        "stadio Miramare",
+        "1998",
+        "Şükrü Saracoğlu Stadium"
+      ],
+      "answer": 0,
+      "explanation": "Wikidata collega Manfredonia Calcio 1932 allo stadio stadio Miramare.",
+      "source": "https://www.wikidata.org/wiki/Q1100592",
+      "sourceName": "Wikidata (CC0)"
+    },
+    {
+      "id": "stadium-wd-Q1120838",
+      "category": "Stadi leggendari",
+      "kind": "Stadi Wikidata",
+      "difficulty": 2,
+      "question": "Quale stadio è indicato da Wikidata come impianto di casa di Como 1907?",
+      "options": [
+        "FC Zurigo – Grasshoppers",
+        "stadio Giuseppe Sinigaglia",
+        "Derby di Praga"
+      ],
+      "answer": 1,
+      "explanation": "Wikidata collega Como 1907 allo stadio stadio Giuseppe Sinigaglia.",
+      "source": "https://www.wikidata.org/wiki/Q1120838",
+      "sourceName": "Wikidata (CC0)"
+    },
+    {
+      "id": "stadium-wd-Q1136016",
+      "category": "Stadi leggendari",
+      "kind": "Stadi Wikidata",
+      "difficulty": 2,
+      "question": "Quale stadio è indicato da Wikidata come impianto di casa di Cosenza Calcio?",
+      "options": [
+        "stadio San Vito-Gigi Marulla",
+        "Hamburg derby",
+        "Napoli"
+      ],
+      "answer": 0,
+      "explanation": "Wikidata collega Cosenza Calcio allo stadio stadio San Vito-Gigi Marulla.",
+      "source": "https://www.wikidata.org/wiki/Q1136016",
+      "sourceName": "Wikidata (CC0)"
+    },
+    {
+      "id": "stadium-wd-Q1279917",
+      "category": "Stadi leggendari",
+      "kind": "Stadi Wikidata",
+      "difficulty": 2,
+      "question": "Quale stadio è indicato da Wikidata come impianto di casa di Pistoiese Football Club?",
+      "options": [
+        "stadio Marcello Melani",
+        "Stade Louis II",
+        "1988"
+      ],
+      "answer": 0,
+      "explanation": "Wikidata collega Pistoiese Football Club allo stadio stadio Marcello Melani.",
+      "source": "https://www.wikidata.org/wiki/Q1279917",
+      "sourceName": "Wikidata (CC0)"
+    },
+    {
+      "id": "stadium-wd-Q120881664",
+      "category": "Stadi leggendari",
+      "kind": "Stadi Wikidata",
+      "difficulty": 2,
+      "question": "Quale stadio è indicato da Wikidata come impianto di casa di Alcione Milano 1952?",
+      "options": [
+        "Stadio Ernesto Breda",
+        "San Sebastián",
+        "Derby de Lisboa"
+      ],
+      "answer": 0,
+      "explanation": "Wikidata collega Alcione Milano 1952 allo stadio Stadio Ernesto Breda.",
+      "source": "https://www.wikidata.org/wiki/Q120881664",
+      "sourceName": "Wikidata (CC0)"
+    },
+    {
+      "id": "stadium-wd-Q13381",
+      "category": "Stadi leggendari",
+      "kind": "Stadi Wikidata",
+      "difficulty": 2,
+      "question": "Quale stadio è indicato da Wikidata come impianto di casa di US Triestina Calcio 1918?",
+      "options": [
+        "Tim Cahill",
+        "stadio Nereo Rocco",
+        "Manchester derby"
+      ],
+      "answer": 1,
+      "explanation": "Wikidata collega US Triestina Calcio 1918 allo stadio stadio Nereo Rocco.",
+      "source": "https://www.wikidata.org/wiki/Q13381",
+      "sourceName": "Wikidata (CC0)"
+    },
+    {
+      "id": "stadium-wd-Q13385",
+      "category": "Stadi leggendari",
+      "kind": "Stadi Wikidata",
+      "difficulty": 2,
+      "question": "Quale stadio è indicato da Wikidata come impianto di casa di S.P.A.L.?",
+      "options": [
+        "Derby di Sicilia",
+        "Stadio Paolo Mazza",
+        "Borussia-Park"
+      ],
+      "answer": 1,
+      "explanation": "Wikidata collega S.P.A.L. allo stadio Stadio Paolo Mazza.",
+      "source": "https://www.wikidata.org/wiki/Q13385",
+      "sourceName": "Wikidata (CC0)"
+    },
+    {
+      "id": "stadium-wd-Q13391",
+      "category": "Stadi leggendari",
+      "kind": "Stadi Wikidata",
+      "difficulty": 2,
+      "question": "Quale stadio è indicato da Wikidata come impianto di casa di US Lecce?",
+      "options": [
+        "Camp Nou",
+        "Stadio Ennio Tardini",
+        "stadio Via del Mare"
+      ],
+      "answer": 2,
+      "explanation": "Wikidata collega US Lecce allo stadio stadio Via del Mare.",
+      "source": "https://www.wikidata.org/wiki/Q13391",
+      "sourceName": "Wikidata (CC0)"
+    },
+    {
+      "id": "stadium-wd-Q139399",
+      "category": "Stadi leggendari",
+      "kind": "Stadi Wikidata",
+      "difficulty": 2,
+      "question": "Quale stadio è indicato da Wikidata come impianto di casa di Calcio Foggia 1920?",
+      "options": [
+        "stadio Pino Zaccheria",
+        "Lazio – Roma",
+        "2005"
+      ],
+      "answer": 0,
+      "explanation": "Wikidata collega Calcio Foggia 1920 allo stadio stadio Pino Zaccheria.",
+      "source": "https://www.wikidata.org/wiki/Q139399",
+      "sourceName": "Wikidata (CC0)"
+    },
+    {
+      "id": "stadium-wd-Q1328077",
+      "category": "Stadi leggendari",
+      "kind": "Stadi Wikidata",
+      "difficulty": 2,
+      "question": "Quale stadio è indicato da Wikidata come impianto di casa di Unione Sportiva Fiumana?",
+      "options": [
+        "2005",
+        "stadio Cantrida",
+        "Letzigrund"
+      ],
+      "answer": 1,
+      "explanation": "Wikidata collega Unione Sportiva Fiumana allo stadio stadio Cantrida.",
+      "source": "https://www.wikidata.org/wiki/Q1328077",
+      "sourceName": "Wikidata (CC0)"
+    },
+    {
+      "id": "stadium-wd-Q1349814",
+      "category": "Stadi leggendari",
+      "kind": "Stadi Wikidata",
+      "difficulty": 2,
+      "question": "Quale stadio è indicato da Wikidata come impianto di casa di Ravenna Football Club?",
+      "options": [
+        "Derby della Lanterna",
+        "El Sadar",
+        "stadio Bruno Benelli"
+      ],
+      "answer": 2,
+      "explanation": "Wikidata collega Ravenna Football Club allo stadio stadio Bruno Benelli.",
+      "source": "https://www.wikidata.org/wiki/Q1349814",
+      "sourceName": "Wikidata (CC0)"
+    },
+    {
+      "id": "stadium-wd-Q1387710",
+      "category": "Stadi leggendari",
+      "kind": "Stadi Wikidata",
+      "difficulty": 2,
+      "question": "Quale stadio è indicato da Wikidata come impianto di casa di FC Südtirol?",
+      "options": [
+        "Napoli – Roma",
+        "Şükrü Saracoğlu Stadium",
+        "stadio Druso"
+      ],
+      "answer": 2,
+      "explanation": "Wikidata collega FC Südtirol allo stadio stadio Druso.",
+      "source": "https://www.wikidata.org/wiki/Q1387710",
+      "sourceName": "Wikidata (CC0)"
+    },
+    {
+      "id": "stadium-wd-Q1416763",
+      "category": "Stadi leggendari",
+      "kind": "Stadi Wikidata",
+      "difficulty": 2,
+      "question": "Quale stadio è indicato da Wikidata come impianto di casa di Unione Sportiva Dilettantistica Follonica Gavorrano?",
+      "options": [
+        "stadio Romeo Malservisi-Mario Matteini",
+        "Paesi Bassi",
+        "Berna"
+      ],
+      "answer": 0,
+      "explanation": "Wikidata collega Unione Sportiva Dilettantistica Follonica Gavorrano allo stadio stadio Romeo Malservisi-Mario Matteini.",
+      "source": "https://www.wikidata.org/wiki/Q1416763",
+      "sourceName": "Wikidata (CC0)"
+    },
+    {
+      "id": "stadium-wd-Q135415841",
+      "category": "Stadi leggendari",
+      "kind": "Stadi Wikidata",
+      "difficulty": 2,
+      "question": "Quale stadio è indicato da Wikidata come impianto di casa di Union Brescia?",
+      "options": [
+        "Anoeta",
+        "Stadio Mario Rigamonti",
+        "Manchester"
+      ],
+      "answer": 1,
+      "explanation": "Wikidata collega Union Brescia allo stadio Stadio Mario Rigamonti.",
+      "source": "https://www.wikidata.org/wiki/Q135415841",
+      "sourceName": "Wikidata (CC0)"
+    },
+    {
+      "id": "stadium-wd-Q135451504",
+      "category": "Stadi leggendari",
+      "kind": "Stadi Wikidata",
+      "difficulty": 2,
+      "question": "Quale stadio è indicato da Wikidata come impianto di casa di Football Club Internazionale Milano U23?",
+      "options": [
+        "stadio Brianteo",
+        "Estádio José Alvalade",
+        "Borussia Dortmund – Schalke 04"
+      ],
+      "answer": 0,
+      "explanation": "Wikidata collega Football Club Internazionale Milano U23 allo stadio stadio Brianteo.",
+      "source": "https://www.wikidata.org/wiki/Q135451504",
+      "sourceName": "Wikidata (CC0)"
+    },
+    {
+      "id": "stadium-wd-Q1422",
+      "category": "Stadi leggendari",
+      "kind": "Stadi Wikidata",
+      "difficulty": 2,
+      "question": "Quale stadio è indicato da Wikidata come impianto di casa di Juventus FC?",
+      "options": [
+        "Juventus Stadium",
+        "De Klassieker",
+        "stadio Giuseppe Meazza"
+      ],
+      "answer": 0,
+      "explanation": "Wikidata collega Juventus FC allo stadio Juventus Stadium.",
+      "source": "https://www.wikidata.org/wiki/Q1422",
+      "sourceName": "Wikidata (CC0)"
+    },
+    {
+      "id": "stadium-wd-Q1457",
+      "category": "Stadi leggendari",
+      "kind": "Stadi Wikidata",
+      "difficulty": 2,
+      "question": "Quale stadio è indicato da Wikidata come impianto di casa di UC Sampdoria?",
+      "options": [
+        "Estádio José Alvalade",
+        "stadio Luigi Ferraris",
+        "Croazia"
+      ],
+      "answer": 1,
+      "explanation": "Wikidata collega UC Sampdoria allo stadio stadio Luigi Ferraris.",
+      "source": "https://www.wikidata.org/wiki/Q1457",
+      "sourceName": "Wikidata (CC0)"
+    },
+    {
+      "id": "stadium-wd-Q1543",
+      "category": "Stadi leggendari",
+      "kind": "Stadi Wikidata",
+      "difficulty": 2,
+      "question": "Quale stadio è indicato da Wikidata come impianto di casa di AC Milan?",
+      "options": [
+        "Anoeta",
+        "Emirates Stadium",
+        "stadio Giuseppe Meazza"
+      ],
+      "answer": 2,
+      "explanation": "Wikidata collega AC Milan allo stadio stadio Giuseppe Meazza.",
+      "source": "https://www.wikidata.org/wiki/Q1543",
+      "sourceName": "Wikidata (CC0)"
+    },
+    {
+      "id": "stadium-wd-Q16334",
+      "category": "Stadi leggendari",
+      "kind": "Stadi Wikidata",
+      "difficulty": 2,
+      "question": "Quale stadio è indicato da Wikidata come impianto di casa di Città di Casale?",
+      "options": [
+        "2004",
+        "Stadio Natale Palli",
+        "Croazia"
+      ],
+      "answer": 1,
+      "explanation": "Wikidata collega Città di Casale allo stadio Stadio Natale Palli.",
+      "source": "https://www.wikidata.org/wiki/Q16334",
+      "sourceName": "Wikidata (CC0)"
+    },
+    {
+      "id": "stadium-wd-Q16339",
+      "category": "Stadi leggendari",
+      "kind": "Stadi Wikidata",
+      "difficulty": 2,
+      "question": "Quale stadio è indicato da Wikidata come impianto di casa di USD Novese?",
+      "options": [
+        "Stadio Costante Girardengo",
+        "Superclásico",
+        "1980"
+      ],
+      "answer": 0,
+      "explanation": "Wikidata collega USD Novese allo stadio Stadio Costante Girardengo.",
+      "source": "https://www.wikidata.org/wiki/Q16339",
+      "sourceName": "Wikidata (CC0)"
+    },
+    {
+      "id": "stadium-wd-Q16344",
+      "category": "Stadi leggendari",
+      "kind": "Stadi Wikidata",
+      "difficulty": 2,
+      "question": "Quale stadio è indicato da Wikidata come impianto di casa di AC Perugia Calcio?",
+      "options": [
+        "stadio Renato Curi",
+        "Real Betis – Siviglia",
+        "stadio Giuseppe Moccagatta"
+      ],
+      "answer": 0,
+      "explanation": "Wikidata collega AC Perugia Calcio allo stadio stadio Renato Curi.",
+      "source": "https://www.wikidata.org/wiki/Q16344",
+      "sourceName": "Wikidata (CC0)"
+    },
+    {
+      "id": "stadium-wd-Q16348",
+      "category": "Stadi leggendari",
+      "kind": "Stadi Wikidata",
+      "difficulty": 2,
+      "question": "Quale stadio è indicato da Wikidata come impianto di casa di Forza e Coraggio Alessandria?",
+      "options": [
+        "Lazio – Roma",
+        "stadio Giuseppe Moccagatta",
+        "Italia"
+      ],
+      "answer": 1,
+      "explanation": "Wikidata collega Forza e Coraggio Alessandria allo stadio stadio Giuseppe Moccagatta.",
+      "source": "https://www.wikidata.org/wiki/Q16348",
+      "sourceName": "Wikidata (CC0)"
+    },
+    {
+      "id": "stadium-wd-Q1435421",
+      "category": "Stadi leggendari",
+      "kind": "Stadi Wikidata",
+      "difficulty": 2,
+      "question": "Quale stadio è indicato da Wikidata come impianto di casa di Foligno Calcio?",
+      "options": [
+        "stadio Enzo Blasone",
+        "Francoforte",
+        "Derby della Capitale"
+      ],
+      "answer": 0,
+      "explanation": "Wikidata collega Foligno Calcio allo stadio stadio Enzo Blasone.",
+      "source": "https://www.wikidata.org/wiki/Q1435421",
+      "sourceName": "Wikidata (CC0)"
+    },
+    {
+      "id": "stadium-wd-Q1508747",
+      "category": "Stadi leggendari",
+      "kind": "Stadi Wikidata",
+      "difficulty": 2,
+      "question": "Quale stadio è indicato da Wikidata come impianto di casa di Sorrento Calcio 1945?",
+      "options": [
+        "stadio Italia",
+        "Stadion An der Alten Försterei",
+        "1987"
+      ],
+      "answer": 0,
+      "explanation": "Wikidata collega Sorrento Calcio 1945 allo stadio stadio Italia.",
+      "source": "https://www.wikidata.org/wiki/Q1508747",
+      "sourceName": "Wikidata (CC0)"
+    },
+    {
+      "id": "stadium-wd-Q1520422",
+      "category": "Stadi leggendari",
+      "kind": "Stadi Wikidata",
+      "difficulty": 2,
+      "question": "Quale stadio è indicato da Wikidata come impianto di casa di Cavese 1919?",
+      "options": [
+        "stadio Simonetta Lamberti",
+        "Marsiglia – PSG",
+        "stadio Giuseppe Moccagatta"
+      ],
+      "answer": 0,
+      "explanation": "Wikidata collega Cavese 1919 allo stadio stadio Simonetta Lamberti.",
+      "source": "https://www.wikidata.org/wiki/Q1520422",
+      "sourceName": "Wikidata (CC0)"
+    },
+    {
+      "id": "stadium-wd-Q1570559",
+      "category": "Stadi leggendari",
+      "kind": "Stadi Wikidata",
+      "difficulty": 2,
+      "question": "Quale stadio è indicato da Wikidata come impianto di casa di L'Aquila Calcio 1927?",
+      "options": [
+        "Stadion An der Alten Försterei",
+        "2004",
+        "stadio Tommaso Fattori"
+      ],
+      "answer": 2,
+      "explanation": "Wikidata collega L'Aquila Calcio 1927 allo stadio stadio Tommaso Fattori.",
+      "source": "https://www.wikidata.org/wiki/Q1570559",
+      "sourceName": "Wikidata (CC0)"
+    },
+    {
+      "id": "stadium-wd-Q1648612",
+      "category": "Stadi leggendari",
+      "kind": "Stadi Wikidata",
+      "difficulty": 2,
+      "question": "Quale stadio è indicato da Wikidata come impianto di casa di Nuovo Monselice Calcio?",
+      "options": [
+        "Southampton",
+        "stadio Artemio Franchi",
+        "San Gallo"
+      ],
+      "answer": 1,
+      "explanation": "Wikidata collega Nuovo Monselice Calcio allo stadio stadio Artemio Franchi.",
+      "source": "https://www.wikidata.org/wiki/Q1648612",
+      "sourceName": "Wikidata (CC0)"
+    },
+    {
+      "id": "stadium-wd-Q16735576",
+      "category": "Stadi leggendari",
+      "kind": "Stadi Wikidata",
+      "difficulty": 2,
+      "question": "Quale stadio è indicato da Wikidata come impianto di casa di Associazione Sportiva Giana Erminio?",
+      "options": [
+        "stadio comunale Città di Gorgonzola",
+        "Borussia-Park",
+        "Stadio Renzo Barbera"
+      ],
+      "answer": 0,
+      "explanation": "Wikidata collega Associazione Sportiva Giana Erminio allo stadio stadio comunale Città di Gorgonzola.",
+      "source": "https://www.wikidata.org/wiki/Q16735576",
+      "sourceName": "Wikidata (CC0)"
+    },
+    {
+      "id": "stadium-wd-Q16843044",
+      "category": "Stadi leggendari",
+      "kind": "Stadi Wikidata",
+      "difficulty": 2,
+      "question": "Quale stadio è indicato da Wikidata come impianto di casa di Sassari Calcio Latte Dolce?",
+      "options": [
+        "stadio Vanni Sanna",
+        "1977",
+        "Londra"
+      ],
+      "answer": 0,
+      "explanation": "Wikidata collega Sassari Calcio Latte Dolce allo stadio stadio Vanni Sanna.",
+      "source": "https://www.wikidata.org/wiki/Q16843044",
+      "sourceName": "Wikidata (CC0)"
+    },
+    {
+      "id": "stadium-wd-Q16848949",
+      "category": "Stadi leggendari",
+      "kind": "Stadi Wikidata",
+      "difficulty": 2,
+      "question": "Quale stadio è indicato da Wikidata come impianto di casa di Cesena Football Club?",
+      "options": [
+        "Stadio Dino Manuzzi",
+        "Eternal derby",
+        "Milano"
+      ],
+      "answer": 0,
+      "explanation": "Wikidata collega Cesena Football Club allo stadio Stadio Dino Manuzzi.",
+      "source": "https://www.wikidata.org/wiki/Q16848949",
+      "sourceName": "Wikidata (CC0)"
+    },
+    {
+      "id": "stadium-wd-Q17509881",
+      "category": "Stadi leggendari",
+      "kind": "Stadi Wikidata",
+      "difficulty": 2,
+      "question": "Quale stadio è indicato da Wikidata come impianto di casa di Football Club Dilettantistico Altovicentino?",
+      "options": [
+        "St James' Park",
+        "stadio dei Fiori",
+        "1966"
+      ],
+      "answer": 1,
+      "explanation": "Wikidata collega Football Club Dilettantistico Altovicentino allo stadio stadio dei Fiori.",
+      "source": "https://www.wikidata.org/wiki/Q17509881",
+      "sourceName": "Wikidata (CC0)"
+    },
+    {
+      "id": "stadium-wd-Q1785447",
+      "category": "Stadi leggendari",
+      "kind": "Stadi Wikidata",
+      "difficulty": 2,
+      "question": "Quale stadio è indicato da Wikidata come impianto di casa di U.S. Sambenedettese?",
+      "options": [
+        "stadio Riviera delle Palme",
+        "1993",
+        "Lisbona"
+      ],
+      "answer": 0,
+      "explanation": "Wikidata collega U.S. Sambenedettese allo stadio stadio Riviera delle Palme.",
+      "source": "https://www.wikidata.org/wiki/Q1785447",
+      "sourceName": "Wikidata (CC0)"
+    },
+    {
+      "id": "stadium-wd-Q1854811",
+      "category": "Stadi leggendari",
+      "kind": "Stadi Wikidata",
+      "difficulty": 2,
+      "question": "Quale stadio è indicato da Wikidata come impianto di casa di Unione Sportiva Dilettantistica Poggibonsi?",
+      "options": [
+        "Berlino",
+        "stadio Stefano Lotti",
+        "Roberto Baggio"
+      ],
+      "answer": 1,
+      "explanation": "Wikidata collega Unione Sportiva Dilettantistica Poggibonsi allo stadio stadio Stefano Lotti.",
+      "source": "https://www.wikidata.org/wiki/Q1854811",
+      "sourceName": "Wikidata (CC0)"
+    },
+    {
+      "id": "stadium-wd-Q17986763",
+      "category": "Stadi leggendari",
+      "kind": "Stadi Wikidata",
+      "difficulty": 2,
+      "question": "Quale stadio è indicato da Wikidata come impianto di casa di Biancoscudati Padova?",
+      "options": [
+        "stadio Euganeo",
+        "Bilbao",
+        "1998"
+      ],
+      "answer": 0,
+      "explanation": "Wikidata collega Biancoscudati Padova allo stadio stadio Euganeo.",
+      "source": "https://www.wikidata.org/wiki/Q17986763",
+      "sourceName": "Wikidata (CC0)"
+    },
+    {
+      "id": "stadium-wd-Q18124291",
+      "category": "Stadi leggendari",
+      "kind": "Stadi Wikidata",
+      "difficulty": 2,
+      "question": "Quale stadio è indicato da Wikidata come impianto di casa di A.S. Roma Primavera?",
+      "options": [
+        "Stadio Olimpico",
+        "St Mary's Stadium",
+        "Lisbona"
+      ],
+      "answer": 0,
+      "explanation": "Wikidata collega A.S. Roma Primavera allo stadio Stadio Olimpico.",
+      "source": "https://www.wikidata.org/wiki/Q18124291",
+      "sourceName": "Wikidata (CC0)"
+    },
+    {
+      "id": "stadium-wd-Q1886",
+      "category": "Stadi leggendari",
+      "kind": "Stadi Wikidata",
+      "difficulty": 2,
+      "question": "Quale stadio è indicato da Wikidata come impianto di casa di Atalanta Bergamasca Calcio?",
+      "options": [
+        "stadio di Bergamo",
+        "Borussia-Park",
+        "Derby di Praga"
+      ],
+      "answer": 0,
+      "explanation": "Wikidata collega Atalanta Bergamasca Calcio allo stadio stadio di Bergamo.",
+      "source": "https://www.wikidata.org/wiki/Q1886",
+      "sourceName": "Wikidata (CC0)"
+    },
+    {
+      "id": "stadium-wd-Q1893",
+      "category": "Stadi leggendari",
+      "kind": "Stadi Wikidata",
+      "difficulty": 2,
+      "question": "Quale stadio è indicato da Wikidata come impianto di casa di Bologna FC 1909?",
+      "options": [
+        "Balaídos",
+        "stadio Renato Dall'Ara",
+        "2000"
+      ],
+      "answer": 1,
+      "explanation": "Wikidata collega Bologna FC 1909 allo stadio stadio Renato Dall'Ara.",
+      "source": "https://www.wikidata.org/wiki/Q1893",
+      "sourceName": "Wikidata (CC0)"
+    },
+    {
+      "id": "stadium-wd-Q1900",
+      "category": "Stadi leggendari",
+      "kind": "Stadi Wikidata",
+      "difficulty": 2,
+      "question": "Quale stadio è indicato da Wikidata come impianto di casa di Cagliari Calcio?",
+      "options": [
+        "Eternal derby",
+        "Unipol Domus",
+        "Michel Platini"
+      ],
+      "answer": 1,
+      "explanation": "Wikidata collega Cagliari Calcio allo stadio Unipol Domus.",
+      "source": "https://www.wikidata.org/wiki/Q1900",
+      "sourceName": "Wikidata (CC0)"
+    },
+    {
+      "id": "stadium-wd-Q1865284",
+      "category": "Stadi leggendari",
+      "kind": "Stadi Wikidata",
+      "difficulty": 2,
+      "question": "Quale stadio è indicato da Wikidata come impianto di casa di Società Sportiva Monopoli?",
+      "options": [
+        "stadio Vito Simone Veneziani",
+        "Deutsche Bank Park",
+        "Ginevra"
+      ],
+      "answer": 0,
+      "explanation": "Wikidata collega Società Sportiva Monopoli allo stadio stadio Vito Simone Veneziani.",
+      "source": "https://www.wikidata.org/wiki/Q1865284",
+      "sourceName": "Wikidata (CC0)"
+    },
+    {
+      "id": "stadium-wd-Q1886341",
+      "category": "Stadi leggendari",
+      "kind": "Stadi Wikidata",
+      "difficulty": 2,
+      "question": "Quale stadio è indicato da Wikidata come impianto di casa di Casertana Football Club?",
+      "options": [
+        "Villeneuve-d'Ascq",
+        "stadio Alberto Pinto",
+        "Anfield"
+      ],
+      "answer": 1,
+      "explanation": "Wikidata collega Casertana Football Club allo stadio stadio Alberto Pinto.",
+      "source": "https://www.wikidata.org/wiki/Q1886341",
+      "sourceName": "Wikidata (CC0)"
+    },
+    {
+      "id": "stadium-wd-Q1926428",
+      "category": "Stadi leggendari",
+      "kind": "Stadi Wikidata",
+      "difficulty": 2,
+      "question": "Quale stadio è indicato da Wikidata come impianto di casa di Polisportiva Alghero?",
+      "options": [
+        "1990",
+        "stadio Mariotti",
+        "Takefusa Kubo"
+      ],
+      "answer": 1,
+      "explanation": "Wikidata collega Polisportiva Alghero allo stadio stadio Mariotti.",
+      "source": "https://www.wikidata.org/wiki/Q1926428",
+      "sourceName": "Wikidata (CC0)"
+    },
+    {
+      "id": "stadium-wd-Q1968070",
+      "category": "Stadi leggendari",
+      "kind": "Stadi Wikidata",
+      "difficulty": 2,
+      "question": "Quale stadio è indicato da Wikidata come impianto di casa di Unione Sportiva Pergolettese 1932?",
+      "options": [
+        "Cagliari",
+        "Valencia",
+        "stadio Giuseppe Voltini"
+      ],
+      "answer": 2,
+      "explanation": "Wikidata collega Unione Sportiva Pergolettese 1932 allo stadio stadio Giuseppe Voltini.",
+      "source": "https://www.wikidata.org/wiki/Q1968070",
+      "sourceName": "Wikidata (CC0)"
+    },
+    {
+      "id": "stadium-wd-Q1968424",
+      "category": "Stadi leggendari",
+      "kind": "Stadi Wikidata",
+      "difficulty": 2,
+      "question": "Quale stadio è indicato da Wikidata come impianto di casa di US Massese 1919 SSD?",
+      "options": [
+        "Independiente – Racing Club",
+        "stadio degli Oliveti",
+        "Dortmund"
+      ],
+      "answer": 1,
+      "explanation": "Wikidata collega US Massese 1919 SSD allo stadio stadio degli Oliveti.",
+      "source": "https://www.wikidata.org/wiki/Q1968424",
+      "sourceName": "Wikidata (CC0)"
+    },
+    {
+      "id": "stadium-wd-Q2018",
+      "category": "Stadi leggendari",
+      "kind": "Stadi Wikidata",
+      "difficulty": 2,
+      "question": "Quale stadio è indicato da Wikidata come impianto di casa di Catania Football Club?",
+      "options": [
+        "Borussia-Park",
+        "St Mary's Stadium",
+        "stadio Angelo Massimino"
+      ],
+      "answer": 2,
+      "explanation": "Wikidata collega Catania Football Club allo stadio stadio Angelo Massimino.",
+      "source": "https://www.wikidata.org/wiki/Q2018",
+      "sourceName": "Wikidata (CC0)"
+    },
+    {
+      "id": "stadium-wd-Q2037",
+      "category": "Stadi leggendari",
+      "kind": "Stadi Wikidata",
+      "difficulty": 2,
+      "question": "Quale stadio è indicato da Wikidata come impianto di casa di Associazione Calcio ChievoVerona?",
+      "options": [
+        "stadio Marcantonio Bentegodi",
+        "Letzigrund",
+        "Inghilterra"
+      ],
+      "answer": 0,
+      "explanation": "Wikidata collega Associazione Calcio ChievoVerona allo stadio stadio Marcantonio Bentegodi.",
+      "source": "https://www.wikidata.org/wiki/Q2037",
+      "sourceName": "Wikidata (CC0)"
+    },
+    {
+      "id": "stadium-wd-Q2052",
+      "category": "Stadi leggendari",
+      "kind": "Stadi Wikidata",
+      "difficulty": 2,
+      "question": "Quale stadio è indicato da Wikidata come impianto di casa di ACF Fiorentina?",
+      "options": [
+        "Estádio Municipal de Braga",
+        "stadio Artemio Franchi",
+        "Emirates Stadium"
+      ],
+      "answer": 1,
+      "explanation": "Wikidata collega ACF Fiorentina allo stadio stadio Artemio Franchi.",
+      "source": "https://www.wikidata.org/wiki/Q2052",
+      "sourceName": "Wikidata (CC0)"
+    },
+    {
+      "id": "stadium-wd-Q2074",
+      "category": "Stadi leggendari",
+      "kind": "Stadi Wikidata",
+      "difficulty": 2,
+      "question": "Quale stadio è indicato da Wikidata come impianto di casa di Genoa CFC?",
+      "options": [
+        "stadio Luigi Ferraris",
+        "2004",
+        "2018"
+      ],
+      "answer": 0,
+      "explanation": "Wikidata collega Genoa CFC allo stadio stadio Luigi Ferraris.",
+      "source": "https://www.wikidata.org/wiki/Q2074",
+      "sourceName": "Wikidata (CC0)"
+    },
+    {
+      "id": "stadium-wd-Q2095117",
+      "category": "Stadi leggendari",
+      "kind": "Stadi Wikidata",
+      "difficulty": 2,
+      "question": "Quale stadio è indicato da Wikidata come impianto di casa di Fermana Football Club?",
+      "options": [
+        "stadio Bruno Recchioni",
+        "Mestalla",
+        "stadio del Conero"
+      ],
+      "answer": 0,
+      "explanation": "Wikidata collega Fermana Football Club allo stadio stadio Bruno Recchioni.",
+      "source": "https://www.wikidata.org/wiki/Q2095117",
+      "sourceName": "Wikidata (CC0)"
+    },
+    {
+      "id": "stadium-wd-Q2095185",
+      "category": "Stadi leggendari",
+      "kind": "Stadi Wikidata",
+      "difficulty": 2,
+      "question": "Quale stadio è indicato da Wikidata come impianto di casa di Barletta 1922?",
+      "options": [
+        "stadio Cosimo Puttilli",
+        "Firenze",
+        "Bari"
+      ],
+      "answer": 0,
+      "explanation": "Wikidata collega Barletta 1922 allo stadio stadio Cosimo Puttilli.",
+      "source": "https://www.wikidata.org/wiki/Q2095185",
+      "sourceName": "Wikidata (CC0)"
+    },
+    {
+      "id": "stadium-wd-Q2114224",
+      "category": "Stadi leggendari",
+      "kind": "Stadi Wikidata",
+      "difficulty": 2,
+      "question": "Quale stadio è indicato da Wikidata come impianto di casa di Football Club Trapani 1905?",
+      "options": [
+        "Camp Nou",
+        "Stadio polisportivo provinciale di Trapani",
+        "Derby della Capitale"
+      ],
+      "answer": 1,
+      "explanation": "Wikidata collega Football Club Trapani 1905 allo stadio Stadio polisportivo provinciale di Trapani.",
+      "source": "https://www.wikidata.org/wiki/Q2114224",
+      "sourceName": "Wikidata (CC0)"
+    },
+    {
+      "id": "stadium-wd-Q2118510",
+      "category": "Stadi leggendari",
+      "kind": "Stadi Wikidata",
+      "difficulty": 2,
+      "question": "Quale stadio è indicato da Wikidata come impianto di casa di Latina Calcio 1932?",
+      "options": [
+        "Inter – Milan",
+        "stadio Domenico Francioni",
+        "Beşiktaş – Fenerbahçe"
+      ],
+      "answer": 1,
+      "explanation": "Wikidata collega Latina Calcio 1932 allo stadio stadio Domenico Francioni.",
+      "source": "https://www.wikidata.org/wiki/Q2118510",
+      "sourceName": "Wikidata (CC0)"
+    },
+    {
+      "id": "stadium-wd-Q20706646",
+      "category": "Stadi leggendari",
+      "kind": "Stadi Wikidata",
+      "difficulty": 2,
+      "question": "Quale stadio è indicato da Wikidata come impianto di casa di A.C. Ancona?",
+      "options": [
+        "Allianz Riviera",
+        "Spagna",
+        "stadio del Conero"
+      ],
+      "answer": 2,
+      "explanation": "Wikidata collega A.C. Ancona allo stadio stadio del Conero.",
+      "source": "https://www.wikidata.org/wiki/Q20706646",
+      "sourceName": "Wikidata (CC0)"
+    },
+    {
+      "id": "stadium-wd-Q2158769",
+      "category": "Stadi leggendari",
+      "kind": "Stadi Wikidata",
+      "difficulty": 2,
+      "question": "Quale stadio è indicato da Wikidata come impianto di casa di Savoia 1908 Football Club?",
+      "options": [
+        "stadio Alfredo Giraud",
+        "Stadio Olimpico",
+        "Bologna"
+      ],
+      "answer": 0,
+      "explanation": "Wikidata collega Savoia 1908 Football Club allo stadio stadio Alfredo Giraud.",
+      "source": "https://www.wikidata.org/wiki/Q2158769",
+      "sourceName": "Wikidata (CC0)"
+    },
+    {
+      "id": "stadium-wd-Q2246447",
+      "category": "Stadi leggendari",
+      "kind": "Stadi Wikidata",
+      "difficulty": 2,
+      "question": "Quale stadio è indicato da Wikidata come impianto di casa di Football Club Rieti 1936?",
+      "options": [
+        "1969",
+        "Volkswagen Arena",
+        "stadio Centro d'Italia-Manlio Scopigno"
+      ],
+      "answer": 2,
+      "explanation": "Wikidata collega Football Club Rieti 1936 allo stadio stadio Centro d'Italia-Manlio Scopigno.",
+      "source": "https://www.wikidata.org/wiki/Q2246447",
+      "sourceName": "Wikidata (CC0)"
+    },
+    {
+      "id": "stadium-wd-Q2247329",
+      "category": "Stadi leggendari",
+      "kind": "Stadi Wikidata",
+      "difficulty": 2,
+      "question": "Quale stadio è indicato da Wikidata come impianto di casa di Brindisi FC?",
+      "options": [
+        "Torino",
+        "stadio Franco Fanuzzi",
+        "2000"
+      ],
+      "answer": 1,
+      "explanation": "Wikidata collega Brindisi FC allo stadio stadio Franco Fanuzzi.",
+      "source": "https://www.wikidata.org/wiki/Q2247329",
+      "sourceName": "Wikidata (CC0)"
+    },
+    {
+      "id": "stadium-wd-Q2249141",
+      "category": "Stadi leggendari",
+      "kind": "Stadi Wikidata",
+      "difficulty": 2,
+      "question": "Quale stadio è indicato da Wikidata come impianto di casa di F.C.D. Pro Vasto?",
+      "options": [
+        "Roberto Baggio",
+        "Allianz Arena",
+        "stadio Aragona"
+      ],
+      "answer": 2,
+      "explanation": "Wikidata collega F.C.D. Pro Vasto allo stadio stadio Aragona.",
+      "source": "https://www.wikidata.org/wiki/Q2249141",
+      "sourceName": "Wikidata (CC0)"
+    },
+    {
+      "id": "stadium-wd-Q2253772",
+      "category": "Stadi leggendari",
+      "kind": "Stadi Wikidata",
+      "difficulty": 2,
+      "question": "Quale stadio è indicato da Wikidata come impianto di casa di Associazione Calcio Nuova Valdagno?",
+      "options": [
+        "stadio dei Fiori",
+        "Ramón Sánchez-Pizjuán",
+        "1971"
+      ],
+      "answer": 0,
+      "explanation": "Wikidata collega Associazione Calcio Nuova Valdagno allo stadio stadio dei Fiori.",
+      "source": "https://www.wikidata.org/wiki/Q2253772",
+      "sourceName": "Wikidata (CC0)"
+    },
+    {
+      "id": "stadium-wd-Q2276413",
+      "category": "Stadi leggendari",
+      "kind": "Stadi Wikidata",
+      "difficulty": 2,
+      "question": "Quale stadio è indicato da Wikidata come impianto di casa di Virtus Entella?",
+      "options": [
+        "Cristiano Ronaldo",
+        "Stadion Wankdorf",
+        "Stadio comunale (Chiavari)"
+      ],
+      "answer": 2,
+      "explanation": "Wikidata collega Virtus Entella allo stadio Stadio comunale (Chiavari).",
+      "source": "https://www.wikidata.org/wiki/Q2276413",
+      "sourceName": "Wikidata (CC0)"
+    },
+    {
+      "id": "stadium-wd-Q2312334",
+      "category": "Stadi leggendari",
+      "kind": "Stadi Wikidata",
+      "difficulty": 2,
+      "question": "Quale stadio è indicato da Wikidata come impianto di casa di Bassano Virtus 55 Soccer Team?",
+      "options": [
+        "Stadio Rino Mercante",
+        "Beşiktaş – Fenerbahçe",
+        "Lugano"
+      ],
+      "answer": 0,
+      "explanation": "Wikidata collega Bassano Virtus 55 Soccer Team allo stadio Stadio Rino Mercante.",
+      "source": "https://www.wikidata.org/wiki/Q2312334",
+      "sourceName": "Wikidata (CC0)"
+    },
+    {
+      "id": "stadium-wd-Q2314607",
+      "category": "Stadi leggendari",
+      "kind": "Stadi Wikidata",
+      "difficulty": 2,
+      "question": "Quale stadio è indicato da Wikidata come impianto di casa di Martina Calcio 1947?",
+      "options": [
+        "Dinamo Zagabria – Hajduk Spalato",
+        "Southampton",
+        "stadio Giuseppe Domenico Tursi"
+      ],
+      "answer": 2,
+      "explanation": "Wikidata collega Martina Calcio 1947 allo stadio stadio Giuseppe Domenico Tursi.",
+      "source": "https://www.wikidata.org/wiki/Q2314607",
+      "sourceName": "Wikidata (CC0)"
+    },
+    {
+      "id": "stadium-wd-Q2349150",
+      "category": "Stadi leggendari",
+      "kind": "Stadi Wikidata",
+      "difficulty": 2,
+      "question": "Quale stadio è indicato da Wikidata come impianto di casa di Associazione Calcio Salò?",
+      "options": [
+        "Bayern Monaco – Borussia Dortmund",
+        "stadio Lino Turina",
+        "2005"
+      ],
+      "answer": 1,
+      "explanation": "Wikidata collega Associazione Calcio Salò allo stadio stadio Lino Turina.",
+      "source": "https://www.wikidata.org/wiki/Q2349150",
+      "sourceName": "Wikidata (CC0)"
+    },
+    {
+      "id": "stadium-wd-Q2414604",
+      "category": "Stadi leggendari",
+      "kind": "Stadi Wikidata",
+      "difficulty": 2,
+      "question": "Quale stadio è indicato da Wikidata come impianto di casa di Vis Pesaro dal 1898?",
+      "options": [
+        "Şükrü Saracoğlu Stadium",
+        "Istanbul derby",
+        "stadio Tonino Benelli"
+      ],
+      "answer": 2,
+      "explanation": "Wikidata collega Vis Pesaro dal 1898 allo stadio stadio Tonino Benelli.",
+      "source": "https://www.wikidata.org/wiki/Q2414604",
+      "sourceName": "Wikidata (CC0)"
+    },
+    {
+      "id": "stadium-wd-Q2456343",
+      "category": "Stadi leggendari",
+      "kind": "Stadi Wikidata",
+      "difficulty": 2,
+      "question": "Quale stadio è indicato da Wikidata come impianto di casa di FC Ivrea?",
+      "options": [
+        "Londra",
+        "1991",
+        "Stadio Gino Pistoni"
+      ],
+      "answer": 2,
+      "explanation": "Wikidata collega FC Ivrea allo stadio Stadio Gino Pistoni.",
+      "source": "https://www.wikidata.org/wiki/Q2456343",
+      "sourceName": "Wikidata (CC0)"
+    },
+    {
+      "id": "stadium-wd-Q2457991",
+      "category": "Stadi leggendari",
+      "kind": "Stadi Wikidata",
+      "difficulty": 2,
+      "question": "Quale stadio è indicato da Wikidata come impianto di casa di Potenza Calcio?",
+      "options": [
+        "stadio Alfredo Viviani",
+        "De Klassieker",
+        "Stadion Wankdorf"
+      ],
+      "answer": 0,
+      "explanation": "Wikidata collega Potenza Calcio allo stadio stadio Alfredo Viviani.",
+      "source": "https://www.wikidata.org/wiki/Q2457991",
+      "sourceName": "Wikidata (CC0)"
+    },
+    {
+      "id": "stadium-wd-Q25230762",
+      "category": "Stadi leggendari",
+      "kind": "Stadi Wikidata",
+      "difficulty": 2,
+      "question": "Quale stadio è indicato da Wikidata come impianto di casa di Brera Calcio?",
+      "options": [
+        "Valencia",
+        "2007",
+        "Arena Civica"
+      ],
+      "answer": 2,
+      "explanation": "Wikidata collega Brera Calcio allo stadio Arena Civica.",
+      "source": "https://www.wikidata.org/wiki/Q25230762",
+      "sourceName": "Wikidata (CC0)"
+    },
+    {
+      "id": "stadium-wd-Q2609",
+      "category": "Stadi leggendari",
+      "kind": "Stadi Wikidata",
+      "difficulty": 2,
+      "question": "Quale stadio è indicato da Wikidata come impianto di casa di SS Lazio?",
+      "options": [
+        "Palermo",
+        "Stadio Olimpico",
+        "Fla-Flu"
+      ],
+      "answer": 1,
+      "explanation": "Wikidata collega SS Lazio allo stadio Stadio Olimpico.",
+      "source": "https://www.wikidata.org/wiki/Q2609",
+      "sourceName": "Wikidata (CC0)"
+    },
+    {
+      "id": "stadium-wd-Q2641",
+      "category": "Stadi leggendari",
+      "kind": "Stadi Wikidata",
+      "difficulty": 2,
+      "question": "Quale stadio è indicato da Wikidata come impianto di casa di SSC Napoli?",
+      "options": [
+        "West London derby",
+        "1969",
+        "Stadio Diego Armando Maradona"
+      ],
+      "answer": 2,
+      "explanation": "Wikidata collega SSC Napoli allo stadio Stadio Diego Armando Maradona.",
+      "source": "https://www.wikidata.org/wiki/Q2641",
+      "sourceName": "Wikidata (CC0)"
+    },
+    {
+      "id": "stadium-wd-Q2674",
+      "category": "Stadi leggendari",
+      "kind": "Stadi Wikidata",
+      "difficulty": 2,
+      "question": "Quale stadio è indicato da Wikidata come impianto di casa di Palermo FC?",
+      "options": [
+        "stadio Renzo Barbera",
+        "2006",
+        "Flamengo – Fluminense"
+      ],
+      "answer": 0,
+      "explanation": "Wikidata collega Palermo FC allo stadio stadio Renzo Barbera.",
+      "source": "https://www.wikidata.org/wiki/Q2674",
+      "sourceName": "Wikidata (CC0)"
+    },
+    {
+      "id": "stadium-wd-Q2693",
+      "category": "Stadi leggendari",
+      "kind": "Stadi Wikidata",
+      "difficulty": 2,
+      "question": "Quale stadio è indicato da Wikidata come impianto di casa di Parma Calcio 1913?",
+      "options": [
+        "stadio Ennio Tardini",
+        "Partizan – Stella Rossa",
+        "Lugano"
+      ],
+      "answer": 0,
+      "explanation": "Wikidata collega Parma Calcio 1913 allo stadio stadio Ennio Tardini.",
+      "source": "https://www.wikidata.org/wiki/Q2693",
+      "sourceName": "Wikidata (CC0)"
+    },
+    {
+      "id": "stadium-wd-Q2710",
+      "category": "Stadi leggendari",
+      "kind": "Stadi Wikidata",
+      "difficulty": 2,
+      "question": "Quale stadio è indicato da Wikidata come impianto di casa di Delfino Pescara 1936?",
+      "options": [
+        "stadio Adriatico-Giovanni Cornacchia",
+        "Tyne-Wear derby",
+        "Allianz Arena"
+      ],
+      "answer": 0,
+      "explanation": "Wikidata collega Delfino Pescara 1936 allo stadio stadio Adriatico-Giovanni Cornacchia.",
+      "source": "https://www.wikidata.org/wiki/Q2710",
+      "sourceName": "Wikidata (CC0)"
+    },
+    {
+      "id": "stadium-wd-Q2739",
+      "category": "Stadi leggendari",
+      "kind": "Stadi Wikidata",
+      "difficulty": 2,
+      "question": "Quale stadio è indicato da Wikidata come impianto di casa di AS Roma?",
+      "options": [
+        "Stadio Olimpico",
+        "Vigo",
+        "Clint Dempsey"
+      ],
+      "answer": 0,
+      "explanation": "Wikidata collega AS Roma allo stadio Stadio Olimpico.",
+      "source": "https://www.wikidata.org/wiki/Q2739",
+      "sourceName": "Wikidata (CC0)"
+    },
+    {
+      "id": "stadium-wd-Q2756",
+      "category": "Stadi leggendari",
+      "kind": "Stadi Wikidata",
+      "difficulty": 2,
+      "question": "Quale stadio è indicato da Wikidata come impianto di casa di Siena Football Club?",
+      "options": [
+        "Stadio Artemio Franchi",
+        "Udine",
+        "Tim Cahill"
+      ],
+      "answer": 0,
+      "explanation": "Wikidata collega Siena Football Club allo stadio Stadio Artemio Franchi.",
+      "source": "https://www.wikidata.org/wiki/Q2756",
+      "sourceName": "Wikidata (CC0)"
+    },
+    {
+      "id": "stadium-wd-Q2768",
+      "category": "Stadi leggendari",
+      "kind": "Stadi Wikidata",
+      "difficulty": 2,
+      "question": "Quale stadio è indicato da Wikidata come impianto di casa di Torino FC?",
+      "options": [
+        "Derby della Mole",
+        "San Gallo",
+        "Stadio Olimpico Grande Torino"
+      ],
+      "answer": 2,
+      "explanation": "Wikidata collega Torino FC allo stadio Stadio Olimpico Grande Torino.",
+      "source": "https://www.wikidata.org/wiki/Q2768",
+      "sourceName": "Wikidata (CC0)"
+    },
+    {
+      "id": "stadium-wd-Q2798",
+      "category": "Stadi leggendari",
+      "kind": "Stadi Wikidata",
+      "difficulty": 2,
+      "question": "Quale stadio è indicato da Wikidata come impianto di casa di Udinese Calcio?",
+      "options": [
+        "Lens – Lille",
+        "stadio Friuli",
+        "Partizan – Stella Rossa"
+      ],
+      "answer": 1,
+      "explanation": "Wikidata collega Udinese Calcio allo stadio stadio Friuli.",
+      "source": "https://www.wikidata.org/wiki/Q2798",
+      "sourceName": "Wikidata (CC0)"
+    },
+    {
+      "id": "stadium-wd-Q257078",
+      "category": "Stadi leggendari",
+      "kind": "Stadi Wikidata",
+      "difficulty": 2,
+      "question": "Quale stadio è indicato da Wikidata come impianto di casa di Pordenone Football Club?",
+      "options": [
+        "Stadio Guido Teghil",
+        "Nottingham",
+        "Birmingham"
+      ],
+      "answer": 0,
+      "explanation": "Wikidata collega Pordenone Football Club allo stadio Stadio Guido Teghil.",
+      "source": "https://www.wikidata.org/wiki/Q257078",
+      "sourceName": "Wikidata (CC0)"
+    },
+    {
+      "id": "stadium-wd-Q2524107",
+      "category": "Stadi leggendari",
+      "kind": "Stadi Wikidata",
+      "difficulty": 2,
+      "question": "Quale stadio è indicato da Wikidata come impianto di casa di Teramo Calcio 1913?",
+      "options": [
+        "2025",
+        "stadio Gaetano Bonolis",
+        "Bologna"
+      ],
+      "answer": 1,
+      "explanation": "Wikidata collega Teramo Calcio 1913 allo stadio stadio Gaetano Bonolis.",
+      "source": "https://www.wikidata.org/wiki/Q2524107",
+      "sourceName": "Wikidata (CC0)"
+    },
+    {
+      "id": "stadium-wd-Q2703612",
+      "category": "Stadi leggendari",
+      "kind": "Stadi Wikidata",
+      "difficulty": 2,
+      "question": "Quale stadio è indicato da Wikidata come impianto di casa di Pro Sesto 1913?",
+      "options": [
+        "Stadio Ernesto Breda",
+        "Lugano",
+        "Eternal derby croato"
+      ],
+      "answer": 0,
+      "explanation": "Wikidata collega Pro Sesto 1913 allo stadio Stadio Ernesto Breda.",
+      "source": "https://www.wikidata.org/wiki/Q2703612",
+      "sourceName": "Wikidata (CC0)"
+    },
+    {
+      "id": "stadium-wd-Q2755428",
+      "category": "Stadi leggendari",
+      "kind": "Stadi Wikidata",
+      "difficulty": 2,
+      "question": "Quale stadio è indicato da Wikidata come impianto di casa di Associazione Sportiva Pizzighettone?",
+      "options": [
+        "Stadio Comunale",
+        "Barcellona",
+        "1998"
+      ],
+      "answer": 0,
+      "explanation": "Wikidata collega Associazione Sportiva Pizzighettone allo stadio Stadio Comunale.",
+      "source": "https://www.wikidata.org/wiki/Q2755428",
+      "sourceName": "Wikidata (CC0)"
+    },
+    {
+      "id": "stadium-wd-Q28195113",
+      "category": "Stadi leggendari",
+      "kind": "Stadi Wikidata",
+      "difficulty": 2,
+      "question": "Quale stadio è indicato da Wikidata come impianto di casa di Unione Sportiva Siracusa?",
+      "options": [
+        "stadio Nicola De Simone",
+        "Stadio Olimpico Grande Torino",
+        "Didier Drogba"
+      ],
+      "answer": 0,
+      "explanation": "Wikidata collega Unione Sportiva Siracusa allo stadio stadio Nicola De Simone.",
+      "source": "https://www.wikidata.org/wiki/Q28195113",
+      "sourceName": "Wikidata (CC0)"
+    },
+    {
+      "id": "stadium-wd-Q28195192",
+      "category": "Stadi leggendari",
+      "kind": "Stadi Wikidata",
+      "difficulty": 2,
+      "question": "Quale stadio è indicato da Wikidata come impianto di casa di A.S. Cosenza Calcio?",
+      "options": [
+        "Stade Bollaert-Delelis",
+        "Derbi madrileño",
+        "stadio San Vito-Gigi Marulla"
+      ],
+      "answer": 2,
+      "explanation": "Wikidata collega A.S. Cosenza Calcio allo stadio stadio San Vito-Gigi Marulla.",
+      "source": "https://www.wikidata.org/wiki/Q28195192",
+      "sourceName": "Wikidata (CC0)"
+    },
+    {
+      "id": "stadium-wd-Q28228818",
+      "category": "Stadi leggendari",
+      "kind": "Stadi Wikidata",
+      "difficulty": 2,
+      "question": "Quale stadio è indicato da Wikidata come impianto di casa di Potenza Sport Club?",
+      "options": [
+        "stadio Alfredo Viviani",
+        "Old Trafford",
+        "Dinamo Zagabria – Hajduk Spalato"
+      ],
+      "answer": 0,
+      "explanation": "Wikidata collega Potenza Sport Club allo stadio stadio Alfredo Viviani.",
+      "source": "https://www.wikidata.org/wiki/Q28228818",
+      "sourceName": "Wikidata (CC0)"
+    },
+    {
+      "id": "stadium-wd-Q28228831",
+      "category": "Stadi leggendari",
+      "kind": "Stadi Wikidata",
+      "difficulty": 2,
+      "question": "Quale stadio è indicato da Wikidata come impianto di casa di A.S.D. Città di Giulianova 1924?",
+      "options": [
+        "stadio Rubens Fadini",
+        "Nottingham",
+        "El Sadar"
+      ],
+      "answer": 0,
+      "explanation": "Wikidata collega A.S.D. Città di Giulianova 1924 allo stadio stadio Rubens Fadini.",
+      "source": "https://www.wikidata.org/wiki/Q28228831",
+      "sourceName": "Wikidata (CC0)"
+    },
+    {
+      "id": "stadium-wd-Q287695",
+      "category": "Stadi leggendari",
+      "kind": "Stadi Wikidata",
+      "difficulty": 2,
+      "question": "Quale stadio è indicato da Wikidata come impianto di casa di Fidelis Andria 2018?",
+      "options": [
+        "Southampton",
+        "Selhurst Park",
+        "stadio degli Ulivi"
+      ],
+      "answer": 2,
+      "explanation": "Wikidata collega Fidelis Andria 2018 allo stadio stadio degli Ulivi.",
+      "source": "https://www.wikidata.org/wiki/Q287695",
+      "sourceName": "Wikidata (CC0)"
+    },
+    {
+      "id": "stadium-wd-Q289029",
+      "category": "Stadi leggendari",
+      "kind": "Stadi Wikidata",
+      "difficulty": 2,
+      "question": "Quale stadio è indicato da Wikidata come impianto di casa di Società Sportiva Calcio Ancona?",
+      "options": [
+        "El Sadar",
+        "Derby di Sicilia",
+        "stadio del Conero"
+      ],
+      "answer": 2,
+      "explanation": "Wikidata collega Società Sportiva Calcio Ancona allo stadio stadio del Conero.",
+      "source": "https://www.wikidata.org/wiki/Q289029",
+      "sourceName": "Wikidata (CC0)"
+    },
+    {
+      "id": "stadium-wd-Q289289",
+      "category": "Stadi leggendari",
+      "kind": "Stadi Wikidata",
+      "difficulty": 2,
+      "question": "Quale stadio è indicato da Wikidata come impianto di casa di Associazione Calcio Legnano?",
+      "options": [
+        "Inter – Milan",
+        "Mönchengladbach",
+        "stadio Giovanni Mari"
+      ],
+      "answer": 2,
+      "explanation": "Wikidata collega Associazione Calcio Legnano allo stadio stadio Giovanni Mari.",
+      "source": "https://www.wikidata.org/wiki/Q289289",
+      "sourceName": "Wikidata (CC0)"
+    },
+    {
+      "id": "stadium-wd-Q289339",
+      "category": "Stadi leggendari",
+      "kind": "Stadi Wikidata",
+      "difficulty": 2,
+      "question": "Quale stadio è indicato da Wikidata come impianto di casa di Associazione Calcio Lumezzane?",
+      "options": [
+        "Berna",
+        "Rams Park",
+        "stadio Tullio Saleri"
+      ],
+      "answer": 2,
+      "explanation": "Wikidata collega Associazione Calcio Lumezzane allo stadio stadio Tullio Saleri.",
+      "source": "https://www.wikidata.org/wiki/Q289339",
+      "sourceName": "Wikidata (CC0)"
+    },
+    {
+      "id": "stadium-wd-Q289482",
+      "category": "Stadi leggendari",
+      "kind": "Stadi Wikidata",
+      "difficulty": 2,
+      "question": "Quale stadio è indicato da Wikidata come impianto di casa di AC Monza?",
+      "options": [
+        "Germania",
+        "Lione – Saint-Étienne",
+        "stadio Brianteo"
+      ],
+      "answer": 2,
+      "explanation": "Wikidata collega AC Monza allo stadio stadio Brianteo.",
+      "source": "https://www.wikidata.org/wiki/Q289482",
+      "sourceName": "Wikidata (CC0)"
+    },
+    {
+      "id": "stadium-wd-Q289521",
+      "category": "Stadi leggendari",
+      "kind": "Stadi Wikidata",
+      "difficulty": 2,
+      "question": "Quale stadio è indicato da Wikidata come impianto di casa di Associazione Calcio Pavia 1911?",
+      "options": [
+        "Stadio Pietro Fortunati",
+        "Wayne Rooney",
+        "1996"
+      ],
+      "answer": 0,
+      "explanation": "Wikidata collega Associazione Calcio Pavia 1911 allo stadio Stadio Pietro Fortunati.",
+      "source": "https://www.wikidata.org/wiki/Q289521",
+      "sourceName": "Wikidata (CC0)"
+    },
+    {
+      "id": "stadium-wd-Q289613",
+      "category": "Stadi leggendari",
+      "kind": "Stadi Wikidata",
+      "difficulty": 2,
+      "question": "Quale stadio è indicato da Wikidata come impianto di casa di Pisa Sporting Club?",
+      "options": [
+        "Mestalla",
+        "Stadion An der Alten Försterei",
+        "stadio Arena Garibaldi-Romeo Anconetani"
+      ],
+      "answer": 2,
+      "explanation": "Wikidata collega Pisa Sporting Club allo stadio stadio Arena Garibaldi-Romeo Anconetani.",
+      "source": "https://www.wikidata.org/wiki/Q289613",
+      "sourceName": "Wikidata (CC0)"
+    },
+    {
+      "id": "stadium-wd-Q289656",
+      "category": "Stadi leggendari",
+      "kind": "Stadi Wikidata",
+      "difficulty": 2,
+      "question": "Quale stadio è indicato da Wikidata come impianto di casa di Associazione Calcio Prato?",
+      "options": [
+        "Selhurst Park",
+        "stadio Lungobisenzio",
+        "San Siro"
+      ],
+      "answer": 1,
+      "explanation": "Wikidata collega Associazione Calcio Prato allo stadio stadio Lungobisenzio.",
+      "source": "https://www.wikidata.org/wiki/Q289656",
+      "sourceName": "Wikidata (CC0)"
+    },
+    {
+      "id": "stadium-wd-Q2843679",
+      "category": "Stadi leggendari",
+      "kind": "Stadi Wikidata",
+      "difficulty": 2,
+      "question": "Quale stadio è indicato da Wikidata come impianto di casa di Unione Sportiva Città di Jesolo?",
+      "options": [
+        "Didier Drogba",
+        "stadio Armando Picchi",
+        "1965"
+      ],
+      "answer": 1,
+      "explanation": "Wikidata collega Unione Sportiva Città di Jesolo allo stadio stadio Armando Picchi.",
+      "source": "https://www.wikidata.org/wiki/Q2843679",
+      "sourceName": "Wikidata (CC0)"
+    },
+    {
+      "id": "stadium-wd-Q2868211",
+      "category": "Stadi leggendari",
+      "kind": "Stadi Wikidata",
+      "difficulty": 2,
+      "question": "Quale stadio è indicato da Wikidata come impianto di casa di Associazione Calcio Isola Liri?",
+      "options": [
+        "stadio Nazareth",
+        "Kybunpark",
+        "Derbi barceloní"
+      ],
+      "answer": 0,
+      "explanation": "Wikidata collega Associazione Calcio Isola Liri allo stadio stadio Nazareth.",
+      "source": "https://www.wikidata.org/wiki/Q2868211",
+      "sourceName": "Wikidata (CC0)"
+    },
+    {
+      "id": "stadium-wd-Q29390",
+      "category": "Stadi leggendari",
+      "kind": "Stadi Wikidata",
+      "difficulty": 2,
+      "question": "Quale stadio è indicato da Wikidata come impianto di casa di ACR Messina?",
+      "options": [
+        "Craven Cottage",
+        "stadio San Filippo-Franco Scoglio",
+        "Cechia"
+      ],
+      "answer": 1,
+      "explanation": "Wikidata collega ACR Messina allo stadio stadio San Filippo-Franco Scoglio.",
+      "source": "https://www.wikidata.org/wiki/Q29390",
+      "sourceName": "Wikidata (CC0)"
+    },
+    {
+      "id": "stadium-wd-Q29400",
+      "category": "Stadi leggendari",
+      "kind": "Stadi Wikidata",
+      "difficulty": 2,
+      "question": "Quale stadio è indicato da Wikidata come impianto di casa di Taranto FC 1927?",
+      "options": [
+        "Michel Platini",
+        "2000",
+        "stadio Erasmo Iacovone"
+      ],
+      "answer": 2,
+      "explanation": "Wikidata collega Taranto FC 1927 allo stadio stadio Erasmo Iacovone.",
+      "source": "https://www.wikidata.org/wiki/Q29400",
+      "sourceName": "Wikidata (CC0)"
+    },
+    {
+      "id": "stadium-wd-Q289696",
+      "category": "Stadi leggendari",
+      "kind": "Stadi Wikidata",
+      "difficulty": 2,
+      "question": "Quale stadio è indicato da Wikidata come impianto di casa di Sangiovannese 1927?",
+      "options": [
+        "BayArena",
+        "Stadio Virgilio Fedini",
+        "Inghilterra"
+      ],
+      "answer": 1,
+      "explanation": "Wikidata collega Sangiovannese 1927 allo stadio Stadio Virgilio Fedini.",
+      "source": "https://www.wikidata.org/wiki/Q289696",
+      "sourceName": "Wikidata (CC0)"
+    },
+    {
+      "id": "stadium-wd-Q289707",
+      "category": "Stadi leggendari",
+      "kind": "Stadi Wikidata",
+      "difficulty": 2,
+      "question": "Quale stadio è indicato da Wikidata come impianto di casa di AC Reggiana 1919?",
+      "options": [
+        "Edinson Cavani",
+        "Marsiglia",
+        "Mapei Stadium - Città del Tricolore"
+      ],
+      "answer": 2,
+      "explanation": "Wikidata collega AC Reggiana 1919 allo stadio Mapei Stadium - Città del Tricolore.",
+      "source": "https://www.wikidata.org/wiki/Q289707",
+      "sourceName": "Wikidata (CC0)"
+    },
+    {
+      "id": "stadium-wd-Q289713",
+      "category": "Stadi leggendari",
+      "kind": "Stadi Wikidata",
+      "difficulty": 2,
+      "question": "Quale stadio è indicato da Wikidata come impianto di casa di Rimini Football Club?",
+      "options": [
+        "Stadio Romeo Neri",
+        "Derbi madrileño",
+        "Stadio Via del Mare"
+      ],
+      "answer": 0,
+      "explanation": "Wikidata collega Rimini Football Club allo stadio Stadio Romeo Neri.",
+      "source": "https://www.wikidata.org/wiki/Q289713",
+      "sourceName": "Wikidata (CC0)"
+    },
+    {
+      "id": "stadium-wd-Q297430",
+      "category": "Stadi leggendari",
+      "kind": "Stadi Wikidata",
+      "difficulty": 2,
+      "question": "Quale stadio è indicato da Wikidata come impianto di casa di SS Arezzo?",
+      "options": [
+        "Istanbul",
+        "stadio Città di Arezzo",
+        "Clint Dempsey"
+      ],
+      "answer": 1,
+      "explanation": "Wikidata collega SS Arezzo allo stadio stadio Città di Arezzo.",
+      "source": "https://www.wikidata.org/wiki/Q297430",
+      "sourceName": "Wikidata (CC0)"
+    },
+    {
+      "id": "stadium-wd-Q297431",
+      "category": "Stadi leggendari",
+      "kind": "Stadi Wikidata",
+      "difficulty": 2,
+      "question": "Quale stadio è indicato da Wikidata come impianto di casa di Associazione Calcistica Dilettantistica Castel di Sangro Cep 1953?",
+      "options": [
+        "Corinthians – Palmeiras",
+        "Mapei Stadium - Città del Tricolore",
+        "stadio Teofilo Patini"
+      ],
+      "answer": 2,
+      "explanation": "Wikidata collega Associazione Calcistica Dilettantistica Castel di Sangro Cep 1953 allo stadio stadio Teofilo Patini.",
+      "source": "https://www.wikidata.org/wiki/Q297431",
+      "sourceName": "Wikidata (CC0)"
+    },
+    {
+      "id": "stadium-wd-Q297680",
+      "category": "Stadi leggendari",
+      "kind": "Stadi Wikidata",
+      "difficulty": 2,
+      "question": "Quale stadio è indicato da Wikidata come impianto di casa di Nocerina 1910?",
+      "options": [
+        "stadio San Francesco d'Assisi",
+        "Fontvieille",
+        "Porto"
+      ],
+      "answer": 0,
+      "explanation": "Wikidata collega Nocerina 1910 allo stadio stadio San Francesco d'Assisi.",
+      "source": "https://www.wikidata.org/wiki/Q297680",
+      "sourceName": "Wikidata (CC0)"
+    },
+    {
+      "id": "stadium-wd-Q298217",
+      "category": "Stadi leggendari",
+      "kind": "Stadi Wikidata",
+      "difficulty": 2,
+      "question": "Quale stadio è indicato da Wikidata come impianto di casa di US Avellino 1912?",
+      "options": [
+        "stadio Partenio-Adriano Lombardi",
+        "Clint Dempsey",
+        "Vigo"
+      ],
+      "answer": 0,
+      "explanation": "Wikidata collega US Avellino 1912 allo stadio stadio Partenio-Adriano Lombardi.",
+      "source": "https://www.wikidata.org/wiki/Q298217",
+      "sourceName": "Wikidata (CC0)"
+    },
+    {
+      "id": "stadium-wd-Q298314",
+      "category": "Stadi leggendari",
+      "kind": "Stadi Wikidata",
+      "difficulty": 2,
+      "question": "Quale stadio è indicato da Wikidata come impianto di casa di AS Gubbio 1910?",
+      "options": [
+        "1978",
+        "stadio Pietro Barbetti",
+        "Paesi Bassi"
+      ],
+      "answer": 1,
+      "explanation": "Wikidata collega AS Gubbio 1910 allo stadio stadio Pietro Barbetti.",
+      "source": "https://www.wikidata.org/wiki/Q298314",
+      "sourceName": "Wikidata (CC0)"
+    },
+    {
+      "id": "stadium-wd-Q298333",
+      "category": "Stadi leggendari",
+      "kind": "Stadi Wikidata",
+      "difficulty": 2,
+      "question": "Quale stadio è indicato da Wikidata come impianto di casa di Lucchese 1905?",
+      "options": [
+        "Stadio Luigi Ferraris",
+        "stadio Porta Elisa",
+        "Javier Hernández"
+      ],
+      "answer": 1,
+      "explanation": "Wikidata collega Lucchese 1905 allo stadio stadio Porta Elisa.",
+      "source": "https://www.wikidata.org/wiki/Q298333",
+      "sourceName": "Wikidata (CC0)"
+    },
+    {
+      "id": "stadium-wd-Q298392",
+      "category": "Stadi leggendari",
+      "kind": "Stadi Wikidata",
+      "difficulty": 2,
+      "question": "Quale stadio è indicato da Wikidata come impianto di casa di Associazione Sportiva Pescina Valle del Giovenco?",
+      "options": [
+        "stadio dei Marsi-Sandro Cimarra",
+        "Firenze",
+        "City Ground"
+      ],
+      "answer": 0,
+      "explanation": "Wikidata collega Associazione Sportiva Pescina Valle del Giovenco allo stadio stadio dei Marsi-Sandro Cimarra.",
+      "source": "https://www.wikidata.org/wiki/Q298392",
+      "sourceName": "Wikidata (CC0)"
+    },
+    {
+      "id": "stadium-wd-Q31821",
+      "category": "Stadi leggendari",
+      "kind": "Stadi Wikidata",
+      "difficulty": 2,
+      "question": "Quale stadio è indicato da Wikidata come impianto di casa di Feralpisalò?",
+      "options": [
+        "stadio Lino Turina",
+        "Allianz Arena",
+        "Derby della Svizzera"
+      ],
+      "answer": 0,
+      "explanation": "Wikidata collega Feralpisalò allo stadio stadio Lino Turina.",
+      "source": "https://www.wikidata.org/wiki/Q31821",
+      "sourceName": "Wikidata (CC0)"
+    },
+    {
+      "id": "stadium-wd-Q339596",
+      "category": "Stadi leggendari",
+      "kind": "Stadi Wikidata",
+      "difficulty": 2,
+      "question": "Quale stadio è indicato da Wikidata come impianto di casa di Giulianova Calcio?",
+      "options": [
+        "stadio Rubens Fadini",
+        "Porto",
+        "Parc des Princes"
+      ],
+      "answer": 0,
+      "explanation": "Wikidata collega Giulianova Calcio allo stadio stadio Rubens Fadini.",
+      "source": "https://www.wikidata.org/wiki/Q339596",
+      "sourceName": "Wikidata (CC0)"
+    },
+    {
+      "id": "stadium-wd-Q3304997",
+      "category": "Stadi leggendari",
+      "kind": "Stadi Wikidata",
+      "difficulty": 2,
+      "question": "Quale stadio è indicato da Wikidata come impianto di casa di Società Sportiva Tivoli Calcio 1919?",
+      "options": [
+        "1969",
+        "stadio Olindo Galli",
+        "Dortmund"
+      ],
+      "answer": 1,
+      "explanation": "Wikidata collega Società Sportiva Tivoli Calcio 1919 allo stadio stadio Olindo Galli.",
+      "source": "https://www.wikidata.org/wiki/Q3304997",
+      "sourceName": "Wikidata (CC0)"
+    },
+    {
+      "id": "stadium-wd-Q3391284",
+      "category": "Stadi leggendari",
+      "kind": "Stadi Wikidata",
+      "difficulty": 2,
+      "question": "Quale stadio è indicato da Wikidata come impianto di casa di Football Club Messina?",
+      "options": [
+        "stadio San Filippo-Franco Scoglio",
+        "San Siro",
+        "Inter – Juventus"
+      ],
+      "answer": 0,
+      "explanation": "Wikidata collega Football Club Messina allo stadio stadio San Filippo-Franco Scoglio.",
+      "source": "https://www.wikidata.org/wiki/Q3391284",
+      "sourceName": "Wikidata (CC0)"
+    },
+    {
+      "id": "stadium-wd-Q3394275",
+      "category": "Stadi leggendari",
+      "kind": "Stadi Wikidata",
+      "difficulty": 2,
+      "question": "Quale stadio è indicato da Wikidata come impianto di casa di Campobasso Football Club?",
+      "options": [
+        "Stadio Antonio Molinari",
+        "Lens",
+        "Manchester derby"
+      ],
+      "answer": 0,
+      "explanation": "Wikidata collega Campobasso Football Club allo stadio Stadio Antonio Molinari.",
+      "source": "https://www.wikidata.org/wiki/Q3394275",
+      "sourceName": "Wikidata (CC0)"
+    },
+    {
+      "id": "stadium-wd-Q3395169",
+      "category": "Stadi leggendari",
+      "kind": "Stadi Wikidata",
+      "difficulty": 2,
+      "question": "Quale stadio è indicato da Wikidata come impianto di casa di Juventus Football Club Primavera?",
+      "options": [
+        "Newcastle United – Sunderland",
+        "Pamplona",
+        "Juventus Training Center"
+      ],
+      "answer": 2,
+      "explanation": "Wikidata collega Juventus Football Club Primavera allo stadio Juventus Training Center.",
+      "source": "https://www.wikidata.org/wiki/Q3395169",
+      "sourceName": "Wikidata (CC0)"
+    },
+    {
+      "id": "stadium-wd-Q3468767",
+      "category": "Stadi leggendari",
+      "kind": "Stadi Wikidata",
+      "difficulty": 2,
+      "question": "Quale stadio è indicato da Wikidata come impianto di casa di Associazione Calcio Gozzano?",
+      "options": [
+        "Southampton",
+        "stadio Alberto Allesina",
+        "Newcastle"
+      ],
+      "answer": 1,
+      "explanation": "Wikidata collega Associazione Calcio Gozzano allo stadio stadio Alberto Allesina.",
+      "source": "https://www.wikidata.org/wiki/Q3468767",
+      "sourceName": "Wikidata (CC0)"
+    }
+  ]
+}

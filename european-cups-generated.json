@@ -4,133 +4,133 @@
     "attempted": 26,
     "succeeded": 24,
     "failed": 2,
-    "newQuestions": 431,
-    "preserved": 0,
+    "newQuestions": 0,
+    "preserved": 431,
     "byCompetition": {
-      "Champions League": 270,
-      "Europa League": 89,
-      "Conference League": 72
+      "Champions League": 0,
+      "Europa League": 0,
+      "Conference League": 0
     },
     "perSeason": [
       {
         "competition": "Champions League",
         "season": "2011-12",
-        "newQuestions": 18
+        "newQuestions": 0
       },
       {
         "competition": "Champions League",
         "season": "2012-13",
-        "newQuestions": 18
-      },
-      {
-        "competition": "Champions League",
-        "season": "2013-14",
-        "newQuestions": 18
-      },
-      {
-        "competition": "Champions League",
-        "season": "2016-17",
-        "newQuestions": 18
+        "newQuestions": 0
       },
       {
         "competition": "Champions League",
         "season": "2014-15",
-        "newQuestions": 18
+        "newQuestions": 0
+      },
+      {
+        "competition": "Champions League",
+        "season": "2013-14",
+        "newQuestions": 0
       },
       {
         "competition": "Champions League",
         "season": "2015-16",
-        "newQuestions": 18
+        "newQuestions": 0
       },
       {
         "competition": "Champions League",
-        "season": "2019-20",
-        "newQuestions": 18
+        "season": "2016-17",
+        "newQuestions": 0
       },
       {
         "competition": "Champions League",
         "season": "2017-18",
-        "newQuestions": 18
+        "newQuestions": 0
       },
       {
         "competition": "Champions League",
         "season": "2018-19",
-        "newQuestions": 18
+        "newQuestions": 0
+      },
+      {
+        "competition": "Champions League",
+        "season": "2019-20",
+        "newQuestions": 0
       },
       {
         "competition": "Champions League",
         "season": "2021-22",
-        "newQuestions": 18
+        "newQuestions": 0
       },
       {
         "competition": "Champions League",
         "season": "2020-21",
-        "newQuestions": 18
+        "newQuestions": 0
       },
       {
         "competition": "Champions League",
         "season": "2022-23",
-        "newQuestions": 18
+        "newQuestions": 0
       },
       {
         "competition": "Champions League",
         "season": "2023-24",
-        "newQuestions": 18
+        "newQuestions": 0
+      },
+      {
+        "competition": "Champions League",
+        "season": "2024-25",
+        "newQuestions": 0
       },
       {
         "competition": "Champions League",
         "season": "2025-26",
-        "newQuestions": 18
-      },
-      {
-        "competition": "Champions League",
-        "season": "2024-25",
-        "newQuestions": 18
-      },
-      {
-        "competition": "Europa League",
-        "season": "2021-22",
-        "newQuestions": 17
-      },
-      {
-        "competition": "Europa League",
-        "season": "2022-23",
-        "newQuestions": 18
+        "newQuestions": 0
       },
       {
         "competition": "Europa League",
         "season": "2020-21",
-        "newQuestions": 18
+        "newQuestions": 0
       },
       {
         "competition": "Europa League",
-        "season": "2024-25",
-        "newQuestions": 18
+        "season": "2021-22",
+        "newQuestions": 0
+      },
+      {
+        "competition": "Europa League",
+        "season": "2022-23",
+        "newQuestions": 0
       },
       {
         "competition": "Europa League",
         "season": "2023-24",
-        "newQuestions": 18
+        "newQuestions": 0
       },
       {
-        "competition": "Conference League",
-        "season": "2022-23",
-        "newQuestions": 18
+        "competition": "Europa League",
+        "season": "2024-25",
+        "newQuestions": 0
       },
       {
         "competition": "Conference League",
         "season": "2021-22",
-        "newQuestions": 18
+        "newQuestions": 0
       },
       {
         "competition": "Conference League",
         "season": "2023-24",
-        "newQuestions": 18
+        "newQuestions": 0
+      },
+      {
+        "competition": "Conference League",
+        "season": "2022-23",
+        "newQuestions": 0
       },
       {
         "competition": "Conference League",
         "season": "2024-25",
-        "newQuestions": 18
+        "newQuestions": 0
       }
     ]
   },

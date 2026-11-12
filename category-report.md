@@ -2,7 +2,7 @@
 
 Versione generatore: **3.3.4**
 
-Totale sorgenti lette: **35806** · Domande valide, uniche e giocabili: **35740**
+Totale sorgenti lette: **36360** · Domande valide, uniche e giocabili: **36294**
 
 Filtrate per tipo non desiderato: **6** · Duplicati: **60** · Non valide: **0**
 
@@ -28,17 +28,17 @@ Filtrate per tipo non desiderato: **6** · Duplicati: **60** · Non valide: **0*
 | Coppe e tornei | Europei e nazionali | 17 | 2000 | 1983 | Da ampliare |
 | Coppe e tornei | Marcatori dei Mondiali | 0 | 2000 | 2000 | Da ampliare |
 | Coppe e tornei | Coppa Svizzera | 0 | 2000 | 2000 | Da ampliare |
-| Protagonisti e storia | Pallone d’Oro | 126 | 2000 | 1874 | Da ampliare |
+| Protagonisti e storia | Pallone d’Oro | 174 | 2000 | 1826 | Da ampliare |
 | Protagonisti e storia | Calciatori nel mondo | 30934 | 2000 | 0 | OK |
 | Protagonisti e storia | Calciatori leggendari | 51 | 2000 | 1949 | Da ampliare |
 | Protagonisti e storia | Leggende | 12 | 2000 | 1988 | Da ampliare |
-| Protagonisti e storia | Leggende del calcio | 199 | 2000 | 1801 | Da ampliare |
+| Protagonisti e storia | Leggende del calcio | 225 | 2000 | 1775 | Da ampliare |
 | Protagonisti e storia | Allenatori e tecnici | 699 | 2000 | 1301 | Da ampliare |
 | Protagonisti e storia | Allenatori storici | 84 | 2000 | 1916 | Da ampliare |
 | Protagonisti e storia | Nazionale italiana | 6 | 2000 | 1994 | Da ampliare |
-| Altro | Stadi leggendari | 60 | 2000 | 1940 | Da ampliare |
+| Altro | Stadi leggendari | 405 | 2000 | 1595 | Da ampliare |
 | Altro | Curiosità | 10 | 2000 | 1990 | Da ampliare |
-| Altro | Derby e rivalità | 39 | 2000 | 1961 | Da ampliare |
+| Altro | Derby e rivalità | 174 | 2000 | 1826 | Da ampliare |
 | Altro | Grandi club | 0 | 2000 | 2000 | Da ampliare |
 | Altro | Europa | 10 | 2000 | 1990 | Da ampliare |
 | Categorie aggiuntive | 2. Bundesliga tedesca | 133 | 2000 | 1867 | Da ampliare |
@@ -63,6 +63,8 @@ Filtrate per tipo non desiderato: **6** · Duplicati: **60** · Non valide: **0*
 - deep-history.json: 350 elementi
 - competition-history-generated.json: 805 elementi
 - european-cups-generated.json: 431 elementi
+- themed-generated.json: 431 elementi
+- stadiums-wikidata-generated.json: 123 elementi
 
 ## Criterio di qualità
 

@@ -1,6 +1,6 @@
 {
   "version": "3.3.4",
-  "generatedAt": "2026-11-12T13:38:09.398Z",
+  "generatedAt": "2026-11-12T14:02:23.012Z",
   "minimumPerCategory": 2000,
   "sourceStats": {
     "questions.json": {
@@ -50,10 +50,18 @@
     "european-cups-generated.json": {
       "present": true,
       "loaded": 431
+    },
+    "themed-generated.json": {
+      "present": true,
+      "loaded": 431
+    },
+    "stadiums-wikidata-generated.json": {
+      "present": true,
+      "loaded": 123
     }
   },
-  "rawCount": 35806,
-  "validUniquePlayable": 35740,
+  "rawCount": 36360,
+  "validUniquePlayable": 36294,
   "filteredByKind": 6,
   "invalid": 0,
   "duplicates": 60,
@@ -95,7 +103,7 @@
     "Club e stadi": 122,
     "Rivalità storiche": 28,
     "Leggende e club": 92,
-    "Leggende e nazionali": 92,
+    "Leggende e nazionali": 118,
     "Allenatori campioni": 22,
     "Finali storiche": 38,
     "Grandi marcatori": 20,
@@ -116,7 +124,15 @@
     "Protagonisti delle finali": 85,
     "Percorso nelle fasi finali": 68,
     "Incroci nelle coppe europee": 359,
-    "Percorsi nelle coppe europee": 72
+    "Percorsi nelle coppe europee": 72,
+    "Stadi e club": 74,
+    "Geografia dei derby": 45,
+    "Nomi delle rivalità": 45,
+    "Geografia degli stadi": 74,
+    "Paesi e stadi": 74,
+    "Derby storici": 45,
+    "Cronologia Pallone d’Oro": 48,
+    "Stadi Wikidata": 123
   },
   "categories": [
     {
@@ -266,9 +282,9 @@
     {
       "group": "Protagonisti e storia",
       "category": "Pallone d’Oro",
-      "available": 126,
+      "available": 174,
       "target": 2000,
-      "missing": 1874,
+      "missing": 1826,
       "met": false
     },
     {
@@ -298,9 +314,9 @@
     {
       "group": "Protagonisti e storia",
       "category": "Leggende del calcio",
-      "available": 199,
+      "available": 225,
       "target": 2000,
-      "missing": 1801,
+      "missing": 1775,
       "met": false
     },
     {
@@ -330,9 +346,9 @@
     {
       "group": "Altro",
       "category": "Stadi leggendari",
-      "available": 60,
+      "available": 405,
       "target": 2000,
-      "missing": 1940,
+      "missing": 1595,
       "met": false
     },
     {
@@ -346,9 +362,9 @@
     {
       "group": "Altro",
       "category": "Derby e rivalità",
-      "available": 39,
+      "available": 174,
       "target": 2000,
-      "missing": 1961,
+      "missing": 1826,
       "met": false
     },
     {

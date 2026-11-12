@@ -3,8 +3,8 @@
   "stats": {
     "sourcesSucceeded": 39,
     "sourcesFailed": 0,
-    "newQuestions": 304,
-    "retained": 501,
+    "newQuestions": 0,
+    "retained": 805,
     "byCategory": {
       "Stadi leggendari": 35,
       "Mondiali": 492,
@@ -17,12 +17,12 @@
         "questions": 9
       },
       {
-        "year": 1934,
+        "year": 1938,
         "competition": "Mondiali",
         "questions": 22
       },
       {
-        "year": 1938,
+        "year": 1934,
         "competition": "Mondiali",
         "questions": 22
       },
@@ -62,19 +62,14 @@
         "questions": 3
       },
       {
-        "year": 1986,
+        "year": 1978,
         "competition": "Mondiali",
-        "questions": 34
+        "questions": 3
       },
       {
         "year": 1982,
         "competition": "Mondiali",
         "questions": 6
-      },
-      {
-        "year": 1978,
-        "competition": "Mondiali",
-        "questions": 3
       },
       {
         "year": 1990,
@@ -87,7 +82,7 @@
         "questions": 34
       },
       {
-        "year": 1998,
+        "year": 1986,
         "competition": "Mondiali",
         "questions": 34
       },
@@ -100,6 +95,11 @@
         "year": 2006,
         "competition": "Mondiali",
         "questions": 38
+      },
+      {
+        "year": 1998,
+        "competition": "Mondiali",
+        "questions": 34
       },
       {
         "year": 2010,
@@ -122,22 +122,17 @@
         "questions": 37
       },
       {
-        "year": 1964,
-        "competition": "Europei",
-        "questions": 7
-      },
-      {
         "year": 1968,
         "competition": "Europei",
         "questions": 8
       },
       {
-        "year": 1960,
+        "year": 1964,
         "competition": "Europei",
         "questions": 7
       },
       {
-        "year": 1976,
+        "year": 1960,
         "competition": "Europei",
         "questions": 7
       },
@@ -152,14 +147,24 @@
         "questions": 9
       },
       {
-        "year": 1984,
+        "year": 1976,
         "competition": "Europei",
-        "questions": 10
+        "questions": 7
       },
       {
         "year": 1988,
         "competition": "Europei",
         "questions": 10
+      },
+      {
+        "year": 1984,
+        "competition": "Europei",
+        "questions": 10
+      },
+      {
+        "year": 2000,
+        "competition": "Europei",
+        "questions": 20
       },
       {
         "year": 1992,
@@ -172,11 +177,6 @@
         "questions": 22
       },
       {
-        "year": 2000,
-        "competition": "Europei",
-        "questions": 20
-      },
-      {
         "year": 2004,
         "competition": "Europei",
         "questions": 21
@@ -187,14 +187,14 @@
         "questions": 21
       },
       {
-        "year": 2012,
-        "competition": "Europei",
-        "questions": 21
-      },
-      {
         "year": 2016,
         "competition": "Europei",
         "questions": 37
+      },
+      {
+        "year": 2012,
+        "competition": "Europei",
+        "questions": 21
       },
       {
         "year": 2021,
