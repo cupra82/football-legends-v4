@@ -1,4 +1,4 @@
-name: V4 - MEGA ampliamento storico (tutte le coppe)
+name: V4 - MEGA archivio unico (coppe, stadi, leggende e premi)
 on:
   workflow_dispatch:
   schedule:
@@ -29,6 +29,13 @@ jobs:
         env:
           FL_CUP_BUDGET_MS: '300000'
         run: node scripts/build-european-cups.js
+      - name: Integra stadi, derby, leggende e premi curati
+        run: node scripts/build-themed-archive.js
+      - name: Scopri nuovi stadi dai club Wikidata (limiti e checkpoint)
+        env:
+          FL_STADIUM_BUDGET_MS: '160000'
+          FL_STADIUM_CLUBS_PER_RUN: '500'
+        run: node scripts/build-v4-stadiums.js
       - name: Verifica categorie e formati
         run: node scripts/audit-categories.js
       - name: Riepilogo per categoria
@@ -36,13 +43,13 @@ jobs:
           node - <<'JS'
           const r=require('./category-report.json');
           console.log('DOMANDE VALIDE TOTALE:',r.validUniquePlayable);
-          for(const c of r.categories.filter(x=>['Mondiali','Europei e nazionali','Champions League','Coppe europee','Stadi leggendari'].includes(x.category)))console.log(c.category, c.available);
+          for(const c of r.categories.filter(x=>['Mondiali','Europei','Champions League','Coppe europee','Stadi leggendari','Derby e rivalità','Leggende del calcio','Pallone d’Oro'].includes(x.category)))console.log(c.category, c.available);
           JS
       - name: Pubblica SOLO le domande effettivamente modificate
         run: |
           git config user.name 'football-legends-v4-bot'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
-          git add competition-history-generated.json european-cups-generated.json category-report.json category-report.md
+          git add competition-history-generated.json european-cups-generated.json themed-generated.json stadiums-wikidata-generated.json stadiums-wikidata-progress.json category-report.json category-report.md
           if ! git diff --cached --quiet; then
             git commit -m 'V4: archivio storico integrato coppe e nazionali'
             git pull --rebase origin main

@@ -1,8 +1,8 @@
 {
   "name": "football-legends-v4-lab",
-  "version": "4.2.0-lab",
+  "version": "4.4.0-lab",
   "private": true,
-  "description": "Football Legends 4.0.4 — Arena, Tornei, Ranked e Rush (LAB)",
+  "description": "Football Legends V4.4 \u2014 domande storiche, stadi, derby, premi e leggende + desktop multiplayer",
   "scripts": {
     "start": "node server.js"
   },
