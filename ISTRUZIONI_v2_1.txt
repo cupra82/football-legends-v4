@@ -1,0 +1,18 @@
+FOOTBALL LEGENDS v2.1 — CATEGORIE CON IMMAGINI
+
+NOVITÀ
+- Tutte le categorie diventano schede fotografiche selezionabili.
+- Immagini locali dentro assets/categories, senza connessioni a servizi fotografici.
+- Foto/illustrazioni originali generate per il gioco; non sono fotografie documentarie ufficiali.
+- Prima di una sfida multiplayer l’organizzatore vede anche l’anteprima dell’immagine della categoria.
+
+INSTALLAZIONE
+1. In GitHub Desktop: Fetch origin e Pull origin se richiesto.
+2. Repository > Show in Explorer.
+3. Estrai questo ZIP e copia TUTTI i file e cartelle nella radice del repository (inclusa assets/categories).
+4. NON cancellare questions-generated.json e people-generated.json già presenti.
+5. GitHub Desktop: Commit to main > Push origin.
+6. Verifica che Render completi il deploy, poi CTRL+SHIFT+R sul browser.
+7. NON serve Run workflow: cambiano solo grafica e immagini.
+
+NOTA: nelle opzioni della stanza già aperta, il menu a tendina resta testuale per l'accessibilità; compare sotto l'immagine della categoria scelta.

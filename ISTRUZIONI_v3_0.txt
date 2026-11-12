@@ -1,0 +1,11 @@
+FOOTBALL LEGENDS 3.0 — MENU SEMPLIFICATO
+
+1. GitHub Desktop: Fetch/Pull origin
+2. Estrai ZIP e copia TUTTI i file e cartelle nella cartella del repository, sostituendo i file esistenti
+3. Commit to main (Summary: Football Legends 3.0 - 12 grandi categorie)
+4. Push origin e verifica Render Live
+5. Ricarica la pagina con Ctrl+Shift+R
+
+Non devi fare Run workflow: questa versione raggruppa domande esistenti.
+NON cancellare questions-generated.json e people-generated.json dal repository.
+Il numero reale di domande per categoria dipende dagli archivi presenti nel repository.

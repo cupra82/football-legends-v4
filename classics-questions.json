@@ -1,0 +1,2342 @@
+[
+  {
+    "id": "classic-6604644283cc385",
+    "category": "Mondiali",
+    "kind": "Campioni del mondo",
+    "difficulty": 1,
+    "question": "Quale nazionale vinse i Mondiali del 1930?",
+    "options": [
+      "Germania Ovest",
+      "Uruguay",
+      "Francia"
+    ],
+    "answer": 1,
+    "explanation": "Il titolo mondiale del 1930 fu conquistato da Uruguay.",
+    "source": "https://www.fifa.com/en/tournaments/mens/worldcup"
+  },
+  {
+    "id": "classic-305a689fae308c4",
+    "category": "Mondiali",
+    "kind": "Campioni del mondo",
+    "difficulty": 1,
+    "question": "Quale nazionale vinse i Mondiali del 1934?",
+    "options": [
+      "Inghilterra",
+      "Francia",
+      "Italia"
+    ],
+    "answer": 2,
+    "explanation": "Il titolo mondiale del 1934 fu conquistato da Italia.",
+    "source": "https://www.fifa.com/en/tournaments/mens/worldcup"
+  },
+  {
+    "id": "classic-6e8b731a42cad1d",
+    "category": "Mondiali",
+    "kind": "Campioni del mondo",
+    "difficulty": 1,
+    "question": "Quale nazionale vinse i Mondiali del 1938?",
+    "options": [
+      "Italia",
+      "Inghilterra",
+      "Paesi Bassi"
+    ],
+    "answer": 0,
+    "explanation": "Il titolo mondiale del 1938 fu conquistato da Italia.",
+    "source": "https://www.fifa.com/en/tournaments/mens/worldcup"
+  },
+  {
+    "id": "classic-6742f5ad9b88bb9",
+    "category": "Mondiali",
+    "kind": "Campioni del mondo",
+    "difficulty": 1,
+    "question": "Quale nazionale vinse i Mondiali del 1950?",
+    "options": [
+      "Paesi Bassi",
+      "Uruguay",
+      "Francia"
+    ],
+    "answer": 1,
+    "explanation": "Il titolo mondiale del 1950 fu conquistato da Uruguay.",
+    "source": "https://www.fifa.com/en/tournaments/mens/worldcup"
+  },
+  {
+    "id": "classic-6f042e8411b7abb",
+    "category": "Mondiali",
+    "kind": "Campioni del mondo",
+    "difficulty": 1,
+    "question": "Quale nazionale vinse i Mondiali del 1954?",
+    "options": [
+      "Germania Ovest",
+      "Germania",
+      "Uruguay"
+    ],
+    "answer": 0,
+    "explanation": "Il titolo mondiale del 1954 fu conquistato da Germania Ovest.",
+    "source": "https://www.fifa.com/en/tournaments/mens/worldcup"
+  },
+  {
+    "id": "classic-8366aec541339ee",
+    "category": "Mondiali",
+    "kind": "Campioni del mondo",
+    "difficulty": 1,
+    "question": "Quale nazionale vinse i Mondiali del 1958?",
+    "options": [
+      "Brasile",
+      "Paesi Bassi",
+      "Uruguay"
+    ],
+    "answer": 0,
+    "explanation": "Il titolo mondiale del 1958 fu conquistato da Brasile.",
+    "source": "https://www.fifa.com/en/tournaments/mens/worldcup"
+  },
+  {
+    "id": "classic-327e190c1aa9dbb",
+    "category": "Mondiali",
+    "kind": "Campioni del mondo",
+    "difficulty": 1,
+    "question": "Quale nazionale vinse i Mondiali del 1962?",
+    "options": [
+      "Brasile",
+      "Francia",
+      "Argentina"
+    ],
+    "answer": 0,
+    "explanation": "Il titolo mondiale del 1962 fu conquistato da Brasile.",
+    "source": "https://www.fifa.com/en/tournaments/mens/worldcup"
+  },
+  {
+    "id": "classic-c95c9785f97df79",
+    "category": "Mondiali",
+    "kind": "Campioni del mondo",
+    "difficulty": 1,
+    "question": "Quale nazionale vinse i Mondiali del 1966?",
+    "options": [
+      "Germania",
+      "Italia",
+      "Inghilterra"
+    ],
+    "answer": 2,
+    "explanation": "Il titolo mondiale del 1966 fu conquistato da Inghilterra.",
+    "source": "https://www.fifa.com/en/tournaments/mens/worldcup"
+  },
+  {
+    "id": "classic-1d47e4f0d821dc4",
+    "category": "Mondiali",
+    "kind": "Campioni del mondo",
+    "difficulty": 1,
+    "question": "Quale nazionale vinse i Mondiali del 1970?",
+    "options": [
+      "Francia",
+      "Uruguay",
+      "Brasile"
+    ],
+    "answer": 2,
+    "explanation": "Il titolo mondiale del 1970 fu conquistato da Brasile.",
+    "source": "https://www.fifa.com/en/tournaments/mens/worldcup"
+  },
+  {
+    "id": "classic-b36cb8a964abf9d",
+    "category": "Mondiali",
+    "kind": "Campioni del mondo",
+    "difficulty": 1,
+    "question": "Quale nazionale vinse i Mondiali del 1974?",
+    "options": [
+      "Argentina",
+      "Germania Ovest",
+      "Italia"
+    ],
+    "answer": 1,
+    "explanation": "Il titolo mondiale del 1974 fu conquistato da Germania Ovest.",
+    "source": "https://www.fifa.com/en/tournaments/mens/worldcup"
+  },
+  {
+    "id": "classic-c49005be1f82013",
+    "category": "Mondiali",
+    "kind": "Campioni del mondo",
+    "difficulty": 1,
+    "question": "Quale nazionale vinse i Mondiali del 1978?",
+    "options": [
+      "Brasile",
+      "Germania Ovest",
+      "Argentina"
+    ],
+    "answer": 2,
+    "explanation": "Il titolo mondiale del 1978 fu conquistato da Argentina.",
+    "source": "https://www.fifa.com/en/tournaments/mens/worldcup"
+  },
+  {
+    "id": "classic-93d2e3dd78a9c52",
+    "category": "Mondiali",
+    "kind": "Campioni del mondo",
+    "difficulty": 1,
+    "question": "Quale nazionale vinse i Mondiali del 1982?",
+    "options": [
+      "Brasile",
+      "Italia",
+      "Argentina"
+    ],
+    "answer": 1,
+    "explanation": "Il titolo mondiale del 1982 fu conquistato da Italia.",
+    "source": "https://www.fifa.com/en/tournaments/mens/worldcup"
+  },
+  {
+    "id": "classic-38662713c4147e2",
+    "category": "Mondiali",
+    "kind": "Campioni del mondo",
+    "difficulty": 1,
+    "question": "Quale nazionale vinse i Mondiali del 1986?",
+    "options": [
+      "Argentina",
+      "Brasile",
+      "Inghilterra"
+    ],
+    "answer": 0,
+    "explanation": "Il titolo mondiale del 1986 fu conquistato da Argentina.",
+    "source": "https://www.fifa.com/en/tournaments/mens/worldcup"
+  },
+  {
+    "id": "classic-2950fffdc057160",
+    "category": "Mondiali",
+    "kind": "Campioni del mondo",
+    "difficulty": 1,
+    "question": "Quale nazionale vinse i Mondiali del 1990?",
+    "options": [
+      "Germania Ovest",
+      "Italia",
+      "Inghilterra"
+    ],
+    "answer": 0,
+    "explanation": "Il titolo mondiale del 1990 fu conquistato da Germania Ovest.",
+    "source": "https://www.fifa.com/en/tournaments/mens/worldcup"
+  },
+  {
+    "id": "classic-a8e55223a3759f4",
+    "category": "Mondiali",
+    "kind": "Campioni del mondo",
+    "difficulty": 1,
+    "question": "Quale nazionale vinse i Mondiali del 1994?",
+    "options": [
+      "Paesi Bassi",
+      "Germania",
+      "Brasile"
+    ],
+    "answer": 2,
+    "explanation": "Il titolo mondiale del 1994 fu conquistato da Brasile.",
+    "source": "https://www.fifa.com/en/tournaments/mens/worldcup"
+  },
+  {
+    "id": "classic-59f149c730f37bb",
+    "category": "Mondiali",
+    "kind": "Campioni del mondo",
+    "difficulty": 1,
+    "question": "Quale nazionale vinse i Mondiali del 1998?",
+    "options": [
+      "Francia",
+      "Argentina",
+      "Uruguay"
+    ],
+    "answer": 0,
+    "explanation": "Il titolo mondiale del 1998 fu conquistato da Francia.",
+    "source": "https://www.fifa.com/en/tournaments/mens/worldcup"
+  },
+  {
+    "id": "classic-a43c91a243686a3",
+    "category": "Mondiali",
+    "kind": "Campioni del mondo",
+    "difficulty": 1,
+    "question": "Quale nazionale vinse i Mondiali del 2002?",
+    "options": [
+      "Brasile",
+      "Spagna",
+      "Italia"
+    ],
+    "answer": 0,
+    "explanation": "Il titolo mondiale del 2002 fu conquistato da Brasile.",
+    "source": "https://www.fifa.com/en/tournaments/mens/worldcup"
+  },
+  {
+    "id": "classic-ab05ab829935e9c",
+    "category": "Mondiali",
+    "kind": "Campioni del mondo",
+    "difficulty": 1,
+    "question": "Quale nazionale vinse i Mondiali del 2006?",
+    "options": [
+      "Italia",
+      "Paesi Bassi",
+      "Germania Ovest"
+    ],
+    "answer": 0,
+    "explanation": "Il titolo mondiale del 2006 fu conquistato da Italia.",
+    "source": "https://www.fifa.com/en/tournaments/mens/worldcup"
+  },
+  {
+    "id": "classic-b289aac799eef98",
+    "category": "Mondiali",
+    "kind": "Campioni del mondo",
+    "difficulty": 1,
+    "question": "Quale nazionale vinse i Mondiali del 2010?",
+    "options": [
+      "Argentina",
+      "Spagna",
+      "Germania"
+    ],
+    "answer": 1,
+    "explanation": "Il titolo mondiale del 2010 fu conquistato da Spagna.",
+    "source": "https://www.fifa.com/en/tournaments/mens/worldcup"
+  },
+  {
+    "id": "classic-95d8fed67468133",
+    "category": "Mondiali",
+    "kind": "Campioni del mondo",
+    "difficulty": 1,
+    "question": "Quale nazionale vinse i Mondiali del 2014?",
+    "options": [
+      "Spagna",
+      "Germania",
+      "Inghilterra"
+    ],
+    "answer": 1,
+    "explanation": "Il titolo mondiale del 2014 fu conquistato da Germania.",
+    "source": "https://www.fifa.com/en/tournaments/mens/worldcup"
+  },
+  {
+    "id": "classic-239e84d12f5d337",
+    "category": "Mondiali",
+    "kind": "Campioni del mondo",
+    "difficulty": 1,
+    "question": "Quale nazionale vinse i Mondiali del 2018?",
+    "options": [
+      "Francia",
+      "Argentina",
+      "Paesi Bassi"
+    ],
+    "answer": 0,
+    "explanation": "Il titolo mondiale del 2018 fu conquistato da Francia.",
+    "source": "https://www.fifa.com/en/tournaments/mens/worldcup"
+  },
+  {
+    "id": "classic-d052b9a0e3a7781",
+    "category": "Mondiali",
+    "kind": "Campioni del mondo",
+    "difficulty": 1,
+    "question": "Quale nazionale vinse i Mondiali del 2022?",
+    "options": [
+      "Argentina",
+      "Paesi Bassi",
+      "Inghilterra"
+    ],
+    "answer": 0,
+    "explanation": "Il titolo mondiale del 2022 fu conquistato da Argentina.",
+    "source": "https://www.fifa.com/en/tournaments/mens/worldcup"
+  },
+  {
+    "id": "classic-43d0795a87984ba",
+    "category": "Europei e nazionali",
+    "kind": "Campioni d’Europa",
+    "difficulty": 1,
+    "question": "Chi vinse il Campionato Europeo per nazionali del 1960?",
+    "options": [
+      "Unione Sovietica",
+      "Cecoslovacchia",
+      "Spagna"
+    ],
+    "answer": 0,
+    "explanation": "La nazionale vincitrice dell’Europeo 1960 fu Unione Sovietica.",
+    "source": "https://www.uefa.com/uefaeuro/history/"
+  },
+  {
+    "id": "classic-2df3750b3328628",
+    "category": "Europei e nazionali",
+    "kind": "Campioni d’Europa",
+    "difficulty": 1,
+    "question": "Chi vinse il Campionato Europeo per nazionali del 1964?",
+    "options": [
+      "Inghilterra",
+      "Spagna",
+      "Portogallo"
+    ],
+    "answer": 1,
+    "explanation": "La nazionale vincitrice dell’Europeo 1964 fu Spagna.",
+    "source": "https://www.uefa.com/uefaeuro/history/"
+  },
+  {
+    "id": "classic-00770ef2325bfcc",
+    "category": "Europei e nazionali",
+    "kind": "Campioni d’Europa",
+    "difficulty": 1,
+    "question": "Chi vinse il Campionato Europeo per nazionali del 1968?",
+    "options": [
+      "Grecia",
+      "Italia",
+      "Portogallo"
+    ],
+    "answer": 1,
+    "explanation": "La nazionale vincitrice dell’Europeo 1968 fu Italia.",
+    "source": "https://www.uefa.com/uefaeuro/history/"
+  },
+  {
+    "id": "classic-77f48c67fd9bcf4",
+    "category": "Europei e nazionali",
+    "kind": "Campioni d’Europa",
+    "difficulty": 1,
+    "question": "Chi vinse il Campionato Europeo per nazionali del 1972?",
+    "options": [
+      "Cecoslovacchia",
+      "Germania Ovest",
+      "Spagna"
+    ],
+    "answer": 1,
+    "explanation": "La nazionale vincitrice dell’Europeo 1972 fu Germania Ovest.",
+    "source": "https://www.uefa.com/uefaeuro/history/"
+  },
+  {
+    "id": "classic-92d4f987d9f4706",
+    "category": "Europei e nazionali",
+    "kind": "Campioni d’Europa",
+    "difficulty": 1,
+    "question": "Chi vinse il Campionato Europeo per nazionali del 1976?",
+    "options": [
+      "Cecoslovacchia",
+      "Francia",
+      "Germania"
+    ],
+    "answer": 0,
+    "explanation": "La nazionale vincitrice dell’Europeo 1976 fu Cecoslovacchia.",
+    "source": "https://www.uefa.com/uefaeuro/history/"
+  },
+  {
+    "id": "classic-348cd0da281c56a",
+    "category": "Europei e nazionali",
+    "kind": "Campioni d’Europa",
+    "difficulty": 1,
+    "question": "Chi vinse il Campionato Europeo per nazionali del 1980?",
+    "options": [
+      "Cecoslovacchia",
+      "Germania Ovest",
+      "Spagna"
+    ],
+    "answer": 1,
+    "explanation": "La nazionale vincitrice dell’Europeo 1980 fu Germania Ovest.",
+    "source": "https://www.uefa.com/uefaeuro/history/"
+  },
+  {
+    "id": "classic-ca15b1f127c62db",
+    "category": "Europei e nazionali",
+    "kind": "Campioni d’Europa",
+    "difficulty": 1,
+    "question": "Chi vinse il Campionato Europeo per nazionali del 1984?",
+    "options": [
+      "Grecia",
+      "Germania Ovest",
+      "Francia"
+    ],
+    "answer": 2,
+    "explanation": "La nazionale vincitrice dell’Europeo 1984 fu Francia.",
+    "source": "https://www.uefa.com/uefaeuro/history/"
+  },
+  {
+    "id": "classic-544eb01f51934d8",
+    "category": "Europei e nazionali",
+    "kind": "Campioni d’Europa",
+    "difficulty": 1,
+    "question": "Chi vinse il Campionato Europeo per nazionali del 1988?",
+    "options": [
+      "Paesi Bassi",
+      "Cecoslovacchia",
+      "Grecia"
+    ],
+    "answer": 0,
+    "explanation": "La nazionale vincitrice dell’Europeo 1988 fu Paesi Bassi.",
+    "source": "https://www.uefa.com/uefaeuro/history/"
+  },
+  {
+    "id": "classic-e1a2db6693f1241",
+    "category": "Europei e nazionali",
+    "kind": "Campioni d’Europa",
+    "difficulty": 1,
+    "question": "Chi vinse il Campionato Europeo per nazionali del 1992?",
+    "options": [
+      "Italia",
+      "Danimarca",
+      "Germania Ovest"
+    ],
+    "answer": 1,
+    "explanation": "La nazionale vincitrice dell’Europeo 1992 fu Danimarca.",
+    "source": "https://www.uefa.com/uefaeuro/history/"
+  },
+  {
+    "id": "classic-f829019ea54caa9",
+    "category": "Europei e nazionali",
+    "kind": "Campioni d’Europa",
+    "difficulty": 1,
+    "question": "Chi vinse il Campionato Europeo per nazionali del 1996?",
+    "options": [
+      "Francia",
+      "Germania",
+      "Italia"
+    ],
+    "answer": 1,
+    "explanation": "La nazionale vincitrice dell’Europeo 1996 fu Germania.",
+    "source": "https://www.uefa.com/uefaeuro/history/"
+  },
+  {
+    "id": "classic-7d3d8467946a8c0",
+    "category": "Europei e nazionali",
+    "kind": "Campioni d’Europa",
+    "difficulty": 1,
+    "question": "Chi vinse il Campionato Europeo per nazionali del 2000?",
+    "options": [
+      "Germania Ovest",
+      "Francia",
+      "Portogallo"
+    ],
+    "answer": 1,
+    "explanation": "La nazionale vincitrice dell’Europeo 2000 fu Francia.",
+    "source": "https://www.uefa.com/uefaeuro/history/"
+  },
+  {
+    "id": "classic-d699493e4dad957",
+    "category": "Europei e nazionali",
+    "kind": "Campioni d’Europa",
+    "difficulty": 1,
+    "question": "Chi vinse il Campionato Europeo per nazionali del 2004?",
+    "options": [
+      "Unione Sovietica",
+      "Cecoslovacchia",
+      "Grecia"
+    ],
+    "answer": 2,
+    "explanation": "La nazionale vincitrice dell’Europeo 2004 fu Grecia.",
+    "source": "https://www.uefa.com/uefaeuro/history/"
+  },
+  {
+    "id": "classic-252bda49a8e884d",
+    "category": "Europei e nazionali",
+    "kind": "Campioni d’Europa",
+    "difficulty": 1,
+    "question": "Chi vinse il Campionato Europeo per nazionali del 2008?",
+    "options": [
+      "Spagna",
+      "Germania",
+      "Portogallo"
+    ],
+    "answer": 0,
+    "explanation": "La nazionale vincitrice dell’Europeo 2008 fu Spagna.",
+    "source": "https://www.uefa.com/uefaeuro/history/"
+  },
+  {
+    "id": "classic-1f9d0705b368bf6",
+    "category": "Europei e nazionali",
+    "kind": "Campioni d’Europa",
+    "difficulty": 1,
+    "question": "Chi vinse il Campionato Europeo per nazionali del 2012?",
+    "options": [
+      "Spagna",
+      "Grecia",
+      "Italia"
+    ],
+    "answer": 0,
+    "explanation": "La nazionale vincitrice dell’Europeo 2012 fu Spagna.",
+    "source": "https://www.uefa.com/uefaeuro/history/"
+  },
+  {
+    "id": "classic-b609ab338b44dcf",
+    "category": "Europei e nazionali",
+    "kind": "Campioni d’Europa",
+    "difficulty": 1,
+    "question": "Chi vinse il Campionato Europeo per nazionali del 2016?",
+    "options": [
+      "Spagna",
+      "Portogallo",
+      "Germania Ovest"
+    ],
+    "answer": 1,
+    "explanation": "La nazionale vincitrice dell’Europeo 2016 fu Portogallo.",
+    "source": "https://www.uefa.com/uefaeuro/history/"
+  },
+  {
+    "id": "classic-5abeb43f4f2e9f2",
+    "category": "Europei e nazionali",
+    "kind": "Campioni d’Europa",
+    "difficulty": 1,
+    "question": "Chi vinse il Campionato Europeo per nazionali del 2020?",
+    "options": [
+      "Italia",
+      "Francia",
+      "Portogallo"
+    ],
+    "answer": 0,
+    "explanation": "La nazionale vincitrice dell’Europeo 2020 fu Italia.",
+    "source": "https://www.uefa.com/uefaeuro/history/"
+  },
+  {
+    "id": "classic-6510ae4b90e2c1b",
+    "category": "Europei e nazionali",
+    "kind": "Campioni d’Europa",
+    "difficulty": 1,
+    "question": "Chi vinse il Campionato Europeo per nazionali del 2024?",
+    "options": [
+      "Germania",
+      "Spagna",
+      "Germania Ovest"
+    ],
+    "answer": 1,
+    "explanation": "La nazionale vincitrice dell’Europeo 2024 fu Spagna.",
+    "source": "https://www.uefa.com/uefaeuro/history/"
+  },
+  {
+    "id": "classic-9614036188f6fb5",
+    "category": "Champions League",
+    "kind": "Campioni d’Europa per club",
+    "difficulty": 1,
+    "question": "Chi vinse la Champions League nel 1993?",
+    "options": [
+      "Manchester City",
+      "Liverpool",
+      "Marsiglia"
+    ],
+    "answer": 2,
+    "explanation": "La Champions League 1993 fu vinta da Marsiglia.",
+    "source": "https://www.uefa.com/uefachampionsleague/history/"
+  },
+  {
+    "id": "classic-44f65b91b9fa8c2",
+    "category": "Champions League",
+    "kind": "Campioni d’Europa per club",
+    "difficulty": 1,
+    "question": "Chi vinse la Champions League nel 1994?",
+    "options": [
+      "Milan",
+      "Borussia Dortmund",
+      "Ajax"
+    ],
+    "answer": 0,
+    "explanation": "La Champions League 1994 fu vinta da Milan.",
+    "source": "https://www.uefa.com/uefachampionsleague/history/"
+  },
+  {
+    "id": "classic-f5c098b59debf6a",
+    "category": "Champions League",
+    "kind": "Campioni d’Europa per club",
+    "difficulty": 1,
+    "question": "Chi vinse la Champions League nel 1995?",
+    "options": [
+      "Porto",
+      "Ajax",
+      "Chelsea"
+    ],
+    "answer": 1,
+    "explanation": "La Champions League 1995 fu vinta da Ajax.",
+    "source": "https://www.uefa.com/uefachampionsleague/history/"
+  },
+  {
+    "id": "classic-a2b99b9d3d180e8",
+    "category": "Champions League",
+    "kind": "Campioni d’Europa per club",
+    "difficulty": 1,
+    "question": "Chi vinse la Champions League nel 1996?",
+    "options": [
+      "Juventus",
+      "Porto",
+      "Bayern Monaco"
+    ],
+    "answer": 0,
+    "explanation": "La Champions League 1996 fu vinta da Juventus.",
+    "source": "https://www.uefa.com/uefachampionsleague/history/"
+  },
+  {
+    "id": "classic-a7fe1fd762998a9",
+    "category": "Champions League",
+    "kind": "Campioni d’Europa per club",
+    "difficulty": 1,
+    "question": "Chi vinse la Champions League nel 1997?",
+    "options": [
+      "Borussia Dortmund",
+      "Milan",
+      "Real Madrid"
+    ],
+    "answer": 0,
+    "explanation": "La Champions League 1997 fu vinta da Borussia Dortmund.",
+    "source": "https://www.uefa.com/uefachampionsleague/history/"
+  },
+  {
+    "id": "classic-95354003ca51811",
+    "category": "Champions League",
+    "kind": "Campioni d’Europa per club",
+    "difficulty": 1,
+    "question": "Chi vinse la Champions League nel 1998?",
+    "options": [
+      "Borussia Dortmund",
+      "Real Madrid",
+      "Milan"
+    ],
+    "answer": 1,
+    "explanation": "La Champions League 1998 fu vinta da Real Madrid.",
+    "source": "https://www.uefa.com/uefachampionsleague/history/"
+  },
+  {
+    "id": "classic-a9348de8df9de84",
+    "category": "Champions League",
+    "kind": "Campioni d’Europa per club",
+    "difficulty": 1,
+    "question": "Chi vinse la Champions League nel 1999?",
+    "options": [
+      "Bayern Monaco",
+      "Real Madrid",
+      "Manchester United"
+    ],
+    "answer": 2,
+    "explanation": "La Champions League 1999 fu vinta da Manchester United.",
+    "source": "https://www.uefa.com/uefachampionsleague/history/"
+  },
+  {
+    "id": "classic-9ff9eb0fd744816",
+    "category": "Champions League",
+    "kind": "Campioni d’Europa per club",
+    "difficulty": 1,
+    "question": "Chi vinse la Champions League nel 2000?",
+    "options": [
+      "Real Madrid",
+      "Barcellona",
+      "Bayern Monaco"
+    ],
+    "answer": 0,
+    "explanation": "La Champions League 2000 fu vinta da Real Madrid.",
+    "source": "https://www.uefa.com/uefachampionsleague/history/"
+  },
+  {
+    "id": "classic-1c7de6f8b71e472",
+    "category": "Champions League",
+    "kind": "Campioni d’Europa per club",
+    "difficulty": 1,
+    "question": "Chi vinse la Champions League nel 2001?",
+    "options": [
+      "Bayern Monaco",
+      "Milan",
+      "Manchester United"
+    ],
+    "answer": 0,
+    "explanation": "La Champions League 2001 fu vinta da Bayern Monaco.",
+    "source": "https://www.uefa.com/uefachampionsleague/history/"
+  },
+  {
+    "id": "classic-eaf58f52c4367eb",
+    "category": "Champions League",
+    "kind": "Campioni d’Europa per club",
+    "difficulty": 1,
+    "question": "Chi vinse la Champions League nel 2002?",
+    "options": [
+      "Barcellona",
+      "Chelsea",
+      "Real Madrid"
+    ],
+    "answer": 2,
+    "explanation": "La Champions League 2002 fu vinta da Real Madrid.",
+    "source": "https://www.uefa.com/uefachampionsleague/history/"
+  },
+  {
+    "id": "classic-66faddd07de38fe",
+    "category": "Champions League",
+    "kind": "Campioni d’Europa per club",
+    "difficulty": 1,
+    "question": "Chi vinse la Champions League nel 2003?",
+    "options": [
+      "Milan",
+      "Ajax",
+      "Liverpool"
+    ],
+    "answer": 0,
+    "explanation": "La Champions League 2003 fu vinta da Milan.",
+    "source": "https://www.uefa.com/uefachampionsleague/history/"
+  },
+  {
+    "id": "classic-76596a655eafecd",
+    "category": "Champions League",
+    "kind": "Campioni d’Europa per club",
+    "difficulty": 1,
+    "question": "Chi vinse la Champions League nel 2004?",
+    "options": [
+      "Porto",
+      "Inter",
+      "Chelsea"
+    ],
+    "answer": 0,
+    "explanation": "La Champions League 2004 fu vinta da Porto.",
+    "source": "https://www.uefa.com/uefachampionsleague/history/"
+  },
+  {
+    "id": "classic-d035ccb06c872a9",
+    "category": "Champions League",
+    "kind": "Campioni d’Europa per club",
+    "difficulty": 1,
+    "question": "Chi vinse la Champions League nel 2005?",
+    "options": [
+      "Liverpool",
+      "Inter",
+      "Ajax"
+    ],
+    "answer": 0,
+    "explanation": "La Champions League 2005 fu vinta da Liverpool.",
+    "source": "https://www.uefa.com/uefachampionsleague/history/"
+  },
+  {
+    "id": "classic-fad55d86ac14f35",
+    "category": "Champions League",
+    "kind": "Campioni d’Europa per club",
+    "difficulty": 1,
+    "question": "Chi vinse la Champions League nel 2006?",
+    "options": [
+      "Marsiglia",
+      "Barcellona",
+      "Milan"
+    ],
+    "answer": 1,
+    "explanation": "La Champions League 2006 fu vinta da Barcellona.",
+    "source": "https://www.uefa.com/uefachampionsleague/history/"
+  },
+  {
+    "id": "classic-122f80254613010",
+    "category": "Champions League",
+    "kind": "Campioni d’Europa per club",
+    "difficulty": 1,
+    "question": "Chi vinse la Champions League nel 2007?",
+    "options": [
+      "Inter",
+      "Borussia Dortmund",
+      "Milan"
+    ],
+    "answer": 2,
+    "explanation": "La Champions League 2007 fu vinta da Milan.",
+    "source": "https://www.uefa.com/uefachampionsleague/history/"
+  },
+  {
+    "id": "classic-0c023a409ba0dd3",
+    "category": "Champions League",
+    "kind": "Campioni d’Europa per club",
+    "difficulty": 1,
+    "question": "Chi vinse la Champions League nel 2008?",
+    "options": [
+      "Bayern Monaco",
+      "Porto",
+      "Manchester United"
+    ],
+    "answer": 2,
+    "explanation": "La Champions League 2008 fu vinta da Manchester United.",
+    "source": "https://www.uefa.com/uefachampionsleague/history/"
+  },
+  {
+    "id": "classic-7d3ea7e4067284d",
+    "category": "Champions League",
+    "kind": "Campioni d’Europa per club",
+    "difficulty": 1,
+    "question": "Chi vinse la Champions League nel 2009?",
+    "options": [
+      "Bayern Monaco",
+      "Barcellona",
+      "Inter"
+    ],
+    "answer": 1,
+    "explanation": "La Champions League 2009 fu vinta da Barcellona.",
+    "source": "https://www.uefa.com/uefachampionsleague/history/"
+  },
+  {
+    "id": "classic-ef278c4fc2b7225",
+    "category": "Champions League",
+    "kind": "Campioni d’Europa per club",
+    "difficulty": 1,
+    "question": "Chi vinse la Champions League nel 2010?",
+    "options": [
+      "Borussia Dortmund",
+      "Manchester City",
+      "Inter"
+    ],
+    "answer": 2,
+    "explanation": "La Champions League 2010 fu vinta da Inter.",
+    "source": "https://www.uefa.com/uefachampionsleague/history/"
+  },
+  {
+    "id": "classic-a50d7aecb6887e6",
+    "category": "Champions League",
+    "kind": "Campioni d’Europa per club",
+    "difficulty": 1,
+    "question": "Chi vinse la Champions League nel 2011?",
+    "options": [
+      "Borussia Dortmund",
+      "Ajax",
+      "Barcellona"
+    ],
+    "answer": 2,
+    "explanation": "La Champions League 2011 fu vinta da Barcellona.",
+    "source": "https://www.uefa.com/uefachampionsleague/history/"
+  },
+  {
+    "id": "classic-1770d0f4f4b923b",
+    "category": "Champions League",
+    "kind": "Campioni d’Europa per club",
+    "difficulty": 1,
+    "question": "Chi vinse la Champions League nel 2012?",
+    "options": [
+      "Real Madrid",
+      "Ajax",
+      "Chelsea"
+    ],
+    "answer": 2,
+    "explanation": "La Champions League 2012 fu vinta da Chelsea.",
+    "source": "https://www.uefa.com/uefachampionsleague/history/"
+  },
+  {
+    "id": "classic-c9ffb1b31197d0e",
+    "category": "Champions League",
+    "kind": "Campioni d’Europa per club",
+    "difficulty": 1,
+    "question": "Chi vinse la Champions League nel 2013?",
+    "options": [
+      "Bayern Monaco",
+      "Liverpool",
+      "Juventus"
+    ],
+    "answer": 0,
+    "explanation": "La Champions League 2013 fu vinta da Bayern Monaco.",
+    "source": "https://www.uefa.com/uefachampionsleague/history/"
+  },
+  {
+    "id": "classic-8cd0c1b1fe64816",
+    "category": "Champions League",
+    "kind": "Campioni d’Europa per club",
+    "difficulty": 1,
+    "question": "Chi vinse la Champions League nel 2014?",
+    "options": [
+      "Paris Saint-Germain",
+      "Real Madrid",
+      "Liverpool"
+    ],
+    "answer": 1,
+    "explanation": "La Champions League 2014 fu vinta da Real Madrid.",
+    "source": "https://www.uefa.com/uefachampionsleague/history/"
+  },
+  {
+    "id": "classic-bc62fb2bc84e2e8",
+    "category": "Champions League",
+    "kind": "Campioni d’Europa per club",
+    "difficulty": 1,
+    "question": "Chi vinse la Champions League nel 2015?",
+    "options": [
+      "Chelsea",
+      "Marsiglia",
+      "Barcellona"
+    ],
+    "answer": 2,
+    "explanation": "La Champions League 2015 fu vinta da Barcellona.",
+    "source": "https://www.uefa.com/uefachampionsleague/history/"
+  },
+  {
+    "id": "classic-4d5e08d79ca2c08",
+    "category": "Champions League",
+    "kind": "Campioni d’Europa per club",
+    "difficulty": 1,
+    "question": "Chi vinse la Champions League nel 2016?",
+    "options": [
+      "Real Madrid",
+      "Paris Saint-Germain",
+      "Manchester City"
+    ],
+    "answer": 0,
+    "explanation": "La Champions League 2016 fu vinta da Real Madrid.",
+    "source": "https://www.uefa.com/uefachampionsleague/history/"
+  },
+  {
+    "id": "classic-5a44e30f5e2fc6e",
+    "category": "Champions League",
+    "kind": "Campioni d’Europa per club",
+    "difficulty": 1,
+    "question": "Chi vinse la Champions League nel 2017?",
+    "options": [
+      "Paris Saint-Germain",
+      "Real Madrid",
+      "Bayern Monaco"
+    ],
+    "answer": 1,
+    "explanation": "La Champions League 2017 fu vinta da Real Madrid.",
+    "source": "https://www.uefa.com/uefachampionsleague/history/"
+  },
+  {
+    "id": "classic-4aff14eb77ce50b",
+    "category": "Champions League",
+    "kind": "Campioni d’Europa per club",
+    "difficulty": 1,
+    "question": "Chi vinse la Champions League nel 2018?",
+    "options": [
+      "Liverpool",
+      "Porto",
+      "Real Madrid"
+    ],
+    "answer": 2,
+    "explanation": "La Champions League 2018 fu vinta da Real Madrid.",
+    "source": "https://www.uefa.com/uefachampionsleague/history/"
+  },
+  {
+    "id": "classic-0b08b2b522614ca",
+    "category": "Champions League",
+    "kind": "Campioni d’Europa per club",
+    "difficulty": 1,
+    "question": "Chi vinse la Champions League nel 2019?",
+    "options": [
+      "Paris Saint-Germain",
+      "Liverpool",
+      "Borussia Dortmund"
+    ],
+    "answer": 1,
+    "explanation": "La Champions League 2019 fu vinta da Liverpool.",
+    "source": "https://www.uefa.com/uefachampionsleague/history/"
+  },
+  {
+    "id": "classic-a97c1ede8881367",
+    "category": "Champions League",
+    "kind": "Campioni d’Europa per club",
+    "difficulty": 1,
+    "question": "Chi vinse la Champions League nel 2020?",
+    "options": [
+      "Bayern Monaco",
+      "Manchester United",
+      "Chelsea"
+    ],
+    "answer": 0,
+    "explanation": "La Champions League 2020 fu vinta da Bayern Monaco.",
+    "source": "https://www.uefa.com/uefachampionsleague/history/"
+  },
+  {
+    "id": "classic-ac3ff2f2d6d837c",
+    "category": "Champions League",
+    "kind": "Campioni d’Europa per club",
+    "difficulty": 1,
+    "question": "Chi vinse la Champions League nel 2021?",
+    "options": [
+      "Manchester United",
+      "Borussia Dortmund",
+      "Chelsea"
+    ],
+    "answer": 2,
+    "explanation": "La Champions League 2021 fu vinta da Chelsea.",
+    "source": "https://www.uefa.com/uefachampionsleague/history/"
+  },
+  {
+    "id": "classic-2cb961b85512ece",
+    "category": "Champions League",
+    "kind": "Campioni d’Europa per club",
+    "difficulty": 1,
+    "question": "Chi vinse la Champions League nel 2022?",
+    "options": [
+      "Real Madrid",
+      "Porto",
+      "Ajax"
+    ],
+    "answer": 0,
+    "explanation": "La Champions League 2022 fu vinta da Real Madrid.",
+    "source": "https://www.uefa.com/uefachampionsleague/history/"
+  },
+  {
+    "id": "classic-46de56805a9d02e",
+    "category": "Champions League",
+    "kind": "Campioni d’Europa per club",
+    "difficulty": 1,
+    "question": "Chi vinse la Champions League nel 2023?",
+    "options": [
+      "Juventus",
+      "Manchester City",
+      "Inter"
+    ],
+    "answer": 1,
+    "explanation": "La Champions League 2023 fu vinta da Manchester City.",
+    "source": "https://www.uefa.com/uefachampionsleague/history/"
+  },
+  {
+    "id": "classic-9c74e7bf59b9815",
+    "category": "Champions League",
+    "kind": "Campioni d’Europa per club",
+    "difficulty": 1,
+    "question": "Chi vinse la Champions League nel 2024?",
+    "options": [
+      "Real Madrid",
+      "Manchester United",
+      "Borussia Dortmund"
+    ],
+    "answer": 0,
+    "explanation": "La Champions League 2024 fu vinta da Real Madrid.",
+    "source": "https://www.uefa.com/uefachampionsleague/history/"
+  },
+  {
+    "id": "classic-c6d048fee16227f",
+    "category": "Champions League",
+    "kind": "Campioni d’Europa per club",
+    "difficulty": 1,
+    "question": "Chi vinse la Champions League nel 2025?",
+    "options": [
+      "Paris Saint-Germain",
+      "Bayern Monaco",
+      "Marsiglia"
+    ],
+    "answer": 0,
+    "explanation": "La Champions League 2025 fu vinta da Paris Saint-Germain.",
+    "source": "https://www.uefa.com/uefachampionsleague/history/"
+  },
+  {
+    "id": "classic-cb260cb49fedfcd",
+    "category": "Champions League",
+    "kind": "Finali memorabili",
+    "difficulty": 1,
+    "question": "Quale squadra affrontò il Liverpool nella celebre finale di Istanbul 2005?",
+    "options": [
+      "Chelsea",
+      "Juventus",
+      "Milan"
+    ],
+    "answer": 2,
+    "explanation": "Il Liverpool rimontò contro il Milan nella finale del 2005.",
+    "source": "https://www.uefa.com/uefachampionsleague/history/"
+  },
+  {
+    "id": "classic-a9bbb70ca4cb920",
+    "category": "Champions League",
+    "kind": "Finali memorabili",
+    "difficulty": 1,
+    "question": "Quale squadra fu sconfitta dal Porto nella finale di Champions League 2004?",
+    "options": [
+      "Monaco",
+      "Milan",
+      "Bayer Leverkusen"
+    ],
+    "answer": 0,
+    "explanation": "Il Porto batté il Monaco nella finale del 2004.",
+    "source": "https://www.uefa.com/uefachampionsleague/history/"
+  },
+  {
+    "id": "classic-14e2d0917bfc5c5",
+    "category": "Champions League",
+    "kind": "Finali memorabili",
+    "difficulty": 1,
+    "question": "Quale squadra vinse la Champions League nel 2010 con José Mourinho allenatore?",
+    "options": [
+      "Inter",
+      "Real Madrid",
+      "Barcellona"
+    ],
+    "answer": 0,
+    "explanation": "L’Inter di Mourinho conquistò la Champions League 2010.",
+    "source": "https://www.uefa.com/uefachampionsleague/history/"
+  },
+  {
+    "id": "classic-2b2bc6e3cf1258f",
+    "category": "Champions League",
+    "kind": "Finali memorabili",
+    "difficulty": 1,
+    "question": "Quale club vinse la Champions League 1997 battendo la Juventus?",
+    "options": [
+      "Ajax",
+      "Borussia Dortmund",
+      "Bayern Monaco"
+    ],
+    "answer": 1,
+    "explanation": "Il Borussia Dortmund vinse la finale del 1997 contro la Juventus.",
+    "source": "https://www.uefa.com/uefachampionsleague/history/"
+  },
+  {
+    "id": "classic-2d6d78451201c73",
+    "category": "Champions League",
+    "kind": "Finali memorabili",
+    "difficulty": 1,
+    "question": "Chi vinse la prima Champions League con la denominazione moderna, nel 1993?",
+    "options": [
+      "Marsiglia",
+      "Porto",
+      "Milan"
+    ],
+    "answer": 0,
+    "explanation": "Il Marsiglia conquistò la Champions League 1992/93.",
+    "source": "https://www.uefa.com/uefachampionsleague/history/"
+  },
+  {
+    "id": "classic-88d5f16afdfdb90",
+    "category": "Champions League",
+    "kind": "Finali memorabili",
+    "difficulty": 1,
+    "question": "Chi vinse la finale di Champions League del 1999 con due gol nel recupero?",
+    "options": [
+      "Manchester United",
+      "Bayern Monaco",
+      "Real Madrid"
+    ],
+    "answer": 0,
+    "explanation": "Il Manchester United rimontò il Bayern Monaco nel recupero.",
+    "source": "https://www.uefa.com/uefachampionsleague/history/"
+  },
+  {
+    "id": "classic-fa5293e473fed6b",
+    "category": "Champions League",
+    "kind": "Finali memorabili",
+    "difficulty": 1,
+    "question": "Chi vinse la Champions League 2012 ai rigori contro il Bayern Monaco?",
+    "options": [
+      "Chelsea",
+      "Juventus",
+      "Barcellona"
+    ],
+    "answer": 0,
+    "explanation": "Il Chelsea conquistò la coppa a Monaco di Baviera.",
+    "source": "https://www.uefa.com/uefachampionsleague/history/"
+  },
+  {
+    "id": "classic-106c381b703fb6a",
+    "category": "Champions League",
+    "kind": "Finali memorabili",
+    "difficulty": 1,
+    "question": "Chi vinse la Champions League nel 2023 per la prima volta nella sua storia?",
+    "options": [
+      "Arsenal",
+      "Manchester City",
+      "Paris Saint-Germain"
+    ],
+    "answer": 1,
+    "explanation": "Il Manchester City conquistò la prima Champions nel 2023.",
+    "source": "https://www.uefa.com/uefachampionsleague/history/"
+  },
+  {
+    "id": "classic-e2bdaf9dd67e0fe",
+    "category": "Champions League",
+    "kind": "Finali memorabili",
+    "difficulty": 1,
+    "question": "Quale club vinse la Coppa dei Campioni nel 1967 per primo tra i britannici?",
+    "options": [
+      "Liverpool",
+      "Manchester United",
+      "Celtic"
+    ],
+    "answer": 2,
+    "explanation": "Il Celtic vinse nel 1967 con i Lisbon Lions.",
+    "source": "https://www.uefa.com/uefachampionsleague/history/"
+  },
+  {
+    "id": "classic-8c9bcbff1791200",
+    "category": "Champions League",
+    "kind": "Finali memorabili",
+    "difficulty": 1,
+    "question": "Quale club ottenne tre Coppe dei Campioni consecutive dal 1971 al 1973?",
+    "options": [
+      "Ajax",
+      "Bayern Monaco",
+      "Benfica"
+    ],
+    "answer": 0,
+    "explanation": "L’Ajax vinse le edizioni 1971, 1972 e 1973.",
+    "source": "https://www.uefa.com/uefachampionsleague/history/"
+  },
+  {
+    "id": "classic-aad1d269e6fc85f",
+    "category": "Stadi leggendari",
+    "kind": "Stadi e città",
+    "difficulty": 1,
+    "question": "Come si chiama il famoso stadio di Barcellona?",
+    "options": [
+      "Camp Nou",
+      "San Siro",
+      "Santiago Bernabéu"
+    ],
+    "answer": 0,
+    "explanation": "Camp Nou è la risposta corretta.",
+    "source": "https://www.uefa.com/"
+  },
+  {
+    "id": "classic-0f5ba0a96805560",
+    "category": "Stadi leggendari",
+    "kind": "Stadi e città",
+    "difficulty": 1,
+    "question": "Quale club gioca tradizionalmente allo stadio Santiago Bernabéu?",
+    "options": [
+      "Barcellona",
+      "Atlético Madrid",
+      "Real Madrid"
+    ],
+    "answer": 2,
+    "explanation": "Real Madrid è la risposta corretta.",
+    "source": "https://www.uefa.com/"
+  },
+  {
+    "id": "classic-f65cf5766a78032",
+    "category": "Stadi leggendari",
+    "kind": "Stadi e città",
+    "difficulty": 1,
+    "question": "Quali due club milanesi condividono lo stadio di San Siro?",
+    "options": [
+      "Roma e Lazio",
+      "Juventus e Torino",
+      "Milan e Inter"
+    ],
+    "answer": 2,
+    "explanation": "Milan e Inter è la risposta corretta.",
+    "source": "https://www.uefa.com/"
+  },
+  {
+    "id": "classic-098fd1b8a870663",
+    "category": "Stadi leggendari",
+    "kind": "Stadi e città",
+    "difficulty": 1,
+    "question": "In quale città sorge lo stadio Anfield?",
+    "options": [
+      "Liverpool",
+      "Londra",
+      "Manchester"
+    ],
+    "answer": 0,
+    "explanation": "Liverpool è la risposta corretta.",
+    "source": "https://www.uefa.com/"
+  },
+  {
+    "id": "classic-a73e6c80b337570",
+    "category": "Stadi leggendari",
+    "kind": "Stadi e città",
+    "difficulty": 1,
+    "question": "In quale città si trova lo stadio Old Trafford?",
+    "options": [
+      "Manchester",
+      "Birmingham",
+      "Liverpool"
+    ],
+    "answer": 0,
+    "explanation": "Manchester è la risposta corretta.",
+    "source": "https://www.uefa.com/"
+  },
+  {
+    "id": "classic-09265a552bb0a46",
+    "category": "Stadi leggendari",
+    "kind": "Stadi e città",
+    "difficulty": 1,
+    "question": "Quale club è storicamente associato allo stadio Signal Iduna Park?",
+    "options": [
+      "Bayer Leverkusen",
+      "Borussia Dortmund",
+      "Bayern Monaco"
+    ],
+    "answer": 1,
+    "explanation": "Borussia Dortmund è la risposta corretta.",
+    "source": "https://www.uefa.com/"
+  },
+  {
+    "id": "classic-9e024025d61508d",
+    "category": "Stadi leggendari",
+    "kind": "Stadi e città",
+    "difficulty": 1,
+    "question": "Quale club è associato allo stadio Allianz Arena?",
+    "options": [
+      "Eintracht Francoforte",
+      "Borussia Dortmund",
+      "Bayern Monaco"
+    ],
+    "answer": 2,
+    "explanation": "Bayern Monaco è la risposta corretta.",
+    "source": "https://www.uefa.com/"
+  },
+  {
+    "id": "classic-935d3e2c2d5f49f",
+    "category": "Stadi leggendari",
+    "kind": "Stadi e città",
+    "difficulty": 1,
+    "question": "In quale città si trova lo stadio Wembley?",
+    "options": [
+      "Manchester",
+      "Birmingham",
+      "Londra"
+    ],
+    "answer": 2,
+    "explanation": "Londra è la risposta corretta.",
+    "source": "https://www.uefa.com/"
+  },
+  {
+    "id": "classic-05085bb44038d45",
+    "category": "Stadi leggendari",
+    "kind": "Stadi e città",
+    "difficulty": 1,
+    "question": "Quale club gioca le partite casalinghe all’Estádio da Luz?",
+    "options": [
+      "Benfica",
+      "Porto",
+      "Sporting CP"
+    ],
+    "answer": 0,
+    "explanation": "Benfica è la risposta corretta.",
+    "source": "https://www.uefa.com/"
+  },
+  {
+    "id": "classic-1ed3e23f3d3eca4",
+    "category": "Stadi leggendari",
+    "kind": "Stadi e città",
+    "difficulty": 1,
+    "question": "Quale club gioca le partite casalinghe all’Estádio do Dragão?",
+    "options": [
+      "Benfica",
+      "Braga",
+      "Porto"
+    ],
+    "answer": 2,
+    "explanation": "Porto è la risposta corretta.",
+    "source": "https://www.uefa.com/"
+  },
+  {
+    "id": "classic-1bb05b1340a3cd6",
+    "category": "Stadi leggendari",
+    "kind": "Stadi e città",
+    "difficulty": 1,
+    "question": "Quale club portoghese gioca all’Estádio José Alvalade?",
+    "options": [
+      "Porto",
+      "Boavista",
+      "Sporting CP"
+    ],
+    "answer": 2,
+    "explanation": "Sporting CP è la risposta corretta.",
+    "source": "https://www.uefa.com/"
+  },
+  {
+    "id": "classic-62180acea2e6f6a",
+    "category": "Stadi leggendari",
+    "kind": "Stadi e città",
+    "difficulty": 1,
+    "question": "A quale club è legato lo stadio De Kuip di Rotterdam?",
+    "options": [
+      "Ajax",
+      "Feyenoord",
+      "PSV"
+    ],
+    "answer": 1,
+    "explanation": "Feyenoord è la risposta corretta.",
+    "source": "https://www.uefa.com/"
+  },
+  {
+    "id": "classic-095387f7e1aaeb9",
+    "category": "Stadi leggendari",
+    "kind": "Stadi e città",
+    "difficulty": 1,
+    "question": "Quale club è storicamente associato alla Johan Cruijff ArenA?",
+    "options": [
+      "AZ Alkmaar",
+      "PSV",
+      "Ajax"
+    ],
+    "answer": 2,
+    "explanation": "Ajax è la risposta corretta.",
+    "source": "https://www.uefa.com/"
+  },
+  {
+    "id": "classic-bb694d24800600c",
+    "category": "Stadi leggendari",
+    "kind": "Stadi e città",
+    "difficulty": 1,
+    "question": "Quale squadra gioca allo Stade Vélodrome?",
+    "options": [
+      "Marsiglia",
+      "Monaco",
+      "Lione"
+    ],
+    "answer": 0,
+    "explanation": "Marsiglia è la risposta corretta.",
+    "source": "https://www.uefa.com/"
+  },
+  {
+    "id": "classic-052d4a32f30b1c9",
+    "category": "Stadi leggendari",
+    "kind": "Stadi e città",
+    "difficulty": 1,
+    "question": "In quale città si trova il Maracanã?",
+    "options": [
+      "San Paolo",
+      "Buenos Aires",
+      "Rio de Janeiro"
+    ],
+    "answer": 2,
+    "explanation": "Rio de Janeiro è la risposta corretta.",
+    "source": "https://www.uefa.com/"
+  },
+  {
+    "id": "classic-eef0228c3b7128d",
+    "category": "Stadi leggendari",
+    "kind": "Stadi e città",
+    "difficulty": 1,
+    "question": "In quale città si trova lo stadio La Bombonera?",
+    "options": [
+      "Rosario",
+      "Buenos Aires",
+      "Montevideo"
+    ],
+    "answer": 1,
+    "explanation": "Buenos Aires è la risposta corretta.",
+    "source": "https://www.uefa.com/"
+  },
+  {
+    "id": "classic-119a60ead0d71a4",
+    "category": "Stadi leggendari",
+    "kind": "Stadi e città",
+    "difficulty": 1,
+    "question": "Quale club argentino gioca alla Bombonera?",
+    "options": [
+      "Racing Club",
+      "River Plate",
+      "Boca Juniors"
+    ],
+    "answer": 2,
+    "explanation": "Boca Juniors è la risposta corretta.",
+    "source": "https://www.uefa.com/"
+  },
+  {
+    "id": "classic-48eacbed34a04e6",
+    "category": "Stadi leggendari",
+    "kind": "Stadi e città",
+    "difficulty": 1,
+    "question": "Quale squadra gioca allo stadio Monumental di Buenos Aires?",
+    "options": [
+      "Boca Juniors",
+      "River Plate",
+      "Independiente"
+    ],
+    "answer": 1,
+    "explanation": "River Plate è la risposta corretta.",
+    "source": "https://www.uefa.com/"
+  },
+  {
+    "id": "classic-f643a6114c7732f",
+    "category": "Stadi leggendari",
+    "kind": "Stadi e città",
+    "difficulty": 1,
+    "question": "Quale club svizzero è associato allo stadio Wankdorf?",
+    "options": [
+      "Basilea",
+      "Young Boys",
+      "Servette"
+    ],
+    "answer": 1,
+    "explanation": "Young Boys è la risposta corretta.",
+    "source": "https://www.uefa.com/"
+  },
+  {
+    "id": "classic-bcde48bef84cb95",
+    "category": "Stadi leggendari",
+    "kind": "Stadi e città",
+    "difficulty": 1,
+    "question": "Quale club svizzero è associato al St. Jakob-Park?",
+    "options": [
+      "Basilea",
+      "Zurigo",
+      "Lugano"
+    ],
+    "answer": 0,
+    "explanation": "Basilea è la risposta corretta.",
+    "source": "https://www.uefa.com/"
+  },
+  {
+    "id": "classic-6aa07bcb423c407",
+    "category": "Stadi leggendari",
+    "kind": "Stadi e città",
+    "difficulty": 1,
+    "question": "Quale club svizzero gioca allo Stade de Genève?",
+    "options": [
+      "Losanna",
+      "Sion",
+      "Servette"
+    ],
+    "answer": 2,
+    "explanation": "Servette è la risposta corretta.",
+    "source": "https://www.uefa.com/"
+  },
+  {
+    "id": "classic-24d87e4a4feb677",
+    "category": "Stadi leggendari",
+    "kind": "Stadi e città",
+    "difficulty": 1,
+    "question": "Quale club di Istanbul è associato al RAMS Park?",
+    "options": [
+      "Beşiktaş",
+      "Fenerbahçe",
+      "Galatasaray"
+    ],
+    "answer": 2,
+    "explanation": "Galatasaray è la risposta corretta.",
+    "source": "https://www.uefa.com/"
+  },
+  {
+    "id": "classic-0614945b3cf7cc4",
+    "category": "Stadi leggendari",
+    "kind": "Stadi e città",
+    "difficulty": 1,
+    "question": "Quale club gioca allo stadio Şükrü Saracoğlu?",
+    "options": [
+      "Fenerbahçe",
+      "Galatasaray",
+      "Trabzonspor"
+    ],
+    "answer": 0,
+    "explanation": "Fenerbahçe è la risposta corretta.",
+    "source": "https://www.uefa.com/"
+  },
+  {
+    "id": "classic-0fda8dca76a898e",
+    "category": "Stadi leggendari",
+    "kind": "Stadi e città",
+    "difficulty": 1,
+    "question": "In quale stadio si giocò la finale del Mondiale 1966?",
+    "options": [
+      "Wembley",
+      "Maracanã",
+      "Stadio Olimpico di Roma"
+    ],
+    "answer": 0,
+    "explanation": "Wembley è la risposta corretta.",
+    "source": "https://www.uefa.com/"
+  },
+  {
+    "id": "classic-48f26054b456283",
+    "category": "Stadi leggendari",
+    "kind": "Stadi e città",
+    "difficulty": 1,
+    "question": "Quale stadio ospitò la finale del Mondiale 1986?",
+    "options": [
+      "Wembley",
+      "Maracanã",
+      "Estadio Azteca"
+    ],
+    "answer": 2,
+    "explanation": "Estadio Azteca è la risposta corretta.",
+    "source": "https://www.uefa.com/"
+  },
+  {
+    "id": "classic-a961196f08a3b2c",
+    "category": "Allenatori storici",
+    "kind": "Grandi protagonisti",
+    "difficulty": 1,
+    "question": "Chi allenava il Porto quando vinse la Champions League nel 2004?",
+    "options": [
+      "Rafael Benítez",
+      "Carlo Ancelotti",
+      "José Mourinho"
+    ],
+    "answer": 2,
+    "explanation": "La risposta corretta è José Mourinho.",
+    "source": "https://www.uefa.com/"
+  },
+  {
+    "id": "classic-e11ddfb284ef938",
+    "category": "Allenatori storici",
+    "kind": "Grandi protagonisti",
+    "difficulty": 1,
+    "question": "Chi allenava l’Inter del Triplete nel 2010?",
+    "options": [
+      "Antonio Conte",
+      "José Mourinho",
+      "Roberto Mancini"
+    ],
+    "answer": 1,
+    "explanation": "La risposta corretta è José Mourinho.",
+    "source": "https://www.uefa.com/"
+  },
+  {
+    "id": "classic-0d2b4db23cf75ae",
+    "category": "Allenatori storici",
+    "kind": "Grandi protagonisti",
+    "difficulty": 1,
+    "question": "Chi allenava il Barcellona del Triplete 2009?",
+    "options": [
+      "Pep Guardiola",
+      "Luis Enrique",
+      "Frank Rijkaard"
+    ],
+    "answer": 0,
+    "explanation": "La risposta corretta è Pep Guardiola.",
+    "source": "https://www.uefa.com/"
+  },
+  {
+    "id": "classic-ef925560adafaac",
+    "category": "Allenatori storici",
+    "kind": "Grandi protagonisti",
+    "difficulty": 1,
+    "question": "Chi allenava il Barcellona del Triplete 2015?",
+    "options": [
+      "Pep Guardiola",
+      "Xavi",
+      "Luis Enrique"
+    ],
+    "answer": 2,
+    "explanation": "La risposta corretta è Luis Enrique.",
+    "source": "https://www.uefa.com/"
+  },
+  {
+    "id": "classic-b376851e14c1b85",
+    "category": "Allenatori storici",
+    "kind": "Grandi protagonisti",
+    "difficulty": 1,
+    "question": "Quale allenatore vinse la Champions 2005 con il Liverpool?",
+    "options": [
+      "Brendan Rodgers",
+      "Rafael Benítez",
+      "Jürgen Klopp"
+    ],
+    "answer": 1,
+    "explanation": "La risposta corretta è Rafael Benítez.",
+    "source": "https://www.uefa.com/"
+  },
+  {
+    "id": "classic-843a20d23442a88",
+    "category": "Allenatori storici",
+    "kind": "Grandi protagonisti",
+    "difficulty": 1,
+    "question": "Chi allenava il Liverpool campione d’Europa nel 2019?",
+    "options": [
+      "Jürgen Klopp",
+      "Arsène Wenger",
+      "Rafael Benítez"
+    ],
+    "answer": 0,
+    "explanation": "La risposta corretta è Jürgen Klopp.",
+    "source": "https://www.uefa.com/"
+  },
+  {
+    "id": "classic-faca9aca5c0f607",
+    "category": "Allenatori storici",
+    "kind": "Grandi protagonisti",
+    "difficulty": 1,
+    "question": "Chi allenava il Manchester City campione d’Europa nel 2023?",
+    "options": [
+      "Manuel Pellegrini",
+      "Pep Guardiola",
+      "Roberto Mancini"
+    ],
+    "answer": 1,
+    "explanation": "La risposta corretta è Pep Guardiola.",
+    "source": "https://www.uefa.com/"
+  },
+  {
+    "id": "classic-986d4bab601f0e8",
+    "category": "Allenatori storici",
+    "kind": "Grandi protagonisti",
+    "difficulty": 1,
+    "question": "Quale allenatore guidò il Leicester al titolo di Premier League 2015/16?",
+    "options": [
+      "Carlo Ancelotti",
+      "Claudio Ranieri",
+      "Antonio Conte"
+    ],
+    "answer": 1,
+    "explanation": "La risposta corretta è Claudio Ranieri.",
+    "source": "https://www.uefa.com/"
+  },
+  {
+    "id": "classic-722800da2dcfa53",
+    "category": "Allenatori storici",
+    "kind": "Grandi protagonisti",
+    "difficulty": 1,
+    "question": "Chi guidò l’Italia al titolo mondiale del 2006?",
+    "options": [
+      "Marcello Lippi",
+      "Cesare Prandelli",
+      "Roberto Mancini"
+    ],
+    "answer": 0,
+    "explanation": "La risposta corretta è Marcello Lippi.",
+    "source": "https://www.uefa.com/"
+  },
+  {
+    "id": "classic-7941dab20e3c66f",
+    "category": "Allenatori storici",
+    "kind": "Grandi protagonisti",
+    "difficulty": 1,
+    "question": "Chi guidò l’Italia alla vittoria dell’Europeo 2020?",
+    "options": [
+      "Antonio Conte",
+      "Roberto Mancini",
+      "Marcello Lippi"
+    ],
+    "answer": 1,
+    "explanation": "La risposta corretta è Roberto Mancini.",
+    "source": "https://www.uefa.com/"
+  },
+  {
+    "id": "classic-d0d1c0118a4b592",
+    "category": "Allenatori storici",
+    "kind": "Grandi protagonisti",
+    "difficulty": 1,
+    "question": "Chi allenava la Spagna vincitrice del Mondiale 2010?",
+    "options": [
+      "Luis Aragonés",
+      "Luis Enrique",
+      "Vicente del Bosque"
+    ],
+    "answer": 2,
+    "explanation": "La risposta corretta è Vicente del Bosque.",
+    "source": "https://www.uefa.com/"
+  },
+  {
+    "id": "classic-31f4f3ac8cd6a60",
+    "category": "Allenatori storici",
+    "kind": "Grandi protagonisti",
+    "difficulty": 1,
+    "question": "Chi allenava la Spagna campione d’Europa nel 2008?",
+    "options": [
+      "Julen Lopetegui",
+      "Luis Aragonés",
+      "Vicente del Bosque"
+    ],
+    "answer": 1,
+    "explanation": "La risposta corretta è Luis Aragonés.",
+    "source": "https://www.uefa.com/"
+  },
+  {
+    "id": "classic-76c6925b953cd2f",
+    "category": "Allenatori storici",
+    "kind": "Grandi protagonisti",
+    "difficulty": 1,
+    "question": "Chi allenava l’Argentina campione del mondo 2022?",
+    "options": [
+      "Jorge Sampaoli",
+      "Lionel Scaloni",
+      "Diego Maradona"
+    ],
+    "answer": 1,
+    "explanation": "La risposta corretta è Lionel Scaloni.",
+    "source": "https://www.uefa.com/"
+  },
+  {
+    "id": "classic-308252b7d2e4a45",
+    "category": "Allenatori storici",
+    "kind": "Grandi protagonisti",
+    "difficulty": 1,
+    "question": "Quale allenatore guidò la Grecia al trionfo a EURO 2004?",
+    "options": [
+      "José Mourinho",
+      "Otto Rehhagel",
+      "Fernando Santos"
+    ],
+    "answer": 1,
+    "explanation": "La risposta corretta è Otto Rehhagel.",
+    "source": "https://www.uefa.com/"
+  },
+  {
+    "id": "classic-3bdf1647f642fed",
+    "category": "Allenatori storici",
+    "kind": "Grandi protagonisti",
+    "difficulty": 1,
+    "question": "Chi allenava la Francia campione del mondo nel 1998?",
+    "options": [
+      "Aimé Jacquet",
+      "Laurent Blanc",
+      "Didier Deschamps"
+    ],
+    "answer": 0,
+    "explanation": "La risposta corretta è Aimé Jacquet.",
+    "source": "https://www.uefa.com/"
+  },
+  {
+    "id": "classic-6a3538b219c54a5",
+    "category": "Allenatori storici",
+    "kind": "Grandi protagonisti",
+    "difficulty": 1,
+    "question": "Chi allenava la Francia campione del mondo nel 2018?",
+    "options": [
+      "Didier Deschamps",
+      "Aimé Jacquet",
+      "Zinedine Zidane"
+    ],
+    "answer": 0,
+    "explanation": "La risposta corretta è Didier Deschamps.",
+    "source": "https://www.uefa.com/"
+  },
+  {
+    "id": "classic-04fc461ba88063b",
+    "category": "Allenatori storici",
+    "kind": "Grandi protagonisti",
+    "difficulty": 1,
+    "question": "Chi guidò l’Argentina alla vittoria del Mondiale 1986?",
+    "options": [
+      "Carlos Bilardo",
+      "César Luis Menotti",
+      "Lionel Scaloni"
+    ],
+    "answer": 0,
+    "explanation": "La risposta corretta è Carlos Bilardo.",
+    "source": "https://www.uefa.com/"
+  },
+  {
+    "id": "classic-c3207debaa33e75",
+    "category": "Allenatori storici",
+    "kind": "Grandi protagonisti",
+    "difficulty": 1,
+    "question": "Chi guidò il Brasile al titolo mondiale 2002?",
+    "options": [
+      "Carlos Alberto Parreira",
+      "Dunga",
+      "Luiz Felipe Scolari"
+    ],
+    "answer": 2,
+    "explanation": "La risposta corretta è Luiz Felipe Scolari.",
+    "source": "https://www.uefa.com/"
+  },
+  {
+    "id": "classic-d2a424d1cf3ff25",
+    "category": "Allenatori storici",
+    "kind": "Grandi protagonisti",
+    "difficulty": 1,
+    "question": "Chi vinse il Mondiale 1970 da commissario tecnico del Brasile?",
+    "options": [
+      "Mário Zagallo",
+      "Tite",
+      "Dunga"
+    ],
+    "answer": 0,
+    "explanation": "La risposta corretta è Mário Zagallo.",
+    "source": "https://www.uefa.com/"
+  },
+  {
+    "id": "classic-e87a55a60e74523",
+    "category": "Allenatori storici",
+    "kind": "Grandi protagonisti",
+    "difficulty": 1,
+    "question": "Quale allenatore condusse il Milan al titolo europeo nel 1989 e 1990?",
+    "options": [
+      "Carlo Ancelotti",
+      "Arrigo Sacchi",
+      "Fabio Capello"
+    ],
+    "answer": 1,
+    "explanation": "La risposta corretta è Arrigo Sacchi.",
+    "source": "https://www.uefa.com/"
+  },
+  {
+    "id": "classic-8315761be76b0fb",
+    "category": "Allenatori storici",
+    "kind": "Grandi protagonisti",
+    "difficulty": 1,
+    "question": "Chi allenava il Milan campione d’Europa nel 2003 e nel 2007?",
+    "options": [
+      "Arrigo Sacchi",
+      "Carlo Ancelotti",
+      "Massimiliano Allegri"
+    ],
+    "answer": 1,
+    "explanation": "La risposta corretta è Carlo Ancelotti.",
+    "source": "https://www.uefa.com/"
+  },
+  {
+    "id": "classic-bbfe1c7939b68e1",
+    "category": "Allenatori storici",
+    "kind": "Grandi protagonisti",
+    "difficulty": 1,
+    "question": "Chi allenava il Manchester United nella finale di Champions 1999?",
+    "options": [
+      "Alex Ferguson",
+      "Erik ten Hag",
+      "David Moyes"
+    ],
+    "answer": 0,
+    "explanation": "La risposta corretta è Alex Ferguson.",
+    "source": "https://www.uefa.com/"
+  },
+  {
+    "id": "classic-0fcbc367c792d61",
+    "category": "Allenatori storici",
+    "kind": "Grandi protagonisti",
+    "difficulty": 1,
+    "question": "Chi allenava il Real Madrid delle tre Champions consecutive dal 2016 al 2018?",
+    "options": [
+      "Zinedine Zidane",
+      "José Mourinho",
+      "Carlo Ancelotti"
+    ],
+    "answer": 0,
+    "explanation": "La risposta corretta è Zinedine Zidane.",
+    "source": "https://www.uefa.com/"
+  },
+  {
+    "id": "classic-2b56ac28f85478f",
+    "category": "Leggende del calcio",
+    "kind": "Grandi protagonisti",
+    "difficulty": 1,
+    "question": "Quale calciatore è conosciuto come “O Rei”?",
+    "options": [
+      "Romário",
+      "Rivaldo",
+      "Pelé"
+    ],
+    "answer": 2,
+    "explanation": "La risposta corretta è Pelé.",
+    "source": "https://www.uefa.com/"
+  },
+  {
+    "id": "classic-1bd70cc9987c919",
+    "category": "Leggende del calcio",
+    "kind": "Grandi protagonisti",
+    "difficulty": 1,
+    "question": "Quale campione argentino era chiamato “El Pibe de Oro”?",
+    "options": [
+      "Lionel Messi",
+      "Diego Maradona",
+      "Ángel Di María"
+    ],
+    "answer": 1,
+    "explanation": "La risposta corretta è Diego Maradona.",
+    "source": "https://www.uefa.com/"
+  },
+  {
+    "id": "classic-68d79a6f498ac02",
+    "category": "Leggende del calcio",
+    "kind": "Grandi protagonisti",
+    "difficulty": 1,
+    "question": "Quale calciatore era soprannominato “Il Fenomeno”?",
+    "options": [
+      "Cristiano Ronaldo",
+      "Ronaldinho",
+      "Ronaldo Nazário"
+    ],
+    "answer": 2,
+    "explanation": "La risposta corretta è Ronaldo Nazário.",
+    "source": "https://www.uefa.com/"
+  },
+  {
+    "id": "classic-3e25b9316822479",
+    "category": "Leggende del calcio",
+    "kind": "Grandi protagonisti",
+    "difficulty": 1,
+    "question": "Quale calciatore era conosciuto come “Divin Codino”?",
+    "options": [
+      "Roberto Baggio",
+      "Francesco Totti",
+      "Andrea Pirlo"
+    ],
+    "answer": 0,
+    "explanation": "La risposta corretta è Roberto Baggio.",
+    "source": "https://www.uefa.com/"
+  },
+  {
+    "id": "classic-d54264653fdebd7",
+    "category": "Leggende del calcio",
+    "kind": "Grandi protagonisti",
+    "difficulty": 1,
+    "question": "Quale leggenda del Benfica era soprannominata “Pantera Nera”?",
+    "options": [
+      "Eusébio",
+      "Luís Figo",
+      "Deco"
+    ],
+    "answer": 0,
+    "explanation": "La risposta corretta è Eusébio.",
+    "source": "https://www.uefa.com/"
+  },
+  {
+    "id": "classic-ccfa15335ed21bf",
+    "category": "Leggende del calcio",
+    "kind": "Grandi protagonisti",
+    "difficulty": 1,
+    "question": "Chi è il leggendario numero 10 della Roma soprannominato “Er Pupone”?",
+    "options": [
+      "Francesco Totti",
+      "Daniele De Rossi",
+      "Alessandro Del Piero"
+    ],
+    "answer": 0,
+    "explanation": "La risposta corretta è Francesco Totti.",
+    "source": "https://www.uefa.com/"
+  },
+  {
+    "id": "classic-bdff953fb7dfb1a",
+    "category": "Leggende del calcio",
+    "kind": "Grandi protagonisti",
+    "difficulty": 1,
+    "question": "Quale giocatore era soprannominato “Pinturicchio” dalla tifoseria juventina?",
+    "options": [
+      "Paulo Dybala",
+      "Alessandro Del Piero",
+      "Gianluigi Buffon"
+    ],
+    "answer": 1,
+    "explanation": "La risposta corretta è Alessandro Del Piero.",
+    "source": "https://www.uefa.com/"
+  },
+  {
+    "id": "classic-bf1c7a9ec5015af",
+    "category": "Leggende del calcio",
+    "kind": "Grandi protagonisti",
+    "difficulty": 1,
+    "question": "Quale centrocampista italiano era soprannominato “Il Maestro”?",
+    "options": [
+      "Andrea Pirlo",
+      "Marco Verratti",
+      "Gennaro Gattuso"
+    ],
+    "answer": 0,
+    "explanation": "La risposta corretta è Andrea Pirlo.",
+    "source": "https://www.uefa.com/"
+  },
+  {
+    "id": "classic-d1d9d258fe25091",
+    "category": "Leggende del calcio",
+    "kind": "Grandi protagonisti",
+    "difficulty": 1,
+    "question": "Quale portiere italiano vinse il Mondiale nel 2006 da titolare?",
+    "options": [
+      "Salvatore Sirigu",
+      "Francesco Toldo",
+      "Gianluigi Buffon"
+    ],
+    "answer": 2,
+    "explanation": "La risposta corretta è Gianluigi Buffon.",
+    "source": "https://www.uefa.com/"
+  },
+  {
+    "id": "classic-1e6e4ccbf3c2cfd",
+    "category": "Leggende del calcio",
+    "kind": "Grandi protagonisti",
+    "difficulty": 1,
+    "question": "Quale attaccante segnò la celebre doppietta nella finale mondiale 1998 per la Francia?",
+    "options": [
+      "David Trezeguet",
+      "Thierry Henry",
+      "Zinedine Zidane"
+    ],
+    "answer": 2,
+    "explanation": "La risposta corretta è Zinedine Zidane.",
+    "source": "https://www.uefa.com/"
+  },
+  {
+    "id": "classic-a6eaa1e1f221a0a",
+    "category": "Leggende del calcio",
+    "kind": "Grandi protagonisti",
+    "difficulty": 1,
+    "question": "Quale calciatore segnò con la “Mano de Dios” contro l’Inghilterra nel 1986?",
+    "options": [
+      "Jorge Valdano",
+      "Diego Maradona",
+      "Claudio Caniggia"
+    ],
+    "answer": 1,
+    "explanation": "La risposta corretta è Diego Maradona.",
+    "source": "https://www.uefa.com/"
+  },
+  {
+    "id": "classic-73558e10680bffd",
+    "category": "Leggende del calcio",
+    "kind": "Grandi protagonisti",
+    "difficulty": 1,
+    "question": "Chi segnò il gol decisivo per la Spagna nella finale mondiale del 2010?",
+    "options": [
+      "Xavi",
+      "David Villa",
+      "Andrés Iniesta"
+    ],
+    "answer": 2,
+    "explanation": "La risposta corretta è Andrés Iniesta.",
+    "source": "https://www.uefa.com/"
+  },
+  {
+    "id": "classic-a73675160c88bed",
+    "category": "Leggende del calcio",
+    "kind": "Grandi protagonisti",
+    "difficulty": 1,
+    "question": "Quale calciatore segnò il gol decisivo nella finale del Mondiale 2014?",
+    "options": [
+      "Thomas Müller",
+      "Mario Götze",
+      "Mesut Özil"
+    ],
+    "answer": 1,
+    "explanation": "La risposta corretta è Mario Götze.",
+    "source": "https://www.uefa.com/"
+  },
+  {
+    "id": "classic-e24980c384c640b",
+    "category": "Leggende del calcio",
+    "kind": "Grandi protagonisti",
+    "difficulty": 1,
+    "question": "Chi segnò il gol vittoria del Portogallo nella finale di EURO 2016?",
+    "options": [
+      "Éder",
+      "Nani",
+      "Cristiano Ronaldo"
+    ],
+    "answer": 0,
+    "explanation": "La risposta corretta è Éder.",
+    "source": "https://www.uefa.com/"
+  },
+  {
+    "id": "classic-f8d81db3f770367",
+    "category": "Leggende del calcio",
+    "kind": "Grandi protagonisti",
+    "difficulty": 1,
+    "question": "Chi realizzò il famoso pallonetto nella finale di EURO 1988?",
+    "options": [
+      "Marco van Basten",
+      "Ruud Gullit",
+      "Frank Rijkaard"
+    ],
+    "answer": 0,
+    "explanation": "La risposta corretta è Marco van Basten.",
+    "source": "https://www.uefa.com/"
+  },
+  {
+    "id": "classic-7ba753643cebfe0",
+    "category": "Derby e rivalità",
+    "kind": "Grandi derby",
+    "difficulty": 1,
+    "question": "Quale derby italiano oppone Inter e Milan?",
+    "options": [
+      "Derby della Capitale",
+      "Derby della Madonnina",
+      "Derby della Mole"
+    ],
+    "answer": 1,
+    "explanation": "Derby della Madonnina è la risposta corretta.",
+    "source": "https://www.uefa.com/"
+  },
+  {
+    "id": "classic-78b720744bc2328",
+    "category": "Derby e rivalità",
+    "kind": "Grandi derby",
+    "difficulty": 1,
+    "question": "Quale derby italiano oppone Juventus e Torino?",
+    "options": [
+      "Derby della Madonnina",
+      "Derby della Mole",
+      "Derby della Lanterna"
+    ],
+    "answer": 1,
+    "explanation": "Derby della Mole è la risposta corretta.",
+    "source": "https://www.uefa.com/"
+  },
+  {
+    "id": "classic-8e5df94c63a3282",
+    "category": "Derby e rivalità",
+    "kind": "Grandi derby",
+    "difficulty": 1,
+    "question": "Quale derby italiano oppone Roma e Lazio?",
+    "options": [
+      "Derby della Capitale",
+      "Derby della Mole",
+      "Derby d’Italia"
+    ],
+    "answer": 0,
+    "explanation": "Derby della Capitale è la risposta corretta.",
+    "source": "https://www.uefa.com/"
+  },
+  {
+    "id": "classic-725bd3063a9ac5c",
+    "category": "Derby e rivalità",
+    "kind": "Grandi derby",
+    "difficulty": 1,
+    "question": "Quale derby italiano oppone Genoa e Sampdoria?",
+    "options": [
+      "Derby della Capitale",
+      "Derby della Madonnina",
+      "Derby della Lanterna"
+    ],
+    "answer": 2,
+    "explanation": "Derby della Lanterna è la risposta corretta.",
+    "source": "https://www.uefa.com/"
+  },
+  {
+    "id": "classic-fd33352c5b33d6f",
+    "category": "Derby e rivalità",
+    "kind": "Grandi derby",
+    "difficulty": 1,
+    "question": "Quali club si affrontano nel Clásico spagnolo?",
+    "options": [
+      "Barcellona ed Espanyol",
+      "Real Madrid e Atlético Madrid",
+      "Real Madrid e Barcellona"
+    ],
+    "answer": 2,
+    "explanation": "Real Madrid e Barcellona è la risposta corretta.",
+    "source": "https://www.uefa.com/"
+  },
+  {
+    "id": "classic-30b468b1b05d2ae",
+    "category": "Derby e rivalità",
+    "kind": "Grandi derby",
+    "difficulty": 1,
+    "question": "Quali squadre disputano il derby di Manchester?",
+    "options": [
+      "Liverpool e Manchester United",
+      "Arsenal e Tottenham",
+      "Manchester City e Manchester United"
+    ],
+    "answer": 2,
+    "explanation": "Manchester City e Manchester United è la risposta corretta.",
+    "source": "https://www.uefa.com/"
+  },
+  {
+    "id": "classic-52a65621ce21a01",
+    "category": "Derby e rivalità",
+    "kind": "Grandi derby",
+    "difficulty": 1,
+    "question": "Quali club si affrontano nel North London Derby?",
+    "options": [
+      "Liverpool ed Everton",
+      "Arsenal e Tottenham",
+      "Chelsea e Fulham"
+    ],
+    "answer": 1,
+    "explanation": "Arsenal e Tottenham è la risposta corretta.",
+    "source": "https://www.uefa.com/"
+  },
+  {
+    "id": "classic-d43cd7a1a1e9658",
+    "category": "Derby e rivalità",
+    "kind": "Grandi derby",
+    "difficulty": 1,
+    "question": "Quali club si affrontano nel Merseyside Derby?",
+    "options": [
+      "Manchester City e United",
+      "Liverpool ed Everton",
+      "Arsenal e Chelsea"
+    ],
+    "answer": 1,
+    "explanation": "Liverpool ed Everton è la risposta corretta.",
+    "source": "https://www.uefa.com/"
+  },
+  {
+    "id": "classic-58d352d53606adf",
+    "category": "Derby e rivalità",
+    "kind": "Grandi derby",
+    "difficulty": 1,
+    "question": "Quali club si affrontano nell’Old Firm scozzese?",
+    "options": [
+      "Aberdeen e Hearts",
+      "Celtic e Rangers",
+      "Hibernian e Dundee"
+    ],
+    "answer": 1,
+    "explanation": "Celtic e Rangers è la risposta corretta.",
+    "source": "https://www.uefa.com/"
+  },
+  {
+    "id": "classic-16c1038ba7dbf96",
+    "category": "Derby e rivalità",
+    "kind": "Grandi derby",
+    "difficulty": 1,
+    "question": "Quali squadre disputano il derby di Istanbul tra due delle tre grandi?",
+    "options": [
+      "Celtic e Rangers",
+      "Benfica e Porto",
+      "Galatasaray e Fenerbahçe"
+    ],
+    "answer": 2,
+    "explanation": "Galatasaray e Fenerbahçe è la risposta corretta.",
+    "source": "https://www.uefa.com/"
+  },
+  {
+    "id": "classic-5e34ce9f6dccc98",
+    "category": "Derby e rivalità",
+    "kind": "Grandi derby",
+    "difficulty": 1,
+    "question": "Quali club portoghesi si affrontano nell’O Clássico?",
+    "options": [
+      "Porto e Braga",
+      "Benfica e Sporting",
+      "Porto e Benfica"
+    ],
+    "answer": 2,
+    "explanation": "Porto e Benfica è la risposta corretta.",
+    "source": "https://www.uefa.com/"
+  }
+]

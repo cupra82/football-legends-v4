@@ -1,0 +1,25 @@
+FOOTBALL LEGENDS 3.1 — WIKIDATA + ARCHIVI STORICI UEFA/FIFA
+
+COSA CAMBIA
+- 67 nuove domande storiche già incluse: 28 Champions, 17 Europei, 22 Mondiali.
+- Collegamento a Wikidata Query Service: dati CC0, query limitate a Juventus, Real Madrid e Barcellona.
+- Nuove domande Wikidata su anno/città di nascita di calciatori storici identificati dal club.
+- Nuovo file `wikidata-generated.json` creato su GitHub quando il servizio risponde con dati sufficienti.
+- Aggiornamento di `category-report.json` e `category-report.md` dopo il workflow.
+- Non modifica stanze, nickname, Supabase, immagini, modalità di gioco o altri archivi.
+
+INSTALLAZIONE
+1) GitHub Desktop: Fetch origin / Pull origin se necessario.
+2) Estrai lo ZIP e copia tutti i file nel repository, sostituendo gli omonimi.
+3) Non cancellare questions-generated.json e people-generated.json, se già presenti.
+4) GitHub Desktop: Commit to main e Push origin.
+5) GitHub -> Actions -> Aggiorna archivio Football Legends -> Run workflow.
+6) Al termine apri category-report.md nel repository per leggere i conteggi effettivi.
+7) Render: verifica il deploy Live e apri /api/status per il riepilogo.
+
+NOTE SULLA QUALITÀ
+- Wikidata è un servizio pubblico con limiti: fallimenti/non disponibilità NON cancellano un archivio precedente.
+- UEFA/FIFA non sono interrogati con API non documentate. Si conserva un elenco CURATO di albi d'oro
+  collegato agli archivi ufficiali. L'elenco si estende dopo verifica umana, non automaticamente ogni lunedì.
+- Non sono 2.000 domande per categoria: questa versione integra le nuove fonti in modo incrementale.
+- Non è stato possibile verificare una chiamata live a Wikidata nell'ambiente di costruzione.

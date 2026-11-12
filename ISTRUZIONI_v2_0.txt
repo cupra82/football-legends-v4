@@ -1,0 +1,18 @@
+FOOTBALL LEGENDS 2.0 - ALMANACCO DIVERTENTE
+
+INSTALLAZIONE
+1. Apri GitHub Desktop e Fetch/Pull se richiesto.
+2. Copia tutto il contenuto di questo ZIP nella cartella football-legends del repository, SENZA eliminare questions-generated.json e people-generated.json.
+3. Commit to main -> Push origin.
+4. GitHub -> Actions -> Aggiorna archivio Football Legends -> Run workflow (una volta adesso, poi ogni lunedi automaticamente).
+5. Controlla /api/version (2.0.0) e /api/status.
+
+COSA CAMBIA
+- 156 domande curate aggiuntive: campioni del mondo, EURO, Champions, allenatori, derby, stadi e leggende.
+- Rimangono le domande su Pallone d'Oro e le biografie gia presenti.
+- Le domande su risultati di partite casuali non vengono piu generate e non sono giocabili.
+- Le 18.000 biografie restano disponibili ma in una partita mista la quota di domande su nazionalita, ruolo ed epoca e limitata a circa il 25%.
+- Il workflow settimanale usa solo le classifiche COMPLETE e non indovina i campioni di stagioni in corso.
+- Mantiene le stanze, i nickname, Supabase e le classifiche permanenti.
+
+NOTA: Le nuove domande prodotte dal generatore dei campionati possono essere poche, perche il controllo di completezza e volutamente severo. Meglio meno domande attendibili che 50.000 curiosita statistiche senza interesse.

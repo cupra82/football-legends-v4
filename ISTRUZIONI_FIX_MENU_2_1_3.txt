@@ -1,0 +1,9 @@
+Football Legends v2.1.3 — Correzione blocco menu
+
+Causa: la versione precedente richiamava categoryList() e displayCategory() senza definirle.
+
+Installa copiando index.html nel repository GitHub Desktop, poi Commit to main e Push origin.
+Se vuoi anche le immagini, copia la cartella assets/categories dal pacchetto (sono gia presenti se hai installato v2.1.2).
+Non serve Run workflow. Supabase e server.js non cambiano.
+
+Dopo il deploy, premi Ctrl+Shift+R nel browser.

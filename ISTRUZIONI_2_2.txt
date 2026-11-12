@@ -1,0 +1,12 @@
+FOOTBALL LEGENDS 2.2 - ARCHIVIO CAMPIONATI
+
+1) Fetch/Pull origin in GitHub Desktop.
+2) Copia tutti i file e le cartelle del pacchetto nel repository. NON cancellare questions-generated.json e people-generated.json gia presenti.
+3) Commit to main con Summary: Football Legends 2.2 - Archivio campionati; poi Push origin.
+4) GitHub > Actions > Aggiorna archivio Football Legends > Run workflow (una sola volta per aggiornare subito le domande).
+5) Render pubblica i dati se Auto Deploy attivo. Controlla /api/status e i campi byCategory/categoryTargets.
+6) In seguito il workflow esegue il controllo ogni lunedi.
+
+IMPORTANTE: il target 1.000 per categoria non e garantito. Solo le stagioni effettivamente COMPLETE sono utilizzate. I quesiti creati sono su classifiche e record di stagione, non risultati casuali. I dati sono soggetti a disponibilita della fonte e controlli.
+
+Se la generazione in Actions non ha successo, NON cancellare questions-generated.json.

@@ -1,0 +1,57 @@
+{
+  "version": "3.3.4",
+  "minimumPerCategory": 2000,
+  "groups": {
+    "Campionati": [
+      "Serie A",
+      "Premier League",
+      "La Liga",
+      "Bundesliga",
+      "Ligue 1",
+      "Primeira Liga portoghese",
+      "Campionato svizzero",
+      "Challenge League svizzera",
+      "Süper Lig turca",
+      "Championship inglese",
+      "Segunda División"
+    ],
+    "Coppe e tornei": [
+      "Champions",
+      "Champions League",
+      "Coppe europee",
+      "Mondiali",
+      "Europei e nazionali",
+      "Marcatori dei Mondiali",
+      "Coppa Svizzera"
+    ],
+    "Protagonisti e storia": [
+      "Pallone d’Oro",
+      "Calciatori nel mondo",
+      "Calciatori leggendari",
+      "Leggende",
+      "Leggende del calcio",
+      "Allenatori e tecnici",
+      "Allenatori storici",
+      "Nazionale italiana"
+    ],
+    "Altro": [
+      "Stadi leggendari",
+      "Curiosità",
+      "Derby e rivalità",
+      "Grandi club",
+      "Europa"
+    ]
+  },
+  "excludedKinds": [
+    "Gol della squadra ospite",
+    "Gol della squadra di casa",
+    "Risultato esatto",
+    "Risultato all’intervallo",
+    "Gol totali",
+    "Squadre a segno",
+    "Esito della partita",
+    "Vittorie interne",
+    "Vittorie esterne"
+  ],
+  "explanations": "Il target di 2.000 è una soglia di qualità e copertura, non un conteggio predefinito. I risultati di incontri casuali sono esclusi. Nessuna duplicazione della stessa domanda in categorie diverse."
+}

@@ -1,0 +1,1487 @@
+[
+  {
+    "id": "pt-001",
+    "category": "Primeira Liga portoghese",
+    "kind": "Storia e curiosità",
+    "difficulty": 1,
+    "question": "In quale paese si disputa la Primeira Liga?",
+    "options": [
+      "Portogallo",
+      "Brasile",
+      "Spagna"
+    ],
+    "answer": 0,
+    "explanation": "La Primeira Liga è il massimo campionato portoghese.",
+    "source": "https://www.ligaportugal.pt/pages/historia"
+  },
+  {
+    "id": "pt-002",
+    "category": "Primeira Liga portoghese",
+    "kind": "Storia e curiosità",
+    "difficulty": 1,
+    "question": "Quali sono tradizionalmente le tre grandi del calcio portoghese?",
+    "options": [
+      "Benfica, Porto e Sporting",
+      "Porto, Braga e Vitória SC",
+      "Benfica, Braga e Boavista"
+    ],
+    "answer": 0,
+    "explanation": "Benfica, Porto e Sporting sono conosciute come le tre grandi.",
+    "source": "https://rsssf.org/tablesp/portchamp.html"
+  },
+  {
+    "id": "pt-003",
+    "category": "Primeira Liga portoghese",
+    "kind": "Storia e curiosità",
+    "difficulty": 1,
+    "question": "Quale club portoghese è noto come le Águias (Aquile)?",
+    "options": [
+      "Benfica",
+      "Sporting CP",
+      "FC Porto"
+    ],
+    "answer": 0,
+    "explanation": "Il Benfica è conosciuto con il soprannome Águias.",
+    "source": "https://rsssf.org/tablesp/portchamp.html"
+  },
+  {
+    "id": "pt-004",
+    "category": "Primeira Liga portoghese",
+    "kind": "Storia e curiosità",
+    "difficulty": 1,
+    "question": "Quale club portoghese è soprannominato Dragões (Dragoni)?",
+    "options": [
+      "Sporting CP",
+      "Benfica",
+      "FC Porto"
+    ],
+    "answer": 2,
+    "explanation": "Il drago è simbolo dell’FC Porto.",
+    "source": "https://www.uefa.com/uefachampionsleague/news/025a-0eaae2d4aef0-8d3790dac4c0--raise-a-glass-to-porto/"
+  },
+  {
+    "id": "pt-005",
+    "category": "Primeira Liga portoghese",
+    "kind": "Storia e curiosità",
+    "difficulty": 1,
+    "question": "Quale club portoghese è soprannominato Leões (Leoni)?",
+    "options": [
+      "FC Porto",
+      "Boavista",
+      "Sporting CP"
+    ],
+    "answer": 2,
+    "explanation": "Lo Sporting CP è storicamente associato al leone.",
+    "source": "https://rsssf.org/tablesp/portchamp.html"
+  },
+  {
+    "id": "pt-006",
+    "category": "Primeira Liga portoghese",
+    "kind": "Storia e curiosità",
+    "difficulty": 1,
+    "question": "Quale città ospita l’FC Porto?",
+    "options": [
+      "Braga",
+      "Porto",
+      "Lisbona"
+    ],
+    "answer": 1,
+    "explanation": "L’FC Porto rappresenta la città di Porto.",
+    "source": "https://www.uefa.com/uefachampionsleague/news/025a-0eaae2d4aef0-8d3790dac4c0--raise-a-glass-to-porto/"
+  },
+  {
+    "id": "pt-007",
+    "category": "Primeira Liga portoghese",
+    "kind": "Storia e curiosità",
+    "difficulty": 1,
+    "question": "In quale città hanno sede Benfica e Sporting?",
+    "options": [
+      "Porto",
+      "Coimbra",
+      "Lisbona"
+    ],
+    "answer": 2,
+    "explanation": "Benfica e Sporting sono due storici club di Lisbona.",
+    "source": "https://rsssf.org/tablesp/portchamp.html"
+  },
+  {
+    "id": "pt-008",
+    "category": "Primeira Liga portoghese",
+    "kind": "Storia e curiosità",
+    "difficulty": 1,
+    "question": "Quale squadra portoghese gioca allo stadio chiamato Estádio do Dragão?",
+    "options": [
+      "FC Porto",
+      "Braga",
+      "Sporting CP"
+    ],
+    "answer": 0,
+    "explanation": "L’Estádio do Dragão è la casa dell’FC Porto.",
+    "source": "https://www.uefa.com/uefachampionsleague/news/025a-0eaae2d4aef0-8d3790dac4c0--raise-a-glass-to-porto/"
+  },
+  {
+    "id": "pt-009",
+    "category": "Primeira Liga portoghese",
+    "kind": "Storia e curiosità",
+    "difficulty": 1,
+    "question": "Quale club portoghese ha come storico stadio l’Estádio da Luz?",
+    "options": [
+      "FC Porto",
+      "Benfica",
+      "Boavista"
+    ],
+    "answer": 1,
+    "explanation": "L’Estádio da Luz è lo stadio del Benfica.",
+    "source": "https://rsssf.org/tablesp/portchamp.html"
+  },
+  {
+    "id": "pt-010",
+    "category": "Primeira Liga portoghese",
+    "kind": "Storia e curiosità",
+    "difficulty": 1,
+    "question": "Quale squadra è legata allo stadio José Alvalade?",
+    "options": [
+      "Benfica",
+      "FC Porto",
+      "Sporting CP"
+    ],
+    "answer": 2,
+    "explanation": "Lo Sporting CP gioca allo stadio José Alvalade.",
+    "source": "https://rsssf.org/tablesp/portchamp.html"
+  },
+  {
+    "id": "pt-011",
+    "category": "Primeira Liga portoghese",
+    "kind": "Storia e curiosità",
+    "difficulty": 1,
+    "question": "Quale squadra portoghese è conosciuta come Os Axadrezados (a scacchi)?",
+    "options": [
+      "Boavista",
+      "Benfica",
+      "Sporting CP"
+    ],
+    "answer": 0,
+    "explanation": "La maglia a scacchi è il simbolo del Boavista.",
+    "source": "https://rsssf.org/tablesp/portchamp.html"
+  },
+  {
+    "id": "pt-012",
+    "category": "Primeira Liga portoghese",
+    "kind": "Storia e curiosità",
+    "difficulty": 1,
+    "question": "Quale città ospita lo Sporting Clube de Braga?",
+    "options": [
+      "Setúbal",
+      "Braga",
+      "Guimarães"
+    ],
+    "answer": 1,
+    "explanation": "Lo Sporting Clube de Braga rappresenta la città di Braga.",
+    "source": "https://rsssf.org/tablesp/portchamp.html"
+  },
+  {
+    "id": "pt-013",
+    "category": "Primeira Liga portoghese",
+    "kind": "Storia e curiosità",
+    "difficulty": 1,
+    "question": "Quale città è legata al Vitória Sport Clube?",
+    "options": [
+      "Guimarães",
+      "Porto",
+      "Coimbra"
+    ],
+    "answer": 0,
+    "explanation": "Il Vitória SC è il club di Guimarães.",
+    "source": "https://www.ligaportugal.pt/pages/historia"
+  },
+  {
+    "id": "pt-014",
+    "category": "Primeira Liga portoghese",
+    "kind": "Storia e curiosità",
+    "difficulty": 1,
+    "question": "Quale club è tradizionalmente identificato con la città di Setúbal?",
+    "options": [
+      "Vitória FC",
+      "FC Porto",
+      "Benfica"
+    ],
+    "answer": 0,
+    "explanation": "Il Vitória FC è conosciuto come Vitória de Setúbal.",
+    "source": "https://www.ligaportugal.pt/pages/historia"
+  },
+  {
+    "id": "pt-015",
+    "category": "Primeira Liga portoghese",
+    "kind": "Storia e curiosità",
+    "difficulty": 2,
+    "question": "Quale club storico di Lisbona vinse il campionato nel 1945/46?",
+    "options": [
+      "Belenenses",
+      "Casa Pia",
+      "Estoril"
+    ],
+    "answer": 0,
+    "explanation": "Il Belenenses vinse il titolo nazionale nel 1945/46.",
+    "source": "https://rsssf.org/tablesp/portchamp.html"
+  },
+  {
+    "id": "pt-016",
+    "category": "Primeira Liga portoghese",
+    "kind": "Storia e curiosità",
+    "difficulty": 1,
+    "question": "Quale club vinse il campionato 2000/01 sorprendendo Benfica, Porto e Sporting?",
+    "options": [
+      "Vitória SC",
+      "Braga",
+      "Boavista"
+    ],
+    "answer": 2,
+    "explanation": "Il Boavista è campione nazionale della stagione 2000/01.",
+    "source": "https://rsssf.org/tablesp/portchamp.html"
+  },
+  {
+    "id": "pt-017",
+    "category": "Primeira Liga portoghese",
+    "kind": "Storia e curiosità",
+    "difficulty": 1,
+    "question": "Quale club NON fa parte delle cosiddette tre grandi portoghesi?",
+    "options": [
+      "Braga",
+      "Sporting CP",
+      "Benfica"
+    ],
+    "answer": 0,
+    "explanation": "Le tre grandi sono Benfica, Porto e Sporting.",
+    "source": "https://rsssf.org/tablesp/portchamp.html"
+  },
+  {
+    "id": "pt-018",
+    "category": "Primeira Liga portoghese",
+    "kind": "Storia e curiosità",
+    "difficulty": 1,
+    "question": "Quale club ha vinto più campionati portoghesi fino al 2025/26?",
+    "options": [
+      "FC Porto",
+      "Benfica",
+      "Sporting CP"
+    ],
+    "answer": 1,
+    "explanation": "Il Benfica guida l’albo d’oro della Primeira Liga.",
+    "source": "https://rsssf.org/tablesp/portchamp.html"
+  },
+  {
+    "id": "pt-019",
+    "category": "Primeira Liga portoghese",
+    "kind": "Storia e curiosità",
+    "difficulty": 1,
+    "question": "Quale club ha vinto due Coppe dei Campioni consecutive nel 1961 e 1962?",
+    "options": [
+      "Sporting CP",
+      "FC Porto",
+      "Benfica"
+    ],
+    "answer": 2,
+    "explanation": "Il Benfica conquistò la Coppa dei Campioni nel 1961 e nel 1962.",
+    "source": "https://pt.uefa.com/uefachampionsleague/news/023d-0e97b175ee2d-090504adece2-1000--palmares-na-uefa-clubes-com-mais-titulos/"
+  },
+  {
+    "id": "pt-020",
+    "category": "Primeira Liga portoghese",
+    "kind": "Storia e curiosità",
+    "difficulty": 1,
+    "question": "Quale club ha vinto la Coppa dei Campioni/Champions League sia nel 1987 sia nel 2004?",
+    "options": [
+      "Sporting CP",
+      "FC Porto",
+      "Benfica"
+    ],
+    "answer": 1,
+    "explanation": "L’FC Porto è stato campione d’Europa nel 1987 e nel 2004.",
+    "source": "https://pt.uefa.com/uefachampionsleague/news/023d-0e97b175ee2d-090504adece2-1000--palmares-na-uefa-clubes-com-mais-titulos/"
+  },
+  {
+    "id": "pt-021",
+    "category": "Primeira Liga portoghese",
+    "kind": "Storia e curiosità",
+    "difficulty": 2,
+    "question": "Quale squadra portoghese vinse la Coppa delle Coppe 1963/64?",
+    "options": [
+      "Sporting CP",
+      "Benfica",
+      "FC Porto"
+    ],
+    "answer": 0,
+    "explanation": "Lo Sporting CP vinse la Coppa delle Coppe 1963/64.",
+    "source": "https://pt.uefa.com/uefachampionsleague/news/023d-0e97b175ee2d-090504adece2-1000--palmares-na-uefa-clubes-com-mais-titulos/"
+  },
+  {
+    "id": "pt-022",
+    "category": "Primeira Liga portoghese",
+    "kind": "Storia e curiosità",
+    "difficulty": 1,
+    "question": "Quale club ha vinto il campionato portoghese 2025/26?",
+    "options": [
+      "Sporting CP",
+      "FC Porto",
+      "Benfica"
+    ],
+    "answer": 1,
+    "explanation": "Il Porto ha conquistato il titolo della stagione 2025/26.",
+    "source": "https://rsssf.org/tablesp/portchamp.html"
+  },
+  {
+    "id": "pt-023",
+    "category": "Primeira Liga portoghese",
+    "kind": "Storia e curiosità",
+    "difficulty": 1,
+    "question": "Quale club ha vinto il campionato portoghese 2024/25?",
+    "options": [
+      "Benfica",
+      "Sporting CP",
+      "FC Porto"
+    ],
+    "answer": 1,
+    "explanation": "Lo Sporting CP ha vinto la Primeira Liga 2024/25.",
+    "source": "https://rsssf.org/tablesp/portchamp.html"
+  },
+  {
+    "id": "pt-024",
+    "category": "Primeira Liga portoghese",
+    "kind": "Storia e curiosità",
+    "difficulty": 1,
+    "question": "Quale club ha vinto il campionato portoghese 2023/24?",
+    "options": [
+      "FC Porto",
+      "Sporting CP",
+      "Benfica"
+    ],
+    "answer": 1,
+    "explanation": "Lo Sporting CP ha vinto il titolo 2023/24.",
+    "source": "https://rsssf.org/tablesp/portchamp.html"
+  },
+  {
+    "id": "pt-025",
+    "category": "Primeira Liga portoghese",
+    "kind": "Storia e curiosità",
+    "difficulty": 1,
+    "question": "Quale club ha vinto il campionato portoghese 2022/23?",
+    "options": [
+      "Benfica",
+      "FC Porto",
+      "Sporting CP"
+    ],
+    "answer": 0,
+    "explanation": "Il Benfica si è aggiudicato il campionato 2022/23.",
+    "source": "https://rsssf.org/tablesp/portchamp.html"
+  },
+  {
+    "id": "pt-026",
+    "category": "Primeira Liga portoghese",
+    "kind": "Storia e curiosità",
+    "difficulty": 1,
+    "question": "Quale club ha vinto il campionato portoghese 2021/22?",
+    "options": [
+      "Sporting CP",
+      "FC Porto",
+      "Benfica"
+    ],
+    "answer": 1,
+    "explanation": "Il Porto è il campione del 2021/22.",
+    "source": "https://rsssf.org/tablesp/portchamp.html"
+  },
+  {
+    "id": "pt-027",
+    "category": "Primeira Liga portoghese",
+    "kind": "Storia e curiosità",
+    "difficulty": 1,
+    "question": "Quale club ha vinto la Primeira Liga 2020/21, interrompendo un lungo digiuno?",
+    "options": [
+      "Sporting CP",
+      "Benfica",
+      "FC Porto"
+    ],
+    "answer": 0,
+    "explanation": "Lo Sporting ha riconquistato il titolo nella stagione 2020/21.",
+    "source": "https://rsssf.org/tablesp/portchamp.html"
+  },
+  {
+    "id": "pt-028",
+    "category": "Primeira Liga portoghese",
+    "kind": "Storia e curiosità",
+    "difficulty": 1,
+    "question": "Chi vinse la Primeira Liga 2019/20?",
+    "options": [
+      "Benfica",
+      "Sporting CP",
+      "FC Porto"
+    ],
+    "answer": 2,
+    "explanation": "Il Porto conquistò il campionato 2019/20.",
+    "source": "https://rsssf.org/tablesp/portchamp.html"
+  },
+  {
+    "id": "pt-029",
+    "category": "Primeira Liga portoghese",
+    "kind": "Storia e curiosità",
+    "difficulty": 1,
+    "question": "Chi vinse la Primeira Liga 2018/19?",
+    "options": [
+      "Benfica",
+      "FC Porto",
+      "Sporting CP"
+    ],
+    "answer": 0,
+    "explanation": "Il Benfica vinse il campionato 2018/19.",
+    "source": "https://rsssf.org/tablesp/portchamp.html"
+  },
+  {
+    "id": "pt-030",
+    "category": "Primeira Liga portoghese",
+    "kind": "Storia e curiosità",
+    "difficulty": 2,
+    "question": "Quale club vinse quattro campionati di fila dal 2013/14 al 2016/17?",
+    "options": [
+      "FC Porto",
+      "Benfica",
+      "Sporting CP"
+    ],
+    "answer": 1,
+    "explanation": "Il Benfica fu campione per quattro stagioni consecutive.",
+    "source": "https://rsssf.org/tablesp/portchamp.html"
+  },
+  {
+    "id": "pt-031",
+    "category": "Primeira Liga portoghese",
+    "kind": "Storia e curiosità",
+    "difficulty": 2,
+    "question": "Quale squadra vinse il titolo portoghese nel 2001/02?",
+    "options": [
+      "FC Porto",
+      "Sporting CP",
+      "Boavista"
+    ],
+    "answer": 1,
+    "explanation": "Lo Sporting conquistò la Primeira Liga 2001/02.",
+    "source": "https://rsssf.org/tablesp/portchamp.html"
+  },
+  {
+    "id": "pt-032",
+    "category": "Primeira Liga portoghese",
+    "kind": "Storia e curiosità",
+    "difficulty": 1,
+    "question": "Quale squadra vinse cinque campionati portoghesi consecutivi dal 1994/95 al 1998/99?",
+    "options": [
+      "Benfica",
+      "Sporting CP",
+      "FC Porto"
+    ],
+    "answer": 2,
+    "explanation": "Il Porto vinse cinque titoli consecutivi negli anni Novanta.",
+    "source": "https://www.uefa.com/uefachampionsleague/news/025a-0eaae2d4aef0-8d3790dac4c0--raise-a-glass-to-porto/"
+  },
+  {
+    "id": "pt-033",
+    "category": "Primeira Liga portoghese",
+    "kind": "Storia e curiosità",
+    "difficulty": 2,
+    "question": "Chi fu campione portoghese nel 2009/10?",
+    "options": [
+      "Benfica",
+      "FC Porto",
+      "Sporting CP"
+    ],
+    "answer": 0,
+    "explanation": "Il Benfica conquistò il titolo 2009/10.",
+    "source": "https://rsssf.org/tablesp/portchamp.html"
+  },
+  {
+    "id": "pt-034",
+    "category": "Primeira Liga portoghese",
+    "kind": "Storia e curiosità",
+    "difficulty": 2,
+    "question": "Quale club ha vinto i titoli portoghesi 2010/11, 2011/12 e 2012/13?",
+    "options": [
+      "FC Porto",
+      "Benfica",
+      "Sporting CP"
+    ],
+    "answer": 0,
+    "explanation": "Il Porto vinse tre edizioni consecutive tra il 2011 e il 2013.",
+    "source": "https://rsssf.org/tablesp/portchamp.html"
+  },
+  {
+    "id": "pt-035",
+    "category": "Primeira Liga portoghese",
+    "kind": "Storia e curiosità",
+    "difficulty": 2,
+    "question": "Quale club vinse il titolo del 2004/05?",
+    "options": [
+      "Sporting CP",
+      "Benfica",
+      "FC Porto"
+    ],
+    "answer": 1,
+    "explanation": "Il Benfica si impose nella stagione 2004/05.",
+    "source": "https://rsssf.org/tablesp/portchamp.html"
+  },
+  {
+    "id": "pt-036",
+    "category": "Primeira Liga portoghese",
+    "kind": "Storia e curiosità",
+    "difficulty": 2,
+    "question": "Quale club vinse il titolo 1999/2000?",
+    "options": [
+      "Sporting CP",
+      "Benfica",
+      "FC Porto"
+    ],
+    "answer": 0,
+    "explanation": "Lo Sporting conquistò il campionato 1999/2000.",
+    "source": "https://rsssf.org/tablesp/portchamp.html"
+  },
+  {
+    "id": "pt-037",
+    "category": "Primeira Liga portoghese",
+    "kind": "Storia e curiosità",
+    "difficulty": 1,
+    "question": "Con quale club portoghese è soprattutto associato Eusébio?",
+    "options": [
+      "FC Porto",
+      "Benfica",
+      "Sporting CP"
+    ],
+    "answer": 1,
+    "explanation": "Eusébio è una delle grandi leggende del Benfica.",
+    "source": "https://futebol.pt/recordes/melhores-marcadores-liga/"
+  },
+  {
+    "id": "pt-038",
+    "category": "Primeira Liga portoghese",
+    "kind": "Storia e curiosità",
+    "difficulty": 1,
+    "question": "Chi era soprannominato la Pantera Nera?",
+    "options": [
+      "Eusébio",
+      "Deco",
+      "Luís Figo"
+    ],
+    "answer": 0,
+    "explanation": "Eusébio era conosciuto come la Pantera Nera.",
+    "source": "https://futebol.pt/recordes/melhores-marcadores-liga/"
+  },
+  {
+    "id": "pt-039",
+    "category": "Primeira Liga portoghese",
+    "kind": "Storia e curiosità",
+    "difficulty": 2,
+    "question": "Quale attaccante è il miglior marcatore storico del campionato portoghese?",
+    "options": [
+      "Eusébio",
+      "Fernando Gomes",
+      "Fernando Peyroteo"
+    ],
+    "answer": 2,
+    "explanation": "Peyroteo guida la classifica storica dei gol in Primeira Liga.",
+    "source": "https://futebol.pt/recordes/melhores-marcadores-liga/"
+  },
+  {
+    "id": "pt-040",
+    "category": "Primeira Liga portoghese",
+    "kind": "Storia e curiosità",
+    "difficulty": 2,
+    "question": "Con quale club giocava il leggendario cannoniere Fernando Peyroteo?",
+    "options": [
+      "Benfica",
+      "FC Porto",
+      "Sporting CP"
+    ],
+    "answer": 2,
+    "explanation": "Fernando Peyroteo è stato una leggenda dello Sporting.",
+    "source": "https://futebol.pt/recordes/melhores-marcadores-liga/"
+  },
+  {
+    "id": "pt-041",
+    "category": "Primeira Liga portoghese",
+    "kind": "Storia e curiosità",
+    "difficulty": 1,
+    "question": "Quale campione brasiliano è stato capocannoniere in Portogallo sia con Porto sia con Sporting?",
+    "options": [
+      "Hulk",
+      "Mário Jardel",
+      "Jonas"
+    ],
+    "answer": 1,
+    "explanation": "Jardel vinse il titolo di capocannoniere con Porto e Sporting.",
+    "source": "https://futebol.pt/recordes/melhores-marcadores-liga/"
+  },
+  {
+    "id": "pt-042",
+    "category": "Primeira Liga portoghese",
+    "kind": "Storia e curiosità",
+    "difficulty": 1,
+    "question": "Con quale squadra portoghese Mário Jardel vinse il campionato nel 2001/02?",
+    "options": [
+      "Braga",
+      "Sporting CP",
+      "Benfica"
+    ],
+    "answer": 1,
+    "explanation": "Jardel fu protagonista dello Sporting campione nel 2001/02.",
+    "source": "https://futebol.pt/recordes/melhores-marcadores-liga/"
+  },
+  {
+    "id": "pt-043",
+    "category": "Primeira Liga portoghese",
+    "kind": "Storia e curiosità",
+    "difficulty": 1,
+    "question": "Quale attaccante svedese vinse la classifica marcatori portoghese nel 2023/24?",
+    "options": [
+      "Viktor Gyökeres",
+      "Alexander Isak",
+      "Zlatan Ibrahimović"
+    ],
+    "answer": 0,
+    "explanation": "Gyökeres segnò 29 gol in campionato con lo Sporting nel 2023/24.",
+    "source": "https://futebol.pt/recordes/melhores-marcadores-liga/"
+  },
+  {
+    "id": "pt-044",
+    "category": "Primeira Liga portoghese",
+    "kind": "Storia e curiosità",
+    "difficulty": 1,
+    "question": "In quale club portoghese giocava Viktor Gyökeres nella stagione 2024/25?",
+    "options": [
+      "Benfica",
+      "FC Porto",
+      "Sporting CP"
+    ],
+    "answer": 2,
+    "explanation": "Gyökeres era il centravanti dello Sporting nel 2024/25.",
+    "source": "https://futebol.pt/recordes/melhores-marcadores-liga/"
+  },
+  {
+    "id": "pt-045",
+    "category": "Primeira Liga portoghese",
+    "kind": "Storia e curiosità",
+    "difficulty": 1,
+    "question": "Chi fu capocannoniere della Primeira Liga 2021/22 con il Benfica?",
+    "options": [
+      "Rafa Silva",
+      "Darwin Núñez",
+      "João Félix"
+    ],
+    "answer": 1,
+    "explanation": "Darwin Núñez fu il miglior marcatore nel 2021/22.",
+    "source": "https://futebol.pt/recordes/melhores-marcadores-liga/"
+  },
+  {
+    "id": "pt-046",
+    "category": "Primeira Liga portoghese",
+    "kind": "Storia e curiosità",
+    "difficulty": 1,
+    "question": "Con quale squadra portoghese giocava l’attaccante colombiano Jackson Martínez?",
+    "options": [
+      "Benfica",
+      "FC Porto",
+      "Sporting CP"
+    ],
+    "answer": 1,
+    "explanation": "Jackson Martínez vinse tre classifiche marcatori con il Porto.",
+    "source": "https://futebol.pt/recordes/melhores-marcadores-liga/"
+  },
+  {
+    "id": "pt-047",
+    "category": "Primeira Liga portoghese",
+    "kind": "Storia e curiosità",
+    "difficulty": 1,
+    "question": "Con quale squadra segnava molti gol il centravanti Bas Dost?",
+    "options": [
+      "FC Porto",
+      "Sporting CP",
+      "Benfica"
+    ],
+    "answer": 1,
+    "explanation": "Bas Dost fu capocannoniere nel 2016/17 con lo Sporting.",
+    "source": "https://futebol.pt/recordes/melhores-marcadores-liga/"
+  },
+  {
+    "id": "pt-048",
+    "category": "Primeira Liga portoghese",
+    "kind": "Storia e curiosità",
+    "difficulty": 1,
+    "question": "Chi fu protagonista dell’attacco del Benfica e capocannoniere nel 2015/16?",
+    "options": [
+      "Mário Jardel",
+      "Jonas",
+      "Bas Dost"
+    ],
+    "answer": 1,
+    "explanation": "Jonas fu il capocannoniere del campionato 2015/16 con il Benfica.",
+    "source": "https://futebol.pt/recordes/melhores-marcadores-liga/"
+  },
+  {
+    "id": "pt-049",
+    "category": "Primeira Liga portoghese",
+    "kind": "Storia e curiosità",
+    "difficulty": 1,
+    "question": "Quale leggenda dell’FC Porto vinse più volte il titolo di capocannoniere negli anni Ottanta?",
+    "options": [
+      "José Águas",
+      "Nené",
+      "Fernando Gomes"
+    ],
+    "answer": 2,
+    "explanation": "Fernando Gomes fu una bandiera del Porto e grande goleador.",
+    "source": "https://futebol.pt/recordes/melhores-marcadores-liga/"
+  },
+  {
+    "id": "pt-050",
+    "category": "Primeira Liga portoghese",
+    "kind": "Storia e curiosità",
+    "difficulty": 2,
+    "question": "Quale giocatore argentino stabilì il record di 46 gol in una stagione di Primeira Liga?",
+    "options": [
+      "Héctor Yazalde",
+      "Nicolás Gaitán",
+      "Ángel Di María"
+    ],
+    "answer": 0,
+    "explanation": "Yazalde segnò 46 reti con lo Sporting nel 1973/74.",
+    "source": "https://futebol.pt/recordes/melhores-marcadores-liga/"
+  },
+  {
+    "id": "pt-051",
+    "category": "Primeira Liga portoghese",
+    "kind": "Storia e curiosità",
+    "difficulty": 2,
+    "question": "Con quale club vinse Héctor Yazalde la classifica marcatori 1973/74?",
+    "options": [
+      "Benfica",
+      "FC Porto",
+      "Sporting CP"
+    ],
+    "answer": 2,
+    "explanation": "Il record di Yazalde arrivò con lo Sporting.",
+    "source": "https://futebol.pt/recordes/melhores-marcadores-liga/"
+  },
+  {
+    "id": "pt-052",
+    "category": "Primeira Liga portoghese",
+    "kind": "Storia e curiosità",
+    "difficulty": 1,
+    "question": "Quale club portoghese aveva in squadra Deco quando vinse la Champions nel 2004?",
+    "options": [
+      "Benfica",
+      "FC Porto",
+      "Sporting CP"
+    ],
+    "answer": 1,
+    "explanation": "Deco era il regista del Porto di Mourinho.",
+    "source": "https://www.uefa.com/uefachampionsleague/news/0250-0c50f100f076-ecb0d9d85bb1-1000--2003-04-porto-pull-off-biggest-surprise/"
+  },
+  {
+    "id": "pt-053",
+    "category": "Primeira Liga portoghese",
+    "kind": "Storia e curiosità",
+    "difficulty": 1,
+    "question": "Con quale club portoghese vinse la Champions League Ricardo Carvalho nel 2004?",
+    "options": [
+      "FC Porto",
+      "Braga",
+      "Benfica"
+    ],
+    "answer": 0,
+    "explanation": "Ricardo Carvalho giocava nel Porto campione d’Europa 2004.",
+    "source": "https://www.uefa.com/uefachampionsleague/news/0250-0c50f100f076-ecb0d9d85bb1-1000--2003-04-porto-pull-off-biggest-surprise/"
+  },
+  {
+    "id": "pt-054",
+    "category": "Primeira Liga portoghese",
+    "kind": "Storia e curiosità",
+    "difficulty": 1,
+    "question": "In quale club portoghese iniziò la carriera professionistica di Cristiano Ronaldo?",
+    "options": [
+      "FC Porto",
+      "Benfica",
+      "Sporting CP"
+    ],
+    "answer": 2,
+    "explanation": "Cristiano Ronaldo esordì nel calcio professionistico con lo Sporting.",
+    "source": "https://www.uefa.com/news/0246-0e98e228fe16-d5ff2a10c737-1000--europe-s-top-portuguese-players/"
+  },
+  {
+    "id": "pt-055",
+    "category": "Primeira Liga portoghese",
+    "kind": "Storia e curiosità",
+    "difficulty": 1,
+    "question": "In quale club portoghese iniziò a giocare Luís Figo da professionista?",
+    "options": [
+      "FC Porto",
+      "Sporting CP",
+      "Benfica"
+    ],
+    "answer": 1,
+    "explanation": "Luís Figo si mise in luce nello Sporting prima del Barcellona.",
+    "source": "https://www.uefa.com/news/0246-0e98e228fe16-d5ff2a10c737-1000--europe-s-top-portuguese-players/"
+  },
+  {
+    "id": "pt-056",
+    "category": "Primeira Liga portoghese",
+    "kind": "Storia e curiosità",
+    "difficulty": 1,
+    "question": "Quale club portoghese è legato alla carriera europea del grande Eusébio?",
+    "options": [
+      "Sporting CP",
+      "FC Porto",
+      "Benfica"
+    ],
+    "answer": 2,
+    "explanation": "Eusébio divenne una leggenda europea con il Benfica.",
+    "source": "https://www.uefa.com/news/0246-0e98e228fe16-d5ff2a10c737-1000--europe-s-top-portuguese-players/"
+  },
+  {
+    "id": "pt-057",
+    "category": "Primeira Liga portoghese",
+    "kind": "Storia e curiosità",
+    "difficulty": 1,
+    "question": "Quale club portoghese è legato alla carriera di José Águas?",
+    "options": [
+      "Boavista",
+      "Benfica",
+      "FC Porto"
+    ],
+    "answer": 1,
+    "explanation": "José Águas fu un centravanti storico del Benfica.",
+    "source": "https://futebol.pt/recordes/melhores-marcadores-liga/"
+  },
+  {
+    "id": "pt-058",
+    "category": "Primeira Liga portoghese",
+    "kind": "Storia e curiosità",
+    "difficulty": 1,
+    "question": "Quale squadra rese famoso il portiere Vítor Baía prima e dopo l’esperienza al Barcellona?",
+    "options": [
+      "Sporting CP",
+      "FC Porto",
+      "Benfica"
+    ],
+    "answer": 1,
+    "explanation": "Vítor Baía giocò a lungo con il Porto e vinse la Champions 2004.",
+    "source": "https://www.uefa.com/uefachampionsleague/news/0250-0c50f100f076-ecb0d9d85bb1-1000--2003-04-porto-pull-off-biggest-surprise/"
+  },
+  {
+    "id": "pt-059",
+    "category": "Primeira Liga portoghese",
+    "kind": "Storia e curiosità",
+    "difficulty": 1,
+    "question": "Quale club portoghese vinse la Champions League 2004 con Maniche in squadra?",
+    "options": [
+      "Benfica",
+      "Sporting CP",
+      "FC Porto"
+    ],
+    "answer": 2,
+    "explanation": "Maniche era nel Porto vincitore della Champions 2003/04.",
+    "source": "https://www.uefa.com/uefachampionsleague/news/0250-0c50f100f076-ecb0d9d85bb1-1000--2003-04-porto-pull-off-biggest-surprise/"
+  },
+  {
+    "id": "pt-060",
+    "category": "Primeira Liga portoghese",
+    "kind": "Storia e curiosità",
+    "difficulty": 1,
+    "question": "Con quale squadra portoghese giocò l’attaccante Liedson, capocannoniere nel 2004/05?",
+    "options": [
+      "FC Porto",
+      "Benfica",
+      "Sporting CP"
+    ],
+    "answer": 2,
+    "explanation": "Liedson fu una figura importante dello Sporting.",
+    "source": "https://futebol.pt/recordes/melhores-marcadores-liga/"
+  },
+  {
+    "id": "pt-061",
+    "category": "Primeira Liga portoghese",
+    "kind": "Storia e curiosità",
+    "difficulty": 1,
+    "question": "Chi allenava il Porto campione d’Europa nel 2004?",
+    "options": [
+      "André Villas-Boas",
+      "José Mourinho",
+      "Jorge Jesus"
+    ],
+    "answer": 1,
+    "explanation": "José Mourinho portò il Porto alla Champions League nel 2004.",
+    "source": "https://www.uefa.com/uefachampionsleague/news/0250-0c50f100f076-ecb0d9d85bb1-1000--2003-04-porto-pull-off-biggest-surprise/"
+  },
+  {
+    "id": "pt-062",
+    "category": "Primeira Liga portoghese",
+    "kind": "Storia e curiosità",
+    "difficulty": 1,
+    "question": "Chi allenava l’FC Porto vincitore della Coppa UEFA nel 2003?",
+    "options": [
+      "Rui Vitória",
+      "Rúben Amorim",
+      "José Mourinho"
+    ],
+    "answer": 2,
+    "explanation": "Mourinho guidò il Porto alla Coppa UEFA del 2003.",
+    "source": "https://www.uefa.com/uefachampionsleague/news/0250-0c50f100f076-ecb0d9d85bb1-1000--2003-04-porto-pull-off-biggest-surprise/"
+  },
+  {
+    "id": "pt-063",
+    "category": "Primeira Liga portoghese",
+    "kind": "Storia e curiosità",
+    "difficulty": 1,
+    "question": "Chi allenava il Porto che vinse la Champions League 2004 contro il Monaco?",
+    "options": [
+      "José Mourinho",
+      "Bobby Robson",
+      "Fernando Santos"
+    ],
+    "answer": 0,
+    "explanation": "Il Porto di José Mourinho batté il Monaco nella finale del 2004.",
+    "source": "https://www.uefa.com/uefachampionsleague/news/0250-0c50f100f076-ecb0d9d85bb1-1000--2003-04-porto-pull-off-biggest-surprise/"
+  },
+  {
+    "id": "pt-064",
+    "category": "Primeira Liga portoghese",
+    "kind": "Storia e curiosità",
+    "difficulty": 1,
+    "question": "Quale allenatore portoghese vinse la Champions nel 2004 con il Porto e nel 2010 con l’Inter?",
+    "options": [
+      "José Mourinho",
+      "André Villas-Boas",
+      "Jorge Jesus"
+    ],
+    "answer": 0,
+    "explanation": "Mourinho ha vinto le Champions 2004 e 2010 con Porto e Inter.",
+    "source": "https://www.uefa.com/uefachampionsleague/news/0250-0c50f100f076-ecb0d9d85bb1-1000--2003-04-porto-pull-off-biggest-surprise/"
+  },
+  {
+    "id": "pt-065",
+    "category": "Primeira Liga portoghese",
+    "kind": "Storia e curiosità",
+    "difficulty": 1,
+    "question": "Quale squadra allenata da José Mourinho vinse la Coppa UEFA 2002/03?",
+    "options": [
+      "Benfica",
+      "Sporting CP",
+      "FC Porto"
+    ],
+    "answer": 2,
+    "explanation": "Il Porto vinse il trofeo nel 2003 contro il Celtic.",
+    "source": "https://www.uefa.com/uefachampionsleague/news/0250-0c50f100f076-ecb0d9d85bb1-1000--2003-04-porto-pull-off-biggest-surprise/"
+  },
+  {
+    "id": "pt-066",
+    "category": "Primeira Liga portoghese",
+    "kind": "Storia e curiosità",
+    "difficulty": 2,
+    "question": "Chi guidò il Porto al titolo portoghese 1994/95?",
+    "options": [
+      "Rúben Amorim",
+      "Bobby Robson",
+      "José Mourinho"
+    ],
+    "answer": 1,
+    "explanation": "Bobby Robson guidò il Porto nei primi due titoli della serie di cinque.",
+    "source": "https://www.uefa.com/uefachampionsleague/news/025a-0eaae2d4aef0-8d3790dac4c0--raise-a-glass-to-porto/"
+  },
+  {
+    "id": "pt-067",
+    "category": "Primeira Liga portoghese",
+    "kind": "Storia e curiosità",
+    "difficulty": 1,
+    "question": "Quale squadra fu guidata da Bobby Robson negli anni Novanta in Portogallo?",
+    "options": [
+      "Braga",
+      "FC Porto",
+      "Benfica"
+    ],
+    "answer": 1,
+    "explanation": "Robson allenò il Porto negli anni Novanta.",
+    "source": "https://www.uefa.com/uefachampionsleague/news/025a-0eaae2d4aef0-8d3790dac4c0--raise-a-glass-to-porto/"
+  },
+  {
+    "id": "pt-068",
+    "category": "Primeira Liga portoghese",
+    "kind": "Storia e curiosità",
+    "difficulty": 2,
+    "question": "Chi allenava il Porto campione di Portogallo 1998/99?",
+    "options": [
+      "André Villas-Boas",
+      "Bobby Robson",
+      "Fernando Santos"
+    ],
+    "answer": 2,
+    "explanation": "Fernando Santos guidò il Porto al quinto titolo consecutivo.",
+    "source": "https://www.uefa.com/uefachampionsleague/news/025a-0eaae2d4aef0-8d3790dac4c0--raise-a-glass-to-porto/"
+  },
+  {
+    "id": "pt-069",
+    "category": "Primeira Liga portoghese",
+    "kind": "Storia e curiosità",
+    "difficulty": 1,
+    "question": "Quale club vinse la Champions League 2004 battendo il Monaco?",
+    "options": [
+      "FC Porto",
+      "Sporting CP",
+      "Benfica"
+    ],
+    "answer": 0,
+    "explanation": "Il Porto vinse la finale 2004 contro il Monaco.",
+    "source": "https://www.uefa.com/uefachampionsleague/news/0250-0c50f100f076-ecb0d9d85bb1-1000--2003-04-porto-pull-off-biggest-surprise/"
+  },
+  {
+    "id": "pt-070",
+    "category": "Primeira Liga portoghese",
+    "kind": "Storia e curiosità",
+    "difficulty": 1,
+    "question": "Quale squadra portoghese batté il Celtic nella finale di Coppa UEFA 2003?",
+    "options": [
+      "Benfica",
+      "FC Porto",
+      "Sporting CP"
+    ],
+    "answer": 1,
+    "explanation": "L’FC Porto batté il Celtic e conquistò la Coppa UEFA 2003.",
+    "source": "https://www.uefa.com/uefachampionsleague/news/0250-0c50f100f076-ecb0d9d85bb1-1000--2003-04-porto-pull-off-biggest-surprise/"
+  },
+  {
+    "id": "pt-071",
+    "category": "Primeira Liga portoghese",
+    "kind": "Storia e curiosità",
+    "difficulty": 1,
+    "question": "Quale club portoghese ha conquistato la UEFA Europa League nel 2011?",
+    "options": [
+      "Benfica",
+      "FC Porto",
+      "Sporting CP"
+    ],
+    "answer": 1,
+    "explanation": "Il Porto ha vinto la UEFA Europa League 2010/11.",
+    "source": "https://pt.uefa.com/uefachampionsleague/news/023d-0e97b175ee2d-090504adece2-1000--palmares-na-uefa-clubes-com-mais-titulos/"
+  },
+  {
+    "id": "pt-072",
+    "category": "Primeira Liga portoghese",
+    "kind": "Storia e curiosità",
+    "difficulty": 1,
+    "question": "Quale squadra portoghese è stata la prima a vincere la Coppa dei Campioni?",
+    "options": [
+      "Benfica",
+      "Sporting CP",
+      "FC Porto"
+    ],
+    "answer": 0,
+    "explanation": "Il Benfica vinse la finale 1960/61 contro il Barcellona.",
+    "source": "https://www.uefa.com/news/0246-0e98e228fe16-d5ff2a10c737-1000--europe-s-top-portuguese-players/"
+  },
+  {
+    "id": "pt-073",
+    "category": "Primeira Liga portoghese",
+    "kind": "Storia e curiosità",
+    "difficulty": 1,
+    "question": "Quale squadra portoghese ha vinto la Champions League due volte?",
+    "options": [
+      "Sporting CP",
+      "FC Porto",
+      "Braga"
+    ],
+    "answer": 1,
+    "explanation": "Il Porto ha vinto il massimo torneo europeo nel 1987 e nel 2004.",
+    "source": "https://pt.uefa.com/uefachampionsleague/news/023d-0e97b175ee2d-090504adece2-1000--palmares-na-uefa-clubes-com-mais-titulos/"
+  },
+  {
+    "id": "pt-074",
+    "category": "Primeira Liga portoghese",
+    "kind": "Storia e curiosità",
+    "difficulty": 1,
+    "question": "Nel 2004, chi affrontò il Porto nella finale di Champions League?",
+    "options": [
+      "Valencia",
+      "Monaco",
+      "Arsenal"
+    ],
+    "answer": 1,
+    "explanation": "Il Porto batté il Monaco nella finale disputata a Gelsenkirchen.",
+    "source": "https://www.uefa.com/uefachampionsleague/news/0250-0c50f100f076-ecb0d9d85bb1-1000--2003-04-porto-pull-off-biggest-surprise/"
+  },
+  {
+    "id": "pt-075",
+    "category": "Primeira Liga portoghese",
+    "kind": "Storia e curiosità",
+    "difficulty": 1,
+    "question": "Quale club vinse la Coppa UEFA 2010/11 nella finale contro il Braga?",
+    "options": [
+      "Benfica",
+      "Sporting CP",
+      "FC Porto"
+    ],
+    "answer": 2,
+    "explanation": "Il Porto vinse l’Europa League 2010/11.",
+    "source": "https://pt.uefa.com/uefachampionsleague/news/023d-0e97b175ee2d-090504adece2-1000--palmares-na-uefa-clubes-com-mais-titulos/"
+  },
+  {
+    "id": "pt-076",
+    "category": "Primeira Liga portoghese",
+    "kind": "Storia e curiosità",
+    "difficulty": 1,
+    "question": "Quale club portoghese raggiunse la finale di Europa League del 2011 contro il Porto?",
+    "options": [
+      "Sporting CP",
+      "Boavista",
+      "Braga"
+    ],
+    "answer": 2,
+    "explanation": "Il Braga fu finalista dell’Europa League 2010/11.",
+    "source": "https://pt.uefa.com/uefachampionsleague/news/023d-0e97b175ee2d-090504adece2-1000--palmares-na-uefa-clubes-com-mais-titulos/"
+  },
+  {
+    "id": "pt-077",
+    "category": "Primeira Liga portoghese",
+    "kind": "Storia e curiosità",
+    "difficulty": 1,
+    "question": "Quale club vinse la Coppa dei Campioni 1986/87?",
+    "options": [
+      "Benfica",
+      "FC Porto",
+      "Sporting CP"
+    ],
+    "answer": 1,
+    "explanation": "Il Porto conquistò la Coppa dei Campioni 1986/87.",
+    "source": "https://pt.uefa.com/uefachampionsleague/news/023d-0e97b175ee2d-090504adece2-1000--palmares-na-uefa-clubes-com-mais-titulos/"
+  },
+  {
+    "id": "pt-078",
+    "category": "Primeira Liga portoghese",
+    "kind": "Storia e curiosità",
+    "difficulty": 1,
+    "question": "Quante Coppe dei Campioni/Champions League ha vinto il Benfica fino al 2026?",
+    "options": [
+      "1",
+      "3",
+      "2"
+    ],
+    "answer": 2,
+    "explanation": "Il Benfica vinse le edizioni del 1961 e 1962.",
+    "source": "https://pt.uefa.com/uefachampionsleague/news/023d-0e97b175ee2d-090504adece2-1000--palmares-na-uefa-clubes-com-mais-titulos/"
+  },
+  {
+    "id": "pt-079",
+    "category": "Primeira Liga portoghese",
+    "kind": "Storia e curiosità",
+    "difficulty": 1,
+    "question": "Quante volte il Porto ha conquistato la Coppa dei Campioni/Champions League fino al 2026?",
+    "options": [
+      "2",
+      "4",
+      "1"
+    ],
+    "answer": 0,
+    "explanation": "Il Porto ha vinto nel 1987 e nel 2004.",
+    "source": "https://pt.uefa.com/uefachampionsleague/news/023d-0e97b175ee2d-090504adece2-1000--palmares-na-uefa-clubes-com-mais-titulos/"
+  },
+  {
+    "id": "pt-080",
+    "category": "Primeira Liga portoghese",
+    "kind": "Storia e curiosità",
+    "difficulty": 1,
+    "question": "Quale club ha conquistato nel 1964 l’unica Coppa delle Coppe di una squadra portoghese?",
+    "options": [
+      "FC Porto",
+      "Sporting CP",
+      "Benfica"
+    ],
+    "answer": 1,
+    "explanation": "Lo Sporting conquistò la Coppa delle Coppe 1963/64.",
+    "source": "https://pt.uefa.com/uefachampionsleague/news/023d-0e97b175ee2d-090504adece2-1000--palmares-na-uefa-clubes-com-mais-titulos/"
+  },
+  {
+    "id": "pt-081",
+    "category": "Primeira Liga portoghese",
+    "kind": "Storia e curiosità",
+    "difficulty": 1,
+    "question": "Quale squadra vinse prima la Coppa UEFA e poi la Champions League in due stagioni consecutive (2003 e 2004)?",
+    "options": [
+      "Benfica",
+      "FC Porto",
+      "Sporting CP"
+    ],
+    "answer": 1,
+    "explanation": "Il Porto vinse la Coppa UEFA 2003 e la Champions 2004.",
+    "source": "https://www.uefa.com/uefachampionsleague/news/0250-0c50f100f076-ecb0d9d85bb1-1000--2003-04-porto-pull-off-biggest-surprise/"
+  },
+  {
+    "id": "pt-082",
+    "category": "Primeira Liga portoghese",
+    "kind": "Storia e curiosità",
+    "difficulty": 1,
+    "question": "Con quale squadra portoghese José Mourinho ottenne il triplete nazionale e UEFA nel 2002/03?",
+    "options": [
+      "FC Porto",
+      "Benfica",
+      "Sporting CP"
+    ],
+    "answer": 0,
+    "explanation": "Il Porto vinse campionato, coppa nazionale e Coppa UEFA nel 2002/03.",
+    "source": "https://www.uefa.com/uefachampionsleague/news/025a-0eaae2d4aef0-8d3790dac4c0--raise-a-glass-to-porto/"
+  },
+  {
+    "id": "pt-083",
+    "category": "Primeira Liga portoghese",
+    "kind": "Storia e curiosità",
+    "difficulty": 2,
+    "question": "Da quale stagione si disputa il campionato portoghese a girone introdotto nel 1934?",
+    "options": [
+      "1934/35",
+      "1955/56",
+      "1978/79"
+    ],
+    "answer": 0,
+    "explanation": "La competizione nazionale a girone iniziò nel 1934/35.",
+    "source": "https://rsssf.org/tablesp/portchamp.html"
+  },
+  {
+    "id": "pt-084",
+    "category": "Primeira Liga portoghese",
+    "kind": "Storia e curiosità",
+    "difficulty": 2,
+    "question": "Quale squadra vinse il primo campionato portoghese a girone, nel 1934/35?",
+    "options": [
+      "FC Porto",
+      "Sporting CP",
+      "Benfica"
+    ],
+    "answer": 0,
+    "explanation": "Il Porto vinse l’edizione 1934/35.",
+    "source": "https://rsssf.org/tablesp/portchamp.html"
+  },
+  {
+    "id": "pt-085",
+    "category": "Primeira Liga portoghese",
+    "kind": "Storia e curiosità",
+    "difficulty": 2,
+    "question": "Quali sono i due club che, oltre alle tre grandi, hanno vinto la Primeira Liga?",
+    "options": [
+      "Belenenses e Boavista",
+      "Estoril e Académica",
+      "Braga e Vitória SC"
+    ],
+    "answer": 0,
+    "explanation": "I titoli non vinti dalle tre grandi andarono a Belenenses e Boavista.",
+    "source": "https://rsssf.org/tablesp/portchamp.html"
+  },
+  {
+    "id": "pt-086",
+    "category": "Primeira Liga portoghese",
+    "kind": "Storia e curiosità",
+    "difficulty": 2,
+    "question": "Quante squadre differenti hanno vinto la Primeira Liga dal 1934/35 al 2025/26?",
+    "options": [
+      "12",
+      "5",
+      "8"
+    ],
+    "answer": 1,
+    "explanation": "Le vincitrici sono Benfica, Porto, Sporting, Belenenses e Boavista.",
+    "source": "https://rsssf.org/tablesp/portchamp.html"
+  },
+  {
+    "id": "pt-087",
+    "category": "Primeira Liga portoghese",
+    "kind": "Storia e curiosità",
+    "difficulty": 2,
+    "question": "Quale società portoghese ha vinto il campionato del 1945/46?",
+    "options": [
+      "FC Porto",
+      "Benfica",
+      "Belenenses"
+    ],
+    "answer": 2,
+    "explanation": "Il Belenenses fu campione nel 1945/46.",
+    "source": "https://rsssf.org/tablesp/portchamp.html"
+  },
+  {
+    "id": "pt-088",
+    "category": "Primeira Liga portoghese",
+    "kind": "Storia e curiosità",
+    "difficulty": 1,
+    "question": "In quale stagione il Boavista conquistò il suo storico titolo?",
+    "options": [
+      "2004/05",
+      "1994/95",
+      "2000/01"
+    ],
+    "answer": 2,
+    "explanation": "Il Boavista vinse la Primeira Liga nel 2000/01.",
+    "source": "https://rsssf.org/tablesp/portchamp.html"
+  },
+  {
+    "id": "pt-089",
+    "category": "Primeira Liga portoghese",
+    "kind": "Storia e curiosità",
+    "difficulty": 2,
+    "question": "Chi si impose nel campionato portoghese 2002/03?",
+    "options": [
+      "FC Porto",
+      "Sporting CP",
+      "Benfica"
+    ],
+    "answer": 0,
+    "explanation": "Il Porto vinse la Primeira Liga 2002/03.",
+    "source": "https://rsssf.org/tablesp/portchamp.html"
+  },
+  {
+    "id": "pt-090",
+    "category": "Primeira Liga portoghese",
+    "kind": "Storia e curiosità",
+    "difficulty": 1,
+    "question": "Quale squadra vinse il campionato 2003/04 insieme alla Champions League?",
+    "options": [
+      "Sporting CP",
+      "Benfica",
+      "FC Porto"
+    ],
+    "answer": 2,
+    "explanation": "Il Porto fu campione nazionale ed europeo nel 2003/04.",
+    "source": "https://www.uefa.com/uefachampionsleague/news/0250-0c50f100f076-ecb0d9d85bb1-1000--2003-04-porto-pull-off-biggest-surprise/"
+  },
+  {
+    "id": "pt-091",
+    "category": "Primeira Liga portoghese",
+    "kind": "Storia e curiosità",
+    "difficulty": 1,
+    "question": "Con quale club Fernando Gomes vinse diversi titoli di capocannoniere in Portogallo?",
+    "options": [
+      "Boavista",
+      "FC Porto",
+      "Benfica"
+    ],
+    "answer": 1,
+    "explanation": "Fernando Gomes fu una leggenda del Porto.",
+    "source": "https://futebol.pt/recordes/melhores-marcadores-liga/"
+  },
+  {
+    "id": "pt-092",
+    "category": "Primeira Liga portoghese",
+    "kind": "Storia e curiosità",
+    "difficulty": 1,
+    "question": "Quale giocatore della Primeira Liga è associato al soprannome “Pantera Nera”?",
+    "options": [
+      "Mário Jardel",
+      "Eusébio",
+      "Fernando Gomes"
+    ],
+    "answer": 1,
+    "explanation": "La Pantera Nera è Eusébio, simbolo del Benfica.",
+    "source": "https://futebol.pt/recordes/melhores-marcadores-liga/"
+  },
+  {
+    "id": "pt-093",
+    "category": "Primeira Liga portoghese",
+    "kind": "Storia e curiosità",
+    "difficulty": 2,
+    "question": "Quale attaccante argentino segnò 46 gol nel campionato 1973/74?",
+    "options": [
+      "Enzo Fernández",
+      "Héctor Yazalde",
+      "Ángel Di María"
+    ],
+    "answer": 1,
+    "explanation": "Yazalde stabilì un record realizzativo nello Sporting.",
+    "source": "https://futebol.pt/recordes/melhores-marcadores-liga/"
+  },
+  {
+    "id": "pt-094",
+    "category": "Primeira Liga portoghese",
+    "kind": "Storia e curiosità",
+    "difficulty": 1,
+    "question": "Quale squadra portoghese ha vinto il campionato nel 2017/18?",
+    "options": [
+      "FC Porto",
+      "Sporting CP",
+      "Benfica"
+    ],
+    "answer": 0,
+    "explanation": "Il Porto vinse il titolo 2017/18.",
+    "source": "https://rsssf.org/tablesp/portchamp.html"
+  },
+  {
+    "id": "pt-095",
+    "category": "Primeira Liga portoghese",
+    "kind": "Storia e curiosità",
+    "difficulty": 1,
+    "question": "Quale squadra portoghese conquistò il titolo nazionale 2016/17?",
+    "options": [
+      "Sporting CP",
+      "Benfica",
+      "FC Porto"
+    ],
+    "answer": 1,
+    "explanation": "Il Benfica vinse il quarto titolo consecutivo nel 2016/17.",
+    "source": "https://rsssf.org/tablesp/portchamp.html"
+  },
+  {
+    "id": "pt-096",
+    "category": "Primeira Liga portoghese",
+    "kind": "Storia e curiosità",
+    "difficulty": 1,
+    "question": "Quale club portoghese vinse il campionato 2013/14?",
+    "options": [
+      "Sporting CP",
+      "Benfica",
+      "FC Porto"
+    ],
+    "answer": 1,
+    "explanation": "Il Benfica si laureò campione nel 2013/14.",
+    "source": "https://rsssf.org/tablesp/portchamp.html"
+  },
+  {
+    "id": "pt-097",
+    "category": "Primeira Liga portoghese",
+    "kind": "Storia e curiosità",
+    "difficulty": 1,
+    "question": "Quale squadra vinse il campionato portoghese 2020/21 dopo 19 anni?",
+    "options": [
+      "FC Porto",
+      "Sporting CP",
+      "Benfica"
+    ],
+    "answer": 1,
+    "explanation": "Lo Sporting tornò campione nel 2020/21 dopo il titolo 2001/02.",
+    "source": "https://rsssf.org/tablesp/portchamp.html"
+  },
+  {
+    "id": "pt-098",
+    "category": "Primeira Liga portoghese",
+    "kind": "Storia e curiosità",
+    "difficulty": 1,
+    "question": "Quale squadra ha ottenuto il record di cinque titoli consecutivi tra 1995 e 1999?",
+    "options": [
+      "Sporting CP",
+      "Benfica",
+      "FC Porto"
+    ],
+    "answer": 2,
+    "explanation": "Il Porto fu cinque volte campione consecutivamente.",
+    "source": "https://www.uefa.com/uefachampionsleague/news/025a-0eaae2d4aef0-8d3790dac4c0--raise-a-glass-to-porto/"
+  },
+  {
+    "id": "pt-099",
+    "category": "Primeira Liga portoghese",
+    "kind": "Storia e curiosità",
+    "difficulty": 1,
+    "question": "Quale club ha il maggior numero di titoli nazionali nella storia della Primeira Liga?",
+    "options": [
+      "Sporting CP",
+      "Benfica",
+      "FC Porto"
+    ],
+    "answer": 1,
+    "explanation": "Il Benfica è primo nell’albo d’oro fino al 2025/26.",
+    "source": "https://rsssf.org/tablesp/portchamp.html"
+  }
+]

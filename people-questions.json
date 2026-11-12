@@ -1,0 +1,2747 @@
+[
+  {
+    "id": "people-1",
+    "category": "Pallone d’Oro",
+    "kind": "Vincitore per anno",
+    "difficulty": 2,
+    "question": "Chi ha vinto il Pallone d’Oro maschile nel 1956?",
+    "options": [
+      "Fabio Cannavaro",
+      "Rivaldo",
+      "Stanley Matthews"
+    ],
+    "answer": 2,
+    "explanation": "Nel 1956 il Pallone d’Oro è stato assegnato a Stanley Matthews.",
+    "source": "https://www.uefa.com/ballondor/news/0287-195e642735da-0594342b9554-1000--history-of-the-ballon-d-or-all-the-winners/"
+  },
+  {
+    "id": "people-2",
+    "category": "Pallone d’Oro",
+    "kind": "Vincitore per anno",
+    "difficulty": 2,
+    "question": "Chi ha vinto il Pallone d’Oro maschile nel 1957?",
+    "options": [
+      "Ihor Belanov",
+      "Hristo Stoichkov",
+      "Alfredo Di Stéfano"
+    ],
+    "answer": 2,
+    "explanation": "Nel 1957 il Pallone d’Oro è stato assegnato a Alfredo Di Stéfano.",
+    "source": "https://www.uefa.com/ballondor/news/0287-195e642735da-0594342b9554-1000--history-of-the-ballon-d-or-all-the-winners/"
+  },
+  {
+    "id": "people-3",
+    "category": "Pallone d’Oro",
+    "kind": "Vincitore per anno",
+    "difficulty": 2,
+    "question": "Chi ha vinto il Pallone d’Oro maschile nel 1958?",
+    "options": [
+      "Oleh Blokhin",
+      "Ronaldo Nazário",
+      "Raymond Kopa"
+    ],
+    "answer": 2,
+    "explanation": "Nel 1958 il Pallone d’Oro è stato assegnato a Raymond Kopa.",
+    "source": "https://www.uefa.com/ballondor/news/0287-195e642735da-0594342b9554-1000--history-of-the-ballon-d-or-all-the-winners/"
+  },
+  {
+    "id": "people-4",
+    "category": "Pallone d’Oro",
+    "kind": "Vincitore per anno",
+    "difficulty": 2,
+    "question": "Chi ha vinto il Pallone d’Oro maschile nel 1959?",
+    "options": [
+      "Bobby Charlton",
+      "Andriy Shevchenko",
+      "Alfredo Di Stéfano"
+    ],
+    "answer": 2,
+    "explanation": "Nel 1959 il Pallone d’Oro è stato assegnato a Alfredo Di Stéfano.",
+    "source": "https://www.uefa.com/ballondor/news/0287-195e642735da-0594342b9554-1000--history-of-the-ballon-d-or-all-the-winners/"
+  },
+  {
+    "id": "people-5",
+    "category": "Pallone d’Oro",
+    "kind": "Vincitore per anno",
+    "difficulty": 2,
+    "question": "Chi ha vinto il Pallone d’Oro maschile nel 1960?",
+    "options": [
+      "Harry Kane",
+      "Luis Suárez Miramontes",
+      "Michel Platini"
+    ],
+    "answer": 1,
+    "explanation": "Nel 1960 il Pallone d’Oro è stato assegnato a Luis Suárez Miramontes.",
+    "source": "https://www.uefa.com/ballondor/news/0287-195e642735da-0594342b9554-1000--history-of-the-ballon-d-or-all-the-winners/"
+  },
+  {
+    "id": "people-6",
+    "category": "Pallone d’Oro",
+    "kind": "Vincitore per anno",
+    "difficulty": 2,
+    "question": "Chi ha vinto il Pallone d’Oro maschile nel 1961?",
+    "options": [
+      "Omar Sívori",
+      "Ousmane Dembélé",
+      "Gerd Müller"
+    ],
+    "answer": 0,
+    "explanation": "Nel 1961 il Pallone d’Oro è stato assegnato a Omar Sívori.",
+    "source": "https://www.uefa.com/ballondor/news/0287-195e642735da-0594342b9554-1000--history-of-the-ballon-d-or-all-the-winners/"
+  },
+  {
+    "id": "people-7",
+    "category": "Pallone d’Oro",
+    "kind": "Vincitore per anno",
+    "difficulty": 2,
+    "question": "Chi ha vinto il Pallone d’Oro maschile nel 1962?",
+    "options": [
+      "Josef Masopust",
+      "Harry Kane",
+      "Luís Figo"
+    ],
+    "answer": 0,
+    "explanation": "Nel 1962 il Pallone d’Oro è stato assegnato a Josef Masopust.",
+    "source": "https://www.uefa.com/ballondor/news/0287-195e642735da-0594342b9554-1000--history-of-the-ballon-d-or-all-the-winners/"
+  },
+  {
+    "id": "people-8",
+    "category": "Pallone d’Oro",
+    "kind": "Vincitore per anno",
+    "difficulty": 2,
+    "question": "Chi ha vinto il Pallone d’Oro maschile nel 1963?",
+    "options": [
+      "Lev Yashin",
+      "Alfredo Di Stéfano",
+      "George Best"
+    ],
+    "answer": 0,
+    "explanation": "Nel 1963 il Pallone d’Oro è stato assegnato a Lev Yashin.",
+    "source": "https://www.uefa.com/ballondor/news/0287-195e642735da-0594342b9554-1000--history-of-the-ballon-d-or-all-the-winners/"
+  },
+  {
+    "id": "people-9",
+    "category": "Pallone d’Oro",
+    "kind": "Vincitore per anno",
+    "difficulty": 2,
+    "question": "Chi ha vinto il Pallone d’Oro maschile nel 1964?",
+    "options": [
+      "Karl-Heinz Rummenigge",
+      "Johan Cruyff",
+      "Denis Law"
+    ],
+    "answer": 2,
+    "explanation": "Nel 1964 il Pallone d’Oro è stato assegnato a Denis Law.",
+    "source": "https://www.uefa.com/ballondor/news/0287-195e642735da-0594342b9554-1000--history-of-the-ballon-d-or-all-the-winners/"
+  },
+  {
+    "id": "people-10",
+    "category": "Pallone d’Oro",
+    "kind": "Vincitore per anno",
+    "difficulty": 2,
+    "question": "Chi ha vinto il Pallone d’Oro maschile nel 1965?",
+    "options": [
+      "Fabio Cannavaro",
+      "Karl-Heinz Rummenigge",
+      "Eusébio"
+    ],
+    "answer": 2,
+    "explanation": "Nel 1965 il Pallone d’Oro è stato assegnato a Eusébio.",
+    "source": "https://www.uefa.com/ballondor/news/0287-195e642735da-0594342b9554-1000--history-of-the-ballon-d-or-all-the-winners/"
+  },
+  {
+    "id": "people-11",
+    "category": "Pallone d’Oro",
+    "kind": "Vincitore per anno",
+    "difficulty": 2,
+    "question": "Chi ha vinto il Pallone d’Oro maschile nel 1966?",
+    "options": [
+      "Bobby Charlton",
+      "Kevin Keegan",
+      "Fabio Cannavaro"
+    ],
+    "answer": 0,
+    "explanation": "Nel 1966 il Pallone d’Oro è stato assegnato a Bobby Charlton.",
+    "source": "https://www.uefa.com/ballondor/news/0287-195e642735da-0594342b9554-1000--history-of-the-ballon-d-or-all-the-winners/"
+  },
+  {
+    "id": "people-12",
+    "category": "Pallone d’Oro",
+    "kind": "Vincitore per anno",
+    "difficulty": 2,
+    "question": "Chi ha vinto il Pallone d’Oro maschile nel 1967?",
+    "options": [
+      "Zinédine Zidane",
+      "Flórián Albert",
+      "Andriy Shevchenko"
+    ],
+    "answer": 1,
+    "explanation": "Nel 1967 il Pallone d’Oro è stato assegnato a Flórián Albert.",
+    "source": "https://www.uefa.com/ballondor/news/0287-195e642735da-0594342b9554-1000--history-of-the-ballon-d-or-all-the-winners/"
+  },
+  {
+    "id": "people-13",
+    "category": "Pallone d’Oro",
+    "kind": "Vincitore per anno",
+    "difficulty": 2,
+    "question": "Chi ha vinto il Pallone d’Oro maschile nel 1968?",
+    "options": [
+      "George Best",
+      "Lionel Messi",
+      "Denis Law"
+    ],
+    "answer": 0,
+    "explanation": "Nel 1968 il Pallone d’Oro è stato assegnato a George Best.",
+    "source": "https://www.uefa.com/ballondor/news/0287-195e642735da-0594342b9554-1000--history-of-the-ballon-d-or-all-the-winners/"
+  },
+  {
+    "id": "people-14",
+    "category": "Pallone d’Oro",
+    "kind": "Vincitore per anno",
+    "difficulty": 2,
+    "question": "Chi ha vinto il Pallone d’Oro maschile nel 1969?",
+    "options": [
+      "Rivaldo",
+      "Gianni Rivera",
+      "Roberto Baggio"
+    ],
+    "answer": 1,
+    "explanation": "Nel 1969 il Pallone d’Oro è stato assegnato a Gianni Rivera.",
+    "source": "https://www.uefa.com/ballondor/news/0287-195e642735da-0594342b9554-1000--history-of-the-ballon-d-or-all-the-winners/"
+  },
+  {
+    "id": "people-15",
+    "category": "Pallone d’Oro",
+    "kind": "Vincitore per anno",
+    "difficulty": 2,
+    "question": "Chi ha vinto il Pallone d’Oro maschile nel 1970?",
+    "options": [
+      "Stanley Matthews",
+      "Cristiano Ronaldo",
+      "Gerd Müller"
+    ],
+    "answer": 2,
+    "explanation": "Nel 1970 il Pallone d’Oro è stato assegnato a Gerd Müller.",
+    "source": "https://www.uefa.com/ballondor/news/0287-195e642735da-0594342b9554-1000--history-of-the-ballon-d-or-all-the-winners/"
+  },
+  {
+    "id": "people-16",
+    "category": "Pallone d’Oro",
+    "kind": "Vincitore per anno",
+    "difficulty": 2,
+    "question": "Chi ha vinto il Pallone d’Oro maschile nel 1971?",
+    "options": [
+      "Josef Masopust",
+      "Denis Law",
+      "Johan Cruyff"
+    ],
+    "answer": 2,
+    "explanation": "Nel 1971 il Pallone d’Oro è stato assegnato a Johan Cruyff.",
+    "source": "https://www.uefa.com/ballondor/news/0287-195e642735da-0594342b9554-1000--history-of-the-ballon-d-or-all-the-winners/"
+  },
+  {
+    "id": "people-17",
+    "category": "Pallone d’Oro",
+    "kind": "Vincitore per anno",
+    "difficulty": 2,
+    "question": "Chi ha vinto il Pallone d’Oro maschile nel 1972?",
+    "options": [
+      "Franz Beckenbauer",
+      "Johan Cruyff",
+      "Lionel Messi"
+    ],
+    "answer": 0,
+    "explanation": "Nel 1972 il Pallone d’Oro è stato assegnato a Franz Beckenbauer.",
+    "source": "https://www.uefa.com/ballondor/news/0287-195e642735da-0594342b9554-1000--history-of-the-ballon-d-or-all-the-winners/"
+  },
+  {
+    "id": "people-18",
+    "category": "Pallone d’Oro",
+    "kind": "Vincitore per anno",
+    "difficulty": 2,
+    "question": "Chi ha vinto il Pallone d’Oro maschile nel 1973?",
+    "options": [
+      "Lev Yashin",
+      "Johan Cruyff",
+      "George Best"
+    ],
+    "answer": 1,
+    "explanation": "Nel 1973 il Pallone d’Oro è stato assegnato a Johan Cruyff.",
+    "source": "https://www.uefa.com/ballondor/news/0287-195e642735da-0594342b9554-1000--history-of-the-ballon-d-or-all-the-winners/"
+  },
+  {
+    "id": "people-19",
+    "category": "Pallone d’Oro",
+    "kind": "Vincitore per anno",
+    "difficulty": 2,
+    "question": "Chi ha vinto il Pallone d’Oro maschile nel 1974?",
+    "options": [
+      "Ronaldinho",
+      "Johan Cruyff",
+      "Jean-Pierre Papin"
+    ],
+    "answer": 1,
+    "explanation": "Nel 1974 il Pallone d’Oro è stato assegnato a Johan Cruyff.",
+    "source": "https://www.uefa.com/ballondor/news/0287-195e642735da-0594342b9554-1000--history-of-the-ballon-d-or-all-the-winners/"
+  },
+  {
+    "id": "people-20",
+    "category": "Pallone d’Oro",
+    "kind": "Vincitore per anno",
+    "difficulty": 2,
+    "question": "Chi ha vinto il Pallone d’Oro maschile nel 1975?",
+    "options": [
+      "Raymond Kopa",
+      "Roberto Baggio",
+      "Oleh Blokhin"
+    ],
+    "answer": 2,
+    "explanation": "Nel 1975 il Pallone d’Oro è stato assegnato a Oleh Blokhin.",
+    "source": "https://www.uefa.com/ballondor/news/0287-195e642735da-0594342b9554-1000--history-of-the-ballon-d-or-all-the-winners/"
+  },
+  {
+    "id": "people-21",
+    "category": "Pallone d’Oro",
+    "kind": "Vincitore per anno",
+    "difficulty": 2,
+    "question": "Chi ha vinto il Pallone d’Oro maschile nel 1976?",
+    "options": [
+      "Franz Beckenbauer",
+      "Marco van Basten",
+      "George Weah"
+    ],
+    "answer": 0,
+    "explanation": "Nel 1976 il Pallone d’Oro è stato assegnato a Franz Beckenbauer.",
+    "source": "https://www.uefa.com/ballondor/news/0287-195e642735da-0594342b9554-1000--history-of-the-ballon-d-or-all-the-winners/"
+  },
+  {
+    "id": "people-22",
+    "category": "Pallone d’Oro",
+    "kind": "Vincitore per anno",
+    "difficulty": 2,
+    "question": "Chi ha vinto il Pallone d’Oro maschile nel 1977?",
+    "options": [
+      "Roberto Baggio",
+      "Allan Simonsen",
+      "Ruud Gullit"
+    ],
+    "answer": 1,
+    "explanation": "Nel 1977 il Pallone d’Oro è stato assegnato a Allan Simonsen.",
+    "source": "https://www.uefa.com/ballondor/news/0287-195e642735da-0594342b9554-1000--history-of-the-ballon-d-or-all-the-winners/"
+  },
+  {
+    "id": "people-23",
+    "category": "Pallone d’Oro",
+    "kind": "Vincitore per anno",
+    "difficulty": 2,
+    "question": "Chi ha vinto il Pallone d’Oro maschile nel 1978?",
+    "options": [
+      "Ronaldo Nazário",
+      "Kaká",
+      "Kevin Keegan"
+    ],
+    "answer": 2,
+    "explanation": "Nel 1978 il Pallone d’Oro è stato assegnato a Kevin Keegan.",
+    "source": "https://www.uefa.com/ballondor/news/0287-195e642735da-0594342b9554-1000--history-of-the-ballon-d-or-all-the-winners/"
+  },
+  {
+    "id": "people-24",
+    "category": "Pallone d’Oro",
+    "kind": "Vincitore per anno",
+    "difficulty": 2,
+    "question": "Chi ha vinto il Pallone d’Oro maschile nel 1979?",
+    "options": [
+      "Kevin Keegan",
+      "Kaká",
+      "Andriy Shevchenko"
+    ],
+    "answer": 0,
+    "explanation": "Nel 1979 il Pallone d’Oro è stato assegnato a Kevin Keegan.",
+    "source": "https://www.uefa.com/ballondor/news/0287-195e642735da-0594342b9554-1000--history-of-the-ballon-d-or-all-the-winners/"
+  },
+  {
+    "id": "people-25",
+    "category": "Pallone d’Oro",
+    "kind": "Vincitore per anno",
+    "difficulty": 2,
+    "question": "Chi ha vinto il Pallone d’Oro maschile nel 1980?",
+    "options": [
+      "Karl-Heinz Rummenigge",
+      "Cristiano Ronaldo",
+      "Gianni Rivera"
+    ],
+    "answer": 0,
+    "explanation": "Nel 1980 il Pallone d’Oro è stato assegnato a Karl-Heinz Rummenigge.",
+    "source": "https://www.uefa.com/ballondor/news/0287-195e642735da-0594342b9554-1000--history-of-the-ballon-d-or-all-the-winners/"
+  },
+  {
+    "id": "people-26",
+    "category": "Pallone d’Oro",
+    "kind": "Vincitore per anno",
+    "difficulty": 2,
+    "question": "Chi ha vinto il Pallone d’Oro maschile nel 1981?",
+    "options": [
+      "Karl-Heinz Rummenigge",
+      "Rodri",
+      "Gianni Rivera"
+    ],
+    "answer": 0,
+    "explanation": "Nel 1981 il Pallone d’Oro è stato assegnato a Karl-Heinz Rummenigge.",
+    "source": "https://www.uefa.com/ballondor/news/0287-195e642735da-0594342b9554-1000--history-of-the-ballon-d-or-all-the-winners/"
+  },
+  {
+    "id": "people-27",
+    "category": "Pallone d’Oro",
+    "kind": "Vincitore per anno",
+    "difficulty": 2,
+    "question": "Chi ha vinto il Pallone d’Oro maschile nel 1982?",
+    "options": [
+      "Luís Figo",
+      "Rodri",
+      "Paolo Rossi"
+    ],
+    "answer": 2,
+    "explanation": "Nel 1982 il Pallone d’Oro è stato assegnato a Paolo Rossi.",
+    "source": "https://www.uefa.com/ballondor/news/0287-195e642735da-0594342b9554-1000--history-of-the-ballon-d-or-all-the-winners/"
+  },
+  {
+    "id": "people-28",
+    "category": "Pallone d’Oro",
+    "kind": "Vincitore per anno",
+    "difficulty": 2,
+    "question": "Chi ha vinto il Pallone d’Oro maschile nel 1983?",
+    "options": [
+      "Michel Platini",
+      "Flórián Albert",
+      "Hristo Stoichkov"
+    ],
+    "answer": 0,
+    "explanation": "Nel 1983 il Pallone d’Oro è stato assegnato a Michel Platini.",
+    "source": "https://www.uefa.com/ballondor/news/0287-195e642735da-0594342b9554-1000--history-of-the-ballon-d-or-all-the-winners/"
+  },
+  {
+    "id": "people-29",
+    "category": "Pallone d’Oro",
+    "kind": "Vincitore per anno",
+    "difficulty": 2,
+    "question": "Chi ha vinto il Pallone d’Oro maschile nel 1984?",
+    "options": [
+      "Michel Platini",
+      "Pavel Nedvěd",
+      "Luis Suárez Miramontes"
+    ],
+    "answer": 0,
+    "explanation": "Nel 1984 il Pallone d’Oro è stato assegnato a Michel Platini.",
+    "source": "https://www.uefa.com/ballondor/news/0287-195e642735da-0594342b9554-1000--history-of-the-ballon-d-or-all-the-winners/"
+  },
+  {
+    "id": "people-30",
+    "category": "Pallone d’Oro",
+    "kind": "Vincitore per anno",
+    "difficulty": 2,
+    "question": "Chi ha vinto il Pallone d’Oro maschile nel 1985?",
+    "options": [
+      "Harry Kane",
+      "Kevin Keegan",
+      "Michel Platini"
+    ],
+    "answer": 2,
+    "explanation": "Nel 1985 il Pallone d’Oro è stato assegnato a Michel Platini.",
+    "source": "https://www.uefa.com/ballondor/news/0287-195e642735da-0594342b9554-1000--history-of-the-ballon-d-or-all-the-winners/"
+  },
+  {
+    "id": "people-31",
+    "category": "Pallone d’Oro",
+    "kind": "Vincitore per anno",
+    "difficulty": 2,
+    "question": "Chi ha vinto il Pallone d’Oro maschile nel 1986?",
+    "options": [
+      "Denis Law",
+      "Bobby Charlton",
+      "Ihor Belanov"
+    ],
+    "answer": 2,
+    "explanation": "Nel 1986 il Pallone d’Oro è stato assegnato a Ihor Belanov.",
+    "source": "https://www.uefa.com/ballondor/news/0287-195e642735da-0594342b9554-1000--history-of-the-ballon-d-or-all-the-winners/"
+  },
+  {
+    "id": "people-32",
+    "category": "Pallone d’Oro",
+    "kind": "Vincitore per anno",
+    "difficulty": 2,
+    "question": "Chi ha vinto il Pallone d’Oro maschile nel 1987?",
+    "options": [
+      "Ruud Gullit",
+      "Rivaldo",
+      "George Best"
+    ],
+    "answer": 0,
+    "explanation": "Nel 1987 il Pallone d’Oro è stato assegnato a Ruud Gullit.",
+    "source": "https://www.uefa.com/ballondor/news/0287-195e642735da-0594342b9554-1000--history-of-the-ballon-d-or-all-the-winners/"
+  },
+  {
+    "id": "people-33",
+    "category": "Pallone d’Oro",
+    "kind": "Vincitore per anno",
+    "difficulty": 2,
+    "question": "Chi ha vinto il Pallone d’Oro maschile nel 1988?",
+    "options": [
+      "Marco van Basten",
+      "Cristiano Ronaldo",
+      "Raymond Kopa"
+    ],
+    "answer": 0,
+    "explanation": "Nel 1988 il Pallone d’Oro è stato assegnato a Marco van Basten.",
+    "source": "https://www.uefa.com/ballondor/news/0287-195e642735da-0594342b9554-1000--history-of-the-ballon-d-or-all-the-winners/"
+  },
+  {
+    "id": "people-34",
+    "category": "Pallone d’Oro",
+    "kind": "Vincitore per anno",
+    "difficulty": 2,
+    "question": "Chi ha vinto il Pallone d’Oro maschile nel 1989?",
+    "options": [
+      "Marco van Basten",
+      "Raymond Kopa",
+      "Luís Figo"
+    ],
+    "answer": 0,
+    "explanation": "Nel 1989 il Pallone d’Oro è stato assegnato a Marco van Basten.",
+    "source": "https://www.uefa.com/ballondor/news/0287-195e642735da-0594342b9554-1000--history-of-the-ballon-d-or-all-the-winners/"
+  },
+  {
+    "id": "people-35",
+    "category": "Pallone d’Oro",
+    "kind": "Vincitore per anno",
+    "difficulty": 2,
+    "question": "Chi ha vinto il Pallone d’Oro maschile nel 1990?",
+    "options": [
+      "Ousmane Dembélé",
+      "Lothar Matthäus",
+      "Alfredo Di Stéfano"
+    ],
+    "answer": 1,
+    "explanation": "Nel 1990 il Pallone d’Oro è stato assegnato a Lothar Matthäus.",
+    "source": "https://www.uefa.com/ballondor/news/0287-195e642735da-0594342b9554-1000--history-of-the-ballon-d-or-all-the-winners/"
+  },
+  {
+    "id": "people-36",
+    "category": "Pallone d’Oro",
+    "kind": "Vincitore per anno",
+    "difficulty": 2,
+    "question": "Chi ha vinto il Pallone d’Oro maschile nel 1991?",
+    "options": [
+      "Jean-Pierre Papin",
+      "Omar Sívori",
+      "Ronaldo Nazário"
+    ],
+    "answer": 0,
+    "explanation": "Nel 1991 il Pallone d’Oro è stato assegnato a Jean-Pierre Papin.",
+    "source": "https://www.uefa.com/ballondor/news/0287-195e642735da-0594342b9554-1000--history-of-the-ballon-d-or-all-the-winners/"
+  },
+  {
+    "id": "people-37",
+    "category": "Pallone d’Oro",
+    "kind": "Vincitore per anno",
+    "difficulty": 2,
+    "question": "Chi ha vinto il Pallone d’Oro maschile nel 1992?",
+    "options": [
+      "Johan Cruyff",
+      "Marco van Basten",
+      "Fabio Cannavaro"
+    ],
+    "answer": 1,
+    "explanation": "Nel 1992 il Pallone d’Oro è stato assegnato a Marco van Basten.",
+    "source": "https://www.uefa.com/ballondor/news/0287-195e642735da-0594342b9554-1000--history-of-the-ballon-d-or-all-the-winners/"
+  },
+  {
+    "id": "people-38",
+    "category": "Pallone d’Oro",
+    "kind": "Vincitore per anno",
+    "difficulty": 2,
+    "question": "Chi ha vinto il Pallone d’Oro maschile nel 1993?",
+    "options": [
+      "Roberto Baggio",
+      "Luís Figo",
+      "Alfredo Di Stéfano"
+    ],
+    "answer": 0,
+    "explanation": "Nel 1993 il Pallone d’Oro è stato assegnato a Roberto Baggio.",
+    "source": "https://www.uefa.com/ballondor/news/0287-195e642735da-0594342b9554-1000--history-of-the-ballon-d-or-all-the-winners/"
+  },
+  {
+    "id": "people-39",
+    "category": "Pallone d’Oro",
+    "kind": "Vincitore per anno",
+    "difficulty": 2,
+    "question": "Chi ha vinto il Pallone d’Oro maschile nel 1994?",
+    "options": [
+      "Michel Platini",
+      "Hristo Stoichkov",
+      "George Weah"
+    ],
+    "answer": 1,
+    "explanation": "Nel 1994 il Pallone d’Oro è stato assegnato a Hristo Stoichkov.",
+    "source": "https://www.uefa.com/ballondor/news/0287-195e642735da-0594342b9554-1000--history-of-the-ballon-d-or-all-the-winners/"
+  },
+  {
+    "id": "people-40",
+    "category": "Pallone d’Oro",
+    "kind": "Vincitore per anno",
+    "difficulty": 2,
+    "question": "Chi ha vinto il Pallone d’Oro maschile nel 1995?",
+    "options": [
+      "Roberto Baggio",
+      "George Weah",
+      "Kaká"
+    ],
+    "answer": 1,
+    "explanation": "Nel 1995 il Pallone d’Oro è stato assegnato a George Weah.",
+    "source": "https://www.uefa.com/ballondor/news/0287-195e642735da-0594342b9554-1000--history-of-the-ballon-d-or-all-the-winners/"
+  },
+  {
+    "id": "people-41",
+    "category": "Pallone d’Oro",
+    "kind": "Vincitore per anno",
+    "difficulty": 2,
+    "question": "Chi ha vinto il Pallone d’Oro maschile nel 1996?",
+    "options": [
+      "Franz Beckenbauer",
+      "Kevin Keegan",
+      "Matthias Sammer"
+    ],
+    "answer": 2,
+    "explanation": "Nel 1996 il Pallone d’Oro è stato assegnato a Matthias Sammer.",
+    "source": "https://www.uefa.com/ballondor/news/0287-195e642735da-0594342b9554-1000--history-of-the-ballon-d-or-all-the-winners/"
+  },
+  {
+    "id": "people-42",
+    "category": "Pallone d’Oro",
+    "kind": "Vincitore per anno",
+    "difficulty": 2,
+    "question": "Chi ha vinto il Pallone d’Oro maschile nel 1997?",
+    "options": [
+      "Kaká",
+      "Ronaldo Nazário",
+      "Pavel Nedvěd"
+    ],
+    "answer": 1,
+    "explanation": "Nel 1997 il Pallone d’Oro è stato assegnato a Ronaldo Nazário.",
+    "source": "https://www.uefa.com/ballondor/news/0287-195e642735da-0594342b9554-1000--history-of-the-ballon-d-or-all-the-winners/"
+  },
+  {
+    "id": "people-43",
+    "category": "Pallone d’Oro",
+    "kind": "Vincitore per anno",
+    "difficulty": 2,
+    "question": "Chi ha vinto il Pallone d’Oro maschile nel 1998?",
+    "options": [
+      "Kevin Keegan",
+      "Zinédine Zidane",
+      "Fabio Cannavaro"
+    ],
+    "answer": 1,
+    "explanation": "Nel 1998 il Pallone d’Oro è stato assegnato a Zinédine Zidane.",
+    "source": "https://www.uefa.com/ballondor/news/0287-195e642735da-0594342b9554-1000--history-of-the-ballon-d-or-all-the-winners/"
+  },
+  {
+    "id": "people-44",
+    "category": "Pallone d’Oro",
+    "kind": "Vincitore per anno",
+    "difficulty": 2,
+    "question": "Chi ha vinto il Pallone d’Oro maschile nel 1999?",
+    "options": [
+      "Bobby Charlton",
+      "Rivaldo",
+      "Hristo Stoichkov"
+    ],
+    "answer": 1,
+    "explanation": "Nel 1999 il Pallone d’Oro è stato assegnato a Rivaldo.",
+    "source": "https://www.uefa.com/ballondor/news/0287-195e642735da-0594342b9554-1000--history-of-the-ballon-d-or-all-the-winners/"
+  },
+  {
+    "id": "people-45",
+    "category": "Pallone d’Oro",
+    "kind": "Vincitore per anno",
+    "difficulty": 2,
+    "question": "Chi ha vinto il Pallone d’Oro maschile nel 2000?",
+    "options": [
+      "Zinédine Zidane",
+      "Luís Figo",
+      "Denis Law"
+    ],
+    "answer": 1,
+    "explanation": "Nel 2000 il Pallone d’Oro è stato assegnato a Luís Figo.",
+    "source": "https://www.uefa.com/ballondor/news/0287-195e642735da-0594342b9554-1000--history-of-the-ballon-d-or-all-the-winners/"
+  },
+  {
+    "id": "people-46",
+    "category": "Pallone d’Oro",
+    "kind": "Vincitore per anno",
+    "difficulty": 2,
+    "question": "Chi ha vinto il Pallone d’Oro maschile nel 2001?",
+    "options": [
+      "Flórián Albert",
+      "Omar Sívori",
+      "Michael Owen"
+    ],
+    "answer": 2,
+    "explanation": "Nel 2001 il Pallone d’Oro è stato assegnato a Michael Owen.",
+    "source": "https://www.uefa.com/ballondor/news/0287-195e642735da-0594342b9554-1000--history-of-the-ballon-d-or-all-the-winners/"
+  },
+  {
+    "id": "people-47",
+    "category": "Pallone d’Oro",
+    "kind": "Vincitore per anno",
+    "difficulty": 2,
+    "question": "Chi ha vinto il Pallone d’Oro maschile nel 2002?",
+    "options": [
+      "Ronaldo Nazário",
+      "George Best",
+      "Omar Sívori"
+    ],
+    "answer": 0,
+    "explanation": "Nel 2002 il Pallone d’Oro è stato assegnato a Ronaldo Nazário.",
+    "source": "https://www.uefa.com/ballondor/news/0287-195e642735da-0594342b9554-1000--history-of-the-ballon-d-or-all-the-winners/"
+  },
+  {
+    "id": "people-48",
+    "category": "Pallone d’Oro",
+    "kind": "Vincitore per anno",
+    "difficulty": 2,
+    "question": "Chi ha vinto il Pallone d’Oro maschile nel 2003?",
+    "options": [
+      "Gianni Rivera",
+      "Pavel Nedvěd",
+      "Oleh Blokhin"
+    ],
+    "answer": 1,
+    "explanation": "Nel 2003 il Pallone d’Oro è stato assegnato a Pavel Nedvěd.",
+    "source": "https://www.uefa.com/ballondor/news/0287-195e642735da-0594342b9554-1000--history-of-the-ballon-d-or-all-the-winners/"
+  },
+  {
+    "id": "people-49",
+    "category": "Pallone d’Oro",
+    "kind": "Vincitore per anno",
+    "difficulty": 2,
+    "question": "Chi ha vinto il Pallone d’Oro maschile nel 2004?",
+    "options": [
+      "Andriy Shevchenko",
+      "Kaká",
+      "Stanley Matthews"
+    ],
+    "answer": 0,
+    "explanation": "Nel 2004 il Pallone d’Oro è stato assegnato a Andriy Shevchenko.",
+    "source": "https://www.uefa.com/ballondor/news/0287-195e642735da-0594342b9554-1000--history-of-the-ballon-d-or-all-the-winners/"
+  },
+  {
+    "id": "people-50",
+    "category": "Pallone d’Oro",
+    "kind": "Vincitore per anno",
+    "difficulty": 2,
+    "question": "Chi ha vinto il Pallone d’Oro maschile nel 2005?",
+    "options": [
+      "Michel Platini",
+      "Ronaldinho",
+      "Luka Modrić"
+    ],
+    "answer": 1,
+    "explanation": "Nel 2005 il Pallone d’Oro è stato assegnato a Ronaldinho.",
+    "source": "https://www.uefa.com/ballondor/news/0287-195e642735da-0594342b9554-1000--history-of-the-ballon-d-or-all-the-winners/"
+  },
+  {
+    "id": "people-51",
+    "category": "Pallone d’Oro",
+    "kind": "Vincitore per anno",
+    "difficulty": 2,
+    "question": "Chi ha vinto il Pallone d’Oro maschile nel 2006?",
+    "options": [
+      "Hristo Stoichkov",
+      "Ihor Belanov",
+      "Fabio Cannavaro"
+    ],
+    "answer": 2,
+    "explanation": "Nel 2006 il Pallone d’Oro è stato assegnato a Fabio Cannavaro.",
+    "source": "https://www.uefa.com/ballondor/news/0287-195e642735da-0594342b9554-1000--history-of-the-ballon-d-or-all-the-winners/"
+  },
+  {
+    "id": "people-52",
+    "category": "Pallone d’Oro",
+    "kind": "Vincitore per anno",
+    "difficulty": 2,
+    "question": "Chi ha vinto il Pallone d’Oro maschile nel 2007?",
+    "options": [
+      "Allan Simonsen",
+      "Kaká",
+      "Pavel Nedvěd"
+    ],
+    "answer": 1,
+    "explanation": "Nel 2007 il Pallone d’Oro è stato assegnato a Kaká.",
+    "source": "https://www.uefa.com/ballondor/news/0287-195e642735da-0594342b9554-1000--history-of-the-ballon-d-or-all-the-winners/"
+  },
+  {
+    "id": "people-53",
+    "category": "Pallone d’Oro",
+    "kind": "Vincitore per anno",
+    "difficulty": 2,
+    "question": "Chi ha vinto il Pallone d’Oro maschile nel 2008?",
+    "options": [
+      "Pavel Nedvěd",
+      "Hristo Stoichkov",
+      "Cristiano Ronaldo"
+    ],
+    "answer": 2,
+    "explanation": "Nel 2008 il Pallone d’Oro è stato assegnato a Cristiano Ronaldo.",
+    "source": "https://www.uefa.com/ballondor/news/0287-195e642735da-0594342b9554-1000--history-of-the-ballon-d-or-all-the-winners/"
+  },
+  {
+    "id": "people-54",
+    "category": "Pallone d’Oro",
+    "kind": "Vincitore per anno",
+    "difficulty": 2,
+    "question": "Chi ha vinto il Pallone d’Oro maschile nel 2009?",
+    "options": [
+      "Stanley Matthews",
+      "Roberto Baggio",
+      "Lionel Messi"
+    ],
+    "answer": 2,
+    "explanation": "Nel 2009 il Pallone d’Oro è stato assegnato a Lionel Messi.",
+    "source": "https://www.uefa.com/ballondor/news/0287-195e642735da-0594342b9554-1000--history-of-the-ballon-d-or-all-the-winners/"
+  },
+  {
+    "id": "people-55",
+    "category": "Pallone d’Oro",
+    "kind": "Vincitore per anno",
+    "difficulty": 2,
+    "question": "Chi ha vinto il Pallone d’Oro maschile nel 2010?",
+    "options": [
+      "Andriy Shevchenko",
+      "Lionel Messi",
+      "Cristiano Ronaldo"
+    ],
+    "answer": 1,
+    "explanation": "Nel 2010 il Pallone d’Oro è stato assegnato a Lionel Messi.",
+    "source": "https://www.uefa.com/ballondor/news/0287-195e642735da-0594342b9554-1000--history-of-the-ballon-d-or-all-the-winners/"
+  },
+  {
+    "id": "people-56",
+    "category": "Pallone d’Oro",
+    "kind": "Vincitore per anno",
+    "difficulty": 2,
+    "question": "Chi ha vinto il Pallone d’Oro maschile nel 2011?",
+    "options": [
+      "Lionel Messi",
+      "Hristo Stoichkov",
+      "Michel Platini"
+    ],
+    "answer": 0,
+    "explanation": "Nel 2011 il Pallone d’Oro è stato assegnato a Lionel Messi.",
+    "source": "https://www.uefa.com/ballondor/news/0287-195e642735da-0594342b9554-1000--history-of-the-ballon-d-or-all-the-winners/"
+  },
+  {
+    "id": "people-57",
+    "category": "Pallone d’Oro",
+    "kind": "Vincitore per anno",
+    "difficulty": 2,
+    "question": "Chi ha vinto il Pallone d’Oro maschile nel 2012?",
+    "options": [
+      "Omar Sívori",
+      "Gianni Rivera",
+      "Lionel Messi"
+    ],
+    "answer": 2,
+    "explanation": "Nel 2012 il Pallone d’Oro è stato assegnato a Lionel Messi.",
+    "source": "https://www.uefa.com/ballondor/news/0287-195e642735da-0594342b9554-1000--history-of-the-ballon-d-or-all-the-winners/"
+  },
+  {
+    "id": "people-58",
+    "category": "Pallone d’Oro",
+    "kind": "Vincitore per anno",
+    "difficulty": 2,
+    "question": "Chi ha vinto il Pallone d’Oro maschile nel 2013?",
+    "options": [
+      "Matthias Sammer",
+      "Cristiano Ronaldo",
+      "Ihor Belanov"
+    ],
+    "answer": 1,
+    "explanation": "Nel 2013 il Pallone d’Oro è stato assegnato a Cristiano Ronaldo.",
+    "source": "https://www.uefa.com/ballondor/news/0287-195e642735da-0594342b9554-1000--history-of-the-ballon-d-or-all-the-winners/"
+  },
+  {
+    "id": "people-59",
+    "category": "Pallone d’Oro",
+    "kind": "Vincitore per anno",
+    "difficulty": 2,
+    "question": "Chi ha vinto il Pallone d’Oro maschile nel 2014?",
+    "options": [
+      "Cristiano Ronaldo",
+      "Ronaldinho",
+      "Fabio Cannavaro"
+    ],
+    "answer": 0,
+    "explanation": "Nel 2014 il Pallone d’Oro è stato assegnato a Cristiano Ronaldo.",
+    "source": "https://www.uefa.com/ballondor/news/0287-195e642735da-0594342b9554-1000--history-of-the-ballon-d-or-all-the-winners/"
+  },
+  {
+    "id": "people-60",
+    "category": "Pallone d’Oro",
+    "kind": "Vincitore per anno",
+    "difficulty": 2,
+    "question": "Chi ha vinto il Pallone d’Oro maschile nel 2015?",
+    "options": [
+      "Luis Suárez Miramontes",
+      "Lionel Messi",
+      "Luka Modrić"
+    ],
+    "answer": 1,
+    "explanation": "Nel 2015 il Pallone d’Oro è stato assegnato a Lionel Messi.",
+    "source": "https://www.uefa.com/ballondor/news/0287-195e642735da-0594342b9554-1000--history-of-the-ballon-d-or-all-the-winners/"
+  },
+  {
+    "id": "people-61",
+    "category": "Pallone d’Oro",
+    "kind": "Vincitore per anno",
+    "difficulty": 2,
+    "question": "Chi ha vinto il Pallone d’Oro maschile nel 2016?",
+    "options": [
+      "Ronaldo Nazário",
+      "Cristiano Ronaldo",
+      "Rodri"
+    ],
+    "answer": 1,
+    "explanation": "Nel 2016 il Pallone d’Oro è stato assegnato a Cristiano Ronaldo.",
+    "source": "https://www.uefa.com/ballondor/news/0287-195e642735da-0594342b9554-1000--history-of-the-ballon-d-or-all-the-winners/"
+  },
+  {
+    "id": "people-62",
+    "category": "Pallone d’Oro",
+    "kind": "Vincitore per anno",
+    "difficulty": 2,
+    "question": "Chi ha vinto il Pallone d’Oro maschile nel 2017?",
+    "options": [
+      "Cristiano Ronaldo",
+      "Bobby Charlton",
+      "Lothar Matthäus"
+    ],
+    "answer": 0,
+    "explanation": "Nel 2017 il Pallone d’Oro è stato assegnato a Cristiano Ronaldo.",
+    "source": "https://www.uefa.com/ballondor/news/0287-195e642735da-0594342b9554-1000--history-of-the-ballon-d-or-all-the-winners/"
+  },
+  {
+    "id": "people-63",
+    "category": "Pallone d’Oro",
+    "kind": "Vincitore per anno",
+    "difficulty": 2,
+    "question": "Chi ha vinto il Pallone d’Oro maschile nel 2018?",
+    "options": [
+      "Eusébio",
+      "Hristo Stoichkov",
+      "Luka Modrić"
+    ],
+    "answer": 2,
+    "explanation": "Nel 2018 il Pallone d’Oro è stato assegnato a Luka Modrić.",
+    "source": "https://www.uefa.com/ballondor/news/0287-195e642735da-0594342b9554-1000--history-of-the-ballon-d-or-all-the-winners/"
+  },
+  {
+    "id": "people-64",
+    "category": "Pallone d’Oro",
+    "kind": "Vincitore per anno",
+    "difficulty": 2,
+    "question": "Chi ha vinto il Pallone d’Oro maschile nel 2019?",
+    "options": [
+      "Luís Figo",
+      "Omar Sívori",
+      "Lionel Messi"
+    ],
+    "answer": 2,
+    "explanation": "Nel 2019 il Pallone d’Oro è stato assegnato a Lionel Messi.",
+    "source": "https://www.uefa.com/ballondor/news/0287-195e642735da-0594342b9554-1000--history-of-the-ballon-d-or-all-the-winners/"
+  },
+  {
+    "id": "people-65",
+    "category": "Pallone d’Oro",
+    "kind": "Vincitore per anno",
+    "difficulty": 2,
+    "question": "Chi ha vinto il Pallone d’Oro maschile nel 2021?",
+    "options": [
+      "Jean-Pierre Papin",
+      "Lionel Messi",
+      "George Weah"
+    ],
+    "answer": 1,
+    "explanation": "Nel 2021 il Pallone d’Oro è stato assegnato a Lionel Messi.",
+    "source": "https://www.uefa.com/ballondor/news/0287-195e642735da-0594342b9554-1000--history-of-the-ballon-d-or-all-the-winners/"
+  },
+  {
+    "id": "people-66",
+    "category": "Pallone d’Oro",
+    "kind": "Vincitore per anno",
+    "difficulty": 2,
+    "question": "Chi ha vinto il Pallone d’Oro maschile nel 2022?",
+    "options": [
+      "Cristiano Ronaldo",
+      "Karim Benzema",
+      "Luís Figo"
+    ],
+    "answer": 1,
+    "explanation": "Nel 2022 il Pallone d’Oro è stato assegnato a Karim Benzema.",
+    "source": "https://www.uefa.com/ballondor/news/0287-195e642735da-0594342b9554-1000--history-of-the-ballon-d-or-all-the-winners/"
+  },
+  {
+    "id": "people-67",
+    "category": "Pallone d’Oro",
+    "kind": "Vincitore per anno",
+    "difficulty": 2,
+    "question": "Chi ha vinto il Pallone d’Oro maschile nel 2023?",
+    "options": [
+      "Bobby Charlton",
+      "Lionel Messi",
+      "Rodri"
+    ],
+    "answer": 1,
+    "explanation": "Nel 2023 il Pallone d’Oro è stato assegnato a Lionel Messi.",
+    "source": "https://www.uefa.com/ballondor/news/0287-195e642735da-0594342b9554-1000--history-of-the-ballon-d-or-all-the-winners/"
+  },
+  {
+    "id": "people-68",
+    "category": "Pallone d’Oro",
+    "kind": "Vincitore per anno",
+    "difficulty": 2,
+    "question": "Chi ha vinto il Pallone d’Oro maschile nel 2024?",
+    "options": [
+      "Hristo Stoichkov",
+      "Denis Law",
+      "Rodri"
+    ],
+    "answer": 2,
+    "explanation": "Nel 2024 il Pallone d’Oro è stato assegnato a Rodri.",
+    "source": "https://www.uefa.com/ballondor/news/0287-195e642735da-0594342b9554-1000--history-of-the-ballon-d-or-all-the-winners/"
+  },
+  {
+    "id": "people-69",
+    "category": "Pallone d’Oro",
+    "kind": "Vincitore per anno",
+    "difficulty": 2,
+    "question": "Chi ha vinto il Pallone d’Oro maschile nel 2025?",
+    "options": [
+      "Marco van Basten",
+      "Matthias Sammer",
+      "Ousmane Dembélé"
+    ],
+    "answer": 2,
+    "explanation": "Nel 2025 il Pallone d’Oro è stato assegnato a Ousmane Dembélé.",
+    "source": "https://www.uefa.com/ballondor/news/0287-195e642735da-0594342b9554-1000--history-of-the-ballon-d-or-all-the-winners/"
+  },
+  {
+    "id": "people-70",
+    "category": "Pallone d’Oro",
+    "kind": "Vincitore per anno",
+    "difficulty": 2,
+    "question": "Chi ha vinto il Pallone d’Oro maschile nel 2026?",
+    "options": [
+      "George Best",
+      "Harry Kane",
+      "Bobby Charlton"
+    ],
+    "answer": 1,
+    "explanation": "Nel 2026 il Pallone d’Oro è stato assegnato a Harry Kane.",
+    "source": "https://www.uefa.com/ballondor/news/0287-195e642735da-0594342b9554-1000--history-of-the-ballon-d-or-all-the-winners/"
+  },
+  {
+    "id": "people-71",
+    "category": "Calciatori leggendari",
+    "kind": "Premi calciatori",
+    "difficulty": 2,
+    "question": "In quale anno Allan Simonsen ha vinto il Pallone d’Oro?",
+    "options": [
+      "1977",
+      "1990",
+      "2006"
+    ],
+    "answer": 0,
+    "explanation": "Allan Simonsen vinse il Pallone d’Oro nel 1977.",
+    "source": "https://www.uefa.com/ballondor/news/0287-195e642735da-0594342b9554-1000--history-of-the-ballon-d-or-all-the-winners/"
+  },
+  {
+    "id": "people-72",
+    "category": "Calciatori leggendari",
+    "kind": "Premi calciatori",
+    "difficulty": 2,
+    "question": "In quale anno Andriy Shevchenko ha vinto il Pallone d’Oro?",
+    "options": [
+      "2011",
+      "2019",
+      "2004"
+    ],
+    "answer": 2,
+    "explanation": "Andriy Shevchenko vinse il Pallone d’Oro nel 2004.",
+    "source": "https://www.uefa.com/ballondor/news/0287-195e642735da-0594342b9554-1000--history-of-the-ballon-d-or-all-the-winners/"
+  },
+  {
+    "id": "people-73",
+    "category": "Calciatori leggendari",
+    "kind": "Premi calciatori",
+    "difficulty": 2,
+    "question": "In quale anno Bobby Charlton ha vinto il Pallone d’Oro?",
+    "options": [
+      "1994",
+      "1984",
+      "1966"
+    ],
+    "answer": 2,
+    "explanation": "Bobby Charlton vinse il Pallone d’Oro nel 1966.",
+    "source": "https://www.uefa.com/ballondor/news/0287-195e642735da-0594342b9554-1000--history-of-the-ballon-d-or-all-the-winners/"
+  },
+  {
+    "id": "people-74",
+    "category": "Calciatori leggendari",
+    "kind": "Premi calciatori",
+    "difficulty": 2,
+    "question": "In quale anno Denis Law ha vinto il Pallone d’Oro?",
+    "options": [
+      "1963",
+      "1997",
+      "1964"
+    ],
+    "answer": 2,
+    "explanation": "Denis Law vinse il Pallone d’Oro nel 1964.",
+    "source": "https://www.uefa.com/ballondor/news/0287-195e642735da-0594342b9554-1000--history-of-the-ballon-d-or-all-the-winners/"
+  },
+  {
+    "id": "people-75",
+    "category": "Calciatori leggendari",
+    "kind": "Premi calciatori",
+    "difficulty": 2,
+    "question": "In quale anno Eusébio ha vinto il Pallone d’Oro?",
+    "options": [
+      "2022",
+      "2025",
+      "1965"
+    ],
+    "answer": 2,
+    "explanation": "Eusébio vinse il Pallone d’Oro nel 1965.",
+    "source": "https://www.uefa.com/ballondor/news/0287-195e642735da-0594342b9554-1000--history-of-the-ballon-d-or-all-the-winners/"
+  },
+  {
+    "id": "people-76",
+    "category": "Calciatori leggendari",
+    "kind": "Premi calciatori",
+    "difficulty": 2,
+    "question": "In quale anno Fabio Cannavaro ha vinto il Pallone d’Oro?",
+    "options": [
+      "2023",
+      "1966",
+      "2006"
+    ],
+    "answer": 2,
+    "explanation": "Fabio Cannavaro vinse il Pallone d’Oro nel 2006.",
+    "source": "https://www.uefa.com/ballondor/news/0287-195e642735da-0594342b9554-1000--history-of-the-ballon-d-or-all-the-winners/"
+  },
+  {
+    "id": "people-77",
+    "category": "Calciatori leggendari",
+    "kind": "Premi calciatori",
+    "difficulty": 2,
+    "question": "In quale anno Flórián Albert ha vinto il Pallone d’Oro?",
+    "options": [
+      "1987",
+      "1967",
+      "1964"
+    ],
+    "answer": 1,
+    "explanation": "Flórián Albert vinse il Pallone d’Oro nel 1967.",
+    "source": "https://www.uefa.com/ballondor/news/0287-195e642735da-0594342b9554-1000--history-of-the-ballon-d-or-all-the-winners/"
+  },
+  {
+    "id": "people-78",
+    "category": "Calciatori leggendari",
+    "kind": "Premi calciatori",
+    "difficulty": 2,
+    "question": "In quale anno George Best ha vinto il Pallone d’Oro?",
+    "options": [
+      "1988",
+      "1968",
+      "1961"
+    ],
+    "answer": 1,
+    "explanation": "George Best vinse il Pallone d’Oro nel 1968.",
+    "source": "https://www.uefa.com/ballondor/news/0287-195e642735da-0594342b9554-1000--history-of-the-ballon-d-or-all-the-winners/"
+  },
+  {
+    "id": "people-79",
+    "category": "Calciatori leggendari",
+    "kind": "Premi calciatori",
+    "difficulty": 2,
+    "question": "In quale anno George Weah ha vinto il Pallone d’Oro?",
+    "options": [
+      "1995",
+      "2024",
+      "2010"
+    ],
+    "answer": 0,
+    "explanation": "George Weah vinse il Pallone d’Oro nel 1995.",
+    "source": "https://www.uefa.com/ballondor/news/0287-195e642735da-0594342b9554-1000--history-of-the-ballon-d-or-all-the-winners/"
+  },
+  {
+    "id": "people-80",
+    "category": "Calciatori leggendari",
+    "kind": "Premi calciatori",
+    "difficulty": 2,
+    "question": "In quale anno Gerd Müller ha vinto il Pallone d’Oro?",
+    "options": [
+      "1997",
+      "1983",
+      "1970"
+    ],
+    "answer": 2,
+    "explanation": "Gerd Müller vinse il Pallone d’Oro nel 1970.",
+    "source": "https://www.uefa.com/ballondor/news/0287-195e642735da-0594342b9554-1000--history-of-the-ballon-d-or-all-the-winners/"
+  },
+  {
+    "id": "people-81",
+    "category": "Calciatori leggendari",
+    "kind": "Premi calciatori",
+    "difficulty": 2,
+    "question": "In quale anno Gianni Rivera ha vinto il Pallone d’Oro?",
+    "options": [
+      "1969",
+      "2007",
+      "1973"
+    ],
+    "answer": 0,
+    "explanation": "Gianni Rivera vinse il Pallone d’Oro nel 1969.",
+    "source": "https://www.uefa.com/ballondor/news/0287-195e642735da-0594342b9554-1000--history-of-the-ballon-d-or-all-the-winners/"
+  },
+  {
+    "id": "people-82",
+    "category": "Calciatori leggendari",
+    "kind": "Premi calciatori",
+    "difficulty": 2,
+    "question": "In quale anno Harry Kane ha vinto il Pallone d’Oro?",
+    "options": [
+      "2014",
+      "1996",
+      "2026"
+    ],
+    "answer": 2,
+    "explanation": "Harry Kane vinse il Pallone d’Oro nel 2026.",
+    "source": "https://www.uefa.com/ballondor/news/0287-195e642735da-0594342b9554-1000--history-of-the-ballon-d-or-all-the-winners/"
+  },
+  {
+    "id": "people-83",
+    "category": "Calciatori leggendari",
+    "kind": "Premi calciatori",
+    "difficulty": 2,
+    "question": "In quale anno Hristo Stoichkov ha vinto il Pallone d’Oro?",
+    "options": [
+      "2015",
+      "1968",
+      "1994"
+    ],
+    "answer": 2,
+    "explanation": "Hristo Stoichkov vinse il Pallone d’Oro nel 1994.",
+    "source": "https://www.uefa.com/ballondor/news/0287-195e642735da-0594342b9554-1000--history-of-the-ballon-d-or-all-the-winners/"
+  },
+  {
+    "id": "people-84",
+    "category": "Calciatori leggendari",
+    "kind": "Premi calciatori",
+    "difficulty": 2,
+    "question": "In quale anno Ihor Belanov ha vinto il Pallone d’Oro?",
+    "options": [
+      "1990",
+      "2022",
+      "1986"
+    ],
+    "answer": 2,
+    "explanation": "Ihor Belanov vinse il Pallone d’Oro nel 1986.",
+    "source": "https://www.uefa.com/ballondor/news/0287-195e642735da-0594342b9554-1000--history-of-the-ballon-d-or-all-the-winners/"
+  },
+  {
+    "id": "people-85",
+    "category": "Calciatori leggendari",
+    "kind": "Premi calciatori",
+    "difficulty": 2,
+    "question": "In quale anno Jean-Pierre Papin ha vinto il Pallone d’Oro?",
+    "options": [
+      "1991",
+      "1987",
+      "1964"
+    ],
+    "answer": 0,
+    "explanation": "Jean-Pierre Papin vinse il Pallone d’Oro nel 1991.",
+    "source": "https://www.uefa.com/ballondor/news/0287-195e642735da-0594342b9554-1000--history-of-the-ballon-d-or-all-the-winners/"
+  },
+  {
+    "id": "people-86",
+    "category": "Calciatori leggendari",
+    "kind": "Premi calciatori",
+    "difficulty": 2,
+    "question": "In quale anno Josef Masopust ha vinto il Pallone d’Oro?",
+    "options": [
+      "1962",
+      "1977",
+      "2013"
+    ],
+    "answer": 0,
+    "explanation": "Josef Masopust vinse il Pallone d’Oro nel 1962.",
+    "source": "https://www.uefa.com/ballondor/news/0287-195e642735da-0594342b9554-1000--history-of-the-ballon-d-or-all-the-winners/"
+  },
+  {
+    "id": "people-87",
+    "category": "Calciatori leggendari",
+    "kind": "Premi calciatori",
+    "difficulty": 2,
+    "question": "In quale anno Kaká ha vinto il Pallone d’Oro?",
+    "options": [
+      "2007",
+      "2025",
+      "1957"
+    ],
+    "answer": 0,
+    "explanation": "Kaká vinse il Pallone d’Oro nel 2007.",
+    "source": "https://www.uefa.com/ballondor/news/0287-195e642735da-0594342b9554-1000--history-of-the-ballon-d-or-all-the-winners/"
+  },
+  {
+    "id": "people-88",
+    "category": "Calciatori leggendari",
+    "kind": "Premi calciatori",
+    "difficulty": 2,
+    "question": "In quale anno Karim Benzema ha vinto il Pallone d’Oro?",
+    "options": [
+      "1973",
+      "2022",
+      "1969"
+    ],
+    "answer": 1,
+    "explanation": "Karim Benzema vinse il Pallone d’Oro nel 2022.",
+    "source": "https://www.uefa.com/ballondor/news/0287-195e642735da-0594342b9554-1000--history-of-the-ballon-d-or-all-the-winners/"
+  },
+  {
+    "id": "people-89",
+    "category": "Calciatori leggendari",
+    "kind": "Premi calciatori",
+    "difficulty": 2,
+    "question": "In quale anno Lev Yashin ha vinto il Pallone d’Oro?",
+    "options": [
+      "1963",
+      "1976",
+      "1970"
+    ],
+    "answer": 0,
+    "explanation": "Lev Yashin vinse il Pallone d’Oro nel 1963.",
+    "source": "https://www.uefa.com/ballondor/news/0287-195e642735da-0594342b9554-1000--history-of-the-ballon-d-or-all-the-winners/"
+  },
+  {
+    "id": "people-90",
+    "category": "Calciatori leggendari",
+    "kind": "Premi calciatori",
+    "difficulty": 2,
+    "question": "In quale anno Lothar Matthäus ha vinto il Pallone d’Oro?",
+    "options": [
+      "2000",
+      "1982",
+      "1990"
+    ],
+    "answer": 2,
+    "explanation": "Lothar Matthäus vinse il Pallone d’Oro nel 1990.",
+    "source": "https://www.uefa.com/ballondor/news/0287-195e642735da-0594342b9554-1000--history-of-the-ballon-d-or-all-the-winners/"
+  },
+  {
+    "id": "people-91",
+    "category": "Calciatori leggendari",
+    "kind": "Premi calciatori",
+    "difficulty": 2,
+    "question": "In quale anno Luis Suárez Miramontes ha vinto il Pallone d’Oro?",
+    "options": [
+      "2019",
+      "1960",
+      "2022"
+    ],
+    "answer": 1,
+    "explanation": "Luis Suárez Miramontes vinse il Pallone d’Oro nel 1960.",
+    "source": "https://www.uefa.com/ballondor/news/0287-195e642735da-0594342b9554-1000--history-of-the-ballon-d-or-all-the-winners/"
+  },
+  {
+    "id": "people-92",
+    "category": "Calciatori leggendari",
+    "kind": "Premi calciatori",
+    "difficulty": 2,
+    "question": "In quale anno Luka Modrić ha vinto il Pallone d’Oro?",
+    "options": [
+      "2010",
+      "2018",
+      "1967"
+    ],
+    "answer": 1,
+    "explanation": "Luka Modrić vinse il Pallone d’Oro nel 2018.",
+    "source": "https://www.uefa.com/ballondor/news/0287-195e642735da-0594342b9554-1000--history-of-the-ballon-d-or-all-the-winners/"
+  },
+  {
+    "id": "people-93",
+    "category": "Calciatori leggendari",
+    "kind": "Premi calciatori",
+    "difficulty": 2,
+    "question": "In quale anno Luís Figo ha vinto il Pallone d’Oro?",
+    "options": [
+      "1998",
+      "1956",
+      "2000"
+    ],
+    "answer": 2,
+    "explanation": "Luís Figo vinse il Pallone d’Oro nel 2000.",
+    "source": "https://www.uefa.com/ballondor/news/0287-195e642735da-0594342b9554-1000--history-of-the-ballon-d-or-all-the-winners/"
+  },
+  {
+    "id": "people-94",
+    "category": "Calciatori leggendari",
+    "kind": "Premi calciatori",
+    "difficulty": 2,
+    "question": "In quale anno Matthias Sammer ha vinto il Pallone d’Oro?",
+    "options": [
+      "1996",
+      "1976",
+      "2013"
+    ],
+    "answer": 0,
+    "explanation": "Matthias Sammer vinse il Pallone d’Oro nel 1996.",
+    "source": "https://www.uefa.com/ballondor/news/0287-195e642735da-0594342b9554-1000--history-of-the-ballon-d-or-all-the-winners/"
+  },
+  {
+    "id": "people-95",
+    "category": "Calciatori leggendari",
+    "kind": "Premi calciatori",
+    "difficulty": 2,
+    "question": "In quale anno Michael Owen ha vinto il Pallone d’Oro?",
+    "options": [
+      "1957",
+      "1970",
+      "2001"
+    ],
+    "answer": 2,
+    "explanation": "Michael Owen vinse il Pallone d’Oro nel 2001.",
+    "source": "https://www.uefa.com/ballondor/news/0287-195e642735da-0594342b9554-1000--history-of-the-ballon-d-or-all-the-winners/"
+  },
+  {
+    "id": "people-96",
+    "category": "Calciatori leggendari",
+    "kind": "Premi calciatori",
+    "difficulty": 2,
+    "question": "In quale anno Oleh Blokhin ha vinto il Pallone d’Oro?",
+    "options": [
+      "1960",
+      "1975",
+      "2004"
+    ],
+    "answer": 1,
+    "explanation": "Oleh Blokhin vinse il Pallone d’Oro nel 1975.",
+    "source": "https://www.uefa.com/ballondor/news/0287-195e642735da-0594342b9554-1000--history-of-the-ballon-d-or-all-the-winners/"
+  },
+  {
+    "id": "people-97",
+    "category": "Calciatori leggendari",
+    "kind": "Premi calciatori",
+    "difficulty": 2,
+    "question": "In quale anno Omar Sívori ha vinto il Pallone d’Oro?",
+    "options": [
+      "1973",
+      "2012",
+      "1961"
+    ],
+    "answer": 2,
+    "explanation": "Omar Sívori vinse il Pallone d’Oro nel 1961.",
+    "source": "https://www.uefa.com/ballondor/news/0287-195e642735da-0594342b9554-1000--history-of-the-ballon-d-or-all-the-winners/"
+  },
+  {
+    "id": "people-98",
+    "category": "Calciatori leggendari",
+    "kind": "Premi calciatori",
+    "difficulty": 2,
+    "question": "In quale anno Ousmane Dembélé ha vinto il Pallone d’Oro?",
+    "options": [
+      "1961",
+      "2025",
+      "2002"
+    ],
+    "answer": 1,
+    "explanation": "Ousmane Dembélé vinse il Pallone d’Oro nel 2025.",
+    "source": "https://www.uefa.com/ballondor/news/0287-195e642735da-0594342b9554-1000--history-of-the-ballon-d-or-all-the-winners/"
+  },
+  {
+    "id": "people-99",
+    "category": "Calciatori leggendari",
+    "kind": "Premi calciatori",
+    "difficulty": 2,
+    "question": "In quale anno Paolo Rossi ha vinto il Pallone d’Oro?",
+    "options": [
+      "1982",
+      "1969",
+      "1988"
+    ],
+    "answer": 0,
+    "explanation": "Paolo Rossi vinse il Pallone d’Oro nel 1982.",
+    "source": "https://www.uefa.com/ballondor/news/0287-195e642735da-0594342b9554-1000--history-of-the-ballon-d-or-all-the-winners/"
+  },
+  {
+    "id": "people-100",
+    "category": "Calciatori leggendari",
+    "kind": "Premi calciatori",
+    "difficulty": 2,
+    "question": "In quale anno Pavel Nedvěd ha vinto il Pallone d’Oro?",
+    "options": [
+      "1975",
+      "1986",
+      "2003"
+    ],
+    "answer": 2,
+    "explanation": "Pavel Nedvěd vinse il Pallone d’Oro nel 2003.",
+    "source": "https://www.uefa.com/ballondor/news/0287-195e642735da-0594342b9554-1000--history-of-the-ballon-d-or-all-the-winners/"
+  },
+  {
+    "id": "people-101",
+    "category": "Calciatori leggendari",
+    "kind": "Premi calciatori",
+    "difficulty": 2,
+    "question": "In quale anno Raymond Kopa ha vinto il Pallone d’Oro?",
+    "options": [
+      "1960",
+      "2009",
+      "1958"
+    ],
+    "answer": 2,
+    "explanation": "Raymond Kopa vinse il Pallone d’Oro nel 1958.",
+    "source": "https://www.uefa.com/ballondor/news/0287-195e642735da-0594342b9554-1000--history-of-the-ballon-d-or-all-the-winners/"
+  },
+  {
+    "id": "people-102",
+    "category": "Calciatori leggendari",
+    "kind": "Premi calciatori",
+    "difficulty": 2,
+    "question": "In quale anno Rivaldo ha vinto il Pallone d’Oro?",
+    "options": [
+      "1987",
+      "1999",
+      "2009"
+    ],
+    "answer": 1,
+    "explanation": "Rivaldo vinse il Pallone d’Oro nel 1999.",
+    "source": "https://www.uefa.com/ballondor/news/0287-195e642735da-0594342b9554-1000--history-of-the-ballon-d-or-all-the-winners/"
+  },
+  {
+    "id": "people-103",
+    "category": "Calciatori leggendari",
+    "kind": "Premi calciatori",
+    "difficulty": 2,
+    "question": "In quale anno Roberto Baggio ha vinto il Pallone d’Oro?",
+    "options": [
+      "2005",
+      "1969",
+      "1993"
+    ],
+    "answer": 2,
+    "explanation": "Roberto Baggio vinse il Pallone d’Oro nel 1993.",
+    "source": "https://www.uefa.com/ballondor/news/0287-195e642735da-0594342b9554-1000--history-of-the-ballon-d-or-all-the-winners/"
+  },
+  {
+    "id": "people-104",
+    "category": "Calciatori leggendari",
+    "kind": "Premi calciatori",
+    "difficulty": 2,
+    "question": "In quale anno Rodri ha vinto il Pallone d’Oro?",
+    "options": [
+      "2024",
+      "1981",
+      "1984"
+    ],
+    "answer": 0,
+    "explanation": "Rodri vinse il Pallone d’Oro nel 2024.",
+    "source": "https://www.uefa.com/ballondor/news/0287-195e642735da-0594342b9554-1000--history-of-the-ballon-d-or-all-the-winners/"
+  },
+  {
+    "id": "people-105",
+    "category": "Calciatori leggendari",
+    "kind": "Premi calciatori",
+    "difficulty": 2,
+    "question": "In quale anno Ronaldinho ha vinto il Pallone d’Oro?",
+    "options": [
+      "1995",
+      "1985",
+      "2005"
+    ],
+    "answer": 2,
+    "explanation": "Ronaldinho vinse il Pallone d’Oro nel 2005.",
+    "source": "https://www.uefa.com/ballondor/news/0287-195e642735da-0594342b9554-1000--history-of-the-ballon-d-or-all-the-winners/"
+  },
+  {
+    "id": "people-106",
+    "category": "Calciatori leggendari",
+    "kind": "Premi calciatori",
+    "difficulty": 2,
+    "question": "In quale anno Ruud Gullit ha vinto il Pallone d’Oro?",
+    "options": [
+      "1987",
+      "2008",
+      "1980"
+    ],
+    "answer": 0,
+    "explanation": "Ruud Gullit vinse il Pallone d’Oro nel 1987.",
+    "source": "https://www.uefa.com/ballondor/news/0287-195e642735da-0594342b9554-1000--history-of-the-ballon-d-or-all-the-winners/"
+  },
+  {
+    "id": "people-107",
+    "category": "Calciatori leggendari",
+    "kind": "Premi calciatori",
+    "difficulty": 2,
+    "question": "In quale anno Stanley Matthews ha vinto il Pallone d’Oro?",
+    "options": [
+      "1956",
+      "1992",
+      "1965"
+    ],
+    "answer": 0,
+    "explanation": "Stanley Matthews vinse il Pallone d’Oro nel 1956.",
+    "source": "https://www.uefa.com/ballondor/news/0287-195e642735da-0594342b9554-1000--history-of-the-ballon-d-or-all-the-winners/"
+  },
+  {
+    "id": "people-108",
+    "category": "Calciatori leggendari",
+    "kind": "Premi calciatori",
+    "difficulty": 2,
+    "question": "In quale anno Zinédine Zidane ha vinto il Pallone d’Oro?",
+    "options": [
+      "2026",
+      "1999",
+      "1998"
+    ],
+    "answer": 2,
+    "explanation": "Zinédine Zidane vinse il Pallone d’Oro nel 1998.",
+    "source": "https://www.uefa.com/ballondor/news/0287-195e642735da-0594342b9554-1000--history-of-the-ballon-d-or-all-the-winners/"
+  },
+  {
+    "id": "people-109",
+    "category": "Allenatori storici",
+    "kind": "Allenatori vincenti",
+    "difficulty": 2,
+    "question": "Chi allenava il Milan quando vinse la Champions League nel 2003?",
+    "options": [
+      "Carlo Ancelotti",
+      "Luis Enrique",
+      "Pep Guardiola"
+    ],
+    "answer": 0,
+    "explanation": "Carlo Ancelotti guidò il Milan alla Champions League nel 2003.",
+    "source": "https://www.uefa.com/uefachampionsleague/news/0252-0e98c715bb79-dea77f56e2bd-1000/"
+  },
+  {
+    "id": "people-110",
+    "category": "Allenatori storici",
+    "kind": "Club degli allenatori",
+    "difficulty": 2,
+    "question": "Con quale club Carlo Ancelotti vinse la Champions League nel 2003?",
+    "options": [
+      "Milan",
+      "Real Madrid",
+      "Inter"
+    ],
+    "answer": 0,
+    "explanation": "Carlo Ancelotti vinse la Champions League 2003 alla guida del Milan.",
+    "source": "https://www.uefa.com/uefachampionsleague/news/0252-0e98c715bb79-dea77f56e2bd-1000/"
+  },
+  {
+    "id": "people-111",
+    "category": "Allenatori storici",
+    "kind": "Allenatori vincenti",
+    "difficulty": 2,
+    "question": "Chi allenava il Milan quando vinse la Champions League nel 2007?",
+    "options": [
+      "Carlo Ancelotti",
+      "Sir Alex Ferguson",
+      "Luis Enrique"
+    ],
+    "answer": 0,
+    "explanation": "Carlo Ancelotti guidò il Milan alla Champions League nel 2007.",
+    "source": "https://www.uefa.com/uefachampionsleague/news/0252-0e98c715bb79-dea77f56e2bd-1000/"
+  },
+  {
+    "id": "people-112",
+    "category": "Allenatori storici",
+    "kind": "Club degli allenatori",
+    "difficulty": 2,
+    "question": "Con quale club Carlo Ancelotti vinse la Champions League nel 2007?",
+    "options": [
+      "Inter",
+      "Liverpool",
+      "Milan"
+    ],
+    "answer": 2,
+    "explanation": "Carlo Ancelotti vinse la Champions League 2007 alla guida del Milan.",
+    "source": "https://www.uefa.com/uefachampionsleague/news/0252-0e98c715bb79-dea77f56e2bd-1000/"
+  },
+  {
+    "id": "people-113",
+    "category": "Allenatori storici",
+    "kind": "Allenatori vincenti",
+    "difficulty": 2,
+    "question": "Chi allenava il Real Madrid quando vinse la Champions League nel 2014?",
+    "options": [
+      "Pep Guardiola",
+      "Carlo Ancelotti",
+      "José Mourinho"
+    ],
+    "answer": 1,
+    "explanation": "Carlo Ancelotti guidò il Real Madrid alla Champions League nel 2014.",
+    "source": "https://www.uefa.com/uefachampionsleague/news/0252-0e98c715bb79-dea77f56e2bd-1000/"
+  },
+  {
+    "id": "people-114",
+    "category": "Allenatori storici",
+    "kind": "Club degli allenatori",
+    "difficulty": 2,
+    "question": "Con quale club Carlo Ancelotti vinse la Champions League nel 2014?",
+    "options": [
+      "Chelsea",
+      "Paris Saint-Germain",
+      "Real Madrid"
+    ],
+    "answer": 2,
+    "explanation": "Carlo Ancelotti vinse la Champions League 2014 alla guida del Real Madrid.",
+    "source": "https://www.uefa.com/uefachampionsleague/news/0252-0e98c715bb79-dea77f56e2bd-1000/"
+  },
+  {
+    "id": "people-115",
+    "category": "Allenatori storici",
+    "kind": "Allenatori vincenti",
+    "difficulty": 2,
+    "question": "Chi allenava il Real Madrid quando vinse la Champions League nel 2022?",
+    "options": [
+      "Jürgen Klopp",
+      "Luis Enrique",
+      "Carlo Ancelotti"
+    ],
+    "answer": 2,
+    "explanation": "Carlo Ancelotti guidò il Real Madrid alla Champions League nel 2022.",
+    "source": "https://www.uefa.com/uefachampionsleague/news/0252-0e98c715bb79-dea77f56e2bd-1000/"
+  },
+  {
+    "id": "people-116",
+    "category": "Allenatori storici",
+    "kind": "Club degli allenatori",
+    "difficulty": 2,
+    "question": "Con quale club Carlo Ancelotti vinse la Champions League nel 2022?",
+    "options": [
+      "Liverpool",
+      "Real Madrid",
+      "Manchester City"
+    ],
+    "answer": 1,
+    "explanation": "Carlo Ancelotti vinse la Champions League 2022 alla guida del Real Madrid.",
+    "source": "https://www.uefa.com/uefachampionsleague/news/0252-0e98c715bb79-dea77f56e2bd-1000/"
+  },
+  {
+    "id": "people-117",
+    "category": "Allenatori storici",
+    "kind": "Allenatori vincenti",
+    "difficulty": 2,
+    "question": "Chi allenava il Real Madrid quando vinse la Champions League nel 2024?",
+    "options": [
+      "Carlo Ancelotti",
+      "Sir Alex Ferguson",
+      "Luis Enrique"
+    ],
+    "answer": 0,
+    "explanation": "Carlo Ancelotti guidò il Real Madrid alla Champions League nel 2024.",
+    "source": "https://www.uefa.com/uefachampionsleague/news/0252-0e98c715bb79-dea77f56e2bd-1000/"
+  },
+  {
+    "id": "people-118",
+    "category": "Allenatori storici",
+    "kind": "Club degli allenatori",
+    "difficulty": 2,
+    "question": "Con quale club Carlo Ancelotti vinse la Champions League nel 2024?",
+    "options": [
+      "Real Madrid",
+      "Paris Saint-Germain",
+      "Chelsea"
+    ],
+    "answer": 0,
+    "explanation": "Carlo Ancelotti vinse la Champions League 2024 alla guida del Real Madrid.",
+    "source": "https://www.uefa.com/uefachampionsleague/news/0252-0e98c715bb79-dea77f56e2bd-1000/"
+  },
+  {
+    "id": "people-119",
+    "category": "Allenatori storici",
+    "kind": "Allenatori vincenti",
+    "difficulty": 2,
+    "question": "Chi allenava il Real Madrid quando vinse la Champions League nel 2016?",
+    "options": [
+      "Sir Alex Ferguson",
+      "Zinédine Zidane",
+      "Luis Enrique"
+    ],
+    "answer": 1,
+    "explanation": "Zinédine Zidane guidò il Real Madrid alla Champions League nel 2016.",
+    "source": "https://www.uefa.com/uefachampionsleague/news/0252-0e98c715bb79-dea77f56e2bd-1000/"
+  },
+  {
+    "id": "people-120",
+    "category": "Allenatori storici",
+    "kind": "Club degli allenatori",
+    "difficulty": 2,
+    "question": "Con quale club Zinédine Zidane vinse la Champions League nel 2016?",
+    "options": [
+      "Real Madrid",
+      "Barcellona",
+      "Paris Saint-Germain"
+    ],
+    "answer": 0,
+    "explanation": "Zinédine Zidane vinse la Champions League 2016 alla guida del Real Madrid.",
+    "source": "https://www.uefa.com/uefachampionsleague/news/0252-0e98c715bb79-dea77f56e2bd-1000/"
+  },
+  {
+    "id": "people-121",
+    "category": "Allenatori storici",
+    "kind": "Allenatori vincenti",
+    "difficulty": 2,
+    "question": "Chi allenava il Real Madrid quando vinse la Champions League nel 2017?",
+    "options": [
+      "Roberto Di Matteo",
+      "Sir Alex Ferguson",
+      "Zinédine Zidane"
+    ],
+    "answer": 2,
+    "explanation": "Zinédine Zidane guidò il Real Madrid alla Champions League nel 2017.",
+    "source": "https://www.uefa.com/uefachampionsleague/news/0252-0e98c715bb79-dea77f56e2bd-1000/"
+  },
+  {
+    "id": "people-122",
+    "category": "Allenatori storici",
+    "kind": "Club degli allenatori",
+    "difficulty": 2,
+    "question": "Con quale club Zinédine Zidane vinse la Champions League nel 2017?",
+    "options": [
+      "Liverpool",
+      "Paris Saint-Germain",
+      "Real Madrid"
+    ],
+    "answer": 2,
+    "explanation": "Zinédine Zidane vinse la Champions League 2017 alla guida del Real Madrid.",
+    "source": "https://www.uefa.com/uefachampionsleague/news/0252-0e98c715bb79-dea77f56e2bd-1000/"
+  },
+  {
+    "id": "people-123",
+    "category": "Allenatori storici",
+    "kind": "Allenatori vincenti",
+    "difficulty": 2,
+    "question": "Chi allenava il Real Madrid quando vinse la Champions League nel 2018?",
+    "options": [
+      "Zinédine Zidane",
+      "Pep Guardiola",
+      "Luis Enrique"
+    ],
+    "answer": 0,
+    "explanation": "Zinédine Zidane guidò il Real Madrid alla Champions League nel 2018.",
+    "source": "https://www.uefa.com/uefachampionsleague/news/0252-0e98c715bb79-dea77f56e2bd-1000/"
+  },
+  {
+    "id": "people-124",
+    "category": "Allenatori storici",
+    "kind": "Club degli allenatori",
+    "difficulty": 2,
+    "question": "Con quale club Zinédine Zidane vinse la Champions League nel 2018?",
+    "options": [
+      "Inter",
+      "Real Madrid",
+      "Paris Saint-Germain"
+    ],
+    "answer": 1,
+    "explanation": "Zinédine Zidane vinse la Champions League 2018 alla guida del Real Madrid.",
+    "source": "https://www.uefa.com/uefachampionsleague/news/0252-0e98c715bb79-dea77f56e2bd-1000/"
+  },
+  {
+    "id": "people-125",
+    "category": "Allenatori storici",
+    "kind": "Allenatori vincenti",
+    "difficulty": 2,
+    "question": "Chi allenava il Barcellona quando vinse la Champions League nel 2009?",
+    "options": [
+      "José Mourinho",
+      "Pep Guardiola",
+      "Jürgen Klopp"
+    ],
+    "answer": 1,
+    "explanation": "Pep Guardiola guidò il Barcellona alla Champions League nel 2009.",
+    "source": "https://www.uefa.com/uefachampionsleague/news/0252-0e98c715bb79-dea77f56e2bd-1000/"
+  },
+  {
+    "id": "people-126",
+    "category": "Allenatori storici",
+    "kind": "Club degli allenatori",
+    "difficulty": 2,
+    "question": "Con quale club Pep Guardiola vinse la Champions League nel 2009?",
+    "options": [
+      "Barcellona",
+      "Milan",
+      "Chelsea"
+    ],
+    "answer": 0,
+    "explanation": "Pep Guardiola vinse la Champions League 2009 alla guida del Barcellona.",
+    "source": "https://www.uefa.com/uefachampionsleague/news/0252-0e98c715bb79-dea77f56e2bd-1000/"
+  },
+  {
+    "id": "people-127",
+    "category": "Allenatori storici",
+    "kind": "Allenatori vincenti",
+    "difficulty": 2,
+    "question": "Chi allenava il Barcellona quando vinse la Champions League nel 2011?",
+    "options": [
+      "Pep Guardiola",
+      "Carlo Ancelotti",
+      "Zinédine Zidane"
+    ],
+    "answer": 0,
+    "explanation": "Pep Guardiola guidò il Barcellona alla Champions League nel 2011.",
+    "source": "https://www.uefa.com/uefachampionsleague/news/0252-0e98c715bb79-dea77f56e2bd-1000/"
+  },
+  {
+    "id": "people-128",
+    "category": "Allenatori storici",
+    "kind": "Club degli allenatori",
+    "difficulty": 2,
+    "question": "Con quale club Pep Guardiola vinse la Champions League nel 2011?",
+    "options": [
+      "Real Madrid",
+      "Inter",
+      "Barcellona"
+    ],
+    "answer": 2,
+    "explanation": "Pep Guardiola vinse la Champions League 2011 alla guida del Barcellona.",
+    "source": "https://www.uefa.com/uefachampionsleague/news/0252-0e98c715bb79-dea77f56e2bd-1000/"
+  },
+  {
+    "id": "people-129",
+    "category": "Allenatori storici",
+    "kind": "Allenatori vincenti",
+    "difficulty": 2,
+    "question": "Chi allenava il Manchester City quando vinse la Champions League nel 2023?",
+    "options": [
+      "Zinédine Zidane",
+      "Pep Guardiola",
+      "Carlo Ancelotti"
+    ],
+    "answer": 1,
+    "explanation": "Pep Guardiola guidò il Manchester City alla Champions League nel 2023.",
+    "source": "https://www.uefa.com/uefachampionsleague/news/0252-0e98c715bb79-dea77f56e2bd-1000/"
+  },
+  {
+    "id": "people-130",
+    "category": "Allenatori storici",
+    "kind": "Club degli allenatori",
+    "difficulty": 2,
+    "question": "Con quale club Pep Guardiola vinse la Champions League nel 2023?",
+    "options": [
+      "Paris Saint-Germain",
+      "Manchester City",
+      "Inter"
+    ],
+    "answer": 1,
+    "explanation": "Pep Guardiola vinse la Champions League 2023 alla guida del Manchester City.",
+    "source": "https://www.uefa.com/uefachampionsleague/news/0252-0e98c715bb79-dea77f56e2bd-1000/"
+  },
+  {
+    "id": "people-131",
+    "category": "Allenatori storici",
+    "kind": "Allenatori vincenti",
+    "difficulty": 2,
+    "question": "Chi allenava il Barcellona quando vinse la Champions League nel 2015?",
+    "options": [
+      "Luis Enrique",
+      "Roberto Di Matteo",
+      "Sir Alex Ferguson"
+    ],
+    "answer": 0,
+    "explanation": "Luis Enrique guidò il Barcellona alla Champions League nel 2015.",
+    "source": "https://www.uefa.com/uefachampionsleague/news/0252-0e98c715bb79-dea77f56e2bd-1000/"
+  },
+  {
+    "id": "people-132",
+    "category": "Allenatori storici",
+    "kind": "Club degli allenatori",
+    "difficulty": 2,
+    "question": "Con quale club Luis Enrique vinse la Champions League nel 2015?",
+    "options": [
+      "Paris Saint-Germain",
+      "Real Madrid",
+      "Barcellona"
+    ],
+    "answer": 2,
+    "explanation": "Luis Enrique vinse la Champions League 2015 alla guida del Barcellona.",
+    "source": "https://www.uefa.com/uefachampionsleague/news/0252-0e98c715bb79-dea77f56e2bd-1000/"
+  },
+  {
+    "id": "people-133",
+    "category": "Allenatori storici",
+    "kind": "Allenatori vincenti",
+    "difficulty": 2,
+    "question": "Chi allenava il Paris Saint-Germain quando vinse la Champions League nel 2025?",
+    "options": [
+      "Carlo Ancelotti",
+      "Luis Enrique",
+      "Roberto Di Matteo"
+    ],
+    "answer": 1,
+    "explanation": "Luis Enrique guidò il Paris Saint-Germain alla Champions League nel 2025.",
+    "source": "https://www.uefa.com/uefachampionsleague/news/0252-0e98c715bb79-dea77f56e2bd-1000/"
+  },
+  {
+    "id": "people-134",
+    "category": "Allenatori storici",
+    "kind": "Club degli allenatori",
+    "difficulty": 2,
+    "question": "Con quale club Luis Enrique vinse la Champions League nel 2025?",
+    "options": [
+      "Paris Saint-Germain",
+      "Real Madrid",
+      "Chelsea"
+    ],
+    "answer": 0,
+    "explanation": "Luis Enrique vinse la Champions League 2025 alla guida del Paris Saint-Germain.",
+    "source": "https://www.uefa.com/uefachampionsleague/news/0252-0e98c715bb79-dea77f56e2bd-1000/"
+  },
+  {
+    "id": "people-135",
+    "category": "Allenatori storici",
+    "kind": "Allenatori vincenti",
+    "difficulty": 2,
+    "question": "Chi allenava il Paris Saint-Germain quando vinse la Champions League nel 2026?",
+    "options": [
+      "Carlo Ancelotti",
+      "José Mourinho",
+      "Luis Enrique"
+    ],
+    "answer": 2,
+    "explanation": "Luis Enrique guidò il Paris Saint-Germain alla Champions League nel 2026.",
+    "source": "https://www.uefa.com/uefachampionsleague/news/0252-0e98c715bb79-dea77f56e2bd-1000/"
+  },
+  {
+    "id": "people-136",
+    "category": "Allenatori storici",
+    "kind": "Club degli allenatori",
+    "difficulty": 2,
+    "question": "Con quale club Luis Enrique vinse la Champions League nel 2026?",
+    "options": [
+      "Paris Saint-Germain",
+      "Real Madrid",
+      "Manchester City"
+    ],
+    "answer": 0,
+    "explanation": "Luis Enrique vinse la Champions League 2026 alla guida del Paris Saint-Germain.",
+    "source": "https://www.uefa.com/uefachampionsleague/news/0252-0e98c715bb79-dea77f56e2bd-1000/"
+  },
+  {
+    "id": "people-137",
+    "category": "Calciatori leggendari",
+    "kind": "Premi Mondiali",
+    "difficulty": 2,
+    "question": "Chi ha ricevuto il Pallone d’Oro FIFA come miglior giocatore del Mondiale 1978?",
+    "options": [
+      "Mario Kempes",
+      "Romário",
+      "Salvatore Schillaci"
+    ],
+    "answer": 0,
+    "explanation": "Mario Kempes vinse il premio FIFA Golden Ball del Mondiale 1978.",
+    "source": "https://www.fifa.com/it/tournaments/mens/worldcup/articles/golden-ball-vincitori-highlights"
+  },
+  {
+    "id": "people-138",
+    "category": "Calciatori leggendari",
+    "kind": "Premi Mondiali",
+    "difficulty": 2,
+    "question": "Chi ha ricevuto il Pallone d’Oro FIFA come miglior giocatore del Mondiale 1982?",
+    "options": [
+      "Romário",
+      "Ronaldo Nazário",
+      "Paolo Rossi"
+    ],
+    "answer": 2,
+    "explanation": "Paolo Rossi vinse il premio FIFA Golden Ball del Mondiale 1982.",
+    "source": "https://www.fifa.com/it/tournaments/mens/worldcup/articles/golden-ball-vincitori-highlights"
+  },
+  {
+    "id": "people-139",
+    "category": "Calciatori leggendari",
+    "kind": "Premi Mondiali",
+    "difficulty": 2,
+    "question": "Chi ha ricevuto il Pallone d’Oro FIFA come miglior giocatore del Mondiale 1986?",
+    "options": [
+      "Oliver Kahn",
+      "Romário",
+      "Diego Maradona"
+    ],
+    "answer": 2,
+    "explanation": "Diego Maradona vinse il premio FIFA Golden Ball del Mondiale 1986.",
+    "source": "https://www.fifa.com/it/tournaments/mens/worldcup/articles/golden-ball-vincitori-highlights"
+  },
+  {
+    "id": "people-140",
+    "category": "Calciatori leggendari",
+    "kind": "Premi Mondiali",
+    "difficulty": 2,
+    "question": "Chi ha ricevuto il Pallone d’Oro FIFA come miglior giocatore del Mondiale 1990?",
+    "options": [
+      "Romário",
+      "Salvatore Schillaci",
+      "Rodri"
+    ],
+    "answer": 1,
+    "explanation": "Salvatore Schillaci vinse il premio FIFA Golden Ball del Mondiale 1990.",
+    "source": "https://www.fifa.com/it/tournaments/mens/worldcup/articles/golden-ball-vincitori-highlights"
+  },
+  {
+    "id": "people-141",
+    "category": "Calciatori leggendari",
+    "kind": "Premi Mondiali",
+    "difficulty": 2,
+    "question": "Chi ha ricevuto il Pallone d’Oro FIFA come miglior giocatore del Mondiale 1994?",
+    "options": [
+      "Rodri",
+      "Mario Kempes",
+      "Romário"
+    ],
+    "answer": 2,
+    "explanation": "Romário vinse il premio FIFA Golden Ball del Mondiale 1994.",
+    "source": "https://www.fifa.com/it/tournaments/mens/worldcup/articles/golden-ball-vincitori-highlights"
+  },
+  {
+    "id": "people-142",
+    "category": "Calciatori leggendari",
+    "kind": "Premi Mondiali",
+    "difficulty": 2,
+    "question": "Chi ha ricevuto il Pallone d’Oro FIFA come miglior giocatore del Mondiale 1998?",
+    "options": [
+      "Ronaldo Nazário",
+      "Mario Kempes",
+      "Luka Modrić"
+    ],
+    "answer": 0,
+    "explanation": "Ronaldo Nazário vinse il premio FIFA Golden Ball del Mondiale 1998.",
+    "source": "https://www.fifa.com/it/tournaments/mens/worldcup/articles/golden-ball-vincitori-highlights"
+  },
+  {
+    "id": "people-143",
+    "category": "Calciatori leggendari",
+    "kind": "Premi Mondiali",
+    "difficulty": 2,
+    "question": "Chi ha ricevuto il Pallone d’Oro FIFA come miglior giocatore del Mondiale 2002?",
+    "options": [
+      "Ronaldo Nazário",
+      "Diego Maradona",
+      "Oliver Kahn"
+    ],
+    "answer": 2,
+    "explanation": "Oliver Kahn vinse il premio FIFA Golden Ball del Mondiale 2002.",
+    "source": "https://www.fifa.com/it/tournaments/mens/worldcup/articles/golden-ball-vincitori-highlights"
+  },
+  {
+    "id": "people-144",
+    "category": "Calciatori leggendari",
+    "kind": "Premi Mondiali",
+    "difficulty": 2,
+    "question": "Chi ha ricevuto il Pallone d’Oro FIFA come miglior giocatore del Mondiale 2006?",
+    "options": [
+      "Luka Modrić",
+      "Zinédine Zidane",
+      "Paolo Rossi"
+    ],
+    "answer": 1,
+    "explanation": "Zinédine Zidane vinse il premio FIFA Golden Ball del Mondiale 2006.",
+    "source": "https://www.fifa.com/it/tournaments/mens/worldcup/articles/golden-ball-vincitori-highlights"
+  },
+  {
+    "id": "people-145",
+    "category": "Calciatori leggendari",
+    "kind": "Premi Mondiali",
+    "difficulty": 2,
+    "question": "Chi ha ricevuto il Pallone d’Oro FIFA come miglior giocatore del Mondiale 2010?",
+    "options": [
+      "Diego Forlán",
+      "Lionel Messi",
+      "Mario Kempes"
+    ],
+    "answer": 0,
+    "explanation": "Diego Forlán vinse il premio FIFA Golden Ball del Mondiale 2010.",
+    "source": "https://www.fifa.com/it/tournaments/mens/worldcup/articles/golden-ball-vincitori-highlights"
+  },
+  {
+    "id": "people-146",
+    "category": "Calciatori leggendari",
+    "kind": "Premi Mondiali",
+    "difficulty": 2,
+    "question": "Chi ha ricevuto il Pallone d’Oro FIFA come miglior giocatore del Mondiale 2014?",
+    "options": [
+      "Lionel Messi",
+      "Ronaldo Nazário",
+      "Paolo Rossi"
+    ],
+    "answer": 0,
+    "explanation": "Lionel Messi vinse il premio FIFA Golden Ball del Mondiale 2014.",
+    "source": "https://www.fifa.com/it/tournaments/mens/worldcup/articles/golden-ball-vincitori-highlights"
+  },
+  {
+    "id": "people-147",
+    "category": "Calciatori leggendari",
+    "kind": "Premi Mondiali",
+    "difficulty": 2,
+    "question": "Chi ha ricevuto il Pallone d’Oro FIFA come miglior giocatore del Mondiale 2018?",
+    "options": [
+      "Luka Modrić",
+      "Mario Kempes",
+      "Diego Forlán"
+    ],
+    "answer": 0,
+    "explanation": "Luka Modrić vinse il premio FIFA Golden Ball del Mondiale 2018.",
+    "source": "https://www.fifa.com/it/tournaments/mens/worldcup/articles/golden-ball-vincitori-highlights"
+  },
+  {
+    "id": "people-148",
+    "category": "Calciatori leggendari",
+    "kind": "Premi Mondiali",
+    "difficulty": 2,
+    "question": "Chi ha ricevuto il Pallone d’Oro FIFA come miglior giocatore del Mondiale 2022?",
+    "options": [
+      "Lionel Messi",
+      "Salvatore Schillaci",
+      "Diego Forlán"
+    ],
+    "answer": 0,
+    "explanation": "Lionel Messi vinse il premio FIFA Golden Ball del Mondiale 2022.",
+    "source": "https://www.fifa.com/it/tournaments/mens/worldcup/articles/golden-ball-vincitori-highlights"
+  },
+  {
+    "id": "people-149",
+    "category": "Calciatori leggendari",
+    "kind": "Premi Mondiali",
+    "difficulty": 2,
+    "question": "Chi ha ricevuto il Pallone d’Oro FIFA come miglior giocatore del Mondiale 2026?",
+    "options": [
+      "Rodri",
+      "Diego Forlán",
+      "Romário"
+    ],
+    "answer": 0,
+    "explanation": "Rodri vinse il premio FIFA Golden Ball del Mondiale 2026.",
+    "source": "https://www.fifa.com/it/tournaments/mens/worldcup/articles/golden-ball-vincitori-highlights"
+  },
+  {
+    "id": "people-150",
+    "category": "Allenatori storici",
+    "kind": "Commissari tecnici EURO",
+    "difficulty": 2,
+    "question": "Quale allenatore ha vinto l’Europeo 1960 con la nazionale di Unione Sovietica?",
+    "options": [
+      "Berti Vogts",
+      "Michel Hidalgo",
+      "Gavriil Kachalin"
+    ],
+    "answer": 2,
+    "explanation": "Gavriil Kachalin guidò Unione Sovietica alla vittoria dell’Europeo 1960.",
+    "source": "https://www.uefa.com/uefaeuro/history/news/025f-0fd28e1a592d-c389509c8b2d-1000--euro-coaches-the-records/"
+  },
+  {
+    "id": "people-151",
+    "category": "Allenatori storici",
+    "kind": "Nazionali degli allenatori",
+    "difficulty": 2,
+    "question": "Quale nazionale guidava Gavriil Kachalin quando vinse l’Europeo 1960?",
+    "options": [
+      "Unione Sovietica",
+      "Danimarca",
+      "Germania"
+    ],
+    "answer": 0,
+    "explanation": "Gavriil Kachalin conquistò l’Europeo 1960 alla guida di Unione Sovietica.",
+    "source": "https://www.uefa.com/uefaeuro/history/news/025f-0fd28e1a592d-c389509c8b2d-1000--euro-coaches-the-records/"
+  },
+  {
+    "id": "people-152",
+    "category": "Allenatori storici",
+    "kind": "Commissari tecnici EURO",
+    "difficulty": 2,
+    "question": "Quale allenatore ha vinto l’Europeo 1964 con la nazionale di Spagna?",
+    "options": [
+      "Richard Møller Nielsen",
+      "José Villalonga",
+      "Helmut Schön"
+    ],
+    "answer": 1,
+    "explanation": "José Villalonga guidò Spagna alla vittoria dell’Europeo 1964.",
+    "source": "https://www.uefa.com/uefaeuro/history/news/025f-0fd28e1a592d-c389509c8b2d-1000--euro-coaches-the-records/"
+  },
+  {
+    "id": "people-153",
+    "category": "Allenatori storici",
+    "kind": "Nazionali degli allenatori",
+    "difficulty": 2,
+    "question": "Quale nazionale guidava José Villalonga quando vinse l’Europeo 1964?",
+    "options": [
+      "Cecoslovacchia",
+      "Spagna",
+      "Germania Ovest"
+    ],
+    "answer": 1,
+    "explanation": "José Villalonga conquistò l’Europeo 1964 alla guida di Spagna.",
+    "source": "https://www.uefa.com/uefaeuro/history/news/025f-0fd28e1a592d-c389509c8b2d-1000--euro-coaches-the-records/"
+  },
+  {
+    "id": "people-154",
+    "category": "Allenatori storici",
+    "kind": "Commissari tecnici EURO",
+    "difficulty": 2,
+    "question": "Quale allenatore ha vinto l’Europeo 1968 con la nazionale di Italia?",
+    "options": [
+      "Berti Vogts",
+      "Ferruccio Valcareggi",
+      "Rinus Michels"
+    ],
+    "answer": 1,
+    "explanation": "Ferruccio Valcareggi guidò Italia alla vittoria dell’Europeo 1968.",
+    "source": "https://www.uefa.com/uefaeuro/history/news/025f-0fd28e1a592d-c389509c8b2d-1000--euro-coaches-the-records/"
+  },
+  {
+    "id": "people-155",
+    "category": "Allenatori storici",
+    "kind": "Nazionali degli allenatori",
+    "difficulty": 2,
+    "question": "Quale nazionale guidava Ferruccio Valcareggi quando vinse l’Europeo 1968?",
+    "options": [
+      "Grecia",
+      "Unione Sovietica",
+      "Italia"
+    ],
+    "answer": 2,
+    "explanation": "Ferruccio Valcareggi conquistò l’Europeo 1968 alla guida di Italia.",
+    "source": "https://www.uefa.com/uefaeuro/history/news/025f-0fd28e1a592d-c389509c8b2d-1000--euro-coaches-the-records/"
+  },
+  {
+    "id": "people-156",
+    "category": "Allenatori storici",
+    "kind": "Commissari tecnici EURO",
+    "difficulty": 2,
+    "question": "Quale allenatore ha vinto l’Europeo 1972 con la nazionale di Germania Ovest?",
+    "options": [
+      "Luis de la Fuente",
+      "Helmut Schön",
+      "Berti Vogts"
+    ],
+    "answer": 1,
+    "explanation": "Helmut Schön guidò Germania Ovest alla vittoria dell’Europeo 1972.",
+    "source": "https://www.uefa.com/uefaeuro/history/news/025f-0fd28e1a592d-c389509c8b2d-1000--euro-coaches-the-records/"
+  },
+  {
+    "id": "people-157",
+    "category": "Allenatori storici",
+    "kind": "Nazionali degli allenatori",
+    "difficulty": 2,
+    "question": "Quale nazionale guidava Helmut Schön quando vinse l’Europeo 1972?",
+    "options": [
+      "Germania",
+      "Unione Sovietica",
+      "Germania Ovest"
+    ],
+    "answer": 2,
+    "explanation": "Helmut Schön conquistò l’Europeo 1972 alla guida di Germania Ovest.",
+    "source": "https://www.uefa.com/uefaeuro/history/news/025f-0fd28e1a592d-c389509c8b2d-1000--euro-coaches-the-records/"
+  },
+  {
+    "id": "people-158",
+    "category": "Allenatori storici",
+    "kind": "Commissari tecnici EURO",
+    "difficulty": 2,
+    "question": "Quale allenatore ha vinto l’Europeo 1976 con la nazionale di Cecoslovacchia?",
+    "options": [
+      "Václav Ježek",
+      "Rinus Michels",
+      "Luis Aragonés"
+    ],
+    "answer": 0,
+    "explanation": "Václav Ježek guidò Cecoslovacchia alla vittoria dell’Europeo 1976.",
+    "source": "https://www.uefa.com/uefaeuro/history/news/025f-0fd28e1a592d-c389509c8b2d-1000--euro-coaches-the-records/"
+  },
+  {
+    "id": "people-159",
+    "category": "Allenatori storici",
+    "kind": "Nazionali degli allenatori",
+    "difficulty": 2,
+    "question": "Quale nazionale guidava Václav Ježek quando vinse l’Europeo 1976?",
+    "options": [
+      "Unione Sovietica",
+      "Spagna",
+      "Cecoslovacchia"
+    ],
+    "answer": 2,
+    "explanation": "Václav Ježek conquistò l’Europeo 1976 alla guida di Cecoslovacchia.",
+    "source": "https://www.uefa.com/uefaeuro/history/news/025f-0fd28e1a592d-c389509c8b2d-1000--euro-coaches-the-records/"
+  },
+  {
+    "id": "people-160",
+    "category": "Allenatori storici",
+    "kind": "Commissari tecnici EURO",
+    "difficulty": 2,
+    "question": "Quale allenatore ha vinto l’Europeo 1980 con la nazionale di Germania Ovest?",
+    "options": [
+      "Luis Aragonés",
+      "Jupp Derwall",
+      "Rinus Michels"
+    ],
+    "answer": 1,
+    "explanation": "Jupp Derwall guidò Germania Ovest alla vittoria dell’Europeo 1980.",
+    "source": "https://www.uefa.com/uefaeuro/history/news/025f-0fd28e1a592d-c389509c8b2d-1000--euro-coaches-the-records/"
+  },
+  {
+    "id": "people-161",
+    "category": "Allenatori storici",
+    "kind": "Nazionali degli allenatori",
+    "difficulty": 2,
+    "question": "Quale nazionale guidava Jupp Derwall quando vinse l’Europeo 1980?",
+    "options": [
+      "Danimarca",
+      "Portogallo",
+      "Germania Ovest"
+    ],
+    "answer": 2,
+    "explanation": "Jupp Derwall conquistò l’Europeo 1980 alla guida di Germania Ovest.",
+    "source": "https://www.uefa.com/uefaeuro/history/news/025f-0fd28e1a592d-c389509c8b2d-1000--euro-coaches-the-records/"
+  },
+  {
+    "id": "people-162",
+    "category": "Allenatori storici",
+    "kind": "Commissari tecnici EURO",
+    "difficulty": 2,
+    "question": "Quale allenatore ha vinto l’Europeo 1984 con la nazionale di Francia?",
+    "options": [
+      "Berti Vogts",
+      "Michel Hidalgo",
+      "Richard Møller Nielsen"
+    ],
+    "answer": 1,
+    "explanation": "Michel Hidalgo guidò Francia alla vittoria dell’Europeo 1984.",
+    "source": "https://www.uefa.com/uefaeuro/history/news/025f-0fd28e1a592d-c389509c8b2d-1000--euro-coaches-the-records/"
+  },
+  {
+    "id": "people-163",
+    "category": "Allenatori storici",
+    "kind": "Nazionali degli allenatori",
+    "difficulty": 2,
+    "question": "Quale nazionale guidava Michel Hidalgo quando vinse l’Europeo 1984?",
+    "options": [
+      "Spagna",
+      "Italia",
+      "Francia"
+    ],
+    "answer": 2,
+    "explanation": "Michel Hidalgo conquistò l’Europeo 1984 alla guida di Francia.",
+    "source": "https://www.uefa.com/uefaeuro/history/news/025f-0fd28e1a592d-c389509c8b2d-1000--euro-coaches-the-records/"
+  },
+  {
+    "id": "people-164",
+    "category": "Allenatori storici",
+    "kind": "Commissari tecnici EURO",
+    "difficulty": 2,
+    "question": "Quale allenatore ha vinto l’Europeo 1988 con la nazionale di Paesi Bassi?",
+    "options": [
+      "Rinus Michels",
+      "Richard Møller Nielsen",
+      "Helmut Schön"
+    ],
+    "answer": 0,
+    "explanation": "Rinus Michels guidò Paesi Bassi alla vittoria dell’Europeo 1988.",
+    "source": "https://www.uefa.com/uefaeuro/history/news/025f-0fd28e1a592d-c389509c8b2d-1000--euro-coaches-the-records/"
+  },
+  {
+    "id": "people-165",
+    "category": "Allenatori storici",
+    "kind": "Nazionali degli allenatori",
+    "difficulty": 2,
+    "question": "Quale nazionale guidava Rinus Michels quando vinse l’Europeo 1988?",
+    "options": [
+      "Francia",
+      "Paesi Bassi",
+      "Italia"
+    ],
+    "answer": 1,
+    "explanation": "Rinus Michels conquistò l’Europeo 1988 alla guida di Paesi Bassi.",
+    "source": "https://www.uefa.com/uefaeuro/history/news/025f-0fd28e1a592d-c389509c8b2d-1000--euro-coaches-the-records/"
+  },
+  {
+    "id": "people-166",
+    "category": "Allenatori storici",
+    "kind": "Commissari tecnici EURO",
+    "difficulty": 2,
+    "question": "Quale allenatore ha vinto l’Europeo 1992 con la nazionale di Danimarca?",
+    "options": [
+      "Gavriil Kachalin",
+      "Richard Møller Nielsen",
+      "José Villalonga"
+    ],
+    "answer": 1,
+    "explanation": "Richard Møller Nielsen guidò Danimarca alla vittoria dell’Europeo 1992.",
+    "source": "https://www.uefa.com/uefaeuro/history/news/025f-0fd28e1a592d-c389509c8b2d-1000--euro-coaches-the-records/"
+  },
+  {
+    "id": "people-167",
+    "category": "Allenatori storici",
+    "kind": "Nazionali degli allenatori",
+    "difficulty": 2,
+    "question": "Quale nazionale guidava Richard Møller Nielsen quando vinse l’Europeo 1992?",
+    "options": [
+      "Paesi Bassi",
+      "Italia",
+      "Danimarca"
+    ],
+    "answer": 2,
+    "explanation": "Richard Møller Nielsen conquistò l’Europeo 1992 alla guida di Danimarca.",
+    "source": "https://www.uefa.com/uefaeuro/history/news/025f-0fd28e1a592d-c389509c8b2d-1000--euro-coaches-the-records/"
+  },
+  {
+    "id": "people-168",
+    "category": "Allenatori storici",
+    "kind": "Commissari tecnici EURO",
+    "difficulty": 2,
+    "question": "Quale allenatore ha vinto l’Europeo 1996 con la nazionale di Germania?",
+    "options": [
+      "Berti Vogts",
+      "Luis de la Fuente",
+      "Gavriil Kachalin"
+    ],
+    "answer": 0,
+    "explanation": "Berti Vogts guidò Germania alla vittoria dell’Europeo 1996.",
+    "source": "https://www.uefa.com/uefaeuro/history/news/025f-0fd28e1a592d-c389509c8b2d-1000--euro-coaches-the-records/"
+  },
+  {
+    "id": "people-169",
+    "category": "Allenatori storici",
+    "kind": "Nazionali degli allenatori",
+    "difficulty": 2,
+    "question": "Quale nazionale guidava Berti Vogts quando vinse l’Europeo 1996?",
+    "options": [
+      "Francia",
+      "Germania",
+      "Danimarca"
+    ],
+    "answer": 1,
+    "explanation": "Berti Vogts conquistò l’Europeo 1996 alla guida di Germania.",
+    "source": "https://www.uefa.com/uefaeuro/history/news/025f-0fd28e1a592d-c389509c8b2d-1000--euro-coaches-the-records/"
+  },
+  {
+    "id": "people-170",
+    "category": "Allenatori storici",
+    "kind": "Commissari tecnici EURO",
+    "difficulty": 2,
+    "question": "Quale allenatore ha vinto l’Europeo 2000 con la nazionale di Francia?",
+    "options": [
+      "Roger Lemerre",
+      "Fernando Santos",
+      "Gavriil Kachalin"
+    ],
+    "answer": 0,
+    "explanation": "Roger Lemerre guidò Francia alla vittoria dell’Europeo 2000.",
+    "source": "https://www.uefa.com/uefaeuro/history/news/025f-0fd28e1a592d-c389509c8b2d-1000--euro-coaches-the-records/"
+  },
+  {
+    "id": "people-171",
+    "category": "Allenatori storici",
+    "kind": "Nazionali degli allenatori",
+    "difficulty": 2,
+    "question": "Quale nazionale guidava Roger Lemerre quando vinse l’Europeo 2000?",
+    "options": [
+      "Cecoslovacchia",
+      "Paesi Bassi",
+      "Francia"
+    ],
+    "answer": 2,
+    "explanation": "Roger Lemerre conquistò l’Europeo 2000 alla guida di Francia.",
+    "source": "https://www.uefa.com/uefaeuro/history/news/025f-0fd28e1a592d-c389509c8b2d-1000--euro-coaches-the-records/"
+  },
+  {
+    "id": "people-172",
+    "category": "Allenatori storici",
+    "kind": "Commissari tecnici EURO",
+    "difficulty": 2,
+    "question": "Quale allenatore ha vinto l’Europeo 2004 con la nazionale di Grecia?",
+    "options": [
+      "Václav Ježek",
+      "Vicente del Bosque",
+      "Otto Rehhagel"
+    ],
+    "answer": 2,
+    "explanation": "Otto Rehhagel guidò Grecia alla vittoria dell’Europeo 2004.",
+    "source": "https://www.uefa.com/uefaeuro/history/news/025f-0fd28e1a592d-c389509c8b2d-1000--euro-coaches-the-records/"
+  },
+  {
+    "id": "people-173",
+    "category": "Allenatori storici",
+    "kind": "Nazionali degli allenatori",
+    "difficulty": 2,
+    "question": "Quale nazionale guidava Otto Rehhagel quando vinse l’Europeo 2004?",
+    "options": [
+      "Grecia",
+      "Germania",
+      "Danimarca"
+    ],
+    "answer": 0,
+    "explanation": "Otto Rehhagel conquistò l’Europeo 2004 alla guida di Grecia.",
+    "source": "https://www.uefa.com/uefaeuro/history/news/025f-0fd28e1a592d-c389509c8b2d-1000--euro-coaches-the-records/"
+  },
+  {
+    "id": "people-174",
+    "category": "Allenatori storici",
+    "kind": "Commissari tecnici EURO",
+    "difficulty": 2,
+    "question": "Quale allenatore ha vinto l’Europeo 2008 con la nazionale di Spagna?",
+    "options": [
+      "Luis Aragonés",
+      "Fernando Santos",
+      "Helmut Schön"
+    ],
+    "answer": 0,
+    "explanation": "Luis Aragonés guidò Spagna alla vittoria dell’Europeo 2008.",
+    "source": "https://www.uefa.com/uefaeuro/history/news/025f-0fd28e1a592d-c389509c8b2d-1000--euro-coaches-the-records/"
+  },
+  {
+    "id": "people-175",
+    "category": "Allenatori storici",
+    "kind": "Nazionali degli allenatori",
+    "difficulty": 2,
+    "question": "Quale nazionale guidava Luis Aragonés quando vinse l’Europeo 2008?",
+    "options": [
+      "Francia",
+      "Danimarca",
+      "Spagna"
+    ],
+    "answer": 2,
+    "explanation": "Luis Aragonés conquistò l’Europeo 2008 alla guida di Spagna.",
+    "source": "https://www.uefa.com/uefaeuro/history/news/025f-0fd28e1a592d-c389509c8b2d-1000--euro-coaches-the-records/"
+  },
+  {
+    "id": "people-176",
+    "category": "Allenatori storici",
+    "kind": "Commissari tecnici EURO",
+    "difficulty": 2,
+    "question": "Quale allenatore ha vinto l’Europeo 2012 con la nazionale di Spagna?",
+    "options": [
+      "Michel Hidalgo",
+      "Luis Aragonés",
+      "Vicente del Bosque"
+    ],
+    "answer": 2,
+    "explanation": "Vicente del Bosque guidò Spagna alla vittoria dell’Europeo 2012.",
+    "source": "https://www.uefa.com/uefaeuro/history/news/025f-0fd28e1a592d-c389509c8b2d-1000--euro-coaches-the-records/"
+  },
+  {
+    "id": "people-177",
+    "category": "Allenatori storici",
+    "kind": "Nazionali degli allenatori",
+    "difficulty": 2,
+    "question": "Quale nazionale guidava Vicente del Bosque quando vinse l’Europeo 2012?",
+    "options": [
+      "Francia",
+      "Unione Sovietica",
+      "Spagna"
+    ],
+    "answer": 2,
+    "explanation": "Vicente del Bosque conquistò l’Europeo 2012 alla guida di Spagna.",
+    "source": "https://www.uefa.com/uefaeuro/history/news/025f-0fd28e1a592d-c389509c8b2d-1000--euro-coaches-the-records/"
+  },
+  {
+    "id": "people-178",
+    "category": "Allenatori storici",
+    "kind": "Commissari tecnici EURO",
+    "difficulty": 2,
+    "question": "Quale allenatore ha vinto l’Europeo 2016 con la nazionale di Portogallo?",
+    "options": [
+      "Fernando Santos",
+      "Rinus Michels",
+      "Roger Lemerre"
+    ],
+    "answer": 0,
+    "explanation": "Fernando Santos guidò Portogallo alla vittoria dell’Europeo 2016.",
+    "source": "https://www.uefa.com/uefaeuro/history/news/025f-0fd28e1a592d-c389509c8b2d-1000--euro-coaches-the-records/"
+  },
+  {
+    "id": "people-179",
+    "category": "Allenatori storici",
+    "kind": "Nazionali degli allenatori",
+    "difficulty": 2,
+    "question": "Quale nazionale guidava Fernando Santos quando vinse l’Europeo 2016?",
+    "options": [
+      "Portogallo",
+      "Italia",
+      "Unione Sovietica"
+    ],
+    "answer": 0,
+    "explanation": "Fernando Santos conquistò l’Europeo 2016 alla guida di Portogallo.",
+    "source": "https://www.uefa.com/uefaeuro/history/news/025f-0fd28e1a592d-c389509c8b2d-1000--euro-coaches-the-records/"
+  },
+  {
+    "id": "people-180",
+    "category": "Allenatori storici",
+    "kind": "Commissari tecnici EURO",
+    "difficulty": 2,
+    "question": "Quale allenatore ha vinto l’Europeo 2020 con la nazionale di Italia?",
+    "options": [
+      "Roberto Mancini",
+      "Helmut Schön",
+      "Rinus Michels"
+    ],
+    "answer": 0,
+    "explanation": "Roberto Mancini guidò Italia alla vittoria dell’Europeo 2020.",
+    "source": "https://www.uefa.com/uefaeuro/history/news/025f-0fd28e1a592d-c389509c8b2d-1000--euro-coaches-the-records/"
+  },
+  {
+    "id": "people-181",
+    "category": "Allenatori storici",
+    "kind": "Nazionali degli allenatori",
+    "difficulty": 2,
+    "question": "Quale nazionale guidava Roberto Mancini quando vinse l’Europeo 2020?",
+    "options": [
+      "Italia",
+      "Spagna",
+      "Germania Ovest"
+    ],
+    "answer": 0,
+    "explanation": "Roberto Mancini conquistò l’Europeo 2020 alla guida di Italia.",
+    "source": "https://www.uefa.com/uefaeuro/history/news/025f-0fd28e1a592d-c389509c8b2d-1000--euro-coaches-the-records/"
+  },
+  {
+    "id": "people-182",
+    "category": "Allenatori storici",
+    "kind": "Commissari tecnici EURO",
+    "difficulty": 2,
+    "question": "Quale allenatore ha vinto l’Europeo 2024 con la nazionale di Spagna?",
+    "options": [
+      "Fernando Santos",
+      "Vicente del Bosque",
+      "Luis de la Fuente"
+    ],
+    "answer": 2,
+    "explanation": "Luis de la Fuente guidò Spagna alla vittoria dell’Europeo 2024.",
+    "source": "https://www.uefa.com/uefaeuro/history/news/025f-0fd28e1a592d-c389509c8b2d-1000--euro-coaches-the-records/"
+  },
+  {
+    "id": "people-183",
+    "category": "Allenatori storici",
+    "kind": "Nazionali degli allenatori",
+    "difficulty": 2,
+    "question": "Quale nazionale guidava Luis de la Fuente quando vinse l’Europeo 2024?",
+    "options": [
+      "Unione Sovietica",
+      "Paesi Bassi",
+      "Spagna"
+    ],
+    "answer": 2,
+    "explanation": "Luis de la Fuente conquistò l’Europeo 2024 alla guida di Spagna.",
+    "source": "https://www.uefa.com/uefaeuro/history/news/025f-0fd28e1a592d-c389509c8b2d-1000--euro-coaches-the-records/"
+  }
+]

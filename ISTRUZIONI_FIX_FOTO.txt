@@ -1,0 +1,13 @@
+FOOTBALL LEGENDS v2.1.1 — FOTO CATEGORIE
+
+PROBLEMA RISOLTO: il server non serviva i file /assets/categories/*.webp (errore 404).
+
+1. Apri GitHub Desktop; Fetch/Pull se necessario.
+2. Repository > Show in Explorer.
+3. Copia TUTTO il contenuto di questa cartella nel repository: index.html, server.js e cartella assets con tutte le immagini. Non cancellare questions-generated.json o people-generated.json.
+4. GitHub Desktop: Commit to main; Push origin.
+5. Attendi lo stato Live su Render; CTRL+SHIFT+R nel browser.
+6. Verifica immagine: https://football-legends-okp1.onrender.com/assets/categories/mondiali.webp
+7. Verifica versione: https://football-legends-okp1.onrender.com/api/version (2.1.1)
+
+NON SERVE RUN WORKFLOW.

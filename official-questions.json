@@ -1,0 +1,1141 @@
+[
+  {
+    "id": "official-1851322ab2b7cab8",
+    "category": "Champions League",
+    "kind": "Albi d’oro ufficiali",
+    "difficulty": 2,
+    "question": "Quale club vinse la Champions League nella stagione 1992/93?",
+    "options": [
+      "Marsiglia",
+      "Ajax",
+      "Liverpool"
+    ],
+    "answer": 0,
+    "explanation": "Marsiglia vinse l’edizione 1992/93. Fonte storica: archivio ufficiale UEFA.",
+    "source": "https://www.uefa.com/uefachampionsleague/history/",
+    "sourceName": "UEFA",
+    "verifiedEdition": "1992/93"
+  },
+  {
+    "id": "official-bc40ffd7de49a661",
+    "category": "Champions League",
+    "kind": "Albi d’oro ufficiali",
+    "difficulty": 2,
+    "question": "Quale club vinse la Champions League nella stagione 1993/94?",
+    "options": [
+      "Porto",
+      "Marsiglia",
+      "Milan"
+    ],
+    "answer": 2,
+    "explanation": "Milan vinse l’edizione 1993/94. Fonte storica: archivio ufficiale UEFA.",
+    "source": "https://www.uefa.com/uefachampionsleague/history/",
+    "sourceName": "UEFA",
+    "verifiedEdition": "1993/94"
+  },
+  {
+    "id": "official-b025d6037f0a3ae4",
+    "category": "Champions League",
+    "kind": "Albi d’oro ufficiali",
+    "difficulty": 2,
+    "question": "Quale club vinse la Champions League nella stagione 1994/95?",
+    "options": [
+      "Real Madrid",
+      "Ajax",
+      "Inter"
+    ],
+    "answer": 1,
+    "explanation": "Ajax vinse l’edizione 1994/95. Fonte storica: archivio ufficiale UEFA.",
+    "source": "https://www.uefa.com/uefachampionsleague/history/",
+    "sourceName": "UEFA",
+    "verifiedEdition": "1994/95"
+  },
+  {
+    "id": "official-20c34ade386d68e9",
+    "category": "Champions League",
+    "kind": "Albi d’oro ufficiali",
+    "difficulty": 2,
+    "question": "Quale club vinse la Champions League nella stagione 1995/96?",
+    "options": [
+      "Juventus",
+      "Ajax",
+      "Bayern Monaco"
+    ],
+    "answer": 0,
+    "explanation": "Juventus vinse l’edizione 1995/96. Fonte storica: archivio ufficiale UEFA.",
+    "source": "https://www.uefa.com/uefachampionsleague/history/",
+    "sourceName": "UEFA",
+    "verifiedEdition": "1995/96"
+  },
+  {
+    "id": "official-600dd997f2d13e32",
+    "category": "Champions League",
+    "kind": "Albi d’oro ufficiali",
+    "difficulty": 2,
+    "question": "Quale club vinse la Champions League nella stagione 1996/97?",
+    "options": [
+      "Borussia Dortmund",
+      "Ajax",
+      "Barcellona"
+    ],
+    "answer": 0,
+    "explanation": "Borussia Dortmund vinse l’edizione 1996/97. Fonte storica: archivio ufficiale UEFA.",
+    "source": "https://www.uefa.com/uefachampionsleague/history/",
+    "sourceName": "UEFA",
+    "verifiedEdition": "1996/97"
+  },
+  {
+    "id": "official-6f45f7111d0558ee",
+    "category": "Champions League",
+    "kind": "Albi d’oro ufficiali",
+    "difficulty": 2,
+    "question": "Quale club vinse la Champions League nella stagione 1997/98?",
+    "options": [
+      "Porto",
+      "Real Madrid",
+      "Ajax"
+    ],
+    "answer": 1,
+    "explanation": "Real Madrid vinse l’edizione 1997/98. Fonte storica: archivio ufficiale UEFA.",
+    "source": "https://www.uefa.com/uefachampionsleague/history/",
+    "sourceName": "UEFA",
+    "verifiedEdition": "1997/98"
+  },
+  {
+    "id": "official-e065a4b0a1b10770",
+    "category": "Champions League",
+    "kind": "Albi d’oro ufficiali",
+    "difficulty": 2,
+    "question": "Quale club vinse la Champions League nella stagione 1998/99?",
+    "options": [
+      "Juventus",
+      "Manchester United",
+      "Porto"
+    ],
+    "answer": 1,
+    "explanation": "Manchester United vinse l’edizione 1998/99. Fonte storica: archivio ufficiale UEFA.",
+    "source": "https://www.uefa.com/uefachampionsleague/history/",
+    "sourceName": "UEFA",
+    "verifiedEdition": "1998/99"
+  },
+  {
+    "id": "official-18b20d3f22920afc",
+    "category": "Champions League",
+    "kind": "Albi d’oro ufficiali",
+    "difficulty": 2,
+    "question": "Quale club vinse la Champions League nella stagione 1999/00?",
+    "options": [
+      "Marsiglia",
+      "Real Madrid",
+      "Ajax"
+    ],
+    "answer": 1,
+    "explanation": "Real Madrid vinse l’edizione 1999/00. Fonte storica: archivio ufficiale UEFA.",
+    "source": "https://www.uefa.com/uefachampionsleague/history/",
+    "sourceName": "UEFA",
+    "verifiedEdition": "1999/00"
+  },
+  {
+    "id": "official-c1a1399b2d43c72c",
+    "category": "Champions League",
+    "kind": "Albi d’oro ufficiali",
+    "difficulty": 2,
+    "question": "Quale club vinse la Champions League nella stagione 2000/01?",
+    "options": [
+      "Barcellona",
+      "Real Madrid",
+      "Bayern Monaco"
+    ],
+    "answer": 2,
+    "explanation": "Bayern Monaco vinse l’edizione 2000/01. Fonte storica: archivio ufficiale UEFA.",
+    "source": "https://www.uefa.com/uefachampionsleague/history/",
+    "sourceName": "UEFA",
+    "verifiedEdition": "2000/01"
+  },
+  {
+    "id": "official-e816ad13f2ca4224",
+    "category": "Champions League",
+    "kind": "Albi d’oro ufficiali",
+    "difficulty": 2,
+    "question": "Quale club vinse la Champions League nella stagione 2001/02?",
+    "options": [
+      "Juventus",
+      "Manchester United",
+      "Real Madrid"
+    ],
+    "answer": 2,
+    "explanation": "Real Madrid vinse l’edizione 2001/02. Fonte storica: archivio ufficiale UEFA.",
+    "source": "https://www.uefa.com/uefachampionsleague/history/",
+    "sourceName": "UEFA",
+    "verifiedEdition": "2001/02"
+  },
+  {
+    "id": "official-ac5b8429bc255d3b",
+    "category": "Champions League",
+    "kind": "Albi d’oro ufficiali",
+    "difficulty": 2,
+    "question": "Quale club vinse la Champions League nella stagione 2002/03?",
+    "options": [
+      "Chelsea",
+      "Borussia Dortmund",
+      "Milan"
+    ],
+    "answer": 2,
+    "explanation": "Milan vinse l’edizione 2002/03. Fonte storica: archivio ufficiale UEFA.",
+    "source": "https://www.uefa.com/uefachampionsleague/history/",
+    "sourceName": "UEFA",
+    "verifiedEdition": "2002/03"
+  },
+  {
+    "id": "official-e92e309649accb5a",
+    "category": "Champions League",
+    "kind": "Albi d’oro ufficiali",
+    "difficulty": 2,
+    "question": "Quale club vinse la Champions League nella stagione 2003/04?",
+    "options": [
+      "Porto",
+      "Real Madrid",
+      "Ajax"
+    ],
+    "answer": 0,
+    "explanation": "Porto vinse l’edizione 2003/04. Fonte storica: archivio ufficiale UEFA.",
+    "source": "https://www.uefa.com/uefachampionsleague/history/",
+    "sourceName": "UEFA",
+    "verifiedEdition": "2003/04"
+  },
+  {
+    "id": "official-7d764713ec650ce7",
+    "category": "Champions League",
+    "kind": "Albi d’oro ufficiali",
+    "difficulty": 2,
+    "question": "Quale club vinse la Champions League nella stagione 2004/05?",
+    "options": [
+      "Liverpool",
+      "Manchester United",
+      "Milan"
+    ],
+    "answer": 0,
+    "explanation": "Liverpool vinse l’edizione 2004/05. Fonte storica: archivio ufficiale UEFA.",
+    "source": "https://www.uefa.com/uefachampionsleague/history/",
+    "sourceName": "UEFA",
+    "verifiedEdition": "2004/05"
+  },
+  {
+    "id": "official-d4903b778562983e",
+    "category": "Champions League",
+    "kind": "Albi d’oro ufficiali",
+    "difficulty": 2,
+    "question": "Quale club vinse la Champions League nella stagione 2005/06?",
+    "options": [
+      "Chelsea",
+      "Bayern Monaco",
+      "Barcellona"
+    ],
+    "answer": 2,
+    "explanation": "Barcellona vinse l’edizione 2005/06. Fonte storica: archivio ufficiale UEFA.",
+    "source": "https://www.uefa.com/uefachampionsleague/history/",
+    "sourceName": "UEFA",
+    "verifiedEdition": "2005/06"
+  },
+  {
+    "id": "official-dc33063664a238c3",
+    "category": "Champions League",
+    "kind": "Albi d’oro ufficiali",
+    "difficulty": 2,
+    "question": "Quale club vinse la Champions League nella stagione 2006/07?",
+    "options": [
+      "Juventus",
+      "Milan",
+      "Liverpool"
+    ],
+    "answer": 1,
+    "explanation": "Milan vinse l’edizione 2006/07. Fonte storica: archivio ufficiale UEFA.",
+    "source": "https://www.uefa.com/uefachampionsleague/history/",
+    "sourceName": "UEFA",
+    "verifiedEdition": "2006/07"
+  },
+  {
+    "id": "official-a1b2c3949be76dba",
+    "category": "Champions League",
+    "kind": "Albi d’oro ufficiali",
+    "difficulty": 2,
+    "question": "Quale club vinse la Champions League nella stagione 2007/08?",
+    "options": [
+      "Juventus",
+      "Chelsea",
+      "Manchester United"
+    ],
+    "answer": 2,
+    "explanation": "Manchester United vinse l’edizione 2007/08. Fonte storica: archivio ufficiale UEFA.",
+    "source": "https://www.uefa.com/uefachampionsleague/history/",
+    "sourceName": "UEFA",
+    "verifiedEdition": "2007/08"
+  },
+  {
+    "id": "official-94ac3fe4b3223c10",
+    "category": "Champions League",
+    "kind": "Albi d’oro ufficiali",
+    "difficulty": 2,
+    "question": "Quale club vinse la Champions League nella stagione 2008/09?",
+    "options": [
+      "Barcellona",
+      "Inter",
+      "Chelsea"
+    ],
+    "answer": 0,
+    "explanation": "Barcellona vinse l’edizione 2008/09. Fonte storica: archivio ufficiale UEFA.",
+    "source": "https://www.uefa.com/uefachampionsleague/history/",
+    "sourceName": "UEFA",
+    "verifiedEdition": "2008/09"
+  },
+  {
+    "id": "official-760ea68378ab6032",
+    "category": "Champions League",
+    "kind": "Albi d’oro ufficiali",
+    "difficulty": 2,
+    "question": "Quale club vinse la Champions League nella stagione 2009/10?",
+    "options": [
+      "Juventus",
+      "Inter",
+      "Chelsea"
+    ],
+    "answer": 1,
+    "explanation": "Inter vinse l’edizione 2009/10. Fonte storica: archivio ufficiale UEFA.",
+    "source": "https://www.uefa.com/uefachampionsleague/history/",
+    "sourceName": "UEFA",
+    "verifiedEdition": "2009/10"
+  },
+  {
+    "id": "official-39c33d042003cf71",
+    "category": "Champions League",
+    "kind": "Albi d’oro ufficiali",
+    "difficulty": 2,
+    "question": "Quale club vinse la Champions League nella stagione 2010/11?",
+    "options": [
+      "Juventus",
+      "Barcellona",
+      "Manchester United"
+    ],
+    "answer": 1,
+    "explanation": "Barcellona vinse l’edizione 2010/11. Fonte storica: archivio ufficiale UEFA.",
+    "source": "https://www.uefa.com/uefachampionsleague/history/",
+    "sourceName": "UEFA",
+    "verifiedEdition": "2010/11"
+  },
+  {
+    "id": "official-9dfc4ac3ae2bab45",
+    "category": "Champions League",
+    "kind": "Albi d’oro ufficiali",
+    "difficulty": 2,
+    "question": "Quale club vinse la Champions League nella stagione 2011/12?",
+    "options": [
+      "Milan",
+      "Chelsea",
+      "Porto"
+    ],
+    "answer": 1,
+    "explanation": "Chelsea vinse l’edizione 2011/12. Fonte storica: archivio ufficiale UEFA.",
+    "source": "https://www.uefa.com/uefachampionsleague/history/",
+    "sourceName": "UEFA",
+    "verifiedEdition": "2011/12"
+  },
+  {
+    "id": "official-ab092d0a9b1afb27",
+    "category": "Champions League",
+    "kind": "Albi d’oro ufficiali",
+    "difficulty": 2,
+    "question": "Quale club vinse la Champions League nella stagione 2012/13?",
+    "options": [
+      "Chelsea",
+      "Bayern Monaco",
+      "Borussia Dortmund"
+    ],
+    "answer": 1,
+    "explanation": "Bayern Monaco vinse l’edizione 2012/13. Fonte storica: archivio ufficiale UEFA.",
+    "source": "https://www.uefa.com/uefachampionsleague/history/",
+    "sourceName": "UEFA",
+    "verifiedEdition": "2012/13"
+  },
+  {
+    "id": "official-3983b84eaa3f9608",
+    "category": "Champions League",
+    "kind": "Albi d’oro ufficiali",
+    "difficulty": 2,
+    "question": "Quale club vinse la Champions League nella stagione 2013/14?",
+    "options": [
+      "Real Madrid",
+      "Milan",
+      "Bayern Monaco"
+    ],
+    "answer": 0,
+    "explanation": "Real Madrid vinse l’edizione 2013/14. Fonte storica: archivio ufficiale UEFA.",
+    "source": "https://www.uefa.com/uefachampionsleague/history/",
+    "sourceName": "UEFA",
+    "verifiedEdition": "2013/14"
+  },
+  {
+    "id": "official-df65f2da054ad6d5",
+    "category": "Champions League",
+    "kind": "Albi d’oro ufficiali",
+    "difficulty": 2,
+    "question": "Quale club vinse la Champions League nella stagione 2014/15?",
+    "options": [
+      "Inter",
+      "Barcellona",
+      "Real Madrid"
+    ],
+    "answer": 1,
+    "explanation": "Barcellona vinse l’edizione 2014/15. Fonte storica: archivio ufficiale UEFA.",
+    "source": "https://www.uefa.com/uefachampionsleague/history/",
+    "sourceName": "UEFA",
+    "verifiedEdition": "2014/15"
+  },
+  {
+    "id": "official-9b634d914cbc7356",
+    "category": "Champions League",
+    "kind": "Albi d’oro ufficiali",
+    "difficulty": 2,
+    "question": "Quale club vinse la Champions League nella stagione 2015/16?",
+    "options": [
+      "Bayern Monaco",
+      "Real Madrid",
+      "Liverpool"
+    ],
+    "answer": 1,
+    "explanation": "Real Madrid vinse l’edizione 2015/16. Fonte storica: archivio ufficiale UEFA.",
+    "source": "https://www.uefa.com/uefachampionsleague/history/",
+    "sourceName": "UEFA",
+    "verifiedEdition": "2015/16"
+  },
+  {
+    "id": "official-bbbad298eaebcbe2",
+    "category": "Champions League",
+    "kind": "Albi d’oro ufficiali",
+    "difficulty": 2,
+    "question": "Quale club vinse la Champions League nella stagione 2016/17?",
+    "options": [
+      "Marsiglia",
+      "Real Madrid",
+      "Liverpool"
+    ],
+    "answer": 1,
+    "explanation": "Real Madrid vinse l’edizione 2016/17. Fonte storica: archivio ufficiale UEFA.",
+    "source": "https://www.uefa.com/uefachampionsleague/history/",
+    "sourceName": "UEFA",
+    "verifiedEdition": "2016/17"
+  },
+  {
+    "id": "official-5f2fe22a3732da63",
+    "category": "Champions League",
+    "kind": "Albi d’oro ufficiali",
+    "difficulty": 2,
+    "question": "Quale club vinse la Champions League nella stagione 2017/18?",
+    "options": [
+      "Borussia Dortmund",
+      "Real Madrid",
+      "Milan"
+    ],
+    "answer": 1,
+    "explanation": "Real Madrid vinse l’edizione 2017/18. Fonte storica: archivio ufficiale UEFA.",
+    "source": "https://www.uefa.com/uefachampionsleague/history/",
+    "sourceName": "UEFA",
+    "verifiedEdition": "2017/18"
+  },
+  {
+    "id": "official-7a5ae47c553870bb",
+    "category": "Champions League",
+    "kind": "Albi d’oro ufficiali",
+    "difficulty": 2,
+    "question": "Quale club vinse la Champions League nella stagione 2018/19?",
+    "options": [
+      "Liverpool",
+      "Milan",
+      "Chelsea"
+    ],
+    "answer": 0,
+    "explanation": "Liverpool vinse l’edizione 2018/19. Fonte storica: archivio ufficiale UEFA.",
+    "source": "https://www.uefa.com/uefachampionsleague/history/",
+    "sourceName": "UEFA",
+    "verifiedEdition": "2018/19"
+  },
+  {
+    "id": "official-72c1f2ced4ed8d10",
+    "category": "Champions League",
+    "kind": "Albi d’oro ufficiali",
+    "difficulty": 2,
+    "question": "Quale club vinse la Champions League nella stagione 2019/20?",
+    "options": [
+      "Bayern Monaco",
+      "Chelsea",
+      "Real Madrid"
+    ],
+    "answer": 0,
+    "explanation": "Bayern Monaco vinse l’edizione 2019/20. Fonte storica: archivio ufficiale UEFA.",
+    "source": "https://www.uefa.com/uefachampionsleague/history/",
+    "sourceName": "UEFA",
+    "verifiedEdition": "2019/20"
+  },
+  {
+    "id": "official-a2fdd2846773959e",
+    "category": "Europei",
+    "kind": "Albi d’oro ufficiali",
+    "difficulty": 2,
+    "question": "Quale nazionale vinse il Campionato Europeo del 1960?",
+    "options": [
+      "Francia",
+      "Cecoslovacchia",
+      "Unione Sovietica"
+    ],
+    "answer": 2,
+    "explanation": "Unione Sovietica vinse l’edizione 1960. Fonte storica: archivio ufficiale UEFA.",
+    "source": "https://www.uefa.com/uefaeuro/history/",
+    "sourceName": "UEFA",
+    "verifiedEdition": "1960"
+  },
+  {
+    "id": "official-33b2e02f6e6e673a",
+    "category": "Europei",
+    "kind": "Albi d’oro ufficiali",
+    "difficulty": 2,
+    "question": "Quale nazionale vinse il Campionato Europeo del 1964?",
+    "options": [
+      "Italia",
+      "Spagna",
+      "Francia"
+    ],
+    "answer": 1,
+    "explanation": "Spagna vinse l’edizione 1964. Fonte storica: archivio ufficiale UEFA.",
+    "source": "https://www.uefa.com/uefaeuro/history/",
+    "sourceName": "UEFA",
+    "verifiedEdition": "1964"
+  },
+  {
+    "id": "official-4e13954c48531f89",
+    "category": "Europei",
+    "kind": "Albi d’oro ufficiali",
+    "difficulty": 2,
+    "question": "Quale nazionale vinse il Campionato Europeo del 1968?",
+    "options": [
+      "Danimarca",
+      "Cecoslovacchia",
+      "Italia"
+    ],
+    "answer": 2,
+    "explanation": "Italia vinse l’edizione 1968. Fonte storica: archivio ufficiale UEFA.",
+    "source": "https://www.uefa.com/uefaeuro/history/",
+    "sourceName": "UEFA",
+    "verifiedEdition": "1968"
+  },
+  {
+    "id": "official-45cfa1094952b22b",
+    "category": "Europei",
+    "kind": "Albi d’oro ufficiali",
+    "difficulty": 2,
+    "question": "Quale nazionale vinse il Campionato Europeo del 1972?",
+    "options": [
+      "Danimarca",
+      "Italia",
+      "Germania Ovest"
+    ],
+    "answer": 2,
+    "explanation": "Germania Ovest vinse l’edizione 1972. Fonte storica: archivio ufficiale UEFA.",
+    "source": "https://www.uefa.com/uefaeuro/history/",
+    "sourceName": "UEFA",
+    "verifiedEdition": "1972"
+  },
+  {
+    "id": "official-d73f73f0711fa880",
+    "category": "Europei",
+    "kind": "Albi d’oro ufficiali",
+    "difficulty": 2,
+    "question": "Quale nazionale vinse il Campionato Europeo del 1976?",
+    "options": [
+      "Paesi Bassi",
+      "Cecoslovacchia",
+      "Germania"
+    ],
+    "answer": 1,
+    "explanation": "Cecoslovacchia vinse l’edizione 1976. Fonte storica: archivio ufficiale UEFA.",
+    "source": "https://www.uefa.com/uefaeuro/history/",
+    "sourceName": "UEFA",
+    "verifiedEdition": "1976"
+  },
+  {
+    "id": "official-85424831554d6f75",
+    "category": "Europei",
+    "kind": "Albi d’oro ufficiali",
+    "difficulty": 2,
+    "question": "Quale nazionale vinse il Campionato Europeo del 1980?",
+    "options": [
+      "Germania",
+      "Paesi Bassi",
+      "Germania Ovest"
+    ],
+    "answer": 2,
+    "explanation": "Germania Ovest vinse l’edizione 1980. Fonte storica: archivio ufficiale UEFA.",
+    "source": "https://www.uefa.com/uefaeuro/history/",
+    "sourceName": "UEFA",
+    "verifiedEdition": "1980"
+  },
+  {
+    "id": "official-cb144df20fc4c22b",
+    "category": "Europei",
+    "kind": "Albi d’oro ufficiali",
+    "difficulty": 2,
+    "question": "Quale nazionale vinse il Campionato Europeo del 1984?",
+    "options": [
+      "Germania",
+      "Francia",
+      "Cecoslovacchia"
+    ],
+    "answer": 1,
+    "explanation": "Francia vinse l’edizione 1984. Fonte storica: archivio ufficiale UEFA.",
+    "source": "https://www.uefa.com/uefaeuro/history/",
+    "sourceName": "UEFA",
+    "verifiedEdition": "1984"
+  },
+  {
+    "id": "official-19e14a00ee4b067a",
+    "category": "Europei",
+    "kind": "Albi d’oro ufficiali",
+    "difficulty": 2,
+    "question": "Quale nazionale vinse il Campionato Europeo del 1988?",
+    "options": [
+      "Danimarca",
+      "Francia",
+      "Paesi Bassi"
+    ],
+    "answer": 2,
+    "explanation": "Paesi Bassi vinse l’edizione 1988. Fonte storica: archivio ufficiale UEFA.",
+    "source": "https://www.uefa.com/uefaeuro/history/",
+    "sourceName": "UEFA",
+    "verifiedEdition": "1988"
+  },
+  {
+    "id": "official-08caf4fe1e5a5f43",
+    "category": "Europei",
+    "kind": "Albi d’oro ufficiali",
+    "difficulty": 2,
+    "question": "Quale nazionale vinse il Campionato Europeo del 1992?",
+    "options": [
+      "Paesi Bassi",
+      "Danimarca",
+      "Spagna"
+    ],
+    "answer": 1,
+    "explanation": "Danimarca vinse l’edizione 1992. Fonte storica: archivio ufficiale UEFA.",
+    "source": "https://www.uefa.com/uefaeuro/history/",
+    "sourceName": "UEFA",
+    "verifiedEdition": "1992"
+  },
+  {
+    "id": "official-356a518041c11f49",
+    "category": "Europei",
+    "kind": "Albi d’oro ufficiali",
+    "difficulty": 2,
+    "question": "Quale nazionale vinse il Campionato Europeo del 1996?",
+    "options": [
+      "Danimarca",
+      "Germania",
+      "Unione Sovietica"
+    ],
+    "answer": 1,
+    "explanation": "Germania vinse l’edizione 1996. Fonte storica: archivio ufficiale UEFA.",
+    "source": "https://www.uefa.com/uefaeuro/history/",
+    "sourceName": "UEFA",
+    "verifiedEdition": "1996"
+  },
+  {
+    "id": "official-c33c5b2ee1c8a5f5",
+    "category": "Europei",
+    "kind": "Albi d’oro ufficiali",
+    "difficulty": 2,
+    "question": "Quale nazionale vinse il Campionato Europeo del 2000?",
+    "options": [
+      "Francia",
+      "Cecoslovacchia",
+      "Spagna"
+    ],
+    "answer": 0,
+    "explanation": "Francia vinse l’edizione 2000. Fonte storica: archivio ufficiale UEFA.",
+    "source": "https://www.uefa.com/uefaeuro/history/",
+    "sourceName": "UEFA",
+    "verifiedEdition": "2000"
+  },
+  {
+    "id": "official-67904083d0acc79e",
+    "category": "Europei",
+    "kind": "Albi d’oro ufficiali",
+    "difficulty": 2,
+    "question": "Quale nazionale vinse il Campionato Europeo del 2004?",
+    "options": [
+      "Cecoslovacchia",
+      "Grecia",
+      "Spagna"
+    ],
+    "answer": 1,
+    "explanation": "Grecia vinse l’edizione 2004. Fonte storica: archivio ufficiale UEFA.",
+    "source": "https://www.uefa.com/uefaeuro/history/",
+    "sourceName": "UEFA",
+    "verifiedEdition": "2004"
+  },
+  {
+    "id": "official-6c0fc4efbb9d01f4",
+    "category": "Europei",
+    "kind": "Albi d’oro ufficiali",
+    "difficulty": 2,
+    "question": "Quale nazionale vinse il Campionato Europeo del 2008?",
+    "options": [
+      "Germania Ovest",
+      "Portogallo",
+      "Spagna"
+    ],
+    "answer": 2,
+    "explanation": "Spagna vinse l’edizione 2008. Fonte storica: archivio ufficiale UEFA.",
+    "source": "https://www.uefa.com/uefaeuro/history/",
+    "sourceName": "UEFA",
+    "verifiedEdition": "2008"
+  },
+  {
+    "id": "official-0aa14fc622d38682",
+    "category": "Europei",
+    "kind": "Albi d’oro ufficiali",
+    "difficulty": 2,
+    "question": "Quale nazionale vinse il Campionato Europeo del 2012?",
+    "options": [
+      "Cecoslovacchia",
+      "Paesi Bassi",
+      "Spagna"
+    ],
+    "answer": 2,
+    "explanation": "Spagna vinse l’edizione 2012. Fonte storica: archivio ufficiale UEFA.",
+    "source": "https://www.uefa.com/uefaeuro/history/",
+    "sourceName": "UEFA",
+    "verifiedEdition": "2012"
+  },
+  {
+    "id": "official-44014c59fe3fad9a",
+    "category": "Europei",
+    "kind": "Albi d’oro ufficiali",
+    "difficulty": 2,
+    "question": "Quale nazionale vinse il Campionato Europeo del 2016?",
+    "options": [
+      "Danimarca",
+      "Italia",
+      "Portogallo"
+    ],
+    "answer": 2,
+    "explanation": "Portogallo vinse l’edizione 2016. Fonte storica: archivio ufficiale UEFA.",
+    "source": "https://www.uefa.com/uefaeuro/history/",
+    "sourceName": "UEFA",
+    "verifiedEdition": "2016"
+  },
+  {
+    "id": "official-43082b3f155931c8",
+    "category": "Europei",
+    "kind": "Albi d’oro ufficiali",
+    "difficulty": 2,
+    "question": "Quale nazionale vinse il Campionato Europeo del 2020?",
+    "options": [
+      "Spagna",
+      "Italia",
+      "Portogallo"
+    ],
+    "answer": 1,
+    "explanation": "Italia vinse l’edizione 2020. Fonte storica: archivio ufficiale UEFA.",
+    "source": "https://www.uefa.com/uefaeuro/history/",
+    "sourceName": "UEFA",
+    "verifiedEdition": "2020"
+  },
+  {
+    "id": "official-6dafb5898796aec8",
+    "category": "Europei",
+    "kind": "Albi d’oro ufficiali",
+    "difficulty": 2,
+    "question": "Quale nazionale vinse il Campionato Europeo del 2024?",
+    "options": [
+      "Spagna",
+      "Paesi Bassi",
+      "Cecoslovacchia"
+    ],
+    "answer": 0,
+    "explanation": "Spagna vinse l’edizione 2024. Fonte storica: archivio ufficiale UEFA.",
+    "source": "https://www.uefa.com/uefaeuro/history/",
+    "sourceName": "UEFA",
+    "verifiedEdition": "2024"
+  },
+  {
+    "id": "official-1ae4ee2eb4cab2ba",
+    "category": "Mondiali",
+    "kind": "Albi d’oro ufficiali",
+    "difficulty": 2,
+    "question": "Quale nazionale vinse il Mondiale maschile del 1930?",
+    "options": [
+      "Uruguay",
+      "Italia",
+      "Spagna"
+    ],
+    "answer": 0,
+    "explanation": "Uruguay vinse l’edizione 1930. Fonte storica: archivio ufficiale FIFA.",
+    "source": "https://www.archives.fifa.com/fifa_world_cup",
+    "sourceName": "FIFA",
+    "verifiedEdition": "1930"
+  },
+  {
+    "id": "official-763b38c817816b8c",
+    "category": "Mondiali",
+    "kind": "Albi d’oro ufficiali",
+    "difficulty": 2,
+    "question": "Quale nazionale vinse il Mondiale maschile del 1934?",
+    "options": [
+      "Italia",
+      "Argentina",
+      "Uruguay"
+    ],
+    "answer": 0,
+    "explanation": "Italia vinse l’edizione 1934. Fonte storica: archivio ufficiale FIFA.",
+    "source": "https://www.archives.fifa.com/fifa_world_cup",
+    "sourceName": "FIFA",
+    "verifiedEdition": "1934"
+  },
+  {
+    "id": "official-0c76e38abb9a9d6f",
+    "category": "Mondiali",
+    "kind": "Albi d’oro ufficiali",
+    "difficulty": 2,
+    "question": "Quale nazionale vinse il Mondiale maschile del 1938?",
+    "options": [
+      "Italia",
+      "Inghilterra",
+      "Brasile"
+    ],
+    "answer": 0,
+    "explanation": "Italia vinse l’edizione 1938. Fonte storica: archivio ufficiale FIFA.",
+    "source": "https://www.archives.fifa.com/fifa_world_cup",
+    "sourceName": "FIFA",
+    "verifiedEdition": "1938"
+  },
+  {
+    "id": "official-b1598235cf5cb9b1",
+    "category": "Mondiali",
+    "kind": "Albi d’oro ufficiali",
+    "difficulty": 2,
+    "question": "Quale nazionale vinse il Mondiale maschile del 1950?",
+    "options": [
+      "Spagna",
+      "Germania Ovest",
+      "Uruguay"
+    ],
+    "answer": 2,
+    "explanation": "Uruguay vinse l’edizione 1950. Fonte storica: archivio ufficiale FIFA.",
+    "source": "https://www.archives.fifa.com/fifa_world_cup",
+    "sourceName": "FIFA",
+    "verifiedEdition": "1950"
+  },
+  {
+    "id": "official-d92d89165f44ddb0",
+    "category": "Mondiali",
+    "kind": "Albi d’oro ufficiali",
+    "difficulty": 2,
+    "question": "Quale nazionale vinse il Mondiale maschile del 1954?",
+    "options": [
+      "Germania Ovest",
+      "Germania",
+      "Argentina"
+    ],
+    "answer": 0,
+    "explanation": "Germania Ovest vinse l’edizione 1954. Fonte storica: archivio ufficiale FIFA.",
+    "source": "https://www.archives.fifa.com/fifa_world_cup",
+    "sourceName": "FIFA",
+    "verifiedEdition": "1954"
+  },
+  {
+    "id": "official-1bdb787a36910ae7",
+    "category": "Mondiali",
+    "kind": "Albi d’oro ufficiali",
+    "difficulty": 2,
+    "question": "Quale nazionale vinse il Mondiale maschile del 1958?",
+    "options": [
+      "Francia",
+      "Brasile",
+      "Germania Ovest"
+    ],
+    "answer": 1,
+    "explanation": "Brasile vinse l’edizione 1958. Fonte storica: archivio ufficiale FIFA.",
+    "source": "https://www.archives.fifa.com/fifa_world_cup",
+    "sourceName": "FIFA",
+    "verifiedEdition": "1958"
+  },
+  {
+    "id": "official-b6cc09afa86ec918",
+    "category": "Mondiali",
+    "kind": "Albi d’oro ufficiali",
+    "difficulty": 2,
+    "question": "Quale nazionale vinse il Mondiale maschile del 1962?",
+    "options": [
+      "Spagna",
+      "Uruguay",
+      "Brasile"
+    ],
+    "answer": 2,
+    "explanation": "Brasile vinse l’edizione 1962. Fonte storica: archivio ufficiale FIFA.",
+    "source": "https://www.archives.fifa.com/fifa_world_cup",
+    "sourceName": "FIFA",
+    "verifiedEdition": "1962"
+  },
+  {
+    "id": "official-3e90c517465b2545",
+    "category": "Mondiali",
+    "kind": "Albi d’oro ufficiali",
+    "difficulty": 2,
+    "question": "Quale nazionale vinse il Mondiale maschile del 1966?",
+    "options": [
+      "Argentina",
+      "Germania",
+      "Inghilterra"
+    ],
+    "answer": 2,
+    "explanation": "Inghilterra vinse l’edizione 1966. Fonte storica: archivio ufficiale FIFA.",
+    "source": "https://www.archives.fifa.com/fifa_world_cup",
+    "sourceName": "FIFA",
+    "verifiedEdition": "1966"
+  },
+  {
+    "id": "official-4de5673587e2c313",
+    "category": "Mondiali",
+    "kind": "Albi d’oro ufficiali",
+    "difficulty": 2,
+    "question": "Quale nazionale vinse il Mondiale maschile del 1970?",
+    "options": [
+      "Argentina",
+      "Brasile",
+      "Uruguay"
+    ],
+    "answer": 1,
+    "explanation": "Brasile vinse l’edizione 1970. Fonte storica: archivio ufficiale FIFA.",
+    "source": "https://www.archives.fifa.com/fifa_world_cup",
+    "sourceName": "FIFA",
+    "verifiedEdition": "1970"
+  },
+  {
+    "id": "official-6c8ada984692cf16",
+    "category": "Mondiali",
+    "kind": "Albi d’oro ufficiali",
+    "difficulty": 2,
+    "question": "Quale nazionale vinse il Mondiale maschile del 1974?",
+    "options": [
+      "Uruguay",
+      "Spagna",
+      "Germania Ovest"
+    ],
+    "answer": 2,
+    "explanation": "Germania Ovest vinse l’edizione 1974. Fonte storica: archivio ufficiale FIFA.",
+    "source": "https://www.archives.fifa.com/fifa_world_cup",
+    "sourceName": "FIFA",
+    "verifiedEdition": "1974"
+  },
+  {
+    "id": "official-a1b300d68997e89e",
+    "category": "Mondiali",
+    "kind": "Albi d’oro ufficiali",
+    "difficulty": 2,
+    "question": "Quale nazionale vinse il Mondiale maschile del 1978?",
+    "options": [
+      "Argentina",
+      "Germania",
+      "Italia"
+    ],
+    "answer": 0,
+    "explanation": "Argentina vinse l’edizione 1978. Fonte storica: archivio ufficiale FIFA.",
+    "source": "https://www.archives.fifa.com/fifa_world_cup",
+    "sourceName": "FIFA",
+    "verifiedEdition": "1978"
+  },
+  {
+    "id": "official-5b3b395205867166",
+    "category": "Mondiali",
+    "kind": "Albi d’oro ufficiali",
+    "difficulty": 2,
+    "question": "Quale nazionale vinse il Mondiale maschile del 1982?",
+    "options": [
+      "Germania Ovest",
+      "Spagna",
+      "Italia"
+    ],
+    "answer": 2,
+    "explanation": "Italia vinse l’edizione 1982. Fonte storica: archivio ufficiale FIFA.",
+    "source": "https://www.archives.fifa.com/fifa_world_cup",
+    "sourceName": "FIFA",
+    "verifiedEdition": "1982"
+  },
+  {
+    "id": "official-6de66c58416a5a21",
+    "category": "Mondiali",
+    "kind": "Albi d’oro ufficiali",
+    "difficulty": 2,
+    "question": "Quale nazionale vinse il Mondiale maschile del 1986?",
+    "options": [
+      "Argentina",
+      "Germania",
+      "Spagna"
+    ],
+    "answer": 0,
+    "explanation": "Argentina vinse l’edizione 1986. Fonte storica: archivio ufficiale FIFA.",
+    "source": "https://www.archives.fifa.com/fifa_world_cup",
+    "sourceName": "FIFA",
+    "verifiedEdition": "1986"
+  },
+  {
+    "id": "official-933b1026d427e1ae",
+    "category": "Mondiali",
+    "kind": "Albi d’oro ufficiali",
+    "difficulty": 2,
+    "question": "Quale nazionale vinse il Mondiale maschile del 1990?",
+    "options": [
+      "Germania Ovest",
+      "Argentina",
+      "Spagna"
+    ],
+    "answer": 0,
+    "explanation": "Germania Ovest vinse l’edizione 1990. Fonte storica: archivio ufficiale FIFA.",
+    "source": "https://www.archives.fifa.com/fifa_world_cup",
+    "sourceName": "FIFA",
+    "verifiedEdition": "1990"
+  },
+  {
+    "id": "official-6e464ddee86fc23d",
+    "category": "Mondiali",
+    "kind": "Albi d’oro ufficiali",
+    "difficulty": 2,
+    "question": "Quale nazionale vinse il Mondiale maschile del 1994?",
+    "options": [
+      "Germania Ovest",
+      "Argentina",
+      "Brasile"
+    ],
+    "answer": 2,
+    "explanation": "Brasile vinse l’edizione 1994. Fonte storica: archivio ufficiale FIFA.",
+    "source": "https://www.archives.fifa.com/fifa_world_cup",
+    "sourceName": "FIFA",
+    "verifiedEdition": "1994"
+  },
+  {
+    "id": "official-bceb8f5a2593f41f",
+    "category": "Mondiali",
+    "kind": "Albi d’oro ufficiali",
+    "difficulty": 2,
+    "question": "Quale nazionale vinse il Mondiale maschile del 1998?",
+    "options": [
+      "Brasile",
+      "Francia",
+      "Inghilterra"
+    ],
+    "answer": 1,
+    "explanation": "Francia vinse l’edizione 1998. Fonte storica: archivio ufficiale FIFA.",
+    "source": "https://www.archives.fifa.com/fifa_world_cup",
+    "sourceName": "FIFA",
+    "verifiedEdition": "1998"
+  },
+  {
+    "id": "official-a04b898e9fd71f75",
+    "category": "Mondiali",
+    "kind": "Albi d’oro ufficiali",
+    "difficulty": 2,
+    "question": "Quale nazionale vinse il Mondiale maschile del 2002?",
+    "options": [
+      "Brasile",
+      "Spagna",
+      "Germania"
+    ],
+    "answer": 0,
+    "explanation": "Brasile vinse l’edizione 2002. Fonte storica: archivio ufficiale FIFA.",
+    "source": "https://www.archives.fifa.com/fifa_world_cup",
+    "sourceName": "FIFA",
+    "verifiedEdition": "2002"
+  },
+  {
+    "id": "official-8b13c94da2e30092",
+    "category": "Mondiali",
+    "kind": "Albi d’oro ufficiali",
+    "difficulty": 2,
+    "question": "Quale nazionale vinse il Mondiale maschile del 2006?",
+    "options": [
+      "Spagna",
+      "Argentina",
+      "Italia"
+    ],
+    "answer": 2,
+    "explanation": "Italia vinse l’edizione 2006. Fonte storica: archivio ufficiale FIFA.",
+    "source": "https://www.archives.fifa.com/fifa_world_cup",
+    "sourceName": "FIFA",
+    "verifiedEdition": "2006"
+  },
+  {
+    "id": "official-3ac7df7ba0189311",
+    "category": "Mondiali",
+    "kind": "Albi d’oro ufficiali",
+    "difficulty": 2,
+    "question": "Quale nazionale vinse il Mondiale maschile del 2010?",
+    "options": [
+      "Spagna",
+      "Uruguay",
+      "Brasile"
+    ],
+    "answer": 0,
+    "explanation": "Spagna vinse l’edizione 2010. Fonte storica: archivio ufficiale FIFA.",
+    "source": "https://www.archives.fifa.com/fifa_world_cup",
+    "sourceName": "FIFA",
+    "verifiedEdition": "2010"
+  },
+  {
+    "id": "official-77c7431d0e0ef064",
+    "category": "Mondiali",
+    "kind": "Albi d’oro ufficiali",
+    "difficulty": 2,
+    "question": "Quale nazionale vinse il Mondiale maschile del 2014?",
+    "options": [
+      "Germania",
+      "Italia",
+      "Francia"
+    ],
+    "answer": 0,
+    "explanation": "Germania vinse l’edizione 2014. Fonte storica: archivio ufficiale FIFA.",
+    "source": "https://www.archives.fifa.com/fifa_world_cup",
+    "sourceName": "FIFA",
+    "verifiedEdition": "2014"
+  },
+  {
+    "id": "official-023c8412070340e8",
+    "category": "Mondiali",
+    "kind": "Albi d’oro ufficiali",
+    "difficulty": 2,
+    "question": "Quale nazionale vinse il Mondiale maschile del 2018?",
+    "options": [
+      "Francia",
+      "Spagna",
+      "Italia"
+    ],
+    "answer": 0,
+    "explanation": "Francia vinse l’edizione 2018. Fonte storica: archivio ufficiale FIFA.",
+    "source": "https://www.archives.fifa.com/fifa_world_cup",
+    "sourceName": "FIFA",
+    "verifiedEdition": "2018"
+  },
+  {
+    "id": "official-5677e42d9c56406a",
+    "category": "Mondiali",
+    "kind": "Albi d’oro ufficiali",
+    "difficulty": 2,
+    "question": "Quale nazionale vinse il Mondiale maschile del 2022?",
+    "options": [
+      "Germania",
+      "Uruguay",
+      "Argentina"
+    ],
+    "answer": 2,
+    "explanation": "Argentina vinse l’edizione 2022. Fonte storica: archivio ufficiale FIFA.",
+    "source": "https://www.archives.fifa.com/fifa_world_cup",
+    "sourceName": "FIFA",
+    "verifiedEdition": "2022"
+  }
+]

@@ -1,0 +1,130 @@
+{
+  "groups": [
+    {
+      "id": "leagues",
+      "title": "Grandi campionati europei",
+      "image": "seriea",
+      "sources": [
+        "Serie A",
+        "Premier League",
+        "La Liga",
+        "Bundesliga",
+        "Ligue 1",
+        "Primeira Liga portoghese",
+        "Campionato svizzero",
+        "Challenge League svizzera",
+        "Süper Lig turca",
+        "Championship inglese",
+        "Segunda División",
+        "Almanacco campionati",
+        "Albi d’oro dei campionati"
+      ]
+    },
+    {
+      "id": "cups",
+      "title": "Champions e coppe europee",
+      "image": "champions",
+      "sources": [
+        "Champions",
+        "Champions League",
+        "Coppe europee",
+        "Europa",
+        "Grandi finali",
+        "Coppa Svizzera"
+      ]
+    },
+    {
+      "id": "world",
+      "title": "Mondiali di calcio",
+      "image": "mondiali",
+      "sources": [
+        "Mondiali",
+        "Mondiali storici",
+        "Marcatori dei Mondiali"
+      ]
+    },
+    {
+      "id": "national",
+      "title": "Europei e nazionali",
+      "image": "europei",
+      "sources": [
+        "Europei",
+        "Campioni d’Europa",
+        "Nazionali",
+        "Nazionale italiana"
+      ]
+    },
+    {
+      "id": "players",
+      "title": "Calciatori e carriere",
+      "image": "calciatori",
+      "sources": [
+        "Calciatori nel mondo"
+      ]
+    },
+    {
+      "id": "legends",
+      "title": "Leggende del calcio",
+      "image": "calciatori_leggendari",
+      "sources": [
+        "Leggende",
+        "Calciatori leggendari",
+        "Leggende del calcio"
+      ]
+    },
+    {
+      "id": "coaches",
+      "title": "Allenatori e grandi squadre",
+      "image": "allenatori_tecnici",
+      "sources": [
+        "Allenatori e tecnici",
+        "Allenatori storici",
+        "Grandi club"
+      ]
+    },
+    {
+      "id": "awards",
+      "title": "Pallone d'Oro e record",
+      "image": "pallone",
+      "sources": [
+        "Pallone d’Oro",
+        "Pallone d'Oro",
+        "Record storici"
+      ]
+    },
+    {
+      "id": "stadiums",
+      "title": "Stadi, derby e rivalità",
+      "image": "stadi",
+      "sources": [
+        "Stadi famosi",
+        "Stadi leggendari",
+        "Stadi",
+        "Derby e rivalità"
+      ]
+    },
+    {
+      "id": "trivia",
+      "title": "Storia e curiosità",
+      "image": "curiosita",
+      "sources": [
+        "Curiosità"
+      ]
+    }
+  ],
+  "leagues": [
+    "Serie A",
+    "Premier League",
+    "La Liga",
+    "Bundesliga",
+    "Ligue 1",
+    "Primeira Liga portoghese",
+    "Campionato svizzero",
+    "Challenge League svizzera",
+    "Süper Lig turca",
+    "Championship inglese",
+    "Segunda División"
+  ],
+  "all": "Tutte",
+  "prefix": "v3:"
+}

@@ -1,0 +1,5602 @@
+[
+  {
+    "id": "deep-ade9bc2c9a42617743",
+    "category": "Mondiali",
+    "kind": "Allenatori campioni",
+    "difficulty": 2,
+    "question": "Chi allenava la nazionale campione del mondo nel 1930?",
+    "options": [
+      "Mário Zagallo",
+      "Alberto Suppici",
+      "Vicente Feola"
+    ],
+    "answer": 1,
+    "explanation": "Nel 1930 Uruguay vinse il Mondiale con Alberto Suppici in panchina.",
+    "source": "https://www.fifa.com/tournaments/mens/worldcup",
+    "sourceName": "Archivio storico verificabile"
+  },
+  {
+    "id": "deep-25773aaa82d3ae688b",
+    "category": "Mondiali",
+    "kind": "Finali storiche",
+    "difficulty": 2,
+    "question": "Quale nazionale conquistò il Mondiale del 1930 superando Argentina nella fase decisiva?",
+    "options": [
+      "Uruguay",
+      "Spagna",
+      "Brasile"
+    ],
+    "answer": 0,
+    "explanation": "Uruguay vinse il Mondiale 1930; il secondo posto fu di Argentina.",
+    "source": "https://www.fifa.com/tournaments/mens/worldcup",
+    "sourceName": "Archivio storico verificabile"
+  },
+  {
+    "id": "deep-735203494002f8d758",
+    "category": "Mondiali",
+    "kind": "Grandi marcatori",
+    "difficulty": 2,
+    "question": "Chi fu il capocannoniere del Mondiale 1930?",
+    "options": [
+      "Guillermo Stábile",
+      "James Rodríguez",
+      "Grzegorz Lato"
+    ],
+    "answer": 0,
+    "explanation": "Guillermo Stábile segnò 8 reti al Mondiale 1930.",
+    "source": "https://www.fifa.com/en/member-associations/france/articles/top-goalscorers-leading-marksmen-golden-boot-fifa-world-cup-qatar-2022",
+    "sourceName": "Archivio storico verificabile"
+  },
+  {
+    "id": "deep-97bdc3df255893254f",
+    "category": "Mondiali",
+    "kind": "Record e gol",
+    "difficulty": 3,
+    "question": "Quanti gol realizzò il capocannoniere del Mondiale 1930, Guillermo Stábile?",
+    "options": [
+      "11",
+      "8",
+      "13"
+    ],
+    "answer": 1,
+    "explanation": "Guillermo Stábile terminò il Mondiale 1930 con 8 gol.",
+    "source": "https://www.fifa.com/en/member-associations/france/articles/top-goalscorers-leading-marksmen-golden-boot-fifa-world-cup-qatar-2022",
+    "sourceName": "Archivio storico verificabile"
+  },
+  {
+    "id": "deep-d613de11d94d5a689e",
+    "category": "Mondiali",
+    "kind": "Allenatori campioni",
+    "difficulty": 2,
+    "question": "Chi allenava la nazionale campione del mondo nel 1934?",
+    "options": [
+      "Vittorio Pozzo",
+      "Marcello Lippi",
+      "Joachim Löw"
+    ],
+    "answer": 0,
+    "explanation": "Nel 1934 Italia vinse il Mondiale con Vittorio Pozzo in panchina.",
+    "source": "https://www.fifa.com/tournaments/mens/worldcup",
+    "sourceName": "Archivio storico verificabile"
+  },
+  {
+    "id": "deep-00849839bd4941918a",
+    "category": "Mondiali",
+    "kind": "Finali storiche",
+    "difficulty": 2,
+    "question": "Quale nazionale conquistò il Mondiale del 1934 superando Cecoslovacchia nella fase decisiva?",
+    "options": [
+      "Germania",
+      "Italia",
+      "Spagna"
+    ],
+    "answer": 1,
+    "explanation": "Italia vinse il Mondiale 1934; il secondo posto fu di Cecoslovacchia.",
+    "source": "https://www.fifa.com/tournaments/mens/worldcup",
+    "sourceName": "Archivio storico verificabile"
+  },
+  {
+    "id": "deep-8bb6e08c67cbe76bee",
+    "category": "Mondiali",
+    "kind": "Grandi marcatori",
+    "difficulty": 2,
+    "question": "Chi fu il capocannoniere del Mondiale 1934?",
+    "options": [
+      "Oldřich Nejedlý",
+      "Mario Kempes",
+      "Ademir"
+    ],
+    "answer": 0,
+    "explanation": "Oldřich Nejedlý segnò 5 reti al Mondiale 1934.",
+    "source": "https://www.fifa.com/en/member-associations/france/articles/top-goalscorers-leading-marksmen-golden-boot-fifa-world-cup-qatar-2022",
+    "sourceName": "Archivio storico verificabile"
+  },
+  {
+    "id": "deep-49175adb4138d177d1",
+    "category": "Mondiali",
+    "kind": "Record e gol",
+    "difficulty": 3,
+    "question": "Quanti gol realizzò il capocannoniere del Mondiale 1934, Oldřich Nejedlý?",
+    "options": [
+      "7",
+      "4",
+      "5"
+    ],
+    "answer": 2,
+    "explanation": "Oldřich Nejedlý terminò il Mondiale 1934 con 5 gol.",
+    "source": "https://www.fifa.com/en/member-associations/france/articles/top-goalscorers-leading-marksmen-golden-boot-fifa-world-cup-qatar-2022",
+    "sourceName": "Archivio storico verificabile"
+  },
+  {
+    "id": "deep-81755935647bfce3ee",
+    "category": "Mondiali",
+    "kind": "Allenatori campioni",
+    "difficulty": 2,
+    "question": "Chi allenava la nazionale campione del mondo nel 1938?",
+    "options": [
+      "Vittorio Pozzo",
+      "Juan López Fontana",
+      "Lionel Scaloni"
+    ],
+    "answer": 0,
+    "explanation": "Nel 1938 Italia vinse il Mondiale con Vittorio Pozzo in panchina.",
+    "source": "https://www.fifa.com/tournaments/mens/worldcup",
+    "sourceName": "Archivio storico verificabile"
+  },
+  {
+    "id": "deep-57ba7903dc9e33450c",
+    "category": "Mondiali",
+    "kind": "Finali storiche",
+    "difficulty": 2,
+    "question": "Quale nazionale conquistò il Mondiale del 1938 superando Ungheria nella fase decisiva?",
+    "options": [
+      "Italia",
+      "Francia",
+      "Brasile"
+    ],
+    "answer": 0,
+    "explanation": "Italia vinse il Mondiale 1938; il secondo posto fu di Ungheria.",
+    "source": "https://www.fifa.com/tournaments/mens/worldcup",
+    "sourceName": "Archivio storico verificabile"
+  },
+  {
+    "id": "deep-38649112488e38e64f",
+    "category": "Mondiali",
+    "kind": "Grandi marcatori",
+    "difficulty": 2,
+    "question": "Chi fu il capocannoniere del Mondiale 1938?",
+    "options": [
+      "Paolo Rossi",
+      "Leônidas",
+      "Grzegorz Lato"
+    ],
+    "answer": 1,
+    "explanation": "Leônidas segnò 7 reti al Mondiale 1938.",
+    "source": "https://www.fifa.com/en/member-associations/france/articles/top-goalscorers-leading-marksmen-golden-boot-fifa-world-cup-qatar-2022",
+    "sourceName": "Archivio storico verificabile"
+  },
+  {
+    "id": "deep-f2862056c402e0da04",
+    "category": "Mondiali",
+    "kind": "Record e gol",
+    "difficulty": 3,
+    "question": "Quanti gol realizzò il capocannoniere del Mondiale 1938, Leônidas?",
+    "options": [
+      "3",
+      "11",
+      "7"
+    ],
+    "answer": 2,
+    "explanation": "Leônidas terminò il Mondiale 1938 con 7 gol.",
+    "source": "https://www.fifa.com/en/member-associations/france/articles/top-goalscorers-leading-marksmen-golden-boot-fifa-world-cup-qatar-2022",
+    "sourceName": "Archivio storico verificabile"
+  },
+  {
+    "id": "deep-04430ed523cdcec157",
+    "category": "Mondiali",
+    "kind": "Allenatori campioni",
+    "difficulty": 2,
+    "question": "Chi allenava la nazionale campione del mondo nel 1950?",
+    "options": [
+      "Helmut Schön",
+      "Carlos Bilardo",
+      "Juan López Fontana"
+    ],
+    "answer": 2,
+    "explanation": "Nel 1950 Uruguay vinse il Mondiale con Juan López Fontana in panchina.",
+    "source": "https://www.fifa.com/tournaments/mens/worldcup",
+    "sourceName": "Archivio storico verificabile"
+  },
+  {
+    "id": "deep-8c7c2fd20c1aee74ce",
+    "category": "Mondiali",
+    "kind": "Grandi marcatori",
+    "difficulty": 2,
+    "question": "Chi fu il capocannoniere del Mondiale 1950?",
+    "options": [
+      "Ademir",
+      "Grzegorz Lato",
+      "Salvatore Schillaci"
+    ],
+    "answer": 0,
+    "explanation": "Ademir segnò 9 reti al Mondiale 1950.",
+    "source": "https://www.fifa.com/en/member-associations/france/articles/top-goalscorers-leading-marksmen-golden-boot-fifa-world-cup-qatar-2022",
+    "sourceName": "Archivio storico verificabile"
+  },
+  {
+    "id": "deep-f2f982b7a6f4e55465",
+    "category": "Mondiali",
+    "kind": "Record e gol",
+    "difficulty": 3,
+    "question": "Quanti gol realizzò il capocannoniere del Mondiale 1950, Ademir?",
+    "options": [
+      "9",
+      "13",
+      "3"
+    ],
+    "answer": 0,
+    "explanation": "Ademir terminò il Mondiale 1950 con 9 gol.",
+    "source": "https://www.fifa.com/en/member-associations/france/articles/top-goalscorers-leading-marksmen-golden-boot-fifa-world-cup-qatar-2022",
+    "sourceName": "Archivio storico verificabile"
+  },
+  {
+    "id": "deep-19c0140ca95e4e0c06",
+    "category": "Mondiali",
+    "kind": "Allenatori campioni",
+    "difficulty": 2,
+    "question": "Chi allenava la nazionale campione del mondo nel 1954?",
+    "options": [
+      "Didier Deschamps",
+      "Mário Zagallo",
+      "Sepp Herberger"
+    ],
+    "answer": 2,
+    "explanation": "Nel 1954 Germania Ovest vinse il Mondiale con Sepp Herberger in panchina.",
+    "source": "https://www.fifa.com/tournaments/mens/worldcup",
+    "sourceName": "Archivio storico verificabile"
+  },
+  {
+    "id": "deep-9cc31b14c8f91053a0",
+    "category": "Mondiali",
+    "kind": "Finali storiche",
+    "difficulty": 2,
+    "question": "Quale nazionale conquistò il Mondiale del 1954 superando Ungheria nella fase decisiva?",
+    "options": [
+      "Germania Ovest",
+      "Argentina",
+      "Spagna"
+    ],
+    "answer": 0,
+    "explanation": "Germania Ovest vinse il Mondiale 1954; il secondo posto fu di Ungheria.",
+    "source": "https://www.fifa.com/tournaments/mens/worldcup",
+    "sourceName": "Archivio storico verificabile"
+  },
+  {
+    "id": "deep-1785bd28176c91e87a",
+    "category": "Mondiali",
+    "kind": "Grandi marcatori",
+    "difficulty": 2,
+    "question": "Chi fu il capocannoniere del Mondiale 1954?",
+    "options": [
+      "Sándor Kocsis",
+      "Guillermo Stábile",
+      "Gary Lineker"
+    ],
+    "answer": 0,
+    "explanation": "Sándor Kocsis segnò 11 reti al Mondiale 1954.",
+    "source": "https://www.fifa.com/en/member-associations/france/articles/top-goalscorers-leading-marksmen-golden-boot-fifa-world-cup-qatar-2022",
+    "sourceName": "Archivio storico verificabile"
+  },
+  {
+    "id": "deep-a28be620f16b591424",
+    "category": "Mondiali",
+    "kind": "Record e gol",
+    "difficulty": 3,
+    "question": "Quanti gol realizzò il capocannoniere del Mondiale 1954, Sándor Kocsis?",
+    "options": [
+      "8",
+      "9",
+      "11"
+    ],
+    "answer": 2,
+    "explanation": "Sándor Kocsis terminò il Mondiale 1954 con 11 gol.",
+    "source": "https://www.fifa.com/en/member-associations/france/articles/top-goalscorers-leading-marksmen-golden-boot-fifa-world-cup-qatar-2022",
+    "sourceName": "Archivio storico verificabile"
+  },
+  {
+    "id": "deep-5ac77942b5d81023b3",
+    "category": "Mondiali",
+    "kind": "Allenatori campioni",
+    "difficulty": 2,
+    "question": "Chi allenava la nazionale campione del mondo nel 1958?",
+    "options": [
+      "Vicente Feola",
+      "César Luis Menotti",
+      "Carlos Alberto Parreira"
+    ],
+    "answer": 0,
+    "explanation": "Nel 1958 Brasile vinse il Mondiale con Vicente Feola in panchina.",
+    "source": "https://www.fifa.com/tournaments/mens/worldcup",
+    "sourceName": "Archivio storico verificabile"
+  },
+  {
+    "id": "deep-887e9a0be4ef653b7c",
+    "category": "Mondiali",
+    "kind": "Finali storiche",
+    "difficulty": 2,
+    "question": "Quale nazionale conquistò il Mondiale del 1958 superando Svezia nella fase decisiva?",
+    "options": [
+      "Spagna",
+      "Francia",
+      "Brasile"
+    ],
+    "answer": 2,
+    "explanation": "Brasile vinse il Mondiale 1958; il secondo posto fu di Svezia.",
+    "source": "https://www.fifa.com/tournaments/mens/worldcup",
+    "sourceName": "Archivio storico verificabile"
+  },
+  {
+    "id": "deep-5c0668b7fb245100eb",
+    "category": "Mondiali",
+    "kind": "Grandi marcatori",
+    "difficulty": 2,
+    "question": "Chi fu il capocannoniere del Mondiale 1958?",
+    "options": [
+      "Davor Šuker",
+      "Just Fontaine",
+      "Paolo Rossi"
+    ],
+    "answer": 1,
+    "explanation": "Just Fontaine segnò 13 reti al Mondiale 1958.",
+    "source": "https://www.fifa.com/en/member-associations/france/articles/top-goalscorers-leading-marksmen-golden-boot-fifa-world-cup-qatar-2022",
+    "sourceName": "Archivio storico verificabile"
+  },
+  {
+    "id": "deep-647f53b04d7779da04",
+    "category": "Mondiali",
+    "kind": "Record e gol",
+    "difficulty": 3,
+    "question": "Quanti gol realizzò il capocannoniere del Mondiale 1958, Just Fontaine?",
+    "options": [
+      "13",
+      "12",
+      "3"
+    ],
+    "answer": 0,
+    "explanation": "Just Fontaine terminò il Mondiale 1958 con 13 gol.",
+    "source": "https://www.fifa.com/en/member-associations/france/articles/top-goalscorers-leading-marksmen-golden-boot-fifa-world-cup-qatar-2022",
+    "sourceName": "Archivio storico verificabile"
+  },
+  {
+    "id": "deep-df20e93cabfb345cf6",
+    "category": "Mondiali",
+    "kind": "Allenatori campioni",
+    "difficulty": 2,
+    "question": "Chi allenava la nazionale campione del mondo nel 1962?",
+    "options": [
+      "Aymoré Moreira",
+      "Franz Beckenbauer",
+      "Carlos Bilardo"
+    ],
+    "answer": 0,
+    "explanation": "Nel 1962 Brasile vinse il Mondiale con Aymoré Moreira in panchina.",
+    "source": "https://www.fifa.com/tournaments/mens/worldcup",
+    "sourceName": "Archivio storico verificabile"
+  },
+  {
+    "id": "deep-cfa26a658996a621de",
+    "category": "Mondiali",
+    "kind": "Finali storiche",
+    "difficulty": 2,
+    "question": "Quale nazionale conquistò il Mondiale del 1962 superando Cecoslovacchia nella fase decisiva?",
+    "options": [
+      "Brasile",
+      "Argentina",
+      "Inghilterra"
+    ],
+    "answer": 0,
+    "explanation": "Brasile vinse il Mondiale 1962; il secondo posto fu di Cecoslovacchia.",
+    "source": "https://www.fifa.com/tournaments/mens/worldcup",
+    "sourceName": "Archivio storico verificabile"
+  },
+  {
+    "id": "deep-e47f0660ee40185457",
+    "category": "Mondiali",
+    "kind": "Allenatori campioni",
+    "difficulty": 2,
+    "question": "Chi allenava la nazionale campione del mondo nel 1966?",
+    "options": [
+      "Alf Ramsey",
+      "Luiz Felipe Scolari",
+      "Didier Deschamps"
+    ],
+    "answer": 0,
+    "explanation": "Nel 1966 Inghilterra vinse il Mondiale con Alf Ramsey in panchina.",
+    "source": "https://www.fifa.com/tournaments/mens/worldcup",
+    "sourceName": "Archivio storico verificabile"
+  },
+  {
+    "id": "deep-b7f9b46d0e587d4b4f",
+    "category": "Mondiali",
+    "kind": "Finali storiche",
+    "difficulty": 2,
+    "question": "Quale nazionale conquistò il Mondiale del 1966 superando Germania Ovest nella fase decisiva?",
+    "options": [
+      "Inghilterra",
+      "Uruguay",
+      "Brasile"
+    ],
+    "answer": 0,
+    "explanation": "Inghilterra vinse il Mondiale 1966; il secondo posto fu di Germania Ovest.",
+    "source": "https://www.fifa.com/tournaments/mens/worldcup",
+    "sourceName": "Archivio storico verificabile"
+  },
+  {
+    "id": "deep-8d2edd26558c2cd72d",
+    "category": "Mondiali",
+    "kind": "Grandi marcatori",
+    "difficulty": 2,
+    "question": "Chi fu il capocannoniere del Mondiale 1966?",
+    "options": [
+      "James Rodríguez",
+      "Miroslav Klose",
+      "Eusébio"
+    ],
+    "answer": 2,
+    "explanation": "Eusébio segnò 9 reti al Mondiale 1966.",
+    "source": "https://www.fifa.com/en/member-associations/france/articles/top-goalscorers-leading-marksmen-golden-boot-fifa-world-cup-qatar-2022",
+    "sourceName": "Archivio storico verificabile"
+  },
+  {
+    "id": "deep-fb9f77ee3650c9e76f",
+    "category": "Mondiali",
+    "kind": "Record e gol",
+    "difficulty": 3,
+    "question": "Quanti gol realizzò il capocannoniere del Mondiale 1966, Eusébio?",
+    "options": [
+      "12",
+      "9",
+      "6"
+    ],
+    "answer": 1,
+    "explanation": "Eusébio terminò il Mondiale 1966 con 9 gol.",
+    "source": "https://www.fifa.com/en/member-associations/france/articles/top-goalscorers-leading-marksmen-golden-boot-fifa-world-cup-qatar-2022",
+    "sourceName": "Archivio storico verificabile"
+  },
+  {
+    "id": "deep-ae482e3447252a4494",
+    "category": "Mondiali",
+    "kind": "Allenatori campioni",
+    "difficulty": 2,
+    "question": "Chi allenava la nazionale campione del mondo nel 1970?",
+    "options": [
+      "Mário Zagallo",
+      "Vicente Feola",
+      "Vittorio Pozzo"
+    ],
+    "answer": 0,
+    "explanation": "Nel 1970 Brasile vinse il Mondiale con Mário Zagallo in panchina.",
+    "source": "https://www.fifa.com/tournaments/mens/worldcup",
+    "sourceName": "Archivio storico verificabile"
+  },
+  {
+    "id": "deep-654c1c44716b2ba662",
+    "category": "Mondiali",
+    "kind": "Finali storiche",
+    "difficulty": 2,
+    "question": "Quale nazionale conquistò il Mondiale del 1970 superando Italia nella fase decisiva?",
+    "options": [
+      "Italia",
+      "Brasile",
+      "Spagna"
+    ],
+    "answer": 1,
+    "explanation": "Brasile vinse il Mondiale 1970; il secondo posto fu di Italia.",
+    "source": "https://www.fifa.com/tournaments/mens/worldcup",
+    "sourceName": "Archivio storico verificabile"
+  },
+  {
+    "id": "deep-2cb554b902361a1107",
+    "category": "Mondiali",
+    "kind": "Grandi marcatori",
+    "difficulty": 2,
+    "question": "Chi fu il capocannoniere del Mondiale 1970?",
+    "options": [
+      "Gerd Müller",
+      "Paolo Rossi",
+      "Sándor Kocsis"
+    ],
+    "answer": 0,
+    "explanation": "Gerd Müller segnò 10 reti al Mondiale 1970.",
+    "source": "https://www.fifa.com/en/member-associations/france/articles/top-goalscorers-leading-marksmen-golden-boot-fifa-world-cup-qatar-2022",
+    "sourceName": "Archivio storico verificabile"
+  },
+  {
+    "id": "deep-5931cea37a3c17db6a",
+    "category": "Mondiali",
+    "kind": "Record e gol",
+    "difficulty": 3,
+    "question": "Quanti gol realizzò il capocannoniere del Mondiale 1970, Gerd Müller?",
+    "options": [
+      "13",
+      "8",
+      "10"
+    ],
+    "answer": 2,
+    "explanation": "Gerd Müller terminò il Mondiale 1970 con 10 gol.",
+    "source": "https://www.fifa.com/en/member-associations/france/articles/top-goalscorers-leading-marksmen-golden-boot-fifa-world-cup-qatar-2022",
+    "sourceName": "Archivio storico verificabile"
+  },
+  {
+    "id": "deep-5f873722acab72bcfe",
+    "category": "Mondiali",
+    "kind": "Allenatori campioni",
+    "difficulty": 2,
+    "question": "Chi allenava la nazionale campione del mondo nel 1974?",
+    "options": [
+      "Vicente del Bosque",
+      "Helmut Schön",
+      "Franz Beckenbauer"
+    ],
+    "answer": 1,
+    "explanation": "Nel 1974 Germania Ovest vinse il Mondiale con Helmut Schön in panchina.",
+    "source": "https://www.fifa.com/tournaments/mens/worldcup",
+    "sourceName": "Archivio storico verificabile"
+  },
+  {
+    "id": "deep-9f8d38d1a43b7d02e3",
+    "category": "Mondiali",
+    "kind": "Finali storiche",
+    "difficulty": 2,
+    "question": "Quale nazionale conquistò il Mondiale del 1974 superando Paesi Bassi nella fase decisiva?",
+    "options": [
+      "Italia",
+      "Brasile",
+      "Germania Ovest"
+    ],
+    "answer": 2,
+    "explanation": "Germania Ovest vinse il Mondiale 1974; il secondo posto fu di Paesi Bassi.",
+    "source": "https://www.fifa.com/tournaments/mens/worldcup",
+    "sourceName": "Archivio storico verificabile"
+  },
+  {
+    "id": "deep-f01514812fd49c083d",
+    "category": "Mondiali",
+    "kind": "Grandi marcatori",
+    "difficulty": 2,
+    "question": "Chi fu il capocannoniere del Mondiale 1974?",
+    "options": [
+      "Oldřich Nejedlý",
+      "Gary Lineker",
+      "Grzegorz Lato"
+    ],
+    "answer": 2,
+    "explanation": "Grzegorz Lato segnò 7 reti al Mondiale 1974.",
+    "source": "https://www.fifa.com/en/member-associations/france/articles/top-goalscorers-leading-marksmen-golden-boot-fifa-world-cup-qatar-2022",
+    "sourceName": "Archivio storico verificabile"
+  },
+  {
+    "id": "deep-e99ffba3677a9a95cc",
+    "category": "Mondiali",
+    "kind": "Record e gol",
+    "difficulty": 3,
+    "question": "Quanti gol realizzò il capocannoniere del Mondiale 1974, Grzegorz Lato?",
+    "options": [
+      "5",
+      "7",
+      "3"
+    ],
+    "answer": 1,
+    "explanation": "Grzegorz Lato terminò il Mondiale 1974 con 7 gol.",
+    "source": "https://www.fifa.com/en/member-associations/france/articles/top-goalscorers-leading-marksmen-golden-boot-fifa-world-cup-qatar-2022",
+    "sourceName": "Archivio storico verificabile"
+  },
+  {
+    "id": "deep-2f34b42d117b0a3690",
+    "category": "Mondiali",
+    "kind": "Allenatori campioni",
+    "difficulty": 2,
+    "question": "Chi allenava la nazionale campione del mondo nel 1978?",
+    "options": [
+      "Sepp Herberger",
+      "Aimé Jacquet",
+      "César Luis Menotti"
+    ],
+    "answer": 2,
+    "explanation": "Nel 1978 Argentina vinse il Mondiale con César Luis Menotti in panchina.",
+    "source": "https://www.fifa.com/tournaments/mens/worldcup",
+    "sourceName": "Archivio storico verificabile"
+  },
+  {
+    "id": "deep-0a2595528c01996dca",
+    "category": "Mondiali",
+    "kind": "Finali storiche",
+    "difficulty": 2,
+    "question": "Quale nazionale conquistò il Mondiale del 1978 superando Paesi Bassi nella fase decisiva?",
+    "options": [
+      "Spagna",
+      "Germania Ovest",
+      "Argentina"
+    ],
+    "answer": 2,
+    "explanation": "Argentina vinse il Mondiale 1978; il secondo posto fu di Paesi Bassi.",
+    "source": "https://www.fifa.com/tournaments/mens/worldcup",
+    "sourceName": "Archivio storico verificabile"
+  },
+  {
+    "id": "deep-d000a852df7220d92b",
+    "category": "Mondiali",
+    "kind": "Grandi marcatori",
+    "difficulty": 2,
+    "question": "Chi fu il capocannoniere del Mondiale 1978?",
+    "options": [
+      "Mario Kempes",
+      "Guillermo Stábile",
+      "Thomas Müller"
+    ],
+    "answer": 0,
+    "explanation": "Mario Kempes segnò 6 reti al Mondiale 1978.",
+    "source": "https://www.fifa.com/en/member-associations/france/articles/top-goalscorers-leading-marksmen-golden-boot-fifa-world-cup-qatar-2022",
+    "sourceName": "Archivio storico verificabile"
+  },
+  {
+    "id": "deep-252ab5a5d123ed060d",
+    "category": "Mondiali",
+    "kind": "Record e gol",
+    "difficulty": 3,
+    "question": "Quanti gol realizzò il capocannoniere del Mondiale 1978, Mario Kempes?",
+    "options": [
+      "4",
+      "6",
+      "12"
+    ],
+    "answer": 1,
+    "explanation": "Mario Kempes terminò il Mondiale 1978 con 6 gol.",
+    "source": "https://www.fifa.com/en/member-associations/france/articles/top-goalscorers-leading-marksmen-golden-boot-fifa-world-cup-qatar-2022",
+    "sourceName": "Archivio storico verificabile"
+  },
+  {
+    "id": "deep-db41becd25100d833a",
+    "category": "Mondiali",
+    "kind": "Allenatori campioni",
+    "difficulty": 2,
+    "question": "Chi allenava la nazionale campione del mondo nel 1982?",
+    "options": [
+      "Didier Deschamps",
+      "Enzo Bearzot",
+      "Mário Zagallo"
+    ],
+    "answer": 1,
+    "explanation": "Nel 1982 Italia vinse il Mondiale con Enzo Bearzot in panchina.",
+    "source": "https://www.fifa.com/tournaments/mens/worldcup",
+    "sourceName": "Archivio storico verificabile"
+  },
+  {
+    "id": "deep-e75fbffc02e32d067f",
+    "category": "Mondiali",
+    "kind": "Finali storiche",
+    "difficulty": 2,
+    "question": "Quale nazionale conquistò il Mondiale del 1982 superando Germania Ovest nella fase decisiva?",
+    "options": [
+      "Italia",
+      "Germania Ovest",
+      "Argentina"
+    ],
+    "answer": 0,
+    "explanation": "Italia vinse il Mondiale 1982; il secondo posto fu di Germania Ovest.",
+    "source": "https://www.fifa.com/tournaments/mens/worldcup",
+    "sourceName": "Archivio storico verificabile"
+  },
+  {
+    "id": "deep-448c255449d20e1c17",
+    "category": "Mondiali",
+    "kind": "Grandi marcatori",
+    "difficulty": 2,
+    "question": "Chi fu il capocannoniere del Mondiale 1982?",
+    "options": [
+      "Thomas Müller",
+      "Paolo Rossi",
+      "Salvatore Schillaci"
+    ],
+    "answer": 1,
+    "explanation": "Paolo Rossi segnò 6 reti al Mondiale 1982.",
+    "source": "https://www.fifa.com/en/member-associations/france/articles/top-goalscorers-leading-marksmen-golden-boot-fifa-world-cup-qatar-2022",
+    "sourceName": "Archivio storico verificabile"
+  },
+  {
+    "id": "deep-ee9fa041bf0711a83c",
+    "category": "Mondiali",
+    "kind": "Record e gol",
+    "difficulty": 3,
+    "question": "Quanti gol realizzò il capocannoniere del Mondiale 1982, Paolo Rossi?",
+    "options": [
+      "6",
+      "10",
+      "8"
+    ],
+    "answer": 0,
+    "explanation": "Paolo Rossi terminò il Mondiale 1982 con 6 gol.",
+    "source": "https://www.fifa.com/en/member-associations/france/articles/top-goalscorers-leading-marksmen-golden-boot-fifa-world-cup-qatar-2022",
+    "sourceName": "Archivio storico verificabile"
+  },
+  {
+    "id": "deep-d1a19d670d646078e5",
+    "category": "Mondiali",
+    "kind": "Allenatori campioni",
+    "difficulty": 2,
+    "question": "Chi allenava la nazionale campione del mondo nel 1986?",
+    "options": [
+      "Carlos Bilardo",
+      "César Luis Menotti",
+      "Aimé Jacquet"
+    ],
+    "answer": 0,
+    "explanation": "Nel 1986 Argentina vinse il Mondiale con Carlos Bilardo in panchina.",
+    "source": "https://www.fifa.com/tournaments/mens/worldcup",
+    "sourceName": "Archivio storico verificabile"
+  },
+  {
+    "id": "deep-c2e3e3ce4bcdfc66fc",
+    "category": "Mondiali",
+    "kind": "Finali storiche",
+    "difficulty": 2,
+    "question": "Quale nazionale conquistò il Mondiale del 1986 superando Germania Ovest nella fase decisiva?",
+    "options": [
+      "Spagna",
+      "Inghilterra",
+      "Argentina"
+    ],
+    "answer": 2,
+    "explanation": "Argentina vinse il Mondiale 1986; il secondo posto fu di Germania Ovest.",
+    "source": "https://www.fifa.com/tournaments/mens/worldcup",
+    "sourceName": "Archivio storico verificabile"
+  },
+  {
+    "id": "deep-511ae6647c895012a9",
+    "category": "Mondiali",
+    "kind": "Grandi marcatori",
+    "difficulty": 2,
+    "question": "Chi fu il capocannoniere del Mondiale 1986?",
+    "options": [
+      "Leônidas",
+      "Miroslav Klose",
+      "Gary Lineker"
+    ],
+    "answer": 2,
+    "explanation": "Gary Lineker segnò 6 reti al Mondiale 1986.",
+    "source": "https://www.fifa.com/en/member-associations/france/articles/top-goalscorers-leading-marksmen-golden-boot-fifa-world-cup-qatar-2022",
+    "sourceName": "Archivio storico verificabile"
+  },
+  {
+    "id": "deep-3b699267d71a81fbb1",
+    "category": "Mondiali",
+    "kind": "Record e gol",
+    "difficulty": 3,
+    "question": "Quanti gol realizzò il capocannoniere del Mondiale 1986, Gary Lineker?",
+    "options": [
+      "9",
+      "6",
+      "3"
+    ],
+    "answer": 1,
+    "explanation": "Gary Lineker terminò il Mondiale 1986 con 6 gol.",
+    "source": "https://www.fifa.com/en/member-associations/france/articles/top-goalscorers-leading-marksmen-golden-boot-fifa-world-cup-qatar-2022",
+    "sourceName": "Archivio storico verificabile"
+  },
+  {
+    "id": "deep-7df376c7d6dc7c8d22",
+    "category": "Mondiali",
+    "kind": "Allenatori campioni",
+    "difficulty": 2,
+    "question": "Chi allenava la nazionale campione del mondo nel 1990?",
+    "options": [
+      "Franz Beckenbauer",
+      "Sepp Herberger",
+      "Vittorio Pozzo"
+    ],
+    "answer": 0,
+    "explanation": "Nel 1990 Germania Ovest vinse il Mondiale con Franz Beckenbauer in panchina.",
+    "source": "https://www.fifa.com/tournaments/mens/worldcup",
+    "sourceName": "Archivio storico verificabile"
+  },
+  {
+    "id": "deep-c9a5ac73d0579c3cfb",
+    "category": "Mondiali",
+    "kind": "Finali storiche",
+    "difficulty": 2,
+    "question": "Quale nazionale conquistò il Mondiale del 1990 superando Argentina nella fase decisiva?",
+    "options": [
+      "Spagna",
+      "Germania Ovest",
+      "Germania"
+    ],
+    "answer": 1,
+    "explanation": "Germania Ovest vinse il Mondiale 1990; il secondo posto fu di Argentina.",
+    "source": "https://www.fifa.com/tournaments/mens/worldcup",
+    "sourceName": "Archivio storico verificabile"
+  },
+  {
+    "id": "deep-3c7cdf48262de28478",
+    "category": "Mondiali",
+    "kind": "Grandi marcatori",
+    "difficulty": 2,
+    "question": "Chi fu il capocannoniere del Mondiale 1990?",
+    "options": [
+      "Grzegorz Lato",
+      "Salvatore Schillaci",
+      "Oldřich Nejedlý"
+    ],
+    "answer": 1,
+    "explanation": "Salvatore Schillaci segnò 6 reti al Mondiale 1990.",
+    "source": "https://www.fifa.com/en/member-associations/france/articles/top-goalscorers-leading-marksmen-golden-boot-fifa-world-cup-qatar-2022",
+    "sourceName": "Archivio storico verificabile"
+  },
+  {
+    "id": "deep-85bbe9e530ad8f939d",
+    "category": "Mondiali",
+    "kind": "Record e gol",
+    "difficulty": 3,
+    "question": "Quanti gol realizzò il capocannoniere del Mondiale 1990, Salvatore Schillaci?",
+    "options": [
+      "10",
+      "6",
+      "12"
+    ],
+    "answer": 1,
+    "explanation": "Salvatore Schillaci terminò il Mondiale 1990 con 6 gol.",
+    "source": "https://www.fifa.com/en/member-associations/france/articles/top-goalscorers-leading-marksmen-golden-boot-fifa-world-cup-qatar-2022",
+    "sourceName": "Archivio storico verificabile"
+  },
+  {
+    "id": "deep-8875d1b251a432d531",
+    "category": "Mondiali",
+    "kind": "Allenatori campioni",
+    "difficulty": 2,
+    "question": "Chi allenava la nazionale campione del mondo nel 1994?",
+    "options": [
+      "Sepp Herberger",
+      "Carlos Alberto Parreira",
+      "Vittorio Pozzo"
+    ],
+    "answer": 1,
+    "explanation": "Nel 1994 Brasile vinse il Mondiale con Carlos Alberto Parreira in panchina.",
+    "source": "https://www.fifa.com/tournaments/mens/worldcup",
+    "sourceName": "Archivio storico verificabile"
+  },
+  {
+    "id": "deep-7d0d4c81b72f30eac9",
+    "category": "Mondiali",
+    "kind": "Finali storiche",
+    "difficulty": 2,
+    "question": "Quale nazionale conquistò il Mondiale del 1994 superando Italia nella fase decisiva?",
+    "options": [
+      "Inghilterra",
+      "Brasile",
+      "Germania"
+    ],
+    "answer": 1,
+    "explanation": "Brasile vinse il Mondiale 1994; il secondo posto fu di Italia.",
+    "source": "https://www.fifa.com/tournaments/mens/worldcup",
+    "sourceName": "Archivio storico verificabile"
+  },
+  {
+    "id": "deep-16f0f42af39a493a81",
+    "category": "Mondiali",
+    "kind": "Allenatori campioni",
+    "difficulty": 2,
+    "question": "Chi allenava la nazionale campione del mondo nel 1998?",
+    "options": [
+      "Aymoré Moreira",
+      "Joachim Löw",
+      "Aimé Jacquet"
+    ],
+    "answer": 2,
+    "explanation": "Nel 1998 Francia vinse il Mondiale con Aimé Jacquet in panchina.",
+    "source": "https://www.fifa.com/tournaments/mens/worldcup",
+    "sourceName": "Archivio storico verificabile"
+  },
+  {
+    "id": "deep-065f7ad8b7df3822a3",
+    "category": "Mondiali",
+    "kind": "Finali storiche",
+    "difficulty": 2,
+    "question": "Quale nazionale conquistò il Mondiale del 1998 superando Brasile nella fase decisiva?",
+    "options": [
+      "Inghilterra",
+      "Germania",
+      "Francia"
+    ],
+    "answer": 2,
+    "explanation": "Francia vinse il Mondiale 1998; il secondo posto fu di Brasile.",
+    "source": "https://www.fifa.com/tournaments/mens/worldcup",
+    "sourceName": "Archivio storico verificabile"
+  },
+  {
+    "id": "deep-f2d4f5b74b883a0e00",
+    "category": "Mondiali",
+    "kind": "Grandi marcatori",
+    "difficulty": 2,
+    "question": "Chi fu il capocannoniere del Mondiale 1998?",
+    "options": [
+      "Davor Šuker",
+      "Harry Kane",
+      "Miroslav Klose"
+    ],
+    "answer": 0,
+    "explanation": "Davor Šuker segnò 6 reti al Mondiale 1998.",
+    "source": "https://www.fifa.com/en/member-associations/france/articles/top-goalscorers-leading-marksmen-golden-boot-fifa-world-cup-qatar-2022",
+    "sourceName": "Archivio storico verificabile"
+  },
+  {
+    "id": "deep-da2659ab1d867fc5b8",
+    "category": "Mondiali",
+    "kind": "Record e gol",
+    "difficulty": 3,
+    "question": "Quanti gol realizzò il capocannoniere del Mondiale 1998, Davor Šuker?",
+    "options": [
+      "8",
+      "6",
+      "12"
+    ],
+    "answer": 1,
+    "explanation": "Davor Šuker terminò il Mondiale 1998 con 6 gol.",
+    "source": "https://www.fifa.com/en/member-associations/france/articles/top-goalscorers-leading-marksmen-golden-boot-fifa-world-cup-qatar-2022",
+    "sourceName": "Archivio storico verificabile"
+  },
+  {
+    "id": "deep-756634ec54ddf218a4",
+    "category": "Mondiali",
+    "kind": "Allenatori campioni",
+    "difficulty": 2,
+    "question": "Chi allenava la nazionale campione del mondo nel 2002?",
+    "options": [
+      "Enzo Bearzot",
+      "Alf Ramsey",
+      "Luiz Felipe Scolari"
+    ],
+    "answer": 2,
+    "explanation": "Nel 2002 Brasile vinse il Mondiale con Luiz Felipe Scolari in panchina.",
+    "source": "https://www.fifa.com/tournaments/mens/worldcup",
+    "sourceName": "Archivio storico verificabile"
+  },
+  {
+    "id": "deep-ff6591ab0596c4c89f",
+    "category": "Mondiali",
+    "kind": "Finali storiche",
+    "difficulty": 2,
+    "question": "Quale nazionale conquistò il Mondiale del 2002 superando Germania nella fase decisiva?",
+    "options": [
+      "Spagna",
+      "Germania",
+      "Brasile"
+    ],
+    "answer": 2,
+    "explanation": "Brasile vinse il Mondiale 2002; il secondo posto fu di Germania.",
+    "source": "https://www.fifa.com/tournaments/mens/worldcup",
+    "sourceName": "Archivio storico verificabile"
+  },
+  {
+    "id": "deep-13f67f0221956cf14d",
+    "category": "Mondiali",
+    "kind": "Grandi marcatori",
+    "difficulty": 2,
+    "question": "Chi fu il capocannoniere del Mondiale 2002?",
+    "options": [
+      "James Rodríguez",
+      "Ronaldo Nazário",
+      "Leônidas"
+    ],
+    "answer": 1,
+    "explanation": "Ronaldo Nazário segnò 8 reti al Mondiale 2002.",
+    "source": "https://www.fifa.com/en/member-associations/france/articles/top-goalscorers-leading-marksmen-golden-boot-fifa-world-cup-qatar-2022",
+    "sourceName": "Archivio storico verificabile"
+  },
+  {
+    "id": "deep-5f6c01e9341b7a6cc5",
+    "category": "Mondiali",
+    "kind": "Record e gol",
+    "difficulty": 3,
+    "question": "Quanti gol realizzò il capocannoniere del Mondiale 2002, Ronaldo Nazário?",
+    "options": [
+      "13",
+      "8",
+      "4"
+    ],
+    "answer": 1,
+    "explanation": "Ronaldo Nazário terminò il Mondiale 2002 con 8 gol.",
+    "source": "https://www.fifa.com/en/member-associations/france/articles/top-goalscorers-leading-marksmen-golden-boot-fifa-world-cup-qatar-2022",
+    "sourceName": "Archivio storico verificabile"
+  },
+  {
+    "id": "deep-05e9d31b8d0bc8b678",
+    "category": "Mondiali",
+    "kind": "Allenatori campioni",
+    "difficulty": 2,
+    "question": "Chi allenava la nazionale campione del mondo nel 2006?",
+    "options": [
+      "Carlos Bilardo",
+      "Marcello Lippi",
+      "César Luis Menotti"
+    ],
+    "answer": 1,
+    "explanation": "Nel 2006 Italia vinse il Mondiale con Marcello Lippi in panchina.",
+    "source": "https://www.fifa.com/tournaments/mens/worldcup",
+    "sourceName": "Archivio storico verificabile"
+  },
+  {
+    "id": "deep-4a8c7ab39a747abc9e",
+    "category": "Mondiali",
+    "kind": "Finali storiche",
+    "difficulty": 2,
+    "question": "Quale nazionale conquistò il Mondiale del 2006 superando Francia nella fase decisiva?",
+    "options": [
+      "Francia",
+      "Italia",
+      "Spagna"
+    ],
+    "answer": 1,
+    "explanation": "Italia vinse il Mondiale 2006; il secondo posto fu di Francia.",
+    "source": "https://www.fifa.com/tournaments/mens/worldcup",
+    "sourceName": "Archivio storico verificabile"
+  },
+  {
+    "id": "deep-95e13ac4ad8aa85231",
+    "category": "Mondiali",
+    "kind": "Grandi marcatori",
+    "difficulty": 2,
+    "question": "Chi fu il capocannoniere del Mondiale 2006?",
+    "options": [
+      "Miroslav Klose",
+      "Grzegorz Lato",
+      "Leônidas"
+    ],
+    "answer": 0,
+    "explanation": "Miroslav Klose segnò 5 reti al Mondiale 2006.",
+    "source": "https://www.fifa.com/en/member-associations/france/articles/top-goalscorers-leading-marksmen-golden-boot-fifa-world-cup-qatar-2022",
+    "sourceName": "Archivio storico verificabile"
+  },
+  {
+    "id": "deep-c282e5bdbf5ddf1c6d",
+    "category": "Mondiali",
+    "kind": "Record e gol",
+    "difficulty": 3,
+    "question": "Quanti gol realizzò il capocannoniere del Mondiale 2006, Miroslav Klose?",
+    "options": [
+      "5",
+      "13",
+      "7"
+    ],
+    "answer": 0,
+    "explanation": "Miroslav Klose terminò il Mondiale 2006 con 5 gol.",
+    "source": "https://www.fifa.com/en/member-associations/france/articles/top-goalscorers-leading-marksmen-golden-boot-fifa-world-cup-qatar-2022",
+    "sourceName": "Archivio storico verificabile"
+  },
+  {
+    "id": "deep-68f72d16549330c33b",
+    "category": "Mondiali",
+    "kind": "Allenatori campioni",
+    "difficulty": 2,
+    "question": "Chi allenava la nazionale campione del mondo nel 2010?",
+    "options": [
+      "Carlos Alberto Parreira",
+      "Vicente del Bosque",
+      "Vittorio Pozzo"
+    ],
+    "answer": 1,
+    "explanation": "Nel 2010 Spagna vinse il Mondiale con Vicente del Bosque in panchina.",
+    "source": "https://www.fifa.com/tournaments/mens/worldcup",
+    "sourceName": "Archivio storico verificabile"
+  },
+  {
+    "id": "deep-024a6356cfc76491a6",
+    "category": "Mondiali",
+    "kind": "Finali storiche",
+    "difficulty": 2,
+    "question": "Quale nazionale conquistò il Mondiale del 2010 superando Paesi Bassi nella fase decisiva?",
+    "options": [
+      "Spagna",
+      "Italia",
+      "Germania"
+    ],
+    "answer": 0,
+    "explanation": "Spagna vinse il Mondiale 2010; il secondo posto fu di Paesi Bassi.",
+    "source": "https://www.fifa.com/tournaments/mens/worldcup",
+    "sourceName": "Archivio storico verificabile"
+  },
+  {
+    "id": "deep-c00a65b516367ba46e",
+    "category": "Mondiali",
+    "kind": "Grandi marcatori",
+    "difficulty": 2,
+    "question": "Chi fu il capocannoniere del Mondiale 2010?",
+    "options": [
+      "Paolo Rossi",
+      "Harry Kane",
+      "Thomas Müller"
+    ],
+    "answer": 2,
+    "explanation": "Thomas Müller segnò 5 reti al Mondiale 2010.",
+    "source": "https://www.fifa.com/en/member-associations/france/articles/top-goalscorers-leading-marksmen-golden-boot-fifa-world-cup-qatar-2022",
+    "sourceName": "Archivio storico verificabile"
+  },
+  {
+    "id": "deep-ccd8b002a231f31374",
+    "category": "Mondiali",
+    "kind": "Record e gol",
+    "difficulty": 3,
+    "question": "Quanti gol realizzò il capocannoniere del Mondiale 2010, Thomas Müller?",
+    "options": [
+      "5",
+      "4",
+      "12"
+    ],
+    "answer": 0,
+    "explanation": "Thomas Müller terminò il Mondiale 2010 con 5 gol.",
+    "source": "https://www.fifa.com/en/member-associations/france/articles/top-goalscorers-leading-marksmen-golden-boot-fifa-world-cup-qatar-2022",
+    "sourceName": "Archivio storico verificabile"
+  },
+  {
+    "id": "deep-65dc3947cd6d407ebe",
+    "category": "Mondiali",
+    "kind": "Allenatori campioni",
+    "difficulty": 2,
+    "question": "Chi allenava la nazionale campione del mondo nel 2014?",
+    "options": [
+      "Joachim Löw",
+      "Marcello Lippi",
+      "Aymoré Moreira"
+    ],
+    "answer": 0,
+    "explanation": "Nel 2014 Germania vinse il Mondiale con Joachim Löw in panchina.",
+    "source": "https://www.fifa.com/tournaments/mens/worldcup",
+    "sourceName": "Archivio storico verificabile"
+  },
+  {
+    "id": "deep-fea174a888695de31e",
+    "category": "Mondiali",
+    "kind": "Finali storiche",
+    "difficulty": 2,
+    "question": "Quale nazionale conquistò il Mondiale del 2014 superando Argentina nella fase decisiva?",
+    "options": [
+      "Italia",
+      "Germania Ovest",
+      "Germania"
+    ],
+    "answer": 2,
+    "explanation": "Germania vinse il Mondiale 2014; il secondo posto fu di Argentina.",
+    "source": "https://www.fifa.com/tournaments/mens/worldcup",
+    "sourceName": "Archivio storico verificabile"
+  },
+  {
+    "id": "deep-63de92293913326f53",
+    "category": "Mondiali",
+    "kind": "Grandi marcatori",
+    "difficulty": 2,
+    "question": "Chi fu il capocannoniere del Mondiale 2014?",
+    "options": [
+      "Just Fontaine",
+      "Guillermo Stábile",
+      "James Rodríguez"
+    ],
+    "answer": 2,
+    "explanation": "James Rodríguez segnò 6 reti al Mondiale 2014.",
+    "source": "https://www.fifa.com/en/member-associations/france/articles/top-goalscorers-leading-marksmen-golden-boot-fifa-world-cup-qatar-2022",
+    "sourceName": "Archivio storico verificabile"
+  },
+  {
+    "id": "deep-0f3ce60de0b82532db",
+    "category": "Mondiali",
+    "kind": "Record e gol",
+    "difficulty": 3,
+    "question": "Quanti gol realizzò il capocannoniere del Mondiale 2014, James Rodríguez?",
+    "options": [
+      "6",
+      "9",
+      "13"
+    ],
+    "answer": 0,
+    "explanation": "James Rodríguez terminò il Mondiale 2014 con 6 gol.",
+    "source": "https://www.fifa.com/en/member-associations/france/articles/top-goalscorers-leading-marksmen-golden-boot-fifa-world-cup-qatar-2022",
+    "sourceName": "Archivio storico verificabile"
+  },
+  {
+    "id": "deep-9ab58add943032cbab",
+    "category": "Mondiali",
+    "kind": "Allenatori campioni",
+    "difficulty": 2,
+    "question": "Chi allenava la nazionale campione del mondo nel 2018?",
+    "options": [
+      "Didier Deschamps",
+      "Lionel Scaloni",
+      "Vittorio Pozzo"
+    ],
+    "answer": 0,
+    "explanation": "Nel 2018 Francia vinse il Mondiale con Didier Deschamps in panchina.",
+    "source": "https://www.fifa.com/tournaments/mens/worldcup",
+    "sourceName": "Archivio storico verificabile"
+  },
+  {
+    "id": "deep-1a207653f42250d45b",
+    "category": "Mondiali",
+    "kind": "Finali storiche",
+    "difficulty": 2,
+    "question": "Quale nazionale conquistò il Mondiale del 2018 superando Croazia nella fase decisiva?",
+    "options": [
+      "Francia",
+      "Spagna",
+      "Italia"
+    ],
+    "answer": 0,
+    "explanation": "Francia vinse il Mondiale 2018; il secondo posto fu di Croazia.",
+    "source": "https://www.fifa.com/tournaments/mens/worldcup",
+    "sourceName": "Archivio storico verificabile"
+  },
+  {
+    "id": "deep-517b710c83776c05b4",
+    "category": "Mondiali",
+    "kind": "Grandi marcatori",
+    "difficulty": 2,
+    "question": "Chi fu il capocannoniere del Mondiale 2018?",
+    "options": [
+      "Davor Šuker",
+      "Thomas Müller",
+      "Harry Kane"
+    ],
+    "answer": 2,
+    "explanation": "Harry Kane segnò 6 reti al Mondiale 2018.",
+    "source": "https://www.fifa.com/en/member-associations/france/articles/top-goalscorers-leading-marksmen-golden-boot-fifa-world-cup-qatar-2022",
+    "sourceName": "Archivio storico verificabile"
+  },
+  {
+    "id": "deep-ba891423b3694f4779",
+    "category": "Mondiali",
+    "kind": "Record e gol",
+    "difficulty": 3,
+    "question": "Quanti gol realizzò il capocannoniere del Mondiale 2018, Harry Kane?",
+    "options": [
+      "6",
+      "13",
+      "7"
+    ],
+    "answer": 0,
+    "explanation": "Harry Kane terminò il Mondiale 2018 con 6 gol.",
+    "source": "https://www.fifa.com/en/member-associations/france/articles/top-goalscorers-leading-marksmen-golden-boot-fifa-world-cup-qatar-2022",
+    "sourceName": "Archivio storico verificabile"
+  },
+  {
+    "id": "deep-09cd7f16399a201ddc",
+    "category": "Mondiali",
+    "kind": "Allenatori campioni",
+    "difficulty": 2,
+    "question": "Chi allenava la nazionale campione del mondo nel 2022?",
+    "options": [
+      "Helmut Schön",
+      "Franz Beckenbauer",
+      "Lionel Scaloni"
+    ],
+    "answer": 2,
+    "explanation": "Nel 2022 Argentina vinse il Mondiale con Lionel Scaloni in panchina.",
+    "source": "https://www.fifa.com/tournaments/mens/worldcup",
+    "sourceName": "Archivio storico verificabile"
+  },
+  {
+    "id": "deep-06738323c59c759b53",
+    "category": "Mondiali",
+    "kind": "Finali storiche",
+    "difficulty": 2,
+    "question": "Quale nazionale conquistò il Mondiale del 2022 superando Francia nella fase decisiva?",
+    "options": [
+      "Spagna",
+      "Argentina",
+      "Germania"
+    ],
+    "answer": 1,
+    "explanation": "Argentina vinse il Mondiale 2022; il secondo posto fu di Francia.",
+    "source": "https://www.fifa.com/tournaments/mens/worldcup",
+    "sourceName": "Archivio storico verificabile"
+  },
+  {
+    "id": "deep-a924a3090e8da0e7a8",
+    "category": "Mondiali",
+    "kind": "Grandi marcatori",
+    "difficulty": 2,
+    "question": "Chi fu il capocannoniere del Mondiale 2022?",
+    "options": [
+      "James Rodríguez",
+      "Kylian Mbappé",
+      "Guillermo Stábile"
+    ],
+    "answer": 1,
+    "explanation": "Kylian Mbappé segnò 8 reti al Mondiale 2022.",
+    "source": "https://www.fifa.com/en/member-associations/france/articles/top-goalscorers-leading-marksmen-golden-boot-fifa-world-cup-qatar-2022",
+    "sourceName": "Archivio storico verificabile"
+  },
+  {
+    "id": "deep-464cbf4936e6f59898",
+    "category": "Mondiali",
+    "kind": "Record e gol",
+    "difficulty": 3,
+    "question": "Quanti gol realizzò il capocannoniere del Mondiale 2022, Kylian Mbappé?",
+    "options": [
+      "6",
+      "7",
+      "8"
+    ],
+    "answer": 2,
+    "explanation": "Kylian Mbappé terminò il Mondiale 2022 con 8 gol.",
+    "source": "https://www.fifa.com/en/member-associations/france/articles/top-goalscorers-leading-marksmen-golden-boot-fifa-world-cup-qatar-2022",
+    "sourceName": "Archivio storico verificabile"
+  },
+  {
+    "id": "deep-0978fc598e774012e0",
+    "category": "Champions League",
+    "kind": "Coppa dei Campioni",
+    "difficulty": 2,
+    "question": "Chi vinse la Coppa dei Campioni nel 1956?",
+    "options": [
+      "Saint-Étienne",
+      "Panathinaikos",
+      "Real Madrid"
+    ],
+    "answer": 2,
+    "explanation": "Real Madrid vinse la finale del 1956 contro Reims.",
+    "source": "https://en.wikipedia.org/wiki/List_of_European_Cup_and_UEFA_Champions_League_finals",
+    "sourceName": "Archivio storico verificabile"
+  },
+  {
+    "id": "deep-6f34444c9cf090a487",
+    "category": "Champions League",
+    "kind": "Finali di un tempo",
+    "difficulty": 2,
+    "question": "Chi affrontò Real Madrid nella finale di Coppa dei Campioni del 1956?",
+    "options": [
+      "Reims",
+      "Aston Villa",
+      "Steaua Bucarest"
+    ],
+    "answer": 0,
+    "explanation": "Nel 1956 la finale vide Real Madrid contro Reims.",
+    "source": "https://en.wikipedia.org/wiki/List_of_European_Cup_and_UEFA_Champions_League_finals",
+    "sourceName": "Archivio storico verificabile"
+  },
+  {
+    "id": "deep-4bfde33dc63c3a2784",
+    "category": "Champions League",
+    "kind": "Coppa dei Campioni",
+    "difficulty": 2,
+    "question": "Chi vinse la Coppa dei Campioni nel 1957?",
+    "options": [
+      "Partizan Belgrado",
+      "Real Madrid",
+      "Celtic"
+    ],
+    "answer": 1,
+    "explanation": "Real Madrid vinse la finale del 1957 contro Fiorentina.",
+    "source": "https://en.wikipedia.org/wiki/List_of_European_Cup_and_UEFA_Champions_League_finals",
+    "sourceName": "Archivio storico verificabile"
+  },
+  {
+    "id": "deep-f8220a8af2b7d0f84d",
+    "category": "Champions League",
+    "kind": "Finali di un tempo",
+    "difficulty": 2,
+    "question": "Chi affrontò Real Madrid nella finale di Coppa dei Campioni del 1957?",
+    "options": [
+      "Atlético Madrid",
+      "Monaco",
+      "Fiorentina"
+    ],
+    "answer": 2,
+    "explanation": "Nel 1957 la finale vide Real Madrid contro Fiorentina.",
+    "source": "https://en.wikipedia.org/wiki/List_of_European_Cup_and_UEFA_Champions_League_finals",
+    "sourceName": "Archivio storico verificabile"
+  },
+  {
+    "id": "deep-ab7666eb876b36674e",
+    "category": "Champions League",
+    "kind": "Coppa dei Campioni",
+    "difficulty": 2,
+    "question": "Chi vinse la Coppa dei Campioni nel 1958?",
+    "options": [
+      "Real Madrid",
+      "Valencia",
+      "Tottenham"
+    ],
+    "answer": 0,
+    "explanation": "Real Madrid vinse la finale del 1958 contro Milan.",
+    "source": "https://en.wikipedia.org/wiki/List_of_European_Cup_and_UEFA_Champions_League_finals",
+    "sourceName": "Archivio storico verificabile"
+  },
+  {
+    "id": "deep-ebf29dcb734c5722b1",
+    "category": "Champions League",
+    "kind": "Finali di un tempo",
+    "difficulty": 2,
+    "question": "Chi affrontò Real Madrid nella finale di Coppa dei Campioni del 1958?",
+    "options": [
+      "Monaco",
+      "Milan",
+      "Reims"
+    ],
+    "answer": 1,
+    "explanation": "Nel 1958 la finale vide Real Madrid contro Milan.",
+    "source": "https://en.wikipedia.org/wiki/List_of_European_Cup_and_UEFA_Champions_League_finals",
+    "sourceName": "Archivio storico verificabile"
+  },
+  {
+    "id": "deep-fc7d90875fd1e8d9c4",
+    "category": "Champions League",
+    "kind": "Coppa dei Campioni",
+    "difficulty": 2,
+    "question": "Chi vinse la Coppa dei Campioni nel 1959?",
+    "options": [
+      "Real Madrid",
+      "Monaco",
+      "Sampdoria"
+    ],
+    "answer": 0,
+    "explanation": "Real Madrid vinse la finale del 1959 contro Reims.",
+    "source": "https://en.wikipedia.org/wiki/List_of_European_Cup_and_UEFA_Champions_League_finals",
+    "sourceName": "Archivio storico verificabile"
+  },
+  {
+    "id": "deep-b13a99246ce5da50e8",
+    "category": "Champions League",
+    "kind": "Finali di un tempo",
+    "difficulty": 2,
+    "question": "Chi affrontò Real Madrid nella finale di Coppa dei Campioni del 1959?",
+    "options": [
+      "Reims",
+      "Amburgo",
+      "Partizan Belgrado"
+    ],
+    "answer": 0,
+    "explanation": "Nel 1959 la finale vide Real Madrid contro Reims.",
+    "source": "https://en.wikipedia.org/wiki/List_of_European_Cup_and_UEFA_Champions_League_finals",
+    "sourceName": "Archivio storico verificabile"
+  },
+  {
+    "id": "deep-73b247eeca2b72d094",
+    "category": "Champions League",
+    "kind": "Coppa dei Campioni",
+    "difficulty": 2,
+    "question": "Chi vinse la Coppa dei Campioni nel 1960?",
+    "options": [
+      "Real Madrid",
+      "Fiorentina",
+      "Eintracht Francoforte"
+    ],
+    "answer": 0,
+    "explanation": "Real Madrid vinse la finale del 1960 contro Eintracht Francoforte.",
+    "source": "https://en.wikipedia.org/wiki/List_of_European_Cup_and_UEFA_Champions_League_finals",
+    "sourceName": "Archivio storico verificabile"
+  },
+  {
+    "id": "deep-c7dd6fab7b683c36f4",
+    "category": "Champions League",
+    "kind": "Finali di un tempo",
+    "difficulty": 2,
+    "question": "Chi affrontò Real Madrid nella finale di Coppa dei Campioni del 1960?",
+    "options": [
+      "Eintracht Francoforte",
+      "Liverpool",
+      "Borussia Dortmund"
+    ],
+    "answer": 0,
+    "explanation": "Nel 1960 la finale vide Real Madrid contro Eintracht Francoforte.",
+    "source": "https://en.wikipedia.org/wiki/List_of_European_Cup_and_UEFA_Champions_League_finals",
+    "sourceName": "Archivio storico verificabile"
+  },
+  {
+    "id": "deep-7c8c17e4a5153a5666",
+    "category": "Champions League",
+    "kind": "Coppa dei Campioni",
+    "difficulty": 2,
+    "question": "Chi vinse la Coppa dei Campioni nel 1961?",
+    "options": [
+      "Marsiglia",
+      "Benfica",
+      "Partizan Belgrado"
+    ],
+    "answer": 1,
+    "explanation": "Benfica vinse la finale del 1961 contro Barcellona.",
+    "source": "https://en.wikipedia.org/wiki/List_of_European_Cup_and_UEFA_Champions_League_finals",
+    "sourceName": "Archivio storico verificabile"
+  },
+  {
+    "id": "deep-468f8bc6edf71cf827",
+    "category": "Champions League",
+    "kind": "Finali di un tempo",
+    "difficulty": 2,
+    "question": "Chi affrontò Benfica nella finale di Coppa dei Campioni del 1961?",
+    "options": [
+      "Eintracht Francoforte",
+      "Barcellona",
+      "Partizan Belgrado"
+    ],
+    "answer": 1,
+    "explanation": "Nel 1961 la finale vide Benfica contro Barcellona.",
+    "source": "https://en.wikipedia.org/wiki/List_of_European_Cup_and_UEFA_Champions_League_finals",
+    "sourceName": "Archivio storico verificabile"
+  },
+  {
+    "id": "deep-a8964aad56f7ede1e6",
+    "category": "Champions League",
+    "kind": "Coppa dei Campioni",
+    "difficulty": 2,
+    "question": "Chi vinse la Coppa dei Campioni nel 1962?",
+    "options": [
+      "Benfica",
+      "Atlético Madrid",
+      "Aston Villa"
+    ],
+    "answer": 0,
+    "explanation": "Benfica vinse la finale del 1962 contro Real Madrid.",
+    "source": "https://en.wikipedia.org/wiki/List_of_European_Cup_and_UEFA_Champions_League_finals",
+    "sourceName": "Archivio storico verificabile"
+  },
+  {
+    "id": "deep-411490a96f555a3838",
+    "category": "Champions League",
+    "kind": "Finali di un tempo",
+    "difficulty": 2,
+    "question": "Chi affrontò Benfica nella finale di Coppa dei Campioni del 1962?",
+    "options": [
+      "Real Madrid",
+      "Arsenal",
+      "Milan"
+    ],
+    "answer": 0,
+    "explanation": "Nel 1962 la finale vide Benfica contro Real Madrid.",
+    "source": "https://en.wikipedia.org/wiki/List_of_European_Cup_and_UEFA_Champions_League_finals",
+    "sourceName": "Archivio storico verificabile"
+  },
+  {
+    "id": "deep-6ddafdfb35817999ee",
+    "category": "Champions League",
+    "kind": "Coppa dei Campioni",
+    "difficulty": 2,
+    "question": "Chi vinse la Coppa dei Campioni nel 1963?",
+    "options": [
+      "Milan",
+      "Manchester City",
+      "Celtic"
+    ],
+    "answer": 0,
+    "explanation": "Milan vinse la finale del 1963 contro Benfica.",
+    "source": "https://en.wikipedia.org/wiki/List_of_European_Cup_and_UEFA_Champions_League_finals",
+    "sourceName": "Archivio storico verificabile"
+  },
+  {
+    "id": "deep-b4e4d9d18acc19f489",
+    "category": "Champions League",
+    "kind": "Finali di un tempo",
+    "difficulty": 2,
+    "question": "Chi affrontò Milan nella finale di Coppa dei Campioni del 1963?",
+    "options": [
+      "Monaco",
+      "Arsenal",
+      "Benfica"
+    ],
+    "answer": 2,
+    "explanation": "Nel 1963 la finale vide Milan contro Benfica.",
+    "source": "https://en.wikipedia.org/wiki/List_of_European_Cup_and_UEFA_Champions_League_finals",
+    "sourceName": "Archivio storico verificabile"
+  },
+  {
+    "id": "deep-6aaa68945c1ff0ae26",
+    "category": "Champions League",
+    "kind": "Coppa dei Campioni",
+    "difficulty": 2,
+    "question": "Chi vinse la Coppa dei Campioni nel 1964?",
+    "options": [
+      "Inter",
+      "Chelsea",
+      "PSV Eindhoven"
+    ],
+    "answer": 0,
+    "explanation": "Inter vinse la finale del 1964 contro Real Madrid.",
+    "source": "https://en.wikipedia.org/wiki/List_of_European_Cup_and_UEFA_Champions_League_finals",
+    "sourceName": "Archivio storico verificabile"
+  },
+  {
+    "id": "deep-86114723a82e1eec39",
+    "category": "Champions League",
+    "kind": "Finali di un tempo",
+    "difficulty": 2,
+    "question": "Chi affrontò Inter nella finale di Coppa dei Campioni del 1964?",
+    "options": [
+      "Real Madrid",
+      "Fiorentina",
+      "Eintracht Francoforte"
+    ],
+    "answer": 0,
+    "explanation": "Nel 1964 la finale vide Inter contro Real Madrid.",
+    "source": "https://en.wikipedia.org/wiki/List_of_European_Cup_and_UEFA_Champions_League_finals",
+    "sourceName": "Archivio storico verificabile"
+  },
+  {
+    "id": "deep-29567d4c06455a6958",
+    "category": "Champions League",
+    "kind": "Coppa dei Campioni",
+    "difficulty": 2,
+    "question": "Chi vinse la Coppa dei Campioni nel 1965?",
+    "options": [
+      "Feyenoord",
+      "Ajax",
+      "Inter"
+    ],
+    "answer": 2,
+    "explanation": "Inter vinse la finale del 1965 contro Benfica.",
+    "source": "https://en.wikipedia.org/wiki/List_of_European_Cup_and_UEFA_Champions_League_finals",
+    "sourceName": "Archivio storico verificabile"
+  },
+  {
+    "id": "deep-6544303a1ac378ff36",
+    "category": "Champions League",
+    "kind": "Finali di un tempo",
+    "difficulty": 2,
+    "question": "Chi affrontò Inter nella finale di Coppa dei Campioni del 1965?",
+    "options": [
+      "Monaco",
+      "Benfica",
+      "Borussia Mönchengladbach"
+    ],
+    "answer": 1,
+    "explanation": "Nel 1965 la finale vide Inter contro Benfica.",
+    "source": "https://en.wikipedia.org/wiki/List_of_European_Cup_and_UEFA_Champions_League_finals",
+    "sourceName": "Archivio storico verificabile"
+  },
+  {
+    "id": "deep-86b613f9725045744c",
+    "category": "Champions League",
+    "kind": "Coppa dei Campioni",
+    "difficulty": 2,
+    "question": "Chi vinse la Coppa dei Campioni nel 1966?",
+    "options": [
+      "Borussia Mönchengladbach",
+      "Real Madrid",
+      "Nottingham Forest"
+    ],
+    "answer": 1,
+    "explanation": "Real Madrid vinse la finale del 1966 contro Partizan Belgrado.",
+    "source": "https://en.wikipedia.org/wiki/List_of_European_Cup_and_UEFA_Champions_League_finals",
+    "sourceName": "Archivio storico verificabile"
+  },
+  {
+    "id": "deep-fa947ee25724e7f3f3",
+    "category": "Champions League",
+    "kind": "Finali di un tempo",
+    "difficulty": 2,
+    "question": "Chi affrontò Real Madrid nella finale di Coppa dei Campioni del 1966?",
+    "options": [
+      "Partizan Belgrado",
+      "Barcellona",
+      "Panathinaikos"
+    ],
+    "answer": 0,
+    "explanation": "Nel 1966 la finale vide Real Madrid contro Partizan Belgrado.",
+    "source": "https://en.wikipedia.org/wiki/List_of_European_Cup_and_UEFA_Champions_League_finals",
+    "sourceName": "Archivio storico verificabile"
+  },
+  {
+    "id": "deep-2a4db3542d87c4c999",
+    "category": "Champions League",
+    "kind": "Coppa dei Campioni",
+    "difficulty": 2,
+    "question": "Chi vinse la Coppa dei Campioni nel 1967?",
+    "options": [
+      "Celtic",
+      "Manchester City",
+      "Benfica"
+    ],
+    "answer": 0,
+    "explanation": "Celtic vinse la finale del 1967 contro Inter.",
+    "source": "https://en.wikipedia.org/wiki/List_of_European_Cup_and_UEFA_Champions_League_finals",
+    "sourceName": "Archivio storico verificabile"
+  },
+  {
+    "id": "deep-7a0093b62760d31be9",
+    "category": "Champions League",
+    "kind": "Finali di un tempo",
+    "difficulty": 2,
+    "question": "Chi affrontò Celtic nella finale di Coppa dei Campioni del 1967?",
+    "options": [
+      "Malmö",
+      "Inter",
+      "Valencia"
+    ],
+    "answer": 1,
+    "explanation": "Nel 1967 la finale vide Celtic contro Inter.",
+    "source": "https://en.wikipedia.org/wiki/List_of_European_Cup_and_UEFA_Champions_League_finals",
+    "sourceName": "Archivio storico verificabile"
+  },
+  {
+    "id": "deep-47482ad88d42a77b9f",
+    "category": "Champions League",
+    "kind": "Coppa dei Campioni",
+    "difficulty": 2,
+    "question": "Chi vinse la Coppa dei Campioni nel 1968?",
+    "options": [
+      "Manchester United",
+      "Partizan Belgrado",
+      "Porto"
+    ],
+    "answer": 0,
+    "explanation": "Manchester United vinse la finale del 1968 contro Benfica.",
+    "source": "https://en.wikipedia.org/wiki/List_of_European_Cup_and_UEFA_Champions_League_finals",
+    "sourceName": "Archivio storico verificabile"
+  },
+  {
+    "id": "deep-545b27c7e359722918",
+    "category": "Champions League",
+    "kind": "Finali di un tempo",
+    "difficulty": 2,
+    "question": "Chi affrontò Manchester United nella finale di Coppa dei Campioni del 1968?",
+    "options": [
+      "Reims",
+      "Barcellona",
+      "Benfica"
+    ],
+    "answer": 2,
+    "explanation": "Nel 1968 la finale vide Manchester United contro Benfica.",
+    "source": "https://en.wikipedia.org/wiki/List_of_European_Cup_and_UEFA_Champions_League_finals",
+    "sourceName": "Archivio storico verificabile"
+  },
+  {
+    "id": "deep-7fcc40ab47db0156fd",
+    "category": "Champions League",
+    "kind": "Coppa dei Campioni",
+    "difficulty": 2,
+    "question": "Chi vinse la Coppa dei Campioni nel 1969?",
+    "options": [
+      "Celtic",
+      "Sampdoria",
+      "Milan"
+    ],
+    "answer": 2,
+    "explanation": "Milan vinse la finale del 1969 contro Ajax.",
+    "source": "https://en.wikipedia.org/wiki/List_of_European_Cup_and_UEFA_Champions_League_finals",
+    "sourceName": "Archivio storico verificabile"
+  },
+  {
+    "id": "deep-1af79c5a6fc345199b",
+    "category": "Champions League",
+    "kind": "Finali di un tempo",
+    "difficulty": 2,
+    "question": "Chi affrontò Milan nella finale di Coppa dei Campioni del 1969?",
+    "options": [
+      "Manchester City",
+      "Ajax",
+      "Juventus"
+    ],
+    "answer": 1,
+    "explanation": "Nel 1969 la finale vide Milan contro Ajax.",
+    "source": "https://en.wikipedia.org/wiki/List_of_European_Cup_and_UEFA_Champions_League_finals",
+    "sourceName": "Archivio storico verificabile"
+  },
+  {
+    "id": "deep-d202959b12db8449db",
+    "category": "Champions League",
+    "kind": "Coppa dei Campioni",
+    "difficulty": 2,
+    "question": "Chi vinse la Coppa dei Campioni nel 1970?",
+    "options": [
+      "Panathinaikos",
+      "Feyenoord",
+      "Borussia Mönchengladbach"
+    ],
+    "answer": 1,
+    "explanation": "Feyenoord vinse la finale del 1970 contro Celtic.",
+    "source": "https://en.wikipedia.org/wiki/List_of_European_Cup_and_UEFA_Champions_League_finals",
+    "sourceName": "Archivio storico verificabile"
+  },
+  {
+    "id": "deep-f8daf11e7acb6a0b37",
+    "category": "Champions League",
+    "kind": "Finali di un tempo",
+    "difficulty": 2,
+    "question": "Chi affrontò Feyenoord nella finale di Coppa dei Campioni del 1970?",
+    "options": [
+      "Sampdoria",
+      "Celtic",
+      "Malmö"
+    ],
+    "answer": 1,
+    "explanation": "Nel 1970 la finale vide Feyenoord contro Celtic.",
+    "source": "https://en.wikipedia.org/wiki/List_of_European_Cup_and_UEFA_Champions_League_finals",
+    "sourceName": "Archivio storico verificabile"
+  },
+  {
+    "id": "deep-5b299aefa5943befb9",
+    "category": "Champions League",
+    "kind": "Coppa dei Campioni",
+    "difficulty": 2,
+    "question": "Chi vinse la Coppa dei Campioni nel 1971?",
+    "options": [
+      "Ajax",
+      "Nottingham Forest",
+      "Inter"
+    ],
+    "answer": 0,
+    "explanation": "Ajax vinse la finale del 1971 contro Panathinaikos.",
+    "source": "https://en.wikipedia.org/wiki/List_of_European_Cup_and_UEFA_Champions_League_finals",
+    "sourceName": "Archivio storico verificabile"
+  },
+  {
+    "id": "deep-f96ed971a6279f6670",
+    "category": "Champions League",
+    "kind": "Finali di un tempo",
+    "difficulty": 2,
+    "question": "Chi affrontò Ajax nella finale di Coppa dei Campioni del 1971?",
+    "options": [
+      "Panathinaikos",
+      "Borussia Dortmund",
+      "Ajax"
+    ],
+    "answer": 0,
+    "explanation": "Nel 1971 la finale vide Ajax contro Panathinaikos.",
+    "source": "https://en.wikipedia.org/wiki/List_of_European_Cup_and_UEFA_Champions_League_finals",
+    "sourceName": "Archivio storico verificabile"
+  },
+  {
+    "id": "deep-50c3918d1df7bce6fc",
+    "category": "Champions League",
+    "kind": "Coppa dei Campioni",
+    "difficulty": 2,
+    "question": "Chi vinse la Coppa dei Campioni nel 1972?",
+    "options": [
+      "Steaua Bucarest",
+      "Ajax",
+      "Manchester City"
+    ],
+    "answer": 1,
+    "explanation": "Ajax vinse la finale del 1972 contro Inter.",
+    "source": "https://en.wikipedia.org/wiki/List_of_European_Cup_and_UEFA_Champions_League_finals",
+    "sourceName": "Archivio storico verificabile"
+  },
+  {
+    "id": "deep-c7d9e13c162e743079",
+    "category": "Champions League",
+    "kind": "Finali di un tempo",
+    "difficulty": 2,
+    "question": "Chi affrontò Ajax nella finale di Coppa dei Campioni del 1972?",
+    "options": [
+      "Inter",
+      "Aston Villa",
+      "Chelsea"
+    ],
+    "answer": 0,
+    "explanation": "Nel 1972 la finale vide Ajax contro Inter.",
+    "source": "https://en.wikipedia.org/wiki/List_of_European_Cup_and_UEFA_Champions_League_finals",
+    "sourceName": "Archivio storico verificabile"
+  },
+  {
+    "id": "deep-6302e1a9cf54a1df49",
+    "category": "Champions League",
+    "kind": "Coppa dei Campioni",
+    "difficulty": 2,
+    "question": "Chi vinse la Coppa dei Campioni nel 1973?",
+    "options": [
+      "Ajax",
+      "Steaua Bucarest",
+      "Borussia Dortmund"
+    ],
+    "answer": 0,
+    "explanation": "Ajax vinse la finale del 1973 contro Juventus.",
+    "source": "https://en.wikipedia.org/wiki/List_of_European_Cup_and_UEFA_Champions_League_finals",
+    "sourceName": "Archivio storico verificabile"
+  },
+  {
+    "id": "deep-84371335fa304cf3bf",
+    "category": "Champions League",
+    "kind": "Finali di un tempo",
+    "difficulty": 2,
+    "question": "Chi affrontò Ajax nella finale di Coppa dei Campioni del 1973?",
+    "options": [
+      "Aston Villa",
+      "Juventus",
+      "Monaco"
+    ],
+    "answer": 1,
+    "explanation": "Nel 1973 la finale vide Ajax contro Juventus.",
+    "source": "https://en.wikipedia.org/wiki/List_of_European_Cup_and_UEFA_Champions_League_finals",
+    "sourceName": "Archivio storico verificabile"
+  },
+  {
+    "id": "deep-d1bdfad58afaa1867f",
+    "category": "Champions League",
+    "kind": "Coppa dei Campioni",
+    "difficulty": 2,
+    "question": "Chi vinse la Coppa dei Campioni nel 1974?",
+    "options": [
+      "Bayern Monaco",
+      "Valencia",
+      "Amburgo"
+    ],
+    "answer": 0,
+    "explanation": "Bayern Monaco vinse la finale del 1974 contro Atlético Madrid.",
+    "source": "https://en.wikipedia.org/wiki/List_of_European_Cup_and_UEFA_Champions_League_finals",
+    "sourceName": "Archivio storico verificabile"
+  },
+  {
+    "id": "deep-1b9178c771a808622f",
+    "category": "Champions League",
+    "kind": "Finali di un tempo",
+    "difficulty": 2,
+    "question": "Chi affrontò Bayern Monaco nella finale di Coppa dei Campioni del 1974?",
+    "options": [
+      "Atlético Madrid",
+      "Nottingham Forest",
+      "Juventus"
+    ],
+    "answer": 0,
+    "explanation": "Nel 1974 la finale vide Bayern Monaco contro Atlético Madrid.",
+    "source": "https://en.wikipedia.org/wiki/List_of_European_Cup_and_UEFA_Champions_League_finals",
+    "sourceName": "Archivio storico verificabile"
+  },
+  {
+    "id": "deep-c18ca607335cc8b7bb",
+    "category": "Champions League",
+    "kind": "Coppa dei Campioni",
+    "difficulty": 2,
+    "question": "Chi vinse la Coppa dei Campioni nel 1975?",
+    "options": [
+      "Manchester United",
+      "Bayern Monaco",
+      "Milan"
+    ],
+    "answer": 1,
+    "explanation": "Bayern Monaco vinse la finale del 1975 contro Leeds United.",
+    "source": "https://en.wikipedia.org/wiki/List_of_European_Cup_and_UEFA_Champions_League_finals",
+    "sourceName": "Archivio storico verificabile"
+  },
+  {
+    "id": "deep-b03a5990d86b19c2a4",
+    "category": "Champions League",
+    "kind": "Finali di un tempo",
+    "difficulty": 2,
+    "question": "Chi affrontò Bayern Monaco nella finale di Coppa dei Campioni del 1975?",
+    "options": [
+      "Leeds United",
+      "Monaco",
+      "Marsiglia"
+    ],
+    "answer": 0,
+    "explanation": "Nel 1975 la finale vide Bayern Monaco contro Leeds United.",
+    "source": "https://en.wikipedia.org/wiki/List_of_European_Cup_and_UEFA_Champions_League_finals",
+    "sourceName": "Archivio storico verificabile"
+  },
+  {
+    "id": "deep-e801068f7e1ef5fb88",
+    "category": "Champions League",
+    "kind": "Coppa dei Campioni",
+    "difficulty": 2,
+    "question": "Chi vinse la Coppa dei Campioni nel 1976?",
+    "options": [
+      "Real Madrid",
+      "Bayern Monaco",
+      "Sampdoria"
+    ],
+    "answer": 1,
+    "explanation": "Bayern Monaco vinse la finale del 1976 contro Saint-Étienne.",
+    "source": "https://en.wikipedia.org/wiki/List_of_European_Cup_and_UEFA_Champions_League_finals",
+    "sourceName": "Archivio storico verificabile"
+  },
+  {
+    "id": "deep-b401dfc150b5fd93a0",
+    "category": "Champions League",
+    "kind": "Finali di un tempo",
+    "difficulty": 2,
+    "question": "Chi affrontò Bayern Monaco nella finale di Coppa dei Campioni del 1976?",
+    "options": [
+      "Reims",
+      "Saint-Étienne",
+      "Sampdoria"
+    ],
+    "answer": 1,
+    "explanation": "Nel 1976 la finale vide Bayern Monaco contro Saint-Étienne.",
+    "source": "https://en.wikipedia.org/wiki/List_of_European_Cup_and_UEFA_Champions_League_finals",
+    "sourceName": "Archivio storico verificabile"
+  },
+  {
+    "id": "deep-ae1331810a9ea1fc98",
+    "category": "Champions League",
+    "kind": "Coppa dei Campioni",
+    "difficulty": 2,
+    "question": "Chi vinse la Coppa dei Campioni nel 1977?",
+    "options": [
+      "Liverpool",
+      "Arsenal",
+      "Roma"
+    ],
+    "answer": 0,
+    "explanation": "Liverpool vinse la finale del 1977 contro Borussia Mönchengladbach.",
+    "source": "https://en.wikipedia.org/wiki/List_of_European_Cup_and_UEFA_Champions_League_finals",
+    "sourceName": "Archivio storico verificabile"
+  },
+  {
+    "id": "deep-5e2a5abed2ac38748b",
+    "category": "Champions League",
+    "kind": "Finali di un tempo",
+    "difficulty": 2,
+    "question": "Chi affrontò Liverpool nella finale di Coppa dei Campioni del 1977?",
+    "options": [
+      "Liverpool",
+      "Borussia Mönchengladbach",
+      "Stella Rossa"
+    ],
+    "answer": 1,
+    "explanation": "Nel 1977 la finale vide Liverpool contro Borussia Mönchengladbach.",
+    "source": "https://en.wikipedia.org/wiki/List_of_European_Cup_and_UEFA_Champions_League_finals",
+    "sourceName": "Archivio storico verificabile"
+  },
+  {
+    "id": "deep-edb185844edd0c2df9",
+    "category": "Champions League",
+    "kind": "Coppa dei Campioni",
+    "difficulty": 2,
+    "question": "Chi vinse la Coppa dei Campioni nel 1978?",
+    "options": [
+      "Liverpool",
+      "Stella Rossa",
+      "Ajax"
+    ],
+    "answer": 0,
+    "explanation": "Liverpool vinse la finale del 1978 contro Club Brugge.",
+    "source": "https://en.wikipedia.org/wiki/List_of_European_Cup_and_UEFA_Champions_League_finals",
+    "sourceName": "Archivio storico verificabile"
+  },
+  {
+    "id": "deep-7f67415eaa50cb4c50",
+    "category": "Champions League",
+    "kind": "Finali di un tempo",
+    "difficulty": 2,
+    "question": "Chi affrontò Liverpool nella finale di Coppa dei Campioni del 1978?",
+    "options": [
+      "Club Brugge",
+      "Leeds United",
+      "Liverpool"
+    ],
+    "answer": 0,
+    "explanation": "Nel 1978 la finale vide Liverpool contro Club Brugge.",
+    "source": "https://en.wikipedia.org/wiki/List_of_European_Cup_and_UEFA_Champions_League_finals",
+    "sourceName": "Archivio storico verificabile"
+  },
+  {
+    "id": "deep-4b96501f2bbc3b96ed",
+    "category": "Champions League",
+    "kind": "Coppa dei Campioni",
+    "difficulty": 2,
+    "question": "Chi vinse la Coppa dei Campioni nel 1979?",
+    "options": [
+      "Nottingham Forest",
+      "Paris Saint-Germain",
+      "Real Madrid"
+    ],
+    "answer": 0,
+    "explanation": "Nottingham Forest vinse la finale del 1979 contro Malmö.",
+    "source": "https://en.wikipedia.org/wiki/List_of_European_Cup_and_UEFA_Champions_League_finals",
+    "sourceName": "Archivio storico verificabile"
+  },
+  {
+    "id": "deep-ab7dec71264f169af7",
+    "category": "Champions League",
+    "kind": "Finali di un tempo",
+    "difficulty": 2,
+    "question": "Chi affrontò Nottingham Forest nella finale di Coppa dei Campioni del 1979?",
+    "options": [
+      "Partizan Belgrado",
+      "Malmö",
+      "Atlético Madrid"
+    ],
+    "answer": 1,
+    "explanation": "Nel 1979 la finale vide Nottingham Forest contro Malmö.",
+    "source": "https://en.wikipedia.org/wiki/List_of_European_Cup_and_UEFA_Champions_League_finals",
+    "sourceName": "Archivio storico verificabile"
+  },
+  {
+    "id": "deep-6fab599429f15365d5",
+    "category": "Champions League",
+    "kind": "Coppa dei Campioni",
+    "difficulty": 2,
+    "question": "Chi vinse la Coppa dei Campioni nel 1980?",
+    "options": [
+      "Nottingham Forest",
+      "Valencia",
+      "Arsenal"
+    ],
+    "answer": 0,
+    "explanation": "Nottingham Forest vinse la finale del 1980 contro Amburgo.",
+    "source": "https://en.wikipedia.org/wiki/List_of_European_Cup_and_UEFA_Champions_League_finals",
+    "sourceName": "Archivio storico verificabile"
+  },
+  {
+    "id": "deep-58496a7b3d287456d6",
+    "category": "Champions League",
+    "kind": "Finali di un tempo",
+    "difficulty": 2,
+    "question": "Chi affrontò Nottingham Forest nella finale di Coppa dei Campioni del 1980?",
+    "options": [
+      "Amburgo",
+      "Steaua Bucarest",
+      "Leeds United"
+    ],
+    "answer": 0,
+    "explanation": "Nel 1980 la finale vide Nottingham Forest contro Amburgo.",
+    "source": "https://en.wikipedia.org/wiki/List_of_European_Cup_and_UEFA_Champions_League_finals",
+    "sourceName": "Archivio storico verificabile"
+  },
+  {
+    "id": "deep-641b12a10b8ffbaa13",
+    "category": "Champions League",
+    "kind": "Coppa dei Campioni",
+    "difficulty": 2,
+    "question": "Chi vinse la Coppa dei Campioni nel 1981?",
+    "options": [
+      "Chelsea",
+      "Borussia Dortmund",
+      "Liverpool"
+    ],
+    "answer": 2,
+    "explanation": "Liverpool vinse la finale del 1981 contro Real Madrid.",
+    "source": "https://en.wikipedia.org/wiki/List_of_European_Cup_and_UEFA_Champions_League_finals",
+    "sourceName": "Archivio storico verificabile"
+  },
+  {
+    "id": "deep-c9985eeb9dddf88b62",
+    "category": "Champions League",
+    "kind": "Finali di un tempo",
+    "difficulty": 2,
+    "question": "Chi affrontò Liverpool nella finale di Coppa dei Campioni del 1981?",
+    "options": [
+      "Real Madrid",
+      "Chelsea",
+      "Roma"
+    ],
+    "answer": 0,
+    "explanation": "Nel 1981 la finale vide Liverpool contro Real Madrid.",
+    "source": "https://en.wikipedia.org/wiki/List_of_European_Cup_and_UEFA_Champions_League_finals",
+    "sourceName": "Archivio storico verificabile"
+  },
+  {
+    "id": "deep-62f569bcfd3a80ed55",
+    "category": "Champions League",
+    "kind": "Coppa dei Campioni",
+    "difficulty": 2,
+    "question": "Chi vinse la Coppa dei Campioni nel 1982?",
+    "options": [
+      "Milan",
+      "Aston Villa",
+      "Tottenham"
+    ],
+    "answer": 1,
+    "explanation": "Aston Villa vinse la finale del 1982 contro Bayern Monaco.",
+    "source": "https://en.wikipedia.org/wiki/List_of_European_Cup_and_UEFA_Champions_League_finals",
+    "sourceName": "Archivio storico verificabile"
+  },
+  {
+    "id": "deep-d1b5f20427f6dc19a5",
+    "category": "Champions League",
+    "kind": "Finali di un tempo",
+    "difficulty": 2,
+    "question": "Chi affrontò Aston Villa nella finale di Coppa dei Campioni del 1982?",
+    "options": [
+      "Porto",
+      "Real Madrid",
+      "Bayern Monaco"
+    ],
+    "answer": 2,
+    "explanation": "Nel 1982 la finale vide Aston Villa contro Bayern Monaco.",
+    "source": "https://en.wikipedia.org/wiki/List_of_European_Cup_and_UEFA_Champions_League_finals",
+    "sourceName": "Archivio storico verificabile"
+  },
+  {
+    "id": "deep-6c6bca1a51a8db8fbd",
+    "category": "Champions League",
+    "kind": "Coppa dei Campioni",
+    "difficulty": 2,
+    "question": "Chi vinse la Coppa dei Campioni nel 1983?",
+    "options": [
+      "Milan",
+      "Ajax",
+      "Amburgo"
+    ],
+    "answer": 2,
+    "explanation": "Amburgo vinse la finale del 1983 contro Juventus.",
+    "source": "https://en.wikipedia.org/wiki/List_of_European_Cup_and_UEFA_Champions_League_finals",
+    "sourceName": "Archivio storico verificabile"
+  },
+  {
+    "id": "deep-8822180b33d0e52d6f",
+    "category": "Champions League",
+    "kind": "Finali di un tempo",
+    "difficulty": 2,
+    "question": "Chi affrontò Amburgo nella finale di Coppa dei Campioni del 1983?",
+    "options": [
+      "Tottenham",
+      "Steaua Bucarest",
+      "Juventus"
+    ],
+    "answer": 2,
+    "explanation": "Nel 1983 la finale vide Amburgo contro Juventus.",
+    "source": "https://en.wikipedia.org/wiki/List_of_European_Cup_and_UEFA_Champions_League_finals",
+    "sourceName": "Archivio storico verificabile"
+  },
+  {
+    "id": "deep-ebca25c1028ead1fff",
+    "category": "Champions League",
+    "kind": "Coppa dei Campioni",
+    "difficulty": 2,
+    "question": "Chi vinse la Coppa dei Campioni nel 1984?",
+    "options": [
+      "Marsiglia",
+      "Liverpool",
+      "Celtic"
+    ],
+    "answer": 1,
+    "explanation": "Liverpool vinse la finale del 1984 contro Roma.",
+    "source": "https://en.wikipedia.org/wiki/List_of_European_Cup_and_UEFA_Champions_League_finals",
+    "sourceName": "Archivio storico verificabile"
+  },
+  {
+    "id": "deep-2ac5fcf493780b3906",
+    "category": "Champions League",
+    "kind": "Finali di un tempo",
+    "difficulty": 2,
+    "question": "Chi affrontò Liverpool nella finale di Coppa dei Campioni del 1984?",
+    "options": [
+      "Roma",
+      "Saint-Étienne",
+      "Celtic"
+    ],
+    "answer": 0,
+    "explanation": "Nel 1984 la finale vide Liverpool contro Roma.",
+    "source": "https://en.wikipedia.org/wiki/List_of_European_Cup_and_UEFA_Champions_League_finals",
+    "sourceName": "Archivio storico verificabile"
+  },
+  {
+    "id": "deep-ef6f731860b0b43a16",
+    "category": "Champions League",
+    "kind": "Coppa dei Campioni",
+    "difficulty": 2,
+    "question": "Chi vinse la Coppa dei Campioni nel 1985?",
+    "options": [
+      "Amburgo",
+      "Juventus",
+      "Fiorentina"
+    ],
+    "answer": 1,
+    "explanation": "Juventus vinse la finale del 1985 contro Liverpool.",
+    "source": "https://en.wikipedia.org/wiki/List_of_European_Cup_and_UEFA_Champions_League_finals",
+    "sourceName": "Archivio storico verificabile"
+  },
+  {
+    "id": "deep-0597d28fc5bebac7f2",
+    "category": "Champions League",
+    "kind": "Finali di un tempo",
+    "difficulty": 2,
+    "question": "Chi affrontò Juventus nella finale di Coppa dei Campioni del 1985?",
+    "options": [
+      "Borussia Dortmund",
+      "Sampdoria",
+      "Liverpool"
+    ],
+    "answer": 2,
+    "explanation": "Nel 1985 la finale vide Juventus contro Liverpool.",
+    "source": "https://en.wikipedia.org/wiki/List_of_European_Cup_and_UEFA_Champions_League_finals",
+    "sourceName": "Archivio storico verificabile"
+  },
+  {
+    "id": "deep-836c16f7be33185130",
+    "category": "Champions League",
+    "kind": "Coppa dei Campioni",
+    "difficulty": 2,
+    "question": "Chi vinse la Coppa dei Campioni nel 1986?",
+    "options": [
+      "Marsiglia",
+      "Stella Rossa",
+      "Steaua Bucarest"
+    ],
+    "answer": 2,
+    "explanation": "Steaua Bucarest vinse la finale del 1986 contro Barcellona.",
+    "source": "https://en.wikipedia.org/wiki/List_of_European_Cup_and_UEFA_Champions_League_finals",
+    "sourceName": "Archivio storico verificabile"
+  },
+  {
+    "id": "deep-ee4c1ec7bb804d73ee",
+    "category": "Champions League",
+    "kind": "Finali di un tempo",
+    "difficulty": 2,
+    "question": "Chi affrontò Steaua Bucarest nella finale di Coppa dei Campioni del 1986?",
+    "options": [
+      "Barcellona",
+      "Celtic",
+      "Steaua Bucarest"
+    ],
+    "answer": 0,
+    "explanation": "Nel 1986 la finale vide Steaua Bucarest contro Barcellona.",
+    "source": "https://en.wikipedia.org/wiki/List_of_European_Cup_and_UEFA_Champions_League_finals",
+    "sourceName": "Archivio storico verificabile"
+  },
+  {
+    "id": "deep-e5a9157e4d68e102ba",
+    "category": "Champions League",
+    "kind": "Coppa dei Campioni",
+    "difficulty": 2,
+    "question": "Chi vinse la Coppa dei Campioni nel 1987?",
+    "options": [
+      "Manchester City",
+      "Eintracht Francoforte",
+      "Porto"
+    ],
+    "answer": 2,
+    "explanation": "Porto vinse la finale del 1987 contro Bayern Monaco.",
+    "source": "https://en.wikipedia.org/wiki/List_of_European_Cup_and_UEFA_Champions_League_finals",
+    "sourceName": "Archivio storico verificabile"
+  },
+  {
+    "id": "deep-2c300e3f8484b8ee84",
+    "category": "Champions League",
+    "kind": "Finali di un tempo",
+    "difficulty": 2,
+    "question": "Chi affrontò Porto nella finale di Coppa dei Campioni del 1987?",
+    "options": [
+      "Bayern Monaco",
+      "Ajax",
+      "Stella Rossa"
+    ],
+    "answer": 0,
+    "explanation": "Nel 1987 la finale vide Porto contro Bayern Monaco.",
+    "source": "https://en.wikipedia.org/wiki/List_of_European_Cup_and_UEFA_Champions_League_finals",
+    "sourceName": "Archivio storico verificabile"
+  },
+  {
+    "id": "deep-045663f9f44c35f275",
+    "category": "Champions League",
+    "kind": "Coppa dei Campioni",
+    "difficulty": 2,
+    "question": "Chi vinse la Coppa dei Campioni nel 1988?",
+    "options": [
+      "Bayer Leverkusen",
+      "PSV Eindhoven",
+      "Inter"
+    ],
+    "answer": 1,
+    "explanation": "PSV Eindhoven vinse la finale del 1988 contro Benfica.",
+    "source": "https://en.wikipedia.org/wiki/List_of_European_Cup_and_UEFA_Champions_League_finals",
+    "sourceName": "Archivio storico verificabile"
+  },
+  {
+    "id": "deep-b6ee7f3fbe00ff678b",
+    "category": "Champions League",
+    "kind": "Finali di un tempo",
+    "difficulty": 2,
+    "question": "Chi affrontò PSV Eindhoven nella finale di Coppa dei Campioni del 1988?",
+    "options": [
+      "Borussia Dortmund",
+      "Benfica",
+      "Barcellona"
+    ],
+    "answer": 1,
+    "explanation": "Nel 1988 la finale vide PSV Eindhoven contro Benfica.",
+    "source": "https://en.wikipedia.org/wiki/List_of_European_Cup_and_UEFA_Champions_League_finals",
+    "sourceName": "Archivio storico verificabile"
+  },
+  {
+    "id": "deep-8d82603d2401116533",
+    "category": "Champions League",
+    "kind": "Coppa dei Campioni",
+    "difficulty": 2,
+    "question": "Chi vinse la Coppa dei Campioni nel 1989?",
+    "options": [
+      "Saint-Étienne",
+      "Milan",
+      "Eintracht Francoforte"
+    ],
+    "answer": 1,
+    "explanation": "Milan vinse la finale del 1989 contro Steaua Bucarest.",
+    "source": "https://en.wikipedia.org/wiki/List_of_European_Cup_and_UEFA_Champions_League_finals",
+    "sourceName": "Archivio storico verificabile"
+  },
+  {
+    "id": "deep-05b896c247b80b5561",
+    "category": "Champions League",
+    "kind": "Finali di un tempo",
+    "difficulty": 2,
+    "question": "Chi affrontò Milan nella finale di Coppa dei Campioni del 1989?",
+    "options": [
+      "Steaua Bucarest",
+      "Celtic",
+      "Stella Rossa"
+    ],
+    "answer": 0,
+    "explanation": "Nel 1989 la finale vide Milan contro Steaua Bucarest.",
+    "source": "https://en.wikipedia.org/wiki/List_of_European_Cup_and_UEFA_Champions_League_finals",
+    "sourceName": "Archivio storico verificabile"
+  },
+  {
+    "id": "deep-899689fa8f6b7ba120",
+    "category": "Champions League",
+    "kind": "Coppa dei Campioni",
+    "difficulty": 2,
+    "question": "Chi vinse la Coppa dei Campioni nel 1990?",
+    "options": [
+      "Chelsea",
+      "Liverpool",
+      "Milan"
+    ],
+    "answer": 2,
+    "explanation": "Milan vinse la finale del 1990 contro Benfica.",
+    "source": "https://en.wikipedia.org/wiki/List_of_European_Cup_and_UEFA_Champions_League_finals",
+    "sourceName": "Archivio storico verificabile"
+  },
+  {
+    "id": "deep-87bdd645b9733a556e",
+    "category": "Champions League",
+    "kind": "Finali di un tempo",
+    "difficulty": 2,
+    "question": "Chi affrontò Milan nella finale di Coppa dei Campioni del 1990?",
+    "options": [
+      "Monaco",
+      "Amburgo",
+      "Benfica"
+    ],
+    "answer": 2,
+    "explanation": "Nel 1990 la finale vide Milan contro Benfica.",
+    "source": "https://en.wikipedia.org/wiki/List_of_European_Cup_and_UEFA_Champions_League_finals",
+    "sourceName": "Archivio storico verificabile"
+  },
+  {
+    "id": "deep-a433c6629776130f30",
+    "category": "Champions League",
+    "kind": "Coppa dei Campioni",
+    "difficulty": 2,
+    "question": "Chi vinse la Coppa dei Campioni nel 1991?",
+    "options": [
+      "Stella Rossa",
+      "Manchester United",
+      "Malmö"
+    ],
+    "answer": 0,
+    "explanation": "Stella Rossa vinse la finale del 1991 contro Marsiglia.",
+    "source": "https://en.wikipedia.org/wiki/List_of_European_Cup_and_UEFA_Champions_League_finals",
+    "sourceName": "Archivio storico verificabile"
+  },
+  {
+    "id": "deep-47d51fc4b65d3eb317",
+    "category": "Champions League",
+    "kind": "Finali di un tempo",
+    "difficulty": 2,
+    "question": "Chi affrontò Stella Rossa nella finale di Coppa dei Campioni del 1991?",
+    "options": [
+      "Marsiglia",
+      "PSV Eindhoven",
+      "Real Madrid"
+    ],
+    "answer": 0,
+    "explanation": "Nel 1991 la finale vide Stella Rossa contro Marsiglia.",
+    "source": "https://en.wikipedia.org/wiki/List_of_European_Cup_and_UEFA_Champions_League_finals",
+    "sourceName": "Archivio storico verificabile"
+  },
+  {
+    "id": "deep-9646fa4ea3b162a413",
+    "category": "Champions League",
+    "kind": "Coppa dei Campioni",
+    "difficulty": 2,
+    "question": "Chi vinse la Coppa dei Campioni nel 1992?",
+    "options": [
+      "Malmö",
+      "Barcellona",
+      "Celtic"
+    ],
+    "answer": 1,
+    "explanation": "Barcellona vinse la finale del 1992 contro Sampdoria.",
+    "source": "https://en.wikipedia.org/wiki/List_of_European_Cup_and_UEFA_Champions_League_finals",
+    "sourceName": "Archivio storico verificabile"
+  },
+  {
+    "id": "deep-4399d126b9728ef0c0",
+    "category": "Champions League",
+    "kind": "Finali di un tempo",
+    "difficulty": 2,
+    "question": "Chi affrontò Barcellona nella finale di Coppa dei Campioni del 1992?",
+    "options": [
+      "Partizan Belgrado",
+      "Sampdoria",
+      "Saint-Étienne"
+    ],
+    "answer": 1,
+    "explanation": "Nel 1992 la finale vide Barcellona contro Sampdoria.",
+    "source": "https://en.wikipedia.org/wiki/List_of_European_Cup_and_UEFA_Champions_League_finals",
+    "sourceName": "Archivio storico verificabile"
+  },
+  {
+    "id": "deep-13affc5852a33cf593",
+    "category": "Champions League",
+    "kind": "Allenatori europei",
+    "difficulty": 2,
+    "question": "Quale allenatore conquistò la Champions League nel 1993 guidando Marsiglia?",
+    "options": [
+      "Carlo Ancelotti",
+      "Raymond Goethals",
+      "Luis Enrique"
+    ],
+    "answer": 1,
+    "explanation": "Raymond Goethals guidò Marsiglia al titolo europeo del 1993.",
+    "source": "https://www.uefa.com/uefachampionsleague/history/",
+    "sourceName": "Archivio storico verificabile"
+  },
+  {
+    "id": "deep-b25298231e2b9f06a4",
+    "category": "Champions League",
+    "kind": "Sedi delle finali",
+    "difficulty": 2,
+    "question": "In quale città si giocò la finale di Champions League del 1993?",
+    "options": [
+      "Cardiff",
+      "Istanbul",
+      "Monaco di Baviera"
+    ],
+    "answer": 2,
+    "explanation": "La finale del 1993 fra Marsiglia e Milan si giocò a Monaco di Baviera.",
+    "source": "https://www.uefa.com/uefachampionsleague/history/",
+    "sourceName": "Archivio storico verificabile"
+  },
+  {
+    "id": "deep-7d0bf0c8f28c4c4bd0",
+    "category": "Champions League",
+    "kind": "Allenatori europei",
+    "difficulty": 2,
+    "question": "Quale allenatore conquistò la Champions League nel 1994 guidando Milan?",
+    "options": [
+      "Rafael Benítez",
+      "Carlo Ancelotti",
+      "Fabio Capello"
+    ],
+    "answer": 2,
+    "explanation": "Fabio Capello guidò Milan al titolo europeo del 1994.",
+    "source": "https://www.uefa.com/uefachampionsleague/history/",
+    "sourceName": "Archivio storico verificabile"
+  },
+  {
+    "id": "deep-e668ad128416fe6008",
+    "category": "Champions League",
+    "kind": "Sedi delle finali",
+    "difficulty": 2,
+    "question": "In quale città si giocò la finale di Champions League del 1994?",
+    "options": [
+      "Madrid",
+      "Atene",
+      "Glasgow"
+    ],
+    "answer": 1,
+    "explanation": "La finale del 1994 fra Milan e Barcellona si giocò a Atene.",
+    "source": "https://www.uefa.com/uefachampionsleague/history/",
+    "sourceName": "Archivio storico verificabile"
+  },
+  {
+    "id": "deep-f7518852113403730e",
+    "category": "Champions League",
+    "kind": "Allenatori europei",
+    "difficulty": 2,
+    "question": "Quale allenatore conquistò la Champions League nel 1995 guidando Ajax?",
+    "options": [
+      "Fabio Capello",
+      "Carlo Ancelotti",
+      "Louis van Gaal"
+    ],
+    "answer": 2,
+    "explanation": "Louis van Gaal guidò Ajax al titolo europeo del 1995.",
+    "source": "https://www.uefa.com/uefachampionsleague/history/",
+    "sourceName": "Archivio storico verificabile"
+  },
+  {
+    "id": "deep-bd94c28eb2bf99e084",
+    "category": "Champions League",
+    "kind": "Sedi delle finali",
+    "difficulty": 2,
+    "question": "In quale città si giocò la finale di Champions League del 1995?",
+    "options": [
+      "Vienna",
+      "Monaco di Baviera",
+      "Kyiv"
+    ],
+    "answer": 0,
+    "explanation": "La finale del 1995 fra Ajax e Milan si giocò a Vienna.",
+    "source": "https://www.uefa.com/uefachampionsleague/history/",
+    "sourceName": "Archivio storico verificabile"
+  },
+  {
+    "id": "deep-4a68142f1230f7cf75",
+    "category": "Champions League",
+    "kind": "Allenatori europei",
+    "difficulty": 2,
+    "question": "Quale allenatore conquistò la Champions League nel 1996 guidando Juventus?",
+    "options": [
+      "Louis van Gaal",
+      "Alex Ferguson",
+      "Marcello Lippi"
+    ],
+    "answer": 2,
+    "explanation": "Marcello Lippi guidò Juventus al titolo europeo del 1996.",
+    "source": "https://www.uefa.com/uefachampionsleague/history/",
+    "sourceName": "Archivio storico verificabile"
+  },
+  {
+    "id": "deep-235de256d1d064e516",
+    "category": "Champions League",
+    "kind": "Sedi delle finali",
+    "difficulty": 2,
+    "question": "In quale città si giocò la finale di Champions League del 1996?",
+    "options": [
+      "Cardiff",
+      "Roma",
+      "Monaco di Baviera"
+    ],
+    "answer": 1,
+    "explanation": "La finale del 1996 fra Juventus e Ajax si giocò a Roma.",
+    "source": "https://www.uefa.com/uefachampionsleague/history/",
+    "sourceName": "Archivio storico verificabile"
+  },
+  {
+    "id": "deep-a281a8889f2e59891f",
+    "category": "Champions League",
+    "kind": "Allenatori europei",
+    "difficulty": 2,
+    "question": "Quale allenatore conquistò la Champions League nel 1997 guidando Borussia Dortmund?",
+    "options": [
+      "Jupp Heynckes",
+      "Ottmar Hitzfeld",
+      "Fabio Capello"
+    ],
+    "answer": 1,
+    "explanation": "Ottmar Hitzfeld guidò Borussia Dortmund al titolo europeo del 1997.",
+    "source": "https://www.uefa.com/uefachampionsleague/history/",
+    "sourceName": "Archivio storico verificabile"
+  },
+  {
+    "id": "deep-f810596a787bfb2f33",
+    "category": "Champions League",
+    "kind": "Sedi delle finali",
+    "difficulty": 2,
+    "question": "In quale città si giocò la finale di Champions League del 1997?",
+    "options": [
+      "Vienna",
+      "Lisbona",
+      "Monaco di Baviera"
+    ],
+    "answer": 2,
+    "explanation": "La finale del 1997 fra Borussia Dortmund e Juventus si giocò a Monaco di Baviera.",
+    "source": "https://www.uefa.com/uefachampionsleague/history/",
+    "sourceName": "Archivio storico verificabile"
+  },
+  {
+    "id": "deep-c72755858ced0906d7",
+    "category": "Champions League",
+    "kind": "Allenatori europei",
+    "difficulty": 2,
+    "question": "Quale allenatore conquistò la Champions League nel 1998 guidando Real Madrid?",
+    "options": [
+      "Jupp Heynckes",
+      "Rafael Benítez",
+      "Luis Enrique"
+    ],
+    "answer": 0,
+    "explanation": "Jupp Heynckes guidò Real Madrid al titolo europeo del 1998.",
+    "source": "https://www.uefa.com/uefachampionsleague/history/",
+    "sourceName": "Archivio storico verificabile"
+  },
+  {
+    "id": "deep-9b28414a54b9490224",
+    "category": "Champions League",
+    "kind": "Sedi delle finali",
+    "difficulty": 2,
+    "question": "In quale città si giocò la finale di Champions League del 1998?",
+    "options": [
+      "Istanbul",
+      "Berlino",
+      "Amsterdam"
+    ],
+    "answer": 2,
+    "explanation": "La finale del 1998 fra Real Madrid e Juventus si giocò a Amsterdam.",
+    "source": "https://www.uefa.com/uefachampionsleague/history/",
+    "sourceName": "Archivio storico verificabile"
+  },
+  {
+    "id": "deep-e921b0022ca1300d45",
+    "category": "Champions League",
+    "kind": "Allenatori europei",
+    "difficulty": 2,
+    "question": "Quale allenatore conquistò la Champions League nel 1999 guidando Manchester United?",
+    "options": [
+      "Alex Ferguson",
+      "Pep Guardiola",
+      "Ottmar Hitzfeld"
+    ],
+    "answer": 0,
+    "explanation": "Alex Ferguson guidò Manchester United al titolo europeo del 1999.",
+    "source": "https://www.uefa.com/uefachampionsleague/history/",
+    "sourceName": "Archivio storico verificabile"
+  },
+  {
+    "id": "deep-3c9e203526c9dadd20",
+    "category": "Champions League",
+    "kind": "Sedi delle finali",
+    "difficulty": 2,
+    "question": "In quale città si giocò la finale di Champions League del 1999?",
+    "options": [
+      "Londra",
+      "Barcellona",
+      "Madrid"
+    ],
+    "answer": 1,
+    "explanation": "La finale del 1999 fra Manchester United e Bayern Monaco si giocò a Barcellona.",
+    "source": "https://www.uefa.com/uefachampionsleague/history/",
+    "sourceName": "Archivio storico verificabile"
+  },
+  {
+    "id": "deep-9b73004c62f1d29082",
+    "category": "Champions League",
+    "kind": "Allenatori europei",
+    "difficulty": 2,
+    "question": "Quale allenatore conquistò la Champions League nel 2000 guidando Real Madrid?",
+    "options": [
+      "José Mourinho",
+      "Ottmar Hitzfeld",
+      "Vicente del Bosque"
+    ],
+    "answer": 2,
+    "explanation": "Vicente del Bosque guidò Real Madrid al titolo europeo del 2000.",
+    "source": "https://www.uefa.com/uefachampionsleague/history/",
+    "sourceName": "Archivio storico verificabile"
+  },
+  {
+    "id": "deep-de5ae26b9691cc756a",
+    "category": "Champions League",
+    "kind": "Sedi delle finali",
+    "difficulty": 2,
+    "question": "In quale città si giocò la finale di Champions League del 2000?",
+    "options": [
+      "Barcellona",
+      "Manchester",
+      "Saint-Denis"
+    ],
+    "answer": 2,
+    "explanation": "La finale del 2000 fra Real Madrid e Valencia si giocò a Saint-Denis.",
+    "source": "https://www.uefa.com/uefachampionsleague/history/",
+    "sourceName": "Archivio storico verificabile"
+  },
+  {
+    "id": "deep-09ecb1184f1d165aea",
+    "category": "Champions League",
+    "kind": "Allenatori europei",
+    "difficulty": 2,
+    "question": "Quale allenatore conquistò la Champions League nel 2001 guidando Bayern Monaco?",
+    "options": [
+      "Fabio Capello",
+      "Ottmar Hitzfeld",
+      "Rafael Benítez"
+    ],
+    "answer": 1,
+    "explanation": "Ottmar Hitzfeld guidò Bayern Monaco al titolo europeo del 2001.",
+    "source": "https://www.uefa.com/uefachampionsleague/history/",
+    "sourceName": "Archivio storico verificabile"
+  },
+  {
+    "id": "deep-c824581bb4f6ed3d1b",
+    "category": "Champions League",
+    "kind": "Sedi delle finali",
+    "difficulty": 2,
+    "question": "In quale città si giocò la finale di Champions League del 2001?",
+    "options": [
+      "Glasgow",
+      "Milano",
+      "Porto"
+    ],
+    "answer": 1,
+    "explanation": "La finale del 2001 fra Bayern Monaco e Valencia si giocò a Milano.",
+    "source": "https://www.uefa.com/uefachampionsleague/history/",
+    "sourceName": "Archivio storico verificabile"
+  },
+  {
+    "id": "deep-8ef326af3b12947d3c",
+    "category": "Champions League",
+    "kind": "Allenatori europei",
+    "difficulty": 2,
+    "question": "Quale allenatore conquistò la Champions League nel 2002 guidando Real Madrid?",
+    "options": [
+      "Jürgen Klopp",
+      "Pep Guardiola",
+      "Vicente del Bosque"
+    ],
+    "answer": 2,
+    "explanation": "Vicente del Bosque guidò Real Madrid al titolo europeo del 2002.",
+    "source": "https://www.uefa.com/uefachampionsleague/history/",
+    "sourceName": "Archivio storico verificabile"
+  },
+  {
+    "id": "deep-162793fa1938941128",
+    "category": "Champions League",
+    "kind": "Sedi delle finali",
+    "difficulty": 2,
+    "question": "In quale città si giocò la finale di Champions League del 2002?",
+    "options": [
+      "Roma",
+      "Londra",
+      "Glasgow"
+    ],
+    "answer": 2,
+    "explanation": "La finale del 2002 fra Real Madrid e Bayer Leverkusen si giocò a Glasgow.",
+    "source": "https://www.uefa.com/uefachampionsleague/history/",
+    "sourceName": "Archivio storico verificabile"
+  },
+  {
+    "id": "deep-18bf594488519e939f",
+    "category": "Champions League",
+    "kind": "Allenatori europei",
+    "difficulty": 2,
+    "question": "Quale allenatore conquistò la Champions League nel 2003 guidando Milan?",
+    "options": [
+      "Carlo Ancelotti",
+      "Rafael Benítez",
+      "Thomas Tuchel"
+    ],
+    "answer": 0,
+    "explanation": "Carlo Ancelotti guidò Milan al titolo europeo del 2003.",
+    "source": "https://www.uefa.com/uefachampionsleague/history/",
+    "sourceName": "Archivio storico verificabile"
+  },
+  {
+    "id": "deep-b80ebd22af0a1a5223",
+    "category": "Champions League",
+    "kind": "Sedi delle finali",
+    "difficulty": 2,
+    "question": "In quale città si giocò la finale di Champions League del 2003?",
+    "options": [
+      "Saint-Denis",
+      "Manchester",
+      "Berlino"
+    ],
+    "answer": 1,
+    "explanation": "La finale del 2003 fra Milan e Juventus si giocò a Manchester.",
+    "source": "https://www.uefa.com/uefachampionsleague/history/",
+    "sourceName": "Archivio storico verificabile"
+  },
+  {
+    "id": "deep-a823e07fcd4a43bc24",
+    "category": "Champions League",
+    "kind": "Allenatori europei",
+    "difficulty": 2,
+    "question": "Quale allenatore conquistò la Champions League nel 2004 guidando Porto?",
+    "options": [
+      "Roberto Di Matteo",
+      "Jürgen Klopp",
+      "José Mourinho"
+    ],
+    "answer": 2,
+    "explanation": "José Mourinho guidò Porto al titolo europeo del 2004.",
+    "source": "https://www.uefa.com/uefachampionsleague/history/",
+    "sourceName": "Archivio storico verificabile"
+  },
+  {
+    "id": "deep-a54228c5b88d9ac82b",
+    "category": "Champions League",
+    "kind": "Sedi delle finali",
+    "difficulty": 2,
+    "question": "In quale città si giocò la finale di Champions League del 2004?",
+    "options": [
+      "Gelsenkirchen",
+      "Cardiff",
+      "Porto"
+    ],
+    "answer": 0,
+    "explanation": "La finale del 2004 fra Porto e Monaco si giocò a Gelsenkirchen.",
+    "source": "https://www.uefa.com/uefachampionsleague/history/",
+    "sourceName": "Archivio storico verificabile"
+  },
+  {
+    "id": "deep-3e0ff296e5e9ebda96",
+    "category": "Champions League",
+    "kind": "Allenatori europei",
+    "difficulty": 2,
+    "question": "Quale allenatore conquistò la Champions League nel 2005 guidando Liverpool?",
+    "options": [
+      "Rafael Benítez",
+      "Raymond Goethals",
+      "Marcello Lippi"
+    ],
+    "answer": 0,
+    "explanation": "Rafael Benítez guidò Liverpool al titolo europeo del 2005.",
+    "source": "https://www.uefa.com/uefachampionsleague/history/",
+    "sourceName": "Archivio storico verificabile"
+  },
+  {
+    "id": "deep-5a1c8418ea61a5882d",
+    "category": "Champions League",
+    "kind": "Sedi delle finali",
+    "difficulty": 2,
+    "question": "In quale città si giocò la finale di Champions League del 2005?",
+    "options": [
+      "Vienna",
+      "Istanbul",
+      "Saint-Denis"
+    ],
+    "answer": 1,
+    "explanation": "La finale del 2005 fra Liverpool e Milan si giocò a Istanbul.",
+    "source": "https://www.uefa.com/uefachampionsleague/history/",
+    "sourceName": "Archivio storico verificabile"
+  },
+  {
+    "id": "deep-853a3f1cbfcb609c2c",
+    "category": "Champions League",
+    "kind": "Allenatori europei",
+    "difficulty": 2,
+    "question": "Quale allenatore conquistò la Champions League nel 2006 guidando Barcellona?",
+    "options": [
+      "Ottmar Hitzfeld",
+      "Rafael Benítez",
+      "Frank Rijkaard"
+    ],
+    "answer": 2,
+    "explanation": "Frank Rijkaard guidò Barcellona al titolo europeo del 2006.",
+    "source": "https://www.uefa.com/uefachampionsleague/history/",
+    "sourceName": "Archivio storico verificabile"
+  },
+  {
+    "id": "deep-f0a312081c2f52aca1",
+    "category": "Champions League",
+    "kind": "Sedi delle finali",
+    "difficulty": 2,
+    "question": "In quale città si giocò la finale di Champions League del 2006?",
+    "options": [
+      "Cardiff",
+      "Saint-Denis",
+      "Madrid"
+    ],
+    "answer": 1,
+    "explanation": "La finale del 2006 fra Barcellona e Arsenal si giocò a Saint-Denis.",
+    "source": "https://www.uefa.com/uefachampionsleague/history/",
+    "sourceName": "Archivio storico verificabile"
+  },
+  {
+    "id": "deep-c3ed302bd78d179762",
+    "category": "Champions League",
+    "kind": "Allenatori europei",
+    "difficulty": 2,
+    "question": "Quale allenatore conquistò la Champions League nel 2007 guidando Milan?",
+    "options": [
+      "Pep Guardiola",
+      "Zinédine Zidane",
+      "Carlo Ancelotti"
+    ],
+    "answer": 2,
+    "explanation": "Carlo Ancelotti guidò Milan al titolo europeo del 2007.",
+    "source": "https://www.uefa.com/uefachampionsleague/history/",
+    "sourceName": "Archivio storico verificabile"
+  },
+  {
+    "id": "deep-c3f53eba316c821723",
+    "category": "Champions League",
+    "kind": "Sedi delle finali",
+    "difficulty": 2,
+    "question": "In quale città si giocò la finale di Champions League del 2007?",
+    "options": [
+      "Milano",
+      "Glasgow",
+      "Atene"
+    ],
+    "answer": 2,
+    "explanation": "La finale del 2007 fra Milan e Liverpool si giocò a Atene.",
+    "source": "https://www.uefa.com/uefachampionsleague/history/",
+    "sourceName": "Archivio storico verificabile"
+  },
+  {
+    "id": "deep-552bf0f2f07893442a",
+    "category": "Champions League",
+    "kind": "Allenatori europei",
+    "difficulty": 2,
+    "question": "Quale allenatore conquistò la Champions League nel 2008 guidando Manchester United?",
+    "options": [
+      "Vicente del Bosque",
+      "Hansi Flick",
+      "Alex Ferguson"
+    ],
+    "answer": 2,
+    "explanation": "Alex Ferguson guidò Manchester United al titolo europeo del 2008.",
+    "source": "https://www.uefa.com/uefachampionsleague/history/",
+    "sourceName": "Archivio storico verificabile"
+  },
+  {
+    "id": "deep-f1dcec58fdd6c75909",
+    "category": "Champions League",
+    "kind": "Sedi delle finali",
+    "difficulty": 2,
+    "question": "In quale città si giocò la finale di Champions League del 2008?",
+    "options": [
+      "Porto",
+      "Mosca",
+      "Istanbul"
+    ],
+    "answer": 1,
+    "explanation": "La finale del 2008 fra Manchester United e Chelsea si giocò a Mosca.",
+    "source": "https://www.uefa.com/uefachampionsleague/history/",
+    "sourceName": "Archivio storico verificabile"
+  },
+  {
+    "id": "deep-0ab266a1947cc88f1c",
+    "category": "Champions League",
+    "kind": "Allenatori europei",
+    "difficulty": 2,
+    "question": "Quale allenatore conquistò la Champions League nel 2009 guidando Barcellona?",
+    "options": [
+      "Alex Ferguson",
+      "Pep Guardiola",
+      "Rafael Benítez"
+    ],
+    "answer": 1,
+    "explanation": "Pep Guardiola guidò Barcellona al titolo europeo del 2009.",
+    "source": "https://www.uefa.com/uefachampionsleague/history/",
+    "sourceName": "Archivio storico verificabile"
+  },
+  {
+    "id": "deep-9e99d255c7ca59667b",
+    "category": "Champions League",
+    "kind": "Sedi delle finali",
+    "difficulty": 2,
+    "question": "In quale città si giocò la finale di Champions League del 2009?",
+    "options": [
+      "Milano",
+      "Mosca",
+      "Roma"
+    ],
+    "answer": 2,
+    "explanation": "La finale del 2009 fra Barcellona e Manchester United si giocò a Roma.",
+    "source": "https://www.uefa.com/uefachampionsleague/history/",
+    "sourceName": "Archivio storico verificabile"
+  },
+  {
+    "id": "deep-e733b86821be2b3b0b",
+    "category": "Champions League",
+    "kind": "Allenatori europei",
+    "difficulty": 2,
+    "question": "Quale allenatore conquistò la Champions League nel 2010 guidando Inter?",
+    "options": [
+      "José Mourinho",
+      "Marcello Lippi",
+      "Carlo Ancelotti"
+    ],
+    "answer": 0,
+    "explanation": "José Mourinho guidò Inter al titolo europeo del 2010.",
+    "source": "https://www.uefa.com/uefachampionsleague/history/",
+    "sourceName": "Archivio storico verificabile"
+  },
+  {
+    "id": "deep-6e406b79f267426be0",
+    "category": "Champions League",
+    "kind": "Sedi delle finali",
+    "difficulty": 2,
+    "question": "In quale città si giocò la finale di Champions League del 2010?",
+    "options": [
+      "Monaco di Baviera",
+      "Porto",
+      "Madrid"
+    ],
+    "answer": 2,
+    "explanation": "La finale del 2010 fra Inter e Bayern Monaco si giocò a Madrid.",
+    "source": "https://www.uefa.com/uefachampionsleague/history/",
+    "sourceName": "Archivio storico verificabile"
+  },
+  {
+    "id": "deep-b72af132ab589cdb67",
+    "category": "Champions League",
+    "kind": "Allenatori europei",
+    "difficulty": 2,
+    "question": "Quale allenatore conquistò la Champions League nel 2011 guidando Barcellona?",
+    "options": [
+      "Fabio Capello",
+      "Pep Guardiola",
+      "Jupp Heynckes"
+    ],
+    "answer": 1,
+    "explanation": "Pep Guardiola guidò Barcellona al titolo europeo del 2011.",
+    "source": "https://www.uefa.com/uefachampionsleague/history/",
+    "sourceName": "Archivio storico verificabile"
+  },
+  {
+    "id": "deep-79430f4c554c8b69ce",
+    "category": "Champions League",
+    "kind": "Sedi delle finali",
+    "difficulty": 2,
+    "question": "In quale città si giocò la finale di Champions League del 2011?",
+    "options": [
+      "Cardiff",
+      "Londra",
+      "Istanbul"
+    ],
+    "answer": 1,
+    "explanation": "La finale del 2011 fra Barcellona e Manchester United si giocò a Londra.",
+    "source": "https://www.uefa.com/uefachampionsleague/history/",
+    "sourceName": "Archivio storico verificabile"
+  },
+  {
+    "id": "deep-cd663997ee607dc4cd",
+    "category": "Champions League",
+    "kind": "Allenatori europei",
+    "difficulty": 2,
+    "question": "Quale allenatore conquistò la Champions League nel 2012 guidando Chelsea?",
+    "options": [
+      "Roberto Di Matteo",
+      "Marcello Lippi",
+      "Pep Guardiola"
+    ],
+    "answer": 0,
+    "explanation": "Roberto Di Matteo guidò Chelsea al titolo europeo del 2012.",
+    "source": "https://www.uefa.com/uefachampionsleague/history/",
+    "sourceName": "Archivio storico verificabile"
+  },
+  {
+    "id": "deep-ee3887bd4fe2b4a550",
+    "category": "Champions League",
+    "kind": "Sedi delle finali",
+    "difficulty": 2,
+    "question": "In quale città si giocò la finale di Champions League del 2012?",
+    "options": [
+      "Cardiff",
+      "Monaco di Baviera",
+      "Barcellona"
+    ],
+    "answer": 1,
+    "explanation": "La finale del 2012 fra Chelsea e Bayern Monaco si giocò a Monaco di Baviera.",
+    "source": "https://www.uefa.com/uefachampionsleague/history/",
+    "sourceName": "Archivio storico verificabile"
+  },
+  {
+    "id": "deep-84450223017f36b27f",
+    "category": "Champions League",
+    "kind": "Allenatori europei",
+    "difficulty": 2,
+    "question": "Quale allenatore conquistò la Champions League nel 2013 guidando Bayern Monaco?",
+    "options": [
+      "Jupp Heynckes",
+      "Ottmar Hitzfeld",
+      "Jürgen Klopp"
+    ],
+    "answer": 0,
+    "explanation": "Jupp Heynckes guidò Bayern Monaco al titolo europeo del 2013.",
+    "source": "https://www.uefa.com/uefachampionsleague/history/",
+    "sourceName": "Archivio storico verificabile"
+  },
+  {
+    "id": "deep-e544617588cbd42721",
+    "category": "Champions League",
+    "kind": "Sedi delle finali",
+    "difficulty": 2,
+    "question": "In quale città si giocò la finale di Champions League del 2013?",
+    "options": [
+      "Mosca",
+      "Londra",
+      "Manchester"
+    ],
+    "answer": 1,
+    "explanation": "La finale del 2013 fra Bayern Monaco e Borussia Dortmund si giocò a Londra.",
+    "source": "https://www.uefa.com/uefachampionsleague/history/",
+    "sourceName": "Archivio storico verificabile"
+  },
+  {
+    "id": "deep-f73eb8bba2c5698f26",
+    "category": "Champions League",
+    "kind": "Allenatori europei",
+    "difficulty": 2,
+    "question": "Quale allenatore conquistò la Champions League nel 2014 guidando Real Madrid?",
+    "options": [
+      "Carlo Ancelotti",
+      "Rafael Benítez",
+      "Marcello Lippi"
+    ],
+    "answer": 0,
+    "explanation": "Carlo Ancelotti guidò Real Madrid al titolo europeo del 2014.",
+    "source": "https://www.uefa.com/uefachampionsleague/history/",
+    "sourceName": "Archivio storico verificabile"
+  },
+  {
+    "id": "deep-9d36bba0d25bcbb198",
+    "category": "Champions League",
+    "kind": "Sedi delle finali",
+    "difficulty": 2,
+    "question": "In quale città si giocò la finale di Champions League del 2014?",
+    "options": [
+      "Amsterdam",
+      "Lisbona",
+      "Kyiv"
+    ],
+    "answer": 1,
+    "explanation": "La finale del 2014 fra Real Madrid e Atlético Madrid si giocò a Lisbona.",
+    "source": "https://www.uefa.com/uefachampionsleague/history/",
+    "sourceName": "Archivio storico verificabile"
+  },
+  {
+    "id": "deep-e1b698de255f7e28aa",
+    "category": "Champions League",
+    "kind": "Allenatori europei",
+    "difficulty": 2,
+    "question": "Quale allenatore conquistò la Champions League nel 2015 guidando Barcellona?",
+    "options": [
+      "Raymond Goethals",
+      "Luis Enrique",
+      "Ottmar Hitzfeld"
+    ],
+    "answer": 1,
+    "explanation": "Luis Enrique guidò Barcellona al titolo europeo del 2015.",
+    "source": "https://www.uefa.com/uefachampionsleague/history/",
+    "sourceName": "Archivio storico verificabile"
+  },
+  {
+    "id": "deep-fc3d1e9121e3b13f8c",
+    "category": "Champions League",
+    "kind": "Sedi delle finali",
+    "difficulty": 2,
+    "question": "In quale città si giocò la finale di Champions League del 2015?",
+    "options": [
+      "Madrid",
+      "Saint-Denis",
+      "Berlino"
+    ],
+    "answer": 2,
+    "explanation": "La finale del 2015 fra Barcellona e Juventus si giocò a Berlino.",
+    "source": "https://www.uefa.com/uefachampionsleague/history/",
+    "sourceName": "Archivio storico verificabile"
+  },
+  {
+    "id": "deep-7fd56c4505e550d4e3",
+    "category": "Champions League",
+    "kind": "Allenatori europei",
+    "difficulty": 2,
+    "question": "Quale allenatore conquistò la Champions League nel 2016 guidando Real Madrid?",
+    "options": [
+      "Ottmar Hitzfeld",
+      "Rafael Benítez",
+      "Zinédine Zidane"
+    ],
+    "answer": 2,
+    "explanation": "Zinédine Zidane guidò Real Madrid al titolo europeo del 2016.",
+    "source": "https://www.uefa.com/uefachampionsleague/history/",
+    "sourceName": "Archivio storico verificabile"
+  },
+  {
+    "id": "deep-a85db639416eb61473",
+    "category": "Champions League",
+    "kind": "Sedi delle finali",
+    "difficulty": 2,
+    "question": "In quale città si giocò la finale di Champions League del 2016?",
+    "options": [
+      "Milano",
+      "Madrid",
+      "Atene"
+    ],
+    "answer": 0,
+    "explanation": "La finale del 2016 fra Real Madrid e Atlético Madrid si giocò a Milano.",
+    "source": "https://www.uefa.com/uefachampionsleague/history/",
+    "sourceName": "Archivio storico verificabile"
+  },
+  {
+    "id": "deep-213b97d1cb3d60396c",
+    "category": "Champions League",
+    "kind": "Allenatori europei",
+    "difficulty": 2,
+    "question": "Quale allenatore conquistò la Champions League nel 2017 guidando Real Madrid?",
+    "options": [
+      "Zinédine Zidane",
+      "Raymond Goethals",
+      "Marcello Lippi"
+    ],
+    "answer": 0,
+    "explanation": "Zinédine Zidane guidò Real Madrid al titolo europeo del 2017.",
+    "source": "https://www.uefa.com/uefachampionsleague/history/",
+    "sourceName": "Archivio storico verificabile"
+  },
+  {
+    "id": "deep-c803c0e6b42aeb40c6",
+    "category": "Champions League",
+    "kind": "Sedi delle finali",
+    "difficulty": 2,
+    "question": "In quale città si giocò la finale di Champions League del 2017?",
+    "options": [
+      "Cardiff",
+      "Amsterdam",
+      "Gelsenkirchen"
+    ],
+    "answer": 0,
+    "explanation": "La finale del 2017 fra Real Madrid e Juventus si giocò a Cardiff.",
+    "source": "https://www.uefa.com/uefachampionsleague/history/",
+    "sourceName": "Archivio storico verificabile"
+  },
+  {
+    "id": "deep-5fa3bb38e1ff81712a",
+    "category": "Champions League",
+    "kind": "Allenatori europei",
+    "difficulty": 2,
+    "question": "Quale allenatore conquistò la Champions League nel 2018 guidando Real Madrid?",
+    "options": [
+      "Alex Ferguson",
+      "Zinédine Zidane",
+      "Jürgen Klopp"
+    ],
+    "answer": 1,
+    "explanation": "Zinédine Zidane guidò Real Madrid al titolo europeo del 2018.",
+    "source": "https://www.uefa.com/uefachampionsleague/history/",
+    "sourceName": "Archivio storico verificabile"
+  },
+  {
+    "id": "deep-6571f0188f8adc7d7e",
+    "category": "Champions League",
+    "kind": "Sedi delle finali",
+    "difficulty": 2,
+    "question": "In quale città si giocò la finale di Champions League del 2018?",
+    "options": [
+      "Madrid",
+      "Kyiv",
+      "Monaco di Baviera"
+    ],
+    "answer": 1,
+    "explanation": "La finale del 2018 fra Real Madrid e Liverpool si giocò a Kyiv.",
+    "source": "https://www.uefa.com/uefachampionsleague/history/",
+    "sourceName": "Archivio storico verificabile"
+  },
+  {
+    "id": "deep-f14a207d0f59f2a407",
+    "category": "Champions League",
+    "kind": "Allenatori europei",
+    "difficulty": 2,
+    "question": "Quale allenatore conquistò la Champions League nel 2019 guidando Liverpool?",
+    "options": [
+      "Jürgen Klopp",
+      "Marcello Lippi",
+      "Rafael Benítez"
+    ],
+    "answer": 0,
+    "explanation": "Jürgen Klopp guidò Liverpool al titolo europeo del 2019.",
+    "source": "https://www.uefa.com/uefachampionsleague/history/",
+    "sourceName": "Archivio storico verificabile"
+  },
+  {
+    "id": "deep-505edeacf4ddbc0d81",
+    "category": "Champions League",
+    "kind": "Sedi delle finali",
+    "difficulty": 2,
+    "question": "In quale città si giocò la finale di Champions League del 2019?",
+    "options": [
+      "Madrid",
+      "Atene",
+      "Londra"
+    ],
+    "answer": 0,
+    "explanation": "La finale del 2019 fra Liverpool e Tottenham si giocò a Madrid.",
+    "source": "https://www.uefa.com/uefachampionsleague/history/",
+    "sourceName": "Archivio storico verificabile"
+  },
+  {
+    "id": "deep-92c75736d4f73fc800",
+    "category": "Champions League",
+    "kind": "Allenatori europei",
+    "difficulty": 2,
+    "question": "Quale allenatore conquistò la Champions League nel 2020 guidando Bayern Monaco?",
+    "options": [
+      "Fabio Capello",
+      "Alex Ferguson",
+      "Hansi Flick"
+    ],
+    "answer": 2,
+    "explanation": "Hansi Flick guidò Bayern Monaco al titolo europeo del 2020.",
+    "source": "https://www.uefa.com/uefachampionsleague/history/",
+    "sourceName": "Archivio storico verificabile"
+  },
+  {
+    "id": "deep-d40196940b21971e3a",
+    "category": "Champions League",
+    "kind": "Sedi delle finali",
+    "difficulty": 2,
+    "question": "In quale città si giocò la finale di Champions League del 2020?",
+    "options": [
+      "Gelsenkirchen",
+      "Lisbona",
+      "Cardiff"
+    ],
+    "answer": 1,
+    "explanation": "La finale del 2020 fra Bayern Monaco e Paris Saint-Germain si giocò a Lisbona.",
+    "source": "https://www.uefa.com/uefachampionsleague/history/",
+    "sourceName": "Archivio storico verificabile"
+  },
+  {
+    "id": "deep-7af5bd6470d020394b",
+    "category": "Champions League",
+    "kind": "Allenatori europei",
+    "difficulty": 2,
+    "question": "Quale allenatore conquistò la Champions League nel 2021 guidando Chelsea?",
+    "options": [
+      "Thomas Tuchel",
+      "Louis van Gaal",
+      "Jupp Heynckes"
+    ],
+    "answer": 0,
+    "explanation": "Thomas Tuchel guidò Chelsea al titolo europeo del 2021.",
+    "source": "https://www.uefa.com/uefachampionsleague/history/",
+    "sourceName": "Archivio storico verificabile"
+  },
+  {
+    "id": "deep-569976d85656f99009",
+    "category": "Champions League",
+    "kind": "Sedi delle finali",
+    "difficulty": 2,
+    "question": "In quale città si giocò la finale di Champions League del 2021?",
+    "options": [
+      "Milano",
+      "Kyiv",
+      "Porto"
+    ],
+    "answer": 2,
+    "explanation": "La finale del 2021 fra Chelsea e Manchester City si giocò a Porto.",
+    "source": "https://www.uefa.com/uefachampionsleague/history/",
+    "sourceName": "Archivio storico verificabile"
+  },
+  {
+    "id": "deep-e980738dd056d07564",
+    "category": "Champions League",
+    "kind": "Allenatori europei",
+    "difficulty": 2,
+    "question": "Quale allenatore conquistò la Champions League nel 2022 guidando Real Madrid?",
+    "options": [
+      "Jürgen Klopp",
+      "Frank Rijkaard",
+      "Carlo Ancelotti"
+    ],
+    "answer": 2,
+    "explanation": "Carlo Ancelotti guidò Real Madrid al titolo europeo del 2022.",
+    "source": "https://www.uefa.com/uefachampionsleague/history/",
+    "sourceName": "Archivio storico verificabile"
+  },
+  {
+    "id": "deep-e85cf8cc0018285982",
+    "category": "Champions League",
+    "kind": "Sedi delle finali",
+    "difficulty": 2,
+    "question": "In quale città si giocò la finale di Champions League del 2022?",
+    "options": [
+      "Saint-Denis",
+      "Vienna",
+      "Istanbul"
+    ],
+    "answer": 0,
+    "explanation": "La finale del 2022 fra Real Madrid e Liverpool si giocò a Saint-Denis.",
+    "source": "https://www.uefa.com/uefachampionsleague/history/",
+    "sourceName": "Archivio storico verificabile"
+  },
+  {
+    "id": "deep-ce3e1acb52f5bb8a2f",
+    "category": "Champions League",
+    "kind": "Allenatori europei",
+    "difficulty": 2,
+    "question": "Quale allenatore conquistò la Champions League nel 2023 guidando Manchester City?",
+    "options": [
+      "Raymond Goethals",
+      "Marcello Lippi",
+      "Pep Guardiola"
+    ],
+    "answer": 2,
+    "explanation": "Pep Guardiola guidò Manchester City al titolo europeo del 2023.",
+    "source": "https://www.uefa.com/uefachampionsleague/history/",
+    "sourceName": "Archivio storico verificabile"
+  },
+  {
+    "id": "deep-4427cea03ee300162c",
+    "category": "Champions League",
+    "kind": "Sedi delle finali",
+    "difficulty": 2,
+    "question": "In quale città si giocò la finale di Champions League del 2023?",
+    "options": [
+      "Mosca",
+      "Lisbona",
+      "Istanbul"
+    ],
+    "answer": 2,
+    "explanation": "La finale del 2023 fra Manchester City e Inter si giocò a Istanbul.",
+    "source": "https://www.uefa.com/uefachampionsleague/history/",
+    "sourceName": "Archivio storico verificabile"
+  },
+  {
+    "id": "deep-437b7a52e1e7995409",
+    "category": "Champions League",
+    "kind": "Allenatori europei",
+    "difficulty": 2,
+    "question": "Quale allenatore conquistò la Champions League nel 2024 guidando Real Madrid?",
+    "options": [
+      "Raymond Goethals",
+      "Carlo Ancelotti",
+      "Jürgen Klopp"
+    ],
+    "answer": 1,
+    "explanation": "Carlo Ancelotti guidò Real Madrid al titolo europeo del 2024.",
+    "source": "https://www.uefa.com/uefachampionsleague/history/",
+    "sourceName": "Archivio storico verificabile"
+  },
+  {
+    "id": "deep-c2059f6c686d3eb37b",
+    "category": "Champions League",
+    "kind": "Sedi delle finali",
+    "difficulty": 2,
+    "question": "In quale città si giocò la finale di Champions League del 2024?",
+    "options": [
+      "Berlino",
+      "Cardiff",
+      "Londra"
+    ],
+    "answer": 2,
+    "explanation": "La finale del 2024 fra Real Madrid e Borussia Dortmund si giocò a Londra.",
+    "source": "https://www.uefa.com/uefachampionsleague/history/",
+    "sourceName": "Archivio storico verificabile"
+  },
+  {
+    "id": "deep-f6d8e360ddf1ef675f",
+    "category": "Champions League",
+    "kind": "Coppa UEFA ed Europa League",
+    "difficulty": 2,
+    "question": "Quale squadra conquistò la Coppa UEFA nel 2000?",
+    "options": [
+      "Manchester United",
+      "Galatasaray",
+      "Porto"
+    ],
+    "answer": 1,
+    "explanation": "Galatasaray vinse la finale del 2000 contro Arsenal.",
+    "source": "https://www.uefa.com/uefaeuropaleague/history/",
+    "sourceName": "Archivio storico verificabile"
+  },
+  {
+    "id": "deep-c9dcf65e3e4f2164f4",
+    "category": "Champions League",
+    "kind": "Finaliste Europa League",
+    "difficulty": 2,
+    "question": "Quale club perse la finale di Coppa UEFA del 2000?",
+    "options": [
+      "Arsenal",
+      "Espanyol",
+      "Manchester United"
+    ],
+    "answer": 0,
+    "explanation": "Arsenal affrontò Galatasaray nella finale del 2000.",
+    "source": "https://www.uefa.com/uefaeuropaleague/history/",
+    "sourceName": "Archivio storico verificabile"
+  },
+  {
+    "id": "deep-3e6376e255f4369d51",
+    "category": "Champions League",
+    "kind": "Coppa UEFA ed Europa League",
+    "difficulty": 2,
+    "question": "Quale squadra conquistò la Coppa UEFA nel 2001?",
+    "options": [
+      "Liverpool",
+      "Shakhtar Donetsk",
+      "Atlético Madrid"
+    ],
+    "answer": 0,
+    "explanation": "Liverpool vinse la finale del 2001 contro Alavés.",
+    "source": "https://www.uefa.com/uefaeuropaleague/history/",
+    "sourceName": "Archivio storico verificabile"
+  },
+  {
+    "id": "deep-70dc593176f20a636f",
+    "category": "Champions League",
+    "kind": "Finaliste Europa League",
+    "difficulty": 2,
+    "question": "Quale club perse la finale di Coppa UEFA del 2001?",
+    "options": [
+      "Alavés",
+      "Liverpool",
+      "Shakhtar Donetsk"
+    ],
+    "answer": 0,
+    "explanation": "Alavés affrontò Liverpool nella finale del 2001.",
+    "source": "https://www.uefa.com/uefaeuropaleague/history/",
+    "sourceName": "Archivio storico verificabile"
+  },
+  {
+    "id": "deep-46a53026f0f83c1d97",
+    "category": "Champions League",
+    "kind": "Coppa UEFA ed Europa League",
+    "difficulty": 2,
+    "question": "Quale squadra conquistò la Coppa UEFA nel 2002?",
+    "options": [
+      "Dnipro",
+      "Shakhtar Donetsk",
+      "Feyenoord"
+    ],
+    "answer": 2,
+    "explanation": "Feyenoord vinse la finale del 2002 contro Borussia Dortmund.",
+    "source": "https://www.uefa.com/uefaeuropaleague/history/",
+    "sourceName": "Archivio storico verificabile"
+  },
+  {
+    "id": "deep-09819506294627843b",
+    "category": "Champions League",
+    "kind": "Finaliste Europa League",
+    "difficulty": 2,
+    "question": "Quale club perse la finale di Coppa UEFA del 2002?",
+    "options": [
+      "Borussia Dortmund",
+      "Middlesbrough",
+      "CSKA Mosca"
+    ],
+    "answer": 0,
+    "explanation": "Borussia Dortmund affrontò Feyenoord nella finale del 2002.",
+    "source": "https://www.uefa.com/uefaeuropaleague/history/",
+    "sourceName": "Archivio storico verificabile"
+  },
+  {
+    "id": "deep-ffc191e8883b6ddc94",
+    "category": "Champions League",
+    "kind": "Coppa UEFA ed Europa League",
+    "difficulty": 2,
+    "question": "Quale squadra conquistò la Coppa UEFA nel 2003?",
+    "options": [
+      "Atlético Madrid",
+      "Porto",
+      "Roma"
+    ],
+    "answer": 1,
+    "explanation": "Porto vinse la finale del 2003 contro Celtic.",
+    "source": "https://www.uefa.com/uefaeuropaleague/history/",
+    "sourceName": "Archivio storico verificabile"
+  },
+  {
+    "id": "deep-32a761e2aeae40d6db",
+    "category": "Champions League",
+    "kind": "Finaliste Europa League",
+    "difficulty": 2,
+    "question": "Quale club perse la finale di Coppa UEFA del 2003?",
+    "options": [
+      "Chelsea",
+      "Celtic",
+      "Marsiglia"
+    ],
+    "answer": 1,
+    "explanation": "Celtic affrontò Porto nella finale del 2003.",
+    "source": "https://www.uefa.com/uefaeuropaleague/history/",
+    "sourceName": "Archivio storico verificabile"
+  },
+  {
+    "id": "deep-fa7a51d6c950a187d0",
+    "category": "Champions League",
+    "kind": "Coppa UEFA ed Europa League",
+    "difficulty": 2,
+    "question": "Quale squadra conquistò la Coppa UEFA nel 2004?",
+    "options": [
+      "Bayer Leverkusen",
+      "Zenit San Pietroburgo",
+      "Valencia"
+    ],
+    "answer": 2,
+    "explanation": "Valencia vinse la finale del 2004 contro Marsiglia.",
+    "source": "https://www.uefa.com/uefaeuropaleague/history/",
+    "sourceName": "Archivio storico verificabile"
+  },
+  {
+    "id": "deep-1790ba507a1099e4b0",
+    "category": "Champions League",
+    "kind": "Finaliste Europa League",
+    "difficulty": 2,
+    "question": "Quale club perse la finale di Coppa UEFA del 2004?",
+    "options": [
+      "Arsenal",
+      "Werder Brema",
+      "Marsiglia"
+    ],
+    "answer": 2,
+    "explanation": "Marsiglia affrontò Valencia nella finale del 2004.",
+    "source": "https://www.uefa.com/uefaeuropaleague/history/",
+    "sourceName": "Archivio storico verificabile"
+  },
+  {
+    "id": "deep-79f75e3b9d4487d293",
+    "category": "Champions League",
+    "kind": "Coppa UEFA ed Europa League",
+    "difficulty": 2,
+    "question": "Quale squadra conquistò la Coppa UEFA nel 2005?",
+    "options": [
+      "Atlético Madrid",
+      "CSKA Mosca",
+      "Marsiglia"
+    ],
+    "answer": 1,
+    "explanation": "CSKA Mosca vinse la finale del 2005 contro Sporting CP.",
+    "source": "https://www.uefa.com/uefaeuropaleague/history/",
+    "sourceName": "Archivio storico verificabile"
+  },
+  {
+    "id": "deep-71289b3e2c89dd5dff",
+    "category": "Champions League",
+    "kind": "Finaliste Europa League",
+    "difficulty": 2,
+    "question": "Quale club perse la finale di Coppa UEFA del 2005?",
+    "options": [
+      "Sporting CP",
+      "Middlesbrough",
+      "Inter"
+    ],
+    "answer": 0,
+    "explanation": "Sporting CP affrontò CSKA Mosca nella finale del 2005.",
+    "source": "https://www.uefa.com/uefaeuropaleague/history/",
+    "sourceName": "Archivio storico verificabile"
+  },
+  {
+    "id": "deep-7bb526c2206a319374",
+    "category": "Champions League",
+    "kind": "Coppa UEFA ed Europa League",
+    "difficulty": 2,
+    "question": "Quale squadra conquistò la Coppa UEFA nel 2006?",
+    "options": [
+      "Roma",
+      "Borussia Dortmund",
+      "Siviglia"
+    ],
+    "answer": 2,
+    "explanation": "Siviglia vinse la finale del 2006 contro Middlesbrough.",
+    "source": "https://www.uefa.com/uefaeuropaleague/history/",
+    "sourceName": "Archivio storico verificabile"
+  },
+  {
+    "id": "deep-bff826c0ef00521fa4",
+    "category": "Champions League",
+    "kind": "Finaliste Europa League",
+    "difficulty": 2,
+    "question": "Quale club perse la finale di Coppa UEFA del 2006?",
+    "options": [
+      "Borussia Dortmund",
+      "Middlesbrough",
+      "Ajax"
+    ],
+    "answer": 1,
+    "explanation": "Middlesbrough affrontò Siviglia nella finale del 2006.",
+    "source": "https://www.uefa.com/uefaeuropaleague/history/",
+    "sourceName": "Archivio storico verificabile"
+  },
+  {
+    "id": "deep-924f7402b054532007",
+    "category": "Champions League",
+    "kind": "Coppa UEFA ed Europa League",
+    "difficulty": 2,
+    "question": "Quale squadra conquistò la Coppa UEFA nel 2007?",
+    "options": [
+      "Siviglia",
+      "Sporting CP",
+      "Villarreal"
+    ],
+    "answer": 0,
+    "explanation": "Siviglia vinse la finale del 2007 contro Espanyol.",
+    "source": "https://www.uefa.com/uefaeuropaleague/history/",
+    "sourceName": "Archivio storico verificabile"
+  },
+  {
+    "id": "deep-2842df151c1e33c35f",
+    "category": "Champions League",
+    "kind": "Finaliste Europa League",
+    "difficulty": 2,
+    "question": "Quale club perse la finale di Coppa UEFA del 2007?",
+    "options": [
+      "Galatasaray",
+      "Liverpool",
+      "Espanyol"
+    ],
+    "answer": 2,
+    "explanation": "Espanyol affrontò Siviglia nella finale del 2007.",
+    "source": "https://www.uefa.com/uefaeuropaleague/history/",
+    "sourceName": "Archivio storico verificabile"
+  },
+  {
+    "id": "deep-1eb6204631a71d048a",
+    "category": "Champions League",
+    "kind": "Coppa UEFA ed Europa League",
+    "difficulty": 2,
+    "question": "Quale squadra conquistò la Coppa UEFA nel 2008?",
+    "options": [
+      "Atlético Madrid",
+      "Zenit San Pietroburgo",
+      "Atalanta"
+    ],
+    "answer": 1,
+    "explanation": "Zenit San Pietroburgo vinse la finale del 2008 contro Rangers.",
+    "source": "https://www.uefa.com/uefaeuropaleague/history/",
+    "sourceName": "Archivio storico verificabile"
+  },
+  {
+    "id": "deep-a7ede2a506e122f729",
+    "category": "Champions League",
+    "kind": "Finaliste Europa League",
+    "difficulty": 2,
+    "question": "Quale club perse la finale di Coppa UEFA del 2008?",
+    "options": [
+      "Bayer Leverkusen",
+      "Rangers",
+      "Eintracht Francoforte"
+    ],
+    "answer": 1,
+    "explanation": "Rangers affrontò Zenit San Pietroburgo nella finale del 2008.",
+    "source": "https://www.uefa.com/uefaeuropaleague/history/",
+    "sourceName": "Archivio storico verificabile"
+  },
+  {
+    "id": "deep-64e8cddb60f021929d",
+    "category": "Champions League",
+    "kind": "Coppa UEFA ed Europa League",
+    "difficulty": 2,
+    "question": "Quale squadra conquistò la Coppa UEFA nel 2009?",
+    "options": [
+      "Shakhtar Donetsk",
+      "Ajax",
+      "Espanyol"
+    ],
+    "answer": 0,
+    "explanation": "Shakhtar Donetsk vinse la finale del 2009 contro Werder Brema.",
+    "source": "https://www.uefa.com/uefaeuropaleague/history/",
+    "sourceName": "Archivio storico verificabile"
+  },
+  {
+    "id": "deep-ea946ece769e8b3939",
+    "category": "Champions League",
+    "kind": "Finaliste Europa League",
+    "difficulty": 2,
+    "question": "Quale club perse la finale di Coppa UEFA del 2009?",
+    "options": [
+      "Werder Brema",
+      "Zenit San Pietroburgo",
+      "CSKA Mosca"
+    ],
+    "answer": 0,
+    "explanation": "Werder Brema affrontò Shakhtar Donetsk nella finale del 2009.",
+    "source": "https://www.uefa.com/uefaeuropaleague/history/",
+    "sourceName": "Archivio storico verificabile"
+  },
+  {
+    "id": "deep-f3b3f60b0c4278037d",
+    "category": "Champions League",
+    "kind": "Coppa UEFA ed Europa League",
+    "difficulty": 2,
+    "question": "Quale squadra conquistò la Europa League nel 2010?",
+    "options": [
+      "Braga",
+      "Atlético Madrid",
+      "Roma"
+    ],
+    "answer": 1,
+    "explanation": "Atlético Madrid vinse la finale del 2010 contro Fulham.",
+    "source": "https://www.uefa.com/uefaeuropaleague/history/",
+    "sourceName": "Archivio storico verificabile"
+  },
+  {
+    "id": "deep-9dff354cbc773dfbf1",
+    "category": "Champions League",
+    "kind": "Finaliste Europa League",
+    "difficulty": 2,
+    "question": "Quale club perse la finale di Europa League del 2010?",
+    "options": [
+      "Manchester United",
+      "Fulham",
+      "Bayer Leverkusen"
+    ],
+    "answer": 1,
+    "explanation": "Fulham affrontò Atlético Madrid nella finale del 2010.",
+    "source": "https://www.uefa.com/uefaeuropaleague/history/",
+    "sourceName": "Archivio storico verificabile"
+  },
+  {
+    "id": "deep-e5caa07a7b29bfb86f",
+    "category": "Champions League",
+    "kind": "Coppa UEFA ed Europa League",
+    "difficulty": 2,
+    "question": "Quale squadra conquistò la Europa League nel 2011?",
+    "options": [
+      "Bayer Leverkusen",
+      "Porto",
+      "Eintracht Francoforte"
+    ],
+    "answer": 1,
+    "explanation": "Porto vinse la finale del 2011 contro Braga.",
+    "source": "https://www.uefa.com/uefaeuropaleague/history/",
+    "sourceName": "Archivio storico verificabile"
+  },
+  {
+    "id": "deep-29dc5849e3529fd19e",
+    "category": "Champions League",
+    "kind": "Finaliste Europa League",
+    "difficulty": 2,
+    "question": "Quale club perse la finale di Europa League del 2011?",
+    "options": [
+      "Zenit San Pietroburgo",
+      "Roma",
+      "Braga"
+    ],
+    "answer": 2,
+    "explanation": "Braga affrontò Porto nella finale del 2011.",
+    "source": "https://www.uefa.com/uefaeuropaleague/history/",
+    "sourceName": "Archivio storico verificabile"
+  },
+  {
+    "id": "deep-ae5e6a24d3481ba2af",
+    "category": "Champions League",
+    "kind": "Coppa UEFA ed Europa League",
+    "difficulty": 2,
+    "question": "Quale squadra conquistò la Europa League nel 2012?",
+    "options": [
+      "Borussia Dortmund",
+      "Fulham",
+      "Atlético Madrid"
+    ],
+    "answer": 2,
+    "explanation": "Atlético Madrid vinse la finale del 2012 contro Athletic Bilbao.",
+    "source": "https://www.uefa.com/uefaeuropaleague/history/",
+    "sourceName": "Archivio storico verificabile"
+  },
+  {
+    "id": "deep-837194f8d1b50e8325",
+    "category": "Champions League",
+    "kind": "Finaliste Europa League",
+    "difficulty": 2,
+    "question": "Quale club perse la finale di Europa League del 2012?",
+    "options": [
+      "Manchester United",
+      "Roma",
+      "Athletic Bilbao"
+    ],
+    "answer": 2,
+    "explanation": "Athletic Bilbao affrontò Atlético Madrid nella finale del 2012.",
+    "source": "https://www.uefa.com/uefaeuropaleague/history/",
+    "sourceName": "Archivio storico verificabile"
+  },
+  {
+    "id": "deep-f14eeb71043fa59b71",
+    "category": "Champions League",
+    "kind": "Coppa UEFA ed Europa League",
+    "difficulty": 2,
+    "question": "Quale squadra conquistò la Europa League nel 2013?",
+    "options": [
+      "Espanyol",
+      "Chelsea",
+      "Borussia Dortmund"
+    ],
+    "answer": 1,
+    "explanation": "Chelsea vinse la finale del 2013 contro Benfica.",
+    "source": "https://www.uefa.com/uefaeuropaleague/history/",
+    "sourceName": "Archivio storico verificabile"
+  },
+  {
+    "id": "deep-e828798156816b650e",
+    "category": "Champions League",
+    "kind": "Finaliste Europa League",
+    "difficulty": 2,
+    "question": "Quale club perse la finale di Europa League del 2013?",
+    "options": [
+      "Shakhtar Donetsk",
+      "Benfica",
+      "Celtic"
+    ],
+    "answer": 1,
+    "explanation": "Benfica affrontò Chelsea nella finale del 2013.",
+    "source": "https://www.uefa.com/uefaeuropaleague/history/",
+    "sourceName": "Archivio storico verificabile"
+  },
+  {
+    "id": "deep-ffe3e0cb7f021222b9",
+    "category": "Champions League",
+    "kind": "Coppa UEFA ed Europa League",
+    "difficulty": 2,
+    "question": "Quale squadra conquistò la Europa League nel 2014?",
+    "options": [
+      "Siviglia",
+      "Middlesbrough",
+      "Ajax"
+    ],
+    "answer": 0,
+    "explanation": "Siviglia vinse la finale del 2014 contro Benfica.",
+    "source": "https://www.uefa.com/uefaeuropaleague/history/",
+    "sourceName": "Archivio storico verificabile"
+  },
+  {
+    "id": "deep-4dd15ab4f41f0c9186",
+    "category": "Champions League",
+    "kind": "Finaliste Europa League",
+    "difficulty": 2,
+    "question": "Quale club perse la finale di Europa League del 2014?",
+    "options": [
+      "Dnipro",
+      "Liverpool",
+      "Benfica"
+    ],
+    "answer": 2,
+    "explanation": "Benfica affrontò Siviglia nella finale del 2014.",
+    "source": "https://www.uefa.com/uefaeuropaleague/history/",
+    "sourceName": "Archivio storico verificabile"
+  },
+  {
+    "id": "deep-3e9d61fc1a273e691a",
+    "category": "Champions League",
+    "kind": "Coppa UEFA ed Europa League",
+    "difficulty": 2,
+    "question": "Quale squadra conquistò la Europa League nel 2015?",
+    "options": [
+      "Rangers",
+      "Siviglia",
+      "Villarreal"
+    ],
+    "answer": 1,
+    "explanation": "Siviglia vinse la finale del 2015 contro Dnipro.",
+    "source": "https://www.uefa.com/uefaeuropaleague/history/",
+    "sourceName": "Archivio storico verificabile"
+  },
+  {
+    "id": "deep-d6034954ae0bf15d77",
+    "category": "Champions League",
+    "kind": "Finaliste Europa League",
+    "difficulty": 2,
+    "question": "Quale club perse la finale di Europa League del 2015?",
+    "options": [
+      "Dnipro",
+      "Manchester United",
+      "Shakhtar Donetsk"
+    ],
+    "answer": 0,
+    "explanation": "Dnipro affrontò Siviglia nella finale del 2015.",
+    "source": "https://www.uefa.com/uefaeuropaleague/history/",
+    "sourceName": "Archivio storico verificabile"
+  },
+  {
+    "id": "deep-dadae0e1c06ee72e9e",
+    "category": "Champions League",
+    "kind": "Coppa UEFA ed Europa League",
+    "difficulty": 2,
+    "question": "Quale squadra conquistò la Europa League nel 2016?",
+    "options": [
+      "Siviglia",
+      "Manchester United",
+      "Sporting CP"
+    ],
+    "answer": 0,
+    "explanation": "Siviglia vinse la finale del 2016 contro Liverpool.",
+    "source": "https://www.uefa.com/uefaeuropaleague/history/",
+    "sourceName": "Archivio storico verificabile"
+  },
+  {
+    "id": "deep-5843a516fb2c6452e9",
+    "category": "Champions League",
+    "kind": "Finaliste Europa League",
+    "difficulty": 2,
+    "question": "Quale club perse la finale di Europa League del 2016?",
+    "options": [
+      "Liverpool",
+      "Feyenoord",
+      "Siviglia"
+    ],
+    "answer": 0,
+    "explanation": "Liverpool affrontò Siviglia nella finale del 2016.",
+    "source": "https://www.uefa.com/uefaeuropaleague/history/",
+    "sourceName": "Archivio storico verificabile"
+  },
+  {
+    "id": "deep-44594b0e91eab07d39",
+    "category": "Champions League",
+    "kind": "Coppa UEFA ed Europa League",
+    "difficulty": 2,
+    "question": "Quale squadra conquistò la Europa League nel 2017?",
+    "options": [
+      "Middlesbrough",
+      "Borussia Dortmund",
+      "Manchester United"
+    ],
+    "answer": 2,
+    "explanation": "Manchester United vinse la finale del 2017 contro Ajax.",
+    "source": "https://www.uefa.com/uefaeuropaleague/history/",
+    "sourceName": "Archivio storico verificabile"
+  },
+  {
+    "id": "deep-bec1cf89496e5e9971",
+    "category": "Champions League",
+    "kind": "Finaliste Europa League",
+    "difficulty": 2,
+    "question": "Quale club perse la finale di Europa League del 2017?",
+    "options": [
+      "Ajax",
+      "Athletic Bilbao",
+      "Chelsea"
+    ],
+    "answer": 0,
+    "explanation": "Ajax affrontò Manchester United nella finale del 2017.",
+    "source": "https://www.uefa.com/uefaeuropaleague/history/",
+    "sourceName": "Archivio storico verificabile"
+  },
+  {
+    "id": "deep-faeb05fde5a4f6ca5e",
+    "category": "Champions League",
+    "kind": "Coppa UEFA ed Europa League",
+    "difficulty": 2,
+    "question": "Quale squadra conquistò la Europa League nel 2018?",
+    "options": [
+      "Atlético Madrid",
+      "Galatasaray",
+      "Dnipro"
+    ],
+    "answer": 0,
+    "explanation": "Atlético Madrid vinse la finale del 2018 contro Marsiglia.",
+    "source": "https://www.uefa.com/uefaeuropaleague/history/",
+    "sourceName": "Archivio storico verificabile"
+  },
+  {
+    "id": "deep-d0e670cc73a0d3791e",
+    "category": "Champions League",
+    "kind": "Finaliste Europa League",
+    "difficulty": 2,
+    "question": "Quale club perse la finale di Europa League del 2018?",
+    "options": [
+      "Marsiglia",
+      "CSKA Mosca",
+      "Arsenal"
+    ],
+    "answer": 0,
+    "explanation": "Marsiglia affrontò Atlético Madrid nella finale del 2018.",
+    "source": "https://www.uefa.com/uefaeuropaleague/history/",
+    "sourceName": "Archivio storico verificabile"
+  },
+  {
+    "id": "deep-62ef2cc9106a6a3bf8",
+    "category": "Champions League",
+    "kind": "Coppa UEFA ed Europa League",
+    "difficulty": 2,
+    "question": "Quale squadra conquistò la Europa League nel 2019?",
+    "options": [
+      "Braga",
+      "Chelsea",
+      "Arsenal"
+    ],
+    "answer": 1,
+    "explanation": "Chelsea vinse la finale del 2019 contro Arsenal.",
+    "source": "https://www.uefa.com/uefaeuropaleague/history/",
+    "sourceName": "Archivio storico verificabile"
+  },
+  {
+    "id": "deep-4acd1c35c6174027fe",
+    "category": "Champions League",
+    "kind": "Finaliste Europa League",
+    "difficulty": 2,
+    "question": "Quale club perse la finale di Europa League del 2019?",
+    "options": [
+      "Eintracht Francoforte",
+      "Villarreal",
+      "Arsenal"
+    ],
+    "answer": 2,
+    "explanation": "Arsenal affrontò Chelsea nella finale del 2019.",
+    "source": "https://www.uefa.com/uefaeuropaleague/history/",
+    "sourceName": "Archivio storico verificabile"
+  },
+  {
+    "id": "deep-4bc199fc3aeca32edc",
+    "category": "Champions League",
+    "kind": "Coppa UEFA ed Europa League",
+    "difficulty": 2,
+    "question": "Quale squadra conquistò la Europa League nel 2020?",
+    "options": [
+      "Werder Brema",
+      "Siviglia",
+      "CSKA Mosca"
+    ],
+    "answer": 1,
+    "explanation": "Siviglia vinse la finale del 2020 contro Inter.",
+    "source": "https://www.uefa.com/uefaeuropaleague/history/",
+    "sourceName": "Archivio storico verificabile"
+  },
+  {
+    "id": "deep-405fb1e057e3622b13",
+    "category": "Champions League",
+    "kind": "Finaliste Europa League",
+    "difficulty": 2,
+    "question": "Quale club perse la finale di Europa League del 2020?",
+    "options": [
+      "Roma",
+      "Inter",
+      "Shakhtar Donetsk"
+    ],
+    "answer": 1,
+    "explanation": "Inter affrontò Siviglia nella finale del 2020.",
+    "source": "https://www.uefa.com/uefaeuropaleague/history/",
+    "sourceName": "Archivio storico verificabile"
+  },
+  {
+    "id": "deep-5f2afeaa1acdf022c5",
+    "category": "Champions League",
+    "kind": "Coppa UEFA ed Europa League",
+    "difficulty": 2,
+    "question": "Quale squadra conquistò la Europa League nel 2021?",
+    "options": [
+      "Villarreal",
+      "Bayer Leverkusen",
+      "Manchester United"
+    ],
+    "answer": 0,
+    "explanation": "Villarreal vinse la finale del 2021 contro Manchester United.",
+    "source": "https://www.uefa.com/uefaeuropaleague/history/",
+    "sourceName": "Archivio storico verificabile"
+  },
+  {
+    "id": "deep-67221185417a8716f1",
+    "category": "Champions League",
+    "kind": "Finaliste Europa League",
+    "difficulty": 2,
+    "question": "Quale club perse la finale di Europa League del 2021?",
+    "options": [
+      "Porto",
+      "Dnipro",
+      "Manchester United"
+    ],
+    "answer": 2,
+    "explanation": "Manchester United affrontò Villarreal nella finale del 2021.",
+    "source": "https://www.uefa.com/uefaeuropaleague/history/",
+    "sourceName": "Archivio storico verificabile"
+  },
+  {
+    "id": "deep-b45d55001954b4f7b3",
+    "category": "Champions League",
+    "kind": "Coppa UEFA ed Europa League",
+    "difficulty": 2,
+    "question": "Quale squadra conquistò la Europa League nel 2022?",
+    "options": [
+      "Atlético Madrid",
+      "Atalanta",
+      "Eintracht Francoforte"
+    ],
+    "answer": 2,
+    "explanation": "Eintracht Francoforte vinse la finale del 2022 contro Rangers.",
+    "source": "https://www.uefa.com/uefaeuropaleague/history/",
+    "sourceName": "Archivio storico verificabile"
+  },
+  {
+    "id": "deep-1e397ef704eac3e2cd",
+    "category": "Champions League",
+    "kind": "Finaliste Europa League",
+    "difficulty": 2,
+    "question": "Quale club perse la finale di Europa League del 2022?",
+    "options": [
+      "Rangers",
+      "Marsiglia",
+      "Atlético Madrid"
+    ],
+    "answer": 0,
+    "explanation": "Rangers affrontò Eintracht Francoforte nella finale del 2022.",
+    "source": "https://www.uefa.com/uefaeuropaleague/history/",
+    "sourceName": "Archivio storico verificabile"
+  },
+  {
+    "id": "deep-73270504210b2f4ce1",
+    "category": "Champions League",
+    "kind": "Coppa UEFA ed Europa League",
+    "difficulty": 2,
+    "question": "Quale squadra conquistò la Europa League nel 2023?",
+    "options": [
+      "Manchester United",
+      "Siviglia",
+      "Villarreal"
+    ],
+    "answer": 1,
+    "explanation": "Siviglia vinse la finale del 2023 contro Roma.",
+    "source": "https://www.uefa.com/uefaeuropaleague/history/",
+    "sourceName": "Archivio storico verificabile"
+  },
+  {
+    "id": "deep-d084cec8f19313d061",
+    "category": "Champions League",
+    "kind": "Finaliste Europa League",
+    "difficulty": 2,
+    "question": "Quale club perse la finale di Europa League del 2023?",
+    "options": [
+      "Dnipro",
+      "Athletic Bilbao",
+      "Roma"
+    ],
+    "answer": 2,
+    "explanation": "Roma affrontò Siviglia nella finale del 2023.",
+    "source": "https://www.uefa.com/uefaeuropaleague/history/",
+    "sourceName": "Archivio storico verificabile"
+  },
+  {
+    "id": "deep-2d77e9ce0a627015f5",
+    "category": "Champions League",
+    "kind": "Coppa UEFA ed Europa League",
+    "difficulty": 2,
+    "question": "Quale squadra conquistò la Europa League nel 2024?",
+    "options": [
+      "Ajax",
+      "Manchester United",
+      "Atalanta"
+    ],
+    "answer": 2,
+    "explanation": "Atalanta vinse la finale del 2024 contro Bayer Leverkusen.",
+    "source": "https://www.uefa.com/uefaeuropaleague/history/",
+    "sourceName": "Archivio storico verificabile"
+  },
+  {
+    "id": "deep-96a6e4fe2c3f12013c",
+    "category": "Champions League",
+    "kind": "Finaliste Europa League",
+    "difficulty": 2,
+    "question": "Quale club perse la finale di Europa League del 2024?",
+    "options": [
+      "Bayer Leverkusen",
+      "Manchester United",
+      "Porto"
+    ],
+    "answer": 0,
+    "explanation": "Bayer Leverkusen affrontò Atalanta nella finale del 2024.",
+    "source": "https://www.uefa.com/uefaeuropaleague/history/",
+    "sourceName": "Archivio storico verificabile"
+  },
+  {
+    "id": "deep-e72d3492a1ff1db1c6",
+    "category": "Europei",
+    "kind": "Allenatori campioni d’Europa",
+    "difficulty": 2,
+    "question": "Chi era il commissario tecnico della nazionale vincitrice di EURO 1960?",
+    "options": [
+      "Otto Rehhagel",
+      "Gavriil Kačalin",
+      "Jupp Derwall"
+    ],
+    "answer": 1,
+    "explanation": "Unione Sovietica vinse EURO 1960 sotto la guida di Gavriil Kačalin.",
+    "source": "https://www.uefa.com/uefaeuro/history/",
+    "sourceName": "Archivio storico verificabile"
+  },
+  {
+    "id": "deep-e05bbc1a3868f0b212",
+    "category": "Europei",
+    "kind": "Paesi ospitanti",
+    "difficulty": 1,
+    "question": "Dove si disputarono gli Europei del 1960?",
+    "options": [
+      "Polonia e Ucraina",
+      "Belgio",
+      "Francia"
+    ],
+    "answer": 2,
+    "explanation": "EURO 1960 si disputò in Francia.",
+    "source": "https://www.uefa.com/uefaeuro/history/",
+    "sourceName": "Archivio storico verificabile"
+  },
+  {
+    "id": "deep-3c14e0d7f15f9f2ed9",
+    "category": "Europei",
+    "kind": "Finali storiche",
+    "difficulty": 2,
+    "question": "Quale nazionale trionfò a EURO 1960 battendo Jugoslavia in finale?",
+    "options": [
+      "Cecoslovacchia",
+      "Unione Sovietica",
+      "Germania"
+    ],
+    "answer": 1,
+    "explanation": "Unione Sovietica superò Jugoslavia nella finale degli Europei 1960.",
+    "source": "https://www.uefa.com/uefaeuro/history/",
+    "sourceName": "Archivio storico verificabile"
+  },
+  {
+    "id": "deep-b9463f83e543d30799",
+    "category": "Europei",
+    "kind": "Allenatori campioni d’Europa",
+    "difficulty": 2,
+    "question": "Chi era il commissario tecnico della nazionale vincitrice di EURO 1964?",
+    "options": [
+      "Berti Vogts",
+      "Gavriil Kačalin",
+      "José Villalonga"
+    ],
+    "answer": 2,
+    "explanation": "Spagna vinse EURO 1964 sotto la guida di José Villalonga.",
+    "source": "https://www.uefa.com/uefaeuro/history/",
+    "sourceName": "Archivio storico verificabile"
+  },
+  {
+    "id": "deep-d79057b9e14372a8e8",
+    "category": "Europei",
+    "kind": "Paesi ospitanti",
+    "difficulty": 1,
+    "question": "Dove si disputarono gli Europei del 1964?",
+    "options": [
+      "Germania Ovest",
+      "Spagna",
+      "Belgio"
+    ],
+    "answer": 1,
+    "explanation": "EURO 1964 si disputò in Spagna.",
+    "source": "https://www.uefa.com/uefaeuro/history/",
+    "sourceName": "Archivio storico verificabile"
+  },
+  {
+    "id": "deep-bbd72645c06ea50a09",
+    "category": "Europei",
+    "kind": "Finali storiche",
+    "difficulty": 2,
+    "question": "Quale nazionale trionfò a EURO 1964 battendo Unione Sovietica in finale?",
+    "options": [
+      "Jugoslavia",
+      "Spagna",
+      "Italia"
+    ],
+    "answer": 1,
+    "explanation": "Spagna superò Unione Sovietica nella finale degli Europei 1964.",
+    "source": "https://www.uefa.com/uefaeuro/history/",
+    "sourceName": "Archivio storico verificabile"
+  },
+  {
+    "id": "deep-aed6c7d4bb54ccc755",
+    "category": "Europei",
+    "kind": "Allenatori campioni d’Europa",
+    "difficulty": 2,
+    "question": "Chi era il commissario tecnico della nazionale vincitrice di EURO 1968?",
+    "options": [
+      "Ferruccio Valcareggi",
+      "Jupp Derwall",
+      "Rinus Michels"
+    ],
+    "answer": 0,
+    "explanation": "Italia vinse EURO 1968 sotto la guida di Ferruccio Valcareggi.",
+    "source": "https://www.uefa.com/uefaeuro/history/",
+    "sourceName": "Archivio storico verificabile"
+  },
+  {
+    "id": "deep-63fce7988bd94a61d1",
+    "category": "Europei",
+    "kind": "Paesi ospitanti",
+    "difficulty": 1,
+    "question": "Dove si disputarono gli Europei del 1968?",
+    "options": [
+      "Germania",
+      "Polonia e Ucraina",
+      "Italia"
+    ],
+    "answer": 2,
+    "explanation": "EURO 1968 si disputò in Italia.",
+    "source": "https://www.uefa.com/uefaeuro/history/",
+    "sourceName": "Archivio storico verificabile"
+  },
+  {
+    "id": "deep-d1f5b8f530a5106cdb",
+    "category": "Europei",
+    "kind": "Finali storiche",
+    "difficulty": 2,
+    "question": "Quale nazionale trionfò a EURO 1968 battendo Jugoslavia in finale?",
+    "options": [
+      "Inghilterra",
+      "Unione Sovietica",
+      "Italia"
+    ],
+    "answer": 2,
+    "explanation": "Italia superò Jugoslavia nella finale degli Europei 1968.",
+    "source": "https://www.uefa.com/uefaeuro/history/",
+    "sourceName": "Archivio storico verificabile"
+  },
+  {
+    "id": "deep-7d595488f21e8694e5",
+    "category": "Europei",
+    "kind": "Marcatori Europei",
+    "difficulty": 2,
+    "question": "Chi fu il miglior marcatore di EURO 1968?",
+    "options": [
+      "Dieter Müller",
+      "David Villa",
+      "Dragan Džajić"
+    ],
+    "answer": 2,
+    "explanation": "Dragan Džajić segnò 2 gol a EURO 1968.",
+    "source": "https://www.uefa.com/uefaeuro/history/news/0259-0e6c1891bd10-d54f17cfd501-1000--every-euro-finals-top-scorer/",
+    "sourceName": "Archivio storico verificabile"
+  },
+  {
+    "id": "deep-ccd8e24363eb2d9719",
+    "category": "Europei",
+    "kind": "Gol e primati",
+    "difficulty": 3,
+    "question": "Quante reti segnò Dragan Džajić, capocannoniere di EURO 1968?",
+    "options": [
+      "7",
+      "2",
+      "4"
+    ],
+    "answer": 1,
+    "explanation": "Dragan Džajić segnò 2 gol nel torneo.",
+    "source": "https://www.uefa.com/uefaeuro/history/news/0259-0e6c1891bd10-d54f17cfd501-1000--every-euro-finals-top-scorer/",
+    "sourceName": "Archivio storico verificabile"
+  },
+  {
+    "id": "deep-381babbc0ac768fdd7",
+    "category": "Europei",
+    "kind": "Allenatori campioni d’Europa",
+    "difficulty": 2,
+    "question": "Chi era il commissario tecnico della nazionale vincitrice di EURO 1972?",
+    "options": [
+      "Václav Ježek",
+      "Fernando Santos",
+      "Helmut Schön"
+    ],
+    "answer": 2,
+    "explanation": "Germania Ovest vinse EURO 1972 sotto la guida di Helmut Schön.",
+    "source": "https://www.uefa.com/uefaeuro/history/",
+    "sourceName": "Archivio storico verificabile"
+  },
+  {
+    "id": "deep-87a1c70851ca956b9d",
+    "category": "Europei",
+    "kind": "Paesi ospitanti",
+    "difficulty": 1,
+    "question": "Dove si disputarono gli Europei del 1972?",
+    "options": [
+      "Inghilterra",
+      "Belgio",
+      "Svezia"
+    ],
+    "answer": 1,
+    "explanation": "EURO 1972 si disputò in Belgio.",
+    "source": "https://www.uefa.com/uefaeuro/history/",
+    "sourceName": "Archivio storico verificabile"
+  },
+  {
+    "id": "deep-b2561750ce826db019",
+    "category": "Europei",
+    "kind": "Finali storiche",
+    "difficulty": 2,
+    "question": "Quale nazionale trionfò a EURO 1972 battendo Unione Sovietica in finale?",
+    "options": [
+      "Germania Ovest",
+      "Cecoslovacchia",
+      "Spagna"
+    ],
+    "answer": 0,
+    "explanation": "Germania Ovest superò Unione Sovietica nella finale degli Europei 1972.",
+    "source": "https://www.uefa.com/uefaeuro/history/",
+    "sourceName": "Archivio storico verificabile"
+  },
+  {
+    "id": "deep-66bc38356ee83537f5",
+    "category": "Europei",
+    "kind": "Marcatori Europei",
+    "difficulty": 2,
+    "question": "Chi fu il miglior marcatore di EURO 1972?",
+    "options": [
+      "Gerd Müller",
+      "Klaus Allofs",
+      "Alan Shearer"
+    ],
+    "answer": 0,
+    "explanation": "Gerd Müller segnò 4 gol a EURO 1972.",
+    "source": "https://www.uefa.com/uefaeuro/history/news/0259-0e6c1891bd10-d54f17cfd501-1000--every-euro-finals-top-scorer/",
+    "sourceName": "Archivio storico verificabile"
+  },
+  {
+    "id": "deep-2a249f9f8107d99681",
+    "category": "Europei",
+    "kind": "Gol e primati",
+    "difficulty": 3,
+    "question": "Quante reti segnò Gerd Müller, capocannoniere di EURO 1972?",
+    "options": [
+      "4",
+      "10",
+      "5"
+    ],
+    "answer": 0,
+    "explanation": "Gerd Müller segnò 4 gol nel torneo.",
+    "source": "https://www.uefa.com/uefaeuro/history/news/0259-0e6c1891bd10-d54f17cfd501-1000--every-euro-finals-top-scorer/",
+    "sourceName": "Archivio storico verificabile"
+  },
+  {
+    "id": "deep-34aa3eed46251dfd9b",
+    "category": "Europei",
+    "kind": "Allenatori campioni d’Europa",
+    "difficulty": 2,
+    "question": "Chi era il commissario tecnico della nazionale vincitrice di EURO 1976?",
+    "options": [
+      "Gavriil Kačalin",
+      "Václav Ježek",
+      "Helmut Schön"
+    ],
+    "answer": 1,
+    "explanation": "Cecoslovacchia vinse EURO 1976 sotto la guida di Václav Ježek.",
+    "source": "https://www.uefa.com/uefaeuro/history/",
+    "sourceName": "Archivio storico verificabile"
+  },
+  {
+    "id": "deep-ae4f5e369c7d7a01c3",
+    "category": "Europei",
+    "kind": "Paesi ospitanti",
+    "difficulty": 1,
+    "question": "Dove si disputarono gli Europei del 1976?",
+    "options": [
+      "Jugoslavia",
+      "Belgio e Paesi Bassi",
+      "Spagna"
+    ],
+    "answer": 0,
+    "explanation": "EURO 1976 si disputò in Jugoslavia.",
+    "source": "https://www.uefa.com/uefaeuro/history/",
+    "sourceName": "Archivio storico verificabile"
+  },
+  {
+    "id": "deep-d6f2e3b50181c6bb96",
+    "category": "Europei",
+    "kind": "Finali storiche",
+    "difficulty": 2,
+    "question": "Quale nazionale trionfò a EURO 1976 battendo Germania Ovest in finale?",
+    "options": [
+      "Francia",
+      "Cecoslovacchia",
+      "Belgio"
+    ],
+    "answer": 1,
+    "explanation": "Cecoslovacchia superò Germania Ovest nella finale degli Europei 1976.",
+    "source": "https://www.uefa.com/uefaeuro/history/",
+    "sourceName": "Archivio storico verificabile"
+  },
+  {
+    "id": "deep-10412f180a14aafbf1",
+    "category": "Europei",
+    "kind": "Marcatori Europei",
+    "difficulty": 2,
+    "question": "Chi fu il miglior marcatore di EURO 1976?",
+    "options": [
+      "Dieter Müller",
+      "Klaus Allofs",
+      "Antoine Griezmann"
+    ],
+    "answer": 0,
+    "explanation": "Dieter Müller segnò 4 gol a EURO 1976.",
+    "source": "https://www.uefa.com/uefaeuro/history/news/0259-0e6c1891bd10-d54f17cfd501-1000--every-euro-finals-top-scorer/",
+    "sourceName": "Archivio storico verificabile"
+  },
+  {
+    "id": "deep-30eb8ca4c465752572",
+    "category": "Europei",
+    "kind": "Gol e primati",
+    "difficulty": 3,
+    "question": "Quante reti segnò Dieter Müller, capocannoniere di EURO 1976?",
+    "options": [
+      "6",
+      "4",
+      "2"
+    ],
+    "answer": 1,
+    "explanation": "Dieter Müller segnò 4 gol nel torneo.",
+    "source": "https://www.uefa.com/uefaeuro/history/news/0259-0e6c1891bd10-d54f17cfd501-1000--every-euro-finals-top-scorer/",
+    "sourceName": "Archivio storico verificabile"
+  },
+  {
+    "id": "deep-89589a9ccabc1c3a18",
+    "category": "Europei",
+    "kind": "Allenatori campioni d’Europa",
+    "difficulty": 2,
+    "question": "Chi era il commissario tecnico della nazionale vincitrice di EURO 1980?",
+    "options": [
+      "Jupp Derwall",
+      "Václav Ježek",
+      "Helmut Schön"
+    ],
+    "answer": 0,
+    "explanation": "Germania Ovest vinse EURO 1980 sotto la guida di Jupp Derwall.",
+    "source": "https://www.uefa.com/uefaeuro/history/",
+    "sourceName": "Archivio storico verificabile"
+  },
+  {
+    "id": "deep-555a1c380fa422a7cd",
+    "category": "Europei",
+    "kind": "Paesi ospitanti",
+    "difficulty": 1,
+    "question": "Dove si disputarono gli Europei del 1980?",
+    "options": [
+      "Italia",
+      "Portogallo",
+      "Inghilterra"
+    ],
+    "answer": 0,
+    "explanation": "EURO 1980 si disputò in Italia.",
+    "source": "https://www.uefa.com/uefaeuro/history/",
+    "sourceName": "Archivio storico verificabile"
+  },
+  {
+    "id": "deep-99b6e44fabc3d5f38b",
+    "category": "Europei",
+    "kind": "Finali storiche",
+    "difficulty": 2,
+    "question": "Quale nazionale trionfò a EURO 1980 battendo Belgio in finale?",
+    "options": [
+      "Germania Ovest",
+      "Portogallo",
+      "Unione Sovietica"
+    ],
+    "answer": 0,
+    "explanation": "Germania Ovest superò Belgio nella finale degli Europei 1980.",
+    "source": "https://www.uefa.com/uefaeuro/history/",
+    "sourceName": "Archivio storico verificabile"
+  },
+  {
+    "id": "deep-cb88dd4b336c3b4c36",
+    "category": "Europei",
+    "kind": "Marcatori Europei",
+    "difficulty": 2,
+    "question": "Chi fu il miglior marcatore di EURO 1980?",
+    "options": [
+      "Klaus Allofs",
+      "Dieter Müller",
+      "Antoine Griezmann"
+    ],
+    "answer": 0,
+    "explanation": "Klaus Allofs segnò 3 gol a EURO 1980.",
+    "source": "https://www.uefa.com/uefaeuro/history/news/0259-0e6c1891bd10-d54f17cfd501-1000--every-euro-finals-top-scorer/",
+    "sourceName": "Archivio storico verificabile"
+  },
+  {
+    "id": "deep-40f1c391b73a81c48b",
+    "category": "Europei",
+    "kind": "Gol e primati",
+    "difficulty": 3,
+    "question": "Quante reti segnò Klaus Allofs, capocannoniere di EURO 1980?",
+    "options": [
+      "5",
+      "7",
+      "3"
+    ],
+    "answer": 2,
+    "explanation": "Klaus Allofs segnò 3 gol nel torneo.",
+    "source": "https://www.uefa.com/uefaeuro/history/news/0259-0e6c1891bd10-d54f17cfd501-1000--every-euro-finals-top-scorer/",
+    "sourceName": "Archivio storico verificabile"
+  },
+  {
+    "id": "deep-5382600258946f0d31",
+    "category": "Europei",
+    "kind": "Allenatori campioni d’Europa",
+    "difficulty": 2,
+    "question": "Chi era il commissario tecnico della nazionale vincitrice di EURO 1984?",
+    "options": [
+      "Fernando Santos",
+      "Luis Aragonés",
+      "Michel Hidalgo"
+    ],
+    "answer": 2,
+    "explanation": "Francia vinse EURO 1984 sotto la guida di Michel Hidalgo.",
+    "source": "https://www.uefa.com/uefaeuro/history/",
+    "sourceName": "Archivio storico verificabile"
+  },
+  {
+    "id": "deep-84a30245f14e6bc728",
+    "category": "Europei",
+    "kind": "Paesi ospitanti",
+    "difficulty": 1,
+    "question": "Dove si disputarono gli Europei del 1984?",
+    "options": [
+      "Polonia e Ucraina",
+      "Francia",
+      "Germania"
+    ],
+    "answer": 1,
+    "explanation": "EURO 1984 si disputò in Francia.",
+    "source": "https://www.uefa.com/uefaeuro/history/",
+    "sourceName": "Archivio storico verificabile"
+  },
+  {
+    "id": "deep-a1b903c6fb1d9b8473",
+    "category": "Europei",
+    "kind": "Finali storiche",
+    "difficulty": 2,
+    "question": "Quale nazionale trionfò a EURO 1984 battendo Spagna in finale?",
+    "options": [
+      "Francia",
+      "Germania Ovest",
+      "Unione Sovietica"
+    ],
+    "answer": 0,
+    "explanation": "Francia superò Spagna nella finale degli Europei 1984.",
+    "source": "https://www.uefa.com/uefaeuro/history/",
+    "sourceName": "Archivio storico verificabile"
+  },
+  {
+    "id": "deep-2a70d4bebf641af27d",
+    "category": "Europei",
+    "kind": "Marcatori Europei",
+    "difficulty": 2,
+    "question": "Chi fu il miglior marcatore di EURO 1984?",
+    "options": [
+      "Michel Platini",
+      "Klaus Allofs",
+      "Dragan Džajić"
+    ],
+    "answer": 0,
+    "explanation": "Michel Platini segnò 9 gol a EURO 1984.",
+    "source": "https://www.uefa.com/uefaeuro/history/news/0259-0e6c1891bd10-d54f17cfd501-1000--every-euro-finals-top-scorer/",
+    "sourceName": "Archivio storico verificabile"
+  },
+  {
+    "id": "deep-72811d081d75f37678",
+    "category": "Europei",
+    "kind": "Gol e primati",
+    "difficulty": 3,
+    "question": "Quante reti segnò Michel Platini, capocannoniere di EURO 1984?",
+    "options": [
+      "5",
+      "9",
+      "7"
+    ],
+    "answer": 1,
+    "explanation": "Michel Platini segnò 9 gol nel torneo.",
+    "source": "https://www.uefa.com/uefaeuro/history/news/0259-0e6c1891bd10-d54f17cfd501-1000--every-euro-finals-top-scorer/",
+    "sourceName": "Archivio storico verificabile"
+  },
+  {
+    "id": "deep-a01f90d5343513fed0",
+    "category": "Europei",
+    "kind": "Allenatori campioni d’Europa",
+    "difficulty": 2,
+    "question": "Chi era il commissario tecnico della nazionale vincitrice di EURO 1988?",
+    "options": [
+      "Jupp Derwall",
+      "Rinus Michels",
+      "Michel Hidalgo"
+    ],
+    "answer": 1,
+    "explanation": "Paesi Bassi vinse EURO 1988 sotto la guida di Rinus Michels.",
+    "source": "https://www.uefa.com/uefaeuro/history/",
+    "sourceName": "Archivio storico verificabile"
+  },
+  {
+    "id": "deep-ecfd1cd380c45bf15a",
+    "category": "Europei",
+    "kind": "Paesi ospitanti",
+    "difficulty": 1,
+    "question": "Dove si disputarono gli Europei del 1988?",
+    "options": [
+      "Francia",
+      "Spagna",
+      "Germania Ovest"
+    ],
+    "answer": 2,
+    "explanation": "EURO 1988 si disputò in Germania Ovest.",
+    "source": "https://www.uefa.com/uefaeuro/history/",
+    "sourceName": "Archivio storico verificabile"
+  },
+  {
+    "id": "deep-01e22839a7c5fd4471",
+    "category": "Europei",
+    "kind": "Finali storiche",
+    "difficulty": 2,
+    "question": "Quale nazionale trionfò a EURO 1988 battendo Unione Sovietica in finale?",
+    "options": [
+      "Paesi Bassi",
+      "Francia",
+      "Portogallo"
+    ],
+    "answer": 0,
+    "explanation": "Paesi Bassi superò Unione Sovietica nella finale degli Europei 1988.",
+    "source": "https://www.uefa.com/uefaeuro/history/",
+    "sourceName": "Archivio storico verificabile"
+  },
+  {
+    "id": "deep-c5efca23df166cba8d",
+    "category": "Europei",
+    "kind": "Marcatori Europei",
+    "difficulty": 2,
+    "question": "Chi fu il miglior marcatore di EURO 1988?",
+    "options": [
+      "Marco van Basten",
+      "Michel Platini",
+      "Antoine Griezmann"
+    ],
+    "answer": 0,
+    "explanation": "Marco van Basten segnò 5 gol a EURO 1988.",
+    "source": "https://www.uefa.com/uefaeuro/history/news/0259-0e6c1891bd10-d54f17cfd501-1000--every-euro-finals-top-scorer/",
+    "sourceName": "Archivio storico verificabile"
+  },
+  {
+    "id": "deep-6760b0c4fd06247d75",
+    "category": "Europei",
+    "kind": "Gol e primati",
+    "difficulty": 3,
+    "question": "Quante reti segnò Marco van Basten, capocannoniere di EURO 1988?",
+    "options": [
+      "3",
+      "4",
+      "5"
+    ],
+    "answer": 2,
+    "explanation": "Marco van Basten segnò 5 gol nel torneo.",
+    "source": "https://www.uefa.com/uefaeuro/history/news/0259-0e6c1891bd10-d54f17cfd501-1000--every-euro-finals-top-scorer/",
+    "sourceName": "Archivio storico verificabile"
+  },
+  {
+    "id": "deep-9a9c49e91b4a40aa60",
+    "category": "Europei",
+    "kind": "Allenatori campioni d’Europa",
+    "difficulty": 2,
+    "question": "Chi era il commissario tecnico della nazionale vincitrice di EURO 1992?",
+    "options": [
+      "Richard Møller Nielsen",
+      "Helmut Schön",
+      "Luis de la Fuente"
+    ],
+    "answer": 0,
+    "explanation": "Danimarca vinse EURO 1992 sotto la guida di Richard Møller Nielsen.",
+    "source": "https://www.uefa.com/uefaeuro/history/",
+    "sourceName": "Archivio storico verificabile"
+  },
+  {
+    "id": "deep-b9155fc35e93e87612",
+    "category": "Europei",
+    "kind": "Paesi ospitanti",
+    "difficulty": 1,
+    "question": "Dove si disputarono gli Europei del 1992?",
+    "options": [
+      "Francia",
+      "Belgio",
+      "Svezia"
+    ],
+    "answer": 2,
+    "explanation": "EURO 1992 si disputò in Svezia.",
+    "source": "https://www.uefa.com/uefaeuro/history/",
+    "sourceName": "Archivio storico verificabile"
+  },
+  {
+    "id": "deep-46d2eff0cd8ccc9e19",
+    "category": "Europei",
+    "kind": "Finali storiche",
+    "difficulty": 2,
+    "question": "Quale nazionale trionfò a EURO 1992 battendo Germania in finale?",
+    "options": [
+      "Danimarca",
+      "Spagna",
+      "Grecia"
+    ],
+    "answer": 0,
+    "explanation": "Danimarca superò Germania nella finale degli Europei 1992.",
+    "source": "https://www.uefa.com/uefaeuro/history/",
+    "sourceName": "Archivio storico verificabile"
+  },
+  {
+    "id": "deep-407390549f40e21a60",
+    "category": "Europei",
+    "kind": "Allenatori campioni d’Europa",
+    "difficulty": 2,
+    "question": "Chi era il commissario tecnico della nazionale vincitrice di EURO 1996?",
+    "options": [
+      "Richard Møller Nielsen",
+      "Jupp Derwall",
+      "Berti Vogts"
+    ],
+    "answer": 2,
+    "explanation": "Germania vinse EURO 1996 sotto la guida di Berti Vogts.",
+    "source": "https://www.uefa.com/uefaeuro/history/",
+    "sourceName": "Archivio storico verificabile"
+  },
+  {
+    "id": "deep-3fd6cf91205ca22410",
+    "category": "Europei",
+    "kind": "Paesi ospitanti",
+    "difficulty": 1,
+    "question": "Dove si disputarono gli Europei del 1996?",
+    "options": [
+      "Inghilterra",
+      "Germania",
+      "Belgio"
+    ],
+    "answer": 0,
+    "explanation": "EURO 1996 si disputò in Inghilterra.",
+    "source": "https://www.uefa.com/uefaeuro/history/",
+    "sourceName": "Archivio storico verificabile"
+  },
+  {
+    "id": "deep-dd8841e3142a54a74b",
+    "category": "Europei",
+    "kind": "Finali storiche",
+    "difficulty": 2,
+    "question": "Quale nazionale trionfò a EURO 1996 battendo Repubblica Ceca in finale?",
+    "options": [
+      "Danimarca",
+      "Germania",
+      "Inghilterra"
+    ],
+    "answer": 1,
+    "explanation": "Germania superò Repubblica Ceca nella finale degli Europei 1996.",
+    "source": "https://www.uefa.com/uefaeuro/history/",
+    "sourceName": "Archivio storico verificabile"
+  },
+  {
+    "id": "deep-71f2b27cd177edfabe",
+    "category": "Europei",
+    "kind": "Marcatori Europei",
+    "difficulty": 2,
+    "question": "Chi fu il miglior marcatore di EURO 1996?",
+    "options": [
+      "Gerd Müller",
+      "Michel Platini",
+      "Alan Shearer"
+    ],
+    "answer": 2,
+    "explanation": "Alan Shearer segnò 5 gol a EURO 1996.",
+    "source": "https://www.uefa.com/uefaeuro/history/news/0259-0e6c1891bd10-d54f17cfd501-1000--every-euro-finals-top-scorer/",
+    "sourceName": "Archivio storico verificabile"
+  },
+  {
+    "id": "deep-3e75e2c2a84d2c1b1f",
+    "category": "Europei",
+    "kind": "Gol e primati",
+    "difficulty": 3,
+    "question": "Quante reti segnò Alan Shearer, capocannoniere di EURO 1996?",
+    "options": [
+      "3",
+      "4",
+      "5"
+    ],
+    "answer": 2,
+    "explanation": "Alan Shearer segnò 5 gol nel torneo.",
+    "source": "https://www.uefa.com/uefaeuro/history/news/0259-0e6c1891bd10-d54f17cfd501-1000--every-euro-finals-top-scorer/",
+    "sourceName": "Archivio storico verificabile"
+  },
+  {
+    "id": "deep-9a94a24a548fe697ac",
+    "category": "Europei",
+    "kind": "Miglior giocatore",
+    "difficulty": 2,
+    "question": "Chi fu eletto miglior giocatore di EURO 1996?",
+    "options": [
+      "Antoine Griezmann",
+      "Zinédine Zidane",
+      "Matthias Sammer"
+    ],
+    "answer": 2,
+    "explanation": "UEFA premiò Matthias Sammer come migliore giocatore dell’edizione 1996.",
+    "source": "https://www.uefa.com/uefaeuro/history/news/0259-0e6c1891bd10-d54f17cfd501-1000--every-euro-finals-top-scorer/",
+    "sourceName": "Archivio storico verificabile"
+  },
+  {
+    "id": "deep-7f16740cad0ffba878",
+    "category": "Europei",
+    "kind": "Allenatori campioni d’Europa",
+    "difficulty": 2,
+    "question": "Chi era il commissario tecnico della nazionale vincitrice di EURO 2000?",
+    "options": [
+      "José Villalonga",
+      "Václav Ježek",
+      "Roger Lemerre"
+    ],
+    "answer": 2,
+    "explanation": "Francia vinse EURO 2000 sotto la guida di Roger Lemerre.",
+    "source": "https://www.uefa.com/uefaeuro/history/",
+    "sourceName": "Archivio storico verificabile"
+  },
+  {
+    "id": "deep-06ece074e19e9ceb3f",
+    "category": "Europei",
+    "kind": "Paesi ospitanti",
+    "difficulty": 1,
+    "question": "Dove si disputarono gli Europei del 2000?",
+    "options": [
+      "Belgio e Paesi Bassi",
+      "Austria e Svizzera",
+      "Portogallo"
+    ],
+    "answer": 0,
+    "explanation": "EURO 2000 si disputò in Belgio e Paesi Bassi.",
+    "source": "https://www.uefa.com/uefaeuro/history/",
+    "sourceName": "Archivio storico verificabile"
+  },
+  {
+    "id": "deep-d4879ee411ac024aee",
+    "category": "Europei",
+    "kind": "Finali storiche",
+    "difficulty": 2,
+    "question": "Quale nazionale trionfò a EURO 2000 battendo Italia in finale?",
+    "options": [
+      "Spagna",
+      "Unione Sovietica",
+      "Francia"
+    ],
+    "answer": 2,
+    "explanation": "Francia superò Italia nella finale degli Europei 2000.",
+    "source": "https://www.uefa.com/uefaeuro/history/",
+    "sourceName": "Archivio storico verificabile"
+  },
+  {
+    "id": "deep-13b6bfac04323b60a9",
+    "category": "Europei",
+    "kind": "Miglior giocatore",
+    "difficulty": 2,
+    "question": "Chi fu eletto miglior giocatore di EURO 2000?",
+    "options": [
+      "Zinédine Zidane",
+      "Theodoros Zagorakis",
+      "Xavi Hernández"
+    ],
+    "answer": 0,
+    "explanation": "UEFA premiò Zinédine Zidane come migliore giocatore dell’edizione 2000.",
+    "source": "https://www.uefa.com/uefaeuro/history/news/0259-0e6c1891bd10-d54f17cfd501-1000--every-euro-finals-top-scorer/",
+    "sourceName": "Archivio storico verificabile"
+  },
+  {
+    "id": "deep-019d124f37b93a99e8",
+    "category": "Europei",
+    "kind": "Allenatori campioni d’Europa",
+    "difficulty": 2,
+    "question": "Chi era il commissario tecnico della nazionale vincitrice di EURO 2004?",
+    "options": [
+      "Helmut Schön",
+      "Berti Vogts",
+      "Otto Rehhagel"
+    ],
+    "answer": 2,
+    "explanation": "Grecia vinse EURO 2004 sotto la guida di Otto Rehhagel.",
+    "source": "https://www.uefa.com/uefaeuro/history/",
+    "sourceName": "Archivio storico verificabile"
+  },
+  {
+    "id": "deep-eb9aafeaf4b6ab53f4",
+    "category": "Europei",
+    "kind": "Paesi ospitanti",
+    "difficulty": 1,
+    "question": "Dove si disputarono gli Europei del 2004?",
+    "options": [
+      "Belgio e Paesi Bassi",
+      "Francia",
+      "Portogallo"
+    ],
+    "answer": 2,
+    "explanation": "EURO 2004 si disputò in Portogallo.",
+    "source": "https://www.uefa.com/uefaeuro/history/",
+    "sourceName": "Archivio storico verificabile"
+  },
+  {
+    "id": "deep-74af68c0e9d4b7fdf5",
+    "category": "Europei",
+    "kind": "Finali storiche",
+    "difficulty": 2,
+    "question": "Quale nazionale trionfò a EURO 2004 battendo Portogallo in finale?",
+    "options": [
+      "Grecia",
+      "Repubblica Ceca",
+      "Germania Ovest"
+    ],
+    "answer": 0,
+    "explanation": "Grecia superò Portogallo nella finale degli Europei 2004.",
+    "source": "https://www.uefa.com/uefaeuro/history/",
+    "sourceName": "Archivio storico verificabile"
+  },
+  {
+    "id": "deep-93cc28f6d31ff24c42",
+    "category": "Europei",
+    "kind": "Marcatori Europei",
+    "difficulty": 2,
+    "question": "Chi fu il miglior marcatore di EURO 2004?",
+    "options": [
+      "Milan Baroš",
+      "Michel Platini",
+      "Antoine Griezmann"
+    ],
+    "answer": 0,
+    "explanation": "Milan Baroš segnò 5 gol a EURO 2004.",
+    "source": "https://www.uefa.com/uefaeuro/history/news/0259-0e6c1891bd10-d54f17cfd501-1000--every-euro-finals-top-scorer/",
+    "sourceName": "Archivio storico verificabile"
+  },
+  {
+    "id": "deep-4df4833ba2827b67e1",
+    "category": "Europei",
+    "kind": "Gol e primati",
+    "difficulty": 3,
+    "question": "Quante reti segnò Milan Baroš, capocannoniere di EURO 2004?",
+    "options": [
+      "5",
+      "10",
+      "7"
+    ],
+    "answer": 0,
+    "explanation": "Milan Baroš segnò 5 gol nel torneo.",
+    "source": "https://www.uefa.com/uefaeuro/history/news/0259-0e6c1891bd10-d54f17cfd501-1000--every-euro-finals-top-scorer/",
+    "sourceName": "Archivio storico verificabile"
+  },
+  {
+    "id": "deep-05438b496a274f8dbb",
+    "category": "Europei",
+    "kind": "Miglior giocatore",
+    "difficulty": 2,
+    "question": "Chi fu eletto miglior giocatore di EURO 2004?",
+    "options": [
+      "Matthias Sammer",
+      "Theodoros Zagorakis",
+      "Rodri"
+    ],
+    "answer": 1,
+    "explanation": "UEFA premiò Theodoros Zagorakis come migliore giocatore dell’edizione 2004.",
+    "source": "https://www.uefa.com/uefaeuro/history/news/0259-0e6c1891bd10-d54f17cfd501-1000--every-euro-finals-top-scorer/",
+    "sourceName": "Archivio storico verificabile"
+  },
+  {
+    "id": "deep-3738dfa390c40c85ec",
+    "category": "Europei",
+    "kind": "Allenatori campioni d’Europa",
+    "difficulty": 2,
+    "question": "Chi era il commissario tecnico della nazionale vincitrice di EURO 2008?",
+    "options": [
+      "Václav Ježek",
+      "Luis Aragonés",
+      "Michel Hidalgo"
+    ],
+    "answer": 1,
+    "explanation": "Spagna vinse EURO 2008 sotto la guida di Luis Aragonés.",
+    "source": "https://www.uefa.com/uefaeuro/history/",
+    "sourceName": "Archivio storico verificabile"
+  },
+  {
+    "id": "deep-5e1dfa0b899c25891e",
+    "category": "Europei",
+    "kind": "Paesi ospitanti",
+    "difficulty": 1,
+    "question": "Dove si disputarono gli Europei del 2008?",
+    "options": [
+      "Inghilterra",
+      "Austria e Svizzera",
+      "Polonia e Ucraina"
+    ],
+    "answer": 1,
+    "explanation": "EURO 2008 si disputò in Austria e Svizzera.",
+    "source": "https://www.uefa.com/uefaeuro/history/",
+    "sourceName": "Archivio storico verificabile"
+  },
+  {
+    "id": "deep-0e489d3d8b0c7e80d4",
+    "category": "Europei",
+    "kind": "Finali storiche",
+    "difficulty": 2,
+    "question": "Quale nazionale trionfò a EURO 2008 battendo Germania in finale?",
+    "options": [
+      "Portogallo",
+      "Repubblica Ceca",
+      "Spagna"
+    ],
+    "answer": 2,
+    "explanation": "Spagna superò Germania nella finale degli Europei 2008.",
+    "source": "https://www.uefa.com/uefaeuro/history/",
+    "sourceName": "Archivio storico verificabile"
+  },
+  {
+    "id": "deep-435761d10b6fafb0f8",
+    "category": "Europei",
+    "kind": "Marcatori Europei",
+    "difficulty": 2,
+    "question": "Chi fu il miglior marcatore di EURO 2008?",
+    "options": [
+      "Antoine Griezmann",
+      "David Villa",
+      "Dragan Džajić"
+    ],
+    "answer": 1,
+    "explanation": "David Villa segnò 4 gol a EURO 2008.",
+    "source": "https://www.uefa.com/uefaeuro/history/news/0259-0e6c1891bd10-d54f17cfd501-1000--every-euro-finals-top-scorer/",
+    "sourceName": "Archivio storico verificabile"
+  },
+  {
+    "id": "deep-15362cb1dd5473c635",
+    "category": "Europei",
+    "kind": "Gol e primati",
+    "difficulty": 3,
+    "question": "Quante reti segnò David Villa, capocannoniere di EURO 2008?",
+    "options": [
+      "4",
+      "7",
+      "9"
+    ],
+    "answer": 0,
+    "explanation": "David Villa segnò 4 gol nel torneo.",
+    "source": "https://www.uefa.com/uefaeuro/history/news/0259-0e6c1891bd10-d54f17cfd501-1000--every-euro-finals-top-scorer/",
+    "sourceName": "Archivio storico verificabile"
+  },
+  {
+    "id": "deep-2c6f82dd84366a1c24",
+    "category": "Europei",
+    "kind": "Miglior giocatore",
+    "difficulty": 2,
+    "question": "Chi fu eletto miglior giocatore di EURO 2008?",
+    "options": [
+      "Zinédine Zidane",
+      "Matthias Sammer",
+      "Xavi Hernández"
+    ],
+    "answer": 2,
+    "explanation": "UEFA premiò Xavi Hernández come migliore giocatore dell’edizione 2008.",
+    "source": "https://www.uefa.com/uefaeuro/history/news/0259-0e6c1891bd10-d54f17cfd501-1000--every-euro-finals-top-scorer/",
+    "sourceName": "Archivio storico verificabile"
+  },
+  {
+    "id": "deep-09eeba4c4f9ab37899",
+    "category": "Europei",
+    "kind": "Allenatori campioni d’Europa",
+    "difficulty": 2,
+    "question": "Chi era il commissario tecnico della nazionale vincitrice di EURO 2012?",
+    "options": [
+      "Vicente del Bosque",
+      "Rinus Michels",
+      "Richard Møller Nielsen"
+    ],
+    "answer": 0,
+    "explanation": "Spagna vinse EURO 2012 sotto la guida di Vicente del Bosque.",
+    "source": "https://www.uefa.com/uefaeuro/history/",
+    "sourceName": "Archivio storico verificabile"
+  },
+  {
+    "id": "deep-dedd4ea43a6b1ee9f1",
+    "category": "Europei",
+    "kind": "Paesi ospitanti",
+    "difficulty": 1,
+    "question": "Dove si disputarono gli Europei del 2012?",
+    "options": [
+      "Belgio",
+      "Polonia e Ucraina",
+      "Francia"
+    ],
+    "answer": 1,
+    "explanation": "EURO 2012 si disputò in Polonia e Ucraina.",
+    "source": "https://www.uefa.com/uefaeuro/history/",
+    "sourceName": "Archivio storico verificabile"
+  },
+  {
+    "id": "deep-ae0752937d58a31cbd",
+    "category": "Europei",
+    "kind": "Finali storiche",
+    "difficulty": 2,
+    "question": "Quale nazionale trionfò a EURO 2012 battendo Italia in finale?",
+    "options": [
+      "Germania",
+      "Spagna",
+      "Paesi Bassi"
+    ],
+    "answer": 1,
+    "explanation": "Spagna superò Italia nella finale degli Europei 2012.",
+    "source": "https://www.uefa.com/uefaeuro/history/",
+    "sourceName": "Archivio storico verificabile"
+  },
+  {
+    "id": "deep-d54c5eebe34568e162",
+    "category": "Europei",
+    "kind": "Miglior giocatore",
+    "difficulty": 2,
+    "question": "Chi fu eletto miglior giocatore di EURO 2012?",
+    "options": [
+      "Andrés Iniesta",
+      "Gianluigi Donnarumma",
+      "Zinédine Zidane"
+    ],
+    "answer": 0,
+    "explanation": "UEFA premiò Andrés Iniesta come migliore giocatore dell’edizione 2012.",
+    "source": "https://www.uefa.com/uefaeuro/history/news/0259-0e6c1891bd10-d54f17cfd501-1000--every-euro-finals-top-scorer/",
+    "sourceName": "Archivio storico verificabile"
+  },
+  {
+    "id": "deep-1a94ed5b8462766875",
+    "category": "Europei",
+    "kind": "Allenatori campioni d’Europa",
+    "difficulty": 2,
+    "question": "Chi era il commissario tecnico della nazionale vincitrice di EURO 2016?",
+    "options": [
+      "Roger Lemerre",
+      "Fernando Santos",
+      "Vicente del Bosque"
+    ],
+    "answer": 1,
+    "explanation": "Portogallo vinse EURO 2016 sotto la guida di Fernando Santos.",
+    "source": "https://www.uefa.com/uefaeuro/history/",
+    "sourceName": "Archivio storico verificabile"
+  },
+  {
+    "id": "deep-7f395b26d0d71cbc1d",
+    "category": "Europei",
+    "kind": "Paesi ospitanti",
+    "difficulty": 1,
+    "question": "Dove si disputarono gli Europei del 2016?",
+    "options": [
+      "Francia",
+      "Belgio e Paesi Bassi",
+      "Germania Ovest"
+    ],
+    "answer": 0,
+    "explanation": "EURO 2016 si disputò in Francia.",
+    "source": "https://www.uefa.com/uefaeuro/history/",
+    "sourceName": "Archivio storico verificabile"
+  },
+  {
+    "id": "deep-b2aa18b50a2141d232",
+    "category": "Europei",
+    "kind": "Finali storiche",
+    "difficulty": 2,
+    "question": "Quale nazionale trionfò a EURO 2016 battendo Francia in finale?",
+    "options": [
+      "Cecoslovacchia",
+      "Germania",
+      "Portogallo"
+    ],
+    "answer": 2,
+    "explanation": "Portogallo superò Francia nella finale degli Europei 2016.",
+    "source": "https://www.uefa.com/uefaeuro/history/",
+    "sourceName": "Archivio storico verificabile"
+  },
+  {
+    "id": "deep-fa6548a36e6ea0f4f7",
+    "category": "Europei",
+    "kind": "Marcatori Europei",
+    "difficulty": 2,
+    "question": "Chi fu il miglior marcatore di EURO 2016?",
+    "options": [
+      "David Villa",
+      "Antoine Griezmann",
+      "Klaus Allofs"
+    ],
+    "answer": 1,
+    "explanation": "Antoine Griezmann segnò 6 gol a EURO 2016.",
+    "source": "https://www.uefa.com/uefaeuro/history/news/0259-0e6c1891bd10-d54f17cfd501-1000--every-euro-finals-top-scorer/",
+    "sourceName": "Archivio storico verificabile"
+  },
+  {
+    "id": "deep-b5fd3f2d116d022647",
+    "category": "Europei",
+    "kind": "Gol e primati",
+    "difficulty": 3,
+    "question": "Quante reti segnò Antoine Griezmann, capocannoniere di EURO 2016?",
+    "options": [
+      "2",
+      "6",
+      "7"
+    ],
+    "answer": 1,
+    "explanation": "Antoine Griezmann segnò 6 gol nel torneo.",
+    "source": "https://www.uefa.com/uefaeuro/history/news/0259-0e6c1891bd10-d54f17cfd501-1000--every-euro-finals-top-scorer/",
+    "sourceName": "Archivio storico verificabile"
+  },
+  {
+    "id": "deep-e67af5ba0da3f0d97a",
+    "category": "Europei",
+    "kind": "Miglior giocatore",
+    "difficulty": 2,
+    "question": "Chi fu eletto miglior giocatore di EURO 2016?",
+    "options": [
+      "Xavi Hernández",
+      "Matthias Sammer",
+      "Antoine Griezmann"
+    ],
+    "answer": 2,
+    "explanation": "UEFA premiò Antoine Griezmann come migliore giocatore dell’edizione 2016.",
+    "source": "https://www.uefa.com/uefaeuro/history/news/0259-0e6c1891bd10-d54f17cfd501-1000--every-euro-finals-top-scorer/",
+    "sourceName": "Archivio storico verificabile"
+  },
+  {
+    "id": "deep-557cb7f92ee9f4d417",
+    "category": "Europei",
+    "kind": "Allenatori campioni d’Europa",
+    "difficulty": 2,
+    "question": "Chi era il commissario tecnico della nazionale vincitrice di EURO 2020?",
+    "options": [
+      "Roberto Mancini",
+      "Roger Lemerre",
+      "Helmut Schön"
+    ],
+    "answer": 0,
+    "explanation": "Italia vinse EURO 2020 sotto la guida di Roberto Mancini.",
+    "source": "https://www.uefa.com/uefaeuro/history/",
+    "sourceName": "Archivio storico verificabile"
+  },
+  {
+    "id": "deep-371ab3183cc153a07d",
+    "category": "Europei",
+    "kind": "Paesi ospitanti",
+    "difficulty": 1,
+    "question": "Dove si disputarono gli Europei del 2020?",
+    "options": [
+      "Europa (sedi multiple)",
+      "Italia",
+      "Francia"
+    ],
+    "answer": 0,
+    "explanation": "EURO 2020 si disputò in Europa (sedi multiple).",
+    "source": "https://www.uefa.com/uefaeuro/history/",
+    "sourceName": "Archivio storico verificabile"
+  },
+  {
+    "id": "deep-604bcc2187a5ce08ed",
+    "category": "Europei",
+    "kind": "Finali storiche",
+    "difficulty": 2,
+    "question": "Quale nazionale trionfò a EURO 2020 battendo Inghilterra in finale?",
+    "options": [
+      "Cecoslovacchia",
+      "Italia",
+      "Jugoslavia"
+    ],
+    "answer": 1,
+    "explanation": "Italia superò Inghilterra nella finale degli Europei 2020.",
+    "source": "https://www.uefa.com/uefaeuro/history/",
+    "sourceName": "Archivio storico verificabile"
+  },
+  {
+    "id": "deep-67210f8c9293cd848e",
+    "category": "Europei",
+    "kind": "Miglior giocatore",
+    "difficulty": 2,
+    "question": "Chi fu eletto miglior giocatore di EURO 2020?",
+    "options": [
+      "Gianluigi Donnarumma",
+      "Rodri",
+      "Andrés Iniesta"
+    ],
+    "answer": 0,
+    "explanation": "UEFA premiò Gianluigi Donnarumma come migliore giocatore dell’edizione 2020.",
+    "source": "https://www.uefa.com/uefaeuro/history/news/0259-0e6c1891bd10-d54f17cfd501-1000--every-euro-finals-top-scorer/",
+    "sourceName": "Archivio storico verificabile"
+  },
+  {
+    "id": "deep-7d1cfc853ff8fface4",
+    "category": "Europei",
+    "kind": "Allenatori campioni d’Europa",
+    "difficulty": 2,
+    "question": "Chi era il commissario tecnico della nazionale vincitrice di EURO 2024?",
+    "options": [
+      "Jupp Derwall",
+      "Luis de la Fuente",
+      "Fernando Santos"
+    ],
+    "answer": 1,
+    "explanation": "Spagna vinse EURO 2024 sotto la guida di Luis de la Fuente.",
+    "source": "https://www.uefa.com/uefaeuro/history/",
+    "sourceName": "Archivio storico verificabile"
+  },
+  {
+    "id": "deep-cd03dbbfd94f788bc6",
+    "category": "Europei",
+    "kind": "Paesi ospitanti",
+    "difficulty": 1,
+    "question": "Dove si disputarono gli Europei del 2024?",
+    "options": [
+      "Germania",
+      "Jugoslavia",
+      "Inghilterra"
+    ],
+    "answer": 0,
+    "explanation": "EURO 2024 si disputò in Germania.",
+    "source": "https://www.uefa.com/uefaeuro/history/",
+    "sourceName": "Archivio storico verificabile"
+  },
+  {
+    "id": "deep-5bc3e903c052a281a9",
+    "category": "Europei",
+    "kind": "Finali storiche",
+    "difficulty": 2,
+    "question": "Quale nazionale trionfò a EURO 2024 battendo Inghilterra in finale?",
+    "options": [
+      "Cecoslovacchia",
+      "Spagna",
+      "Danimarca"
+    ],
+    "answer": 1,
+    "explanation": "Spagna superò Inghilterra nella finale degli Europei 2024.",
+    "source": "https://www.uefa.com/uefaeuro/history/",
+    "sourceName": "Archivio storico verificabile"
+  },
+  {
+    "id": "deep-6d6d5c2cebec9b1db0",
+    "category": "Europei",
+    "kind": "Miglior giocatore",
+    "difficulty": 2,
+    "question": "Chi fu eletto miglior giocatore di EURO 2024?",
+    "options": [
+      "Andrés Iniesta",
+      "Rodri",
+      "Xavi Hernández"
+    ],
+    "answer": 1,
+    "explanation": "UEFA premiò Rodri come migliore giocatore dell’edizione 2024.",
+    "source": "https://www.uefa.com/uefaeuro/history/news/0259-0e6c1891bd10-d54f17cfd501-1000--every-euro-finals-top-scorer/",
+    "sourceName": "Archivio storico verificabile"
+  }
+]

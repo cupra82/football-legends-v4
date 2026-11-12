@@ -1,0 +1,19 @@
+FOOTBALL LEGENDS 1.4 - CAMPIONATI AUTOMATICI
+
+1. GitHub Desktop: Fetch origin / Pull origin se necessario.
+2. Estrai lo ZIP, copia tutti i file nel repository (senza cancellare questions-generated.json / people-generated.json).
+3. Commit to main -> Push origin. Render fa il deploy.
+4. GitHub -> Actions -> Aggiorna archivio Football Legends -> Run workflow (UNA VOLTA per inizializzare le nuove leghe).
+5. Controlla /api/status: byCategory mostrerà le domande nuove caricate.
+6. Successivamente il workflow gira ogni lunedì e aggiorna automaticamente i file solo quando cambiano.
+
+NOVITÀ
+- Nuove fonti: Portogallo, Olanda, Belgio, Scozia, Grecia, Austria, seconde divisioni.
+- Nuovi quiz storici: classifiche finali, podio, confronto tra club, senza i gol esatti delle partite.
+- Domande prodotte solo se il dataset contiene tutte le partite di una stagione regolare a girone doppio.
+- Se una fonte manca o è incompleta, il generatore NON inventa domande.
+- Le 99 domande portoghesi curate restano, accanto alle domande dinamiche.
+- Non sono promesse migliaia di quesiti nuovi in ogni lega: il numero reale dipende dagli archivi.
+- Non vengono create automaticamente biografie e trasferimenti, che necessitano di fonti differenti.
+
+IMPORTANTE: i dataset pubblici possono essere aggiornati con ritardo. Il lunedì non è garanzia di nuove domande.

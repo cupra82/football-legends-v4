@@ -1,0 +1,1705 @@
+[
+  {
+    "id": 1,
+    "category": "Mondiali",
+    "difficulty": 1,
+    "question": "Chi ha vinto il Mondiale maschile del 2006?",
+    "options": [
+      "Germania",
+      "Italia",
+      "Francia"
+    ],
+    "answer": 1,
+    "explanation": "L’Italia superò la Francia ai rigori nella finale di Berlino."
+  },
+  {
+    "id": 2,
+    "category": "Mondiali",
+    "difficulty": 1,
+    "question": "Quale nazionale ha vinto il Mondiale maschile del 2022?",
+    "options": [
+      "Francia",
+      "Argentina",
+      "Croazia"
+    ],
+    "answer": 1,
+    "explanation": "L’Argentina batté la Francia ai rigori nella finale in Qatar."
+  },
+  {
+    "id": 3,
+    "category": "Mondiali",
+    "difficulty": 1,
+    "question": "Dove si disputò la prima Coppa del Mondo maschile nel 1930?",
+    "options": [
+      "Italia",
+      "Uruguay",
+      "Brasile"
+    ],
+    "answer": 1,
+    "explanation": "L’Uruguay ospitò e vinse il torneo inaugurale del 1930."
+  },
+  {
+    "id": 4,
+    "category": "Mondiali",
+    "difficulty": 1,
+    "question": "Chi vinse la Coppa del Mondo maschile del 2010?",
+    "options": [
+      "Germania",
+      "Spagna",
+      "Paesi Bassi"
+    ],
+    "answer": 1,
+    "explanation": "La Spagna sconfisse i Paesi Bassi per 1-0 ai supplementari."
+  },
+  {
+    "id": 5,
+    "category": "Mondiali",
+    "difficulty": 1,
+    "question": "Quanti Mondiali maschili ha vinto il Brasile fino al 2026?",
+    "options": [
+      "4",
+      "5",
+      "6"
+    ],
+    "answer": 1,
+    "explanation": "Il Brasile vinse nel 1958, 1962, 1970, 1994 e 2002."
+  },
+  {
+    "id": 6,
+    "category": "Mondiali",
+    "difficulty": 2,
+    "question": "Chi segnò il gol decisivo nella finale mondiale 2014?",
+    "options": [
+      "Mario Götze",
+      "Miroslav Klose",
+      "Thomas Müller"
+    ],
+    "answer": 0,
+    "explanation": "Mario Götze segnò nei supplementari contro l’Argentina."
+  },
+  {
+    "id": 7,
+    "category": "Mondiali",
+    "difficulty": 2,
+    "question": "Quale nazionale vinse la Coppa del Mondo del 1998?",
+    "options": [
+      "Italia",
+      "Francia",
+      "Brasile"
+    ],
+    "answer": 1,
+    "explanation": "La Francia batté il Brasile per 3-0 in finale."
+  },
+  {
+    "id": 8,
+    "category": "Mondiali",
+    "difficulty": 2,
+    "question": "Chi segnò la “Mano de Dios” nel Mondiale del 1986?",
+    "options": [
+      "Maradona",
+      "Pelé",
+      "Kempes"
+    ],
+    "answer": 0,
+    "explanation": "Diego Maradona segnò con la mano contro l’Inghilterra nei quarti."
+  },
+  {
+    "id": 9,
+    "category": "Mondiali",
+    "difficulty": 2,
+    "question": "Quale nazionale fu finalista perdente ai Mondiali 1974 e 1978?",
+    "options": [
+      "Paesi Bassi",
+      "Polonia",
+      "Italia"
+    ],
+    "answer": 0,
+    "explanation": "I Paesi Bassi persero le finali contro Germania Ovest e Argentina."
+  },
+  {
+    "id": 10,
+    "category": "Mondiali",
+    "difficulty": 2,
+    "question": "Quale nazionale vinse il Mondiale del 1966?",
+    "options": [
+      "Portogallo",
+      "Inghilterra",
+      "Germania Ovest"
+    ],
+    "answer": 1,
+    "explanation": "L’Inghilterra superò la Germania Ovest 4-2 dopo i supplementari."
+  },
+  {
+    "id": 11,
+    "category": "Mondiali",
+    "difficulty": 3,
+    "question": "Chi fu capocannoniere del Mondiale 2002?",
+    "options": [
+      "Ronaldo",
+      "Rivaldo",
+      "Klose"
+    ],
+    "answer": 0,
+    "explanation": "Ronaldo realizzò 8 reti al Mondiale 2002."
+  },
+  {
+    "id": 12,
+    "category": "Mondiali",
+    "difficulty": 3,
+    "question": "Chi vinse il Golden Boot del Mondiale 1986?",
+    "options": [
+      "Maradona",
+      "Platini",
+      "Lineker"
+    ],
+    "answer": 2,
+    "explanation": "Gary Lineker segnò 6 reti."
+  },
+  {
+    "id": 13,
+    "category": "Mondiali",
+    "difficulty": 3,
+    "question": "Quale nazionale arrivò terza nel Mondiale 1990?",
+    "options": [
+      "Jugoslavia",
+      "Inghilterra",
+      "Italia"
+    ],
+    "answer": 2,
+    "explanation": "L’Italia batté l’Inghilterra nella finale per il terzo posto."
+  },
+  {
+    "id": 14,
+    "category": "Mondiali",
+    "difficulty": 3,
+    "question": "Chi segnò il gol della vittoria nella finale del Mondiale 2010?",
+    "options": [
+      "David Villa",
+      "Andrés Iniesta",
+      "Xavi"
+    ],
+    "answer": 1,
+    "explanation": "Iniesta realizzò il gol decisivo al 116º minuto."
+  },
+  {
+    "id": 15,
+    "category": "Mondiali",
+    "difficulty": 3,
+    "question": "In quale Mondiale Pelé vinse il suo terzo titolo?",
+    "options": [
+      "1970",
+      "1974",
+      "1966"
+    ],
+    "answer": 0,
+    "explanation": "Pelé vinse con il Brasile nel 1958, 1962 e 1970."
+  },
+  {
+    "id": 16,
+    "category": "Champions",
+    "difficulty": 1,
+    "question": "Quale club ha vinto la prima Coppa dei Campioni nel 1956?",
+    "options": [
+      "Benfica",
+      "Real Madrid",
+      "Milan"
+    ],
+    "answer": 1,
+    "explanation": "Il Real Madrid vinse l’edizione inaugurale 1955/56."
+  },
+  {
+    "id": 17,
+    "category": "Champions",
+    "difficulty": 1,
+    "question": "Chi vinse la finale Champions del 2005 a Istanbul?",
+    "options": [
+      "Liverpool",
+      "Milan",
+      "Chelsea"
+    ],
+    "answer": 0,
+    "explanation": "Il Liverpool rimontò il Milan dal 3-0 e vinse ai rigori."
+  },
+  {
+    "id": 18,
+    "category": "Champions",
+    "difficulty": 1,
+    "question": "Quale squadra vinse la Champions 2010?",
+    "options": [
+      "Inter",
+      "Barcellona",
+      "Bayern Monaco"
+    ],
+    "answer": 0,
+    "explanation": "L’Inter di Mourinho batté il Bayern 2-0 in finale."
+  },
+  {
+    "id": 19,
+    "category": "Champions",
+    "difficulty": 1,
+    "question": "Quale club vinse la Champions 2023?",
+    "options": [
+      "Real Madrid",
+      "Manchester City",
+      "Inter"
+    ],
+    "answer": 1,
+    "explanation": "Il Manchester City superò l’Inter 1-0 a Istanbul."
+  },
+  {
+    "id": 20,
+    "category": "Champions",
+    "difficulty": 2,
+    "question": "Quale club vinse la Champions 1999 con una rimonta nel recupero?",
+    "options": [
+      "Bayern Monaco",
+      "Manchester United",
+      "Juventus"
+    ],
+    "answer": 1,
+    "explanation": "Lo United segnò due volte contro il Bayern nei minuti di recupero."
+  },
+  {
+    "id": 21,
+    "category": "Champions",
+    "difficulty": 2,
+    "question": "Chi segnò una doppietta nella finale Champions 2010?",
+    "options": [
+      "Samuel Eto’o",
+      "Wesley Sneijder",
+      "Diego Milito"
+    ],
+    "answer": 2,
+    "explanation": "Diego Milito firmò entrambi i gol dell’Inter."
+  },
+  {
+    "id": 22,
+    "category": "Champions",
+    "difficulty": 2,
+    "question": "Quale club vinse la Coppa dei Campioni nel 1982?",
+    "options": [
+      "Nottingham Forest",
+      "Aston Villa",
+      "Liverpool"
+    ],
+    "answer": 1,
+    "explanation": "L’Aston Villa batté il Bayern Monaco 1-0."
+  },
+  {
+    "id": 23,
+    "category": "Champions",
+    "difficulty": 2,
+    "question": "Quale club vinse la Champions 1993?",
+    "options": [
+      "Milan",
+      "Marsiglia",
+      "Barcellona"
+    ],
+    "answer": 1,
+    "explanation": "L’Olympique Marsiglia batté il Milan 1-0."
+  },
+  {
+    "id": 24,
+    "category": "Champions",
+    "difficulty": 2,
+    "question": "Quale club portoghese vinse la Champions 2004?",
+    "options": [
+      "Benfica",
+      "Sporting",
+      "Porto"
+    ],
+    "answer": 2,
+    "explanation": "Il Porto di Mourinho batté il Monaco 3-0."
+  },
+  {
+    "id": 25,
+    "category": "Champions",
+    "difficulty": 3,
+    "question": "Chi allenava il Nottingham Forest nella Coppa dei Campioni 1979?",
+    "options": [
+      "Bill Shankly",
+      "Brian Clough",
+      "Bob Paisley"
+    ],
+    "answer": 1,
+    "explanation": "Brian Clough guidò il Forest ai titoli europei 1979 e 1980."
+  },
+  {
+    "id": 26,
+    "category": "Champions",
+    "difficulty": 3,
+    "question": "Quale squadra batté il Real Madrid nella finale del 1981?",
+    "options": [
+      "Liverpool",
+      "Bayern",
+      "Amburgo"
+    ],
+    "answer": 0,
+    "explanation": "Il Liverpool vinse 1-0 a Parigi."
+  },
+  {
+    "id": 27,
+    "category": "Champions",
+    "difficulty": 3,
+    "question": "Quale club vinse la Coppa dei Campioni 1991?",
+    "options": [
+      "Marsiglia",
+      "Steaua Bucarest",
+      "Stella Rossa"
+    ],
+    "answer": 2,
+    "explanation": "La Stella Rossa vinse ai rigori contro il Marsiglia."
+  },
+  {
+    "id": 28,
+    "category": "Champions",
+    "difficulty": 3,
+    "question": "Quale squadra perse la finale 2004 contro il Porto?",
+    "options": [
+      "Lione",
+      "Monaco",
+      "Deportivo"
+    ],
+    "answer": 1,
+    "explanation": "Il Monaco perse 3-0 contro il Porto."
+  },
+  {
+    "id": 29,
+    "category": "Serie A",
+    "difficulty": 1,
+    "question": "Quale squadra italiana è soprannominata “la Vecchia Signora”?",
+    "options": [
+      "Juventus",
+      "Lazio",
+      "Roma"
+    ],
+    "answer": 0,
+    "explanation": "La Vecchia Signora è un celebre soprannome della Juventus."
+  },
+  {
+    "id": 30,
+    "category": "Serie A",
+    "difficulty": 1,
+    "question": "Quali due squadre giocano il derby della Madonnina?",
+    "options": [
+      "Roma e Lazio",
+      "Juve e Torino",
+      "Inter e Milan"
+    ],
+    "answer": 2,
+    "explanation": "Il derby milanese è Inter-Milan."
+  },
+  {
+    "id": 31,
+    "category": "Serie A",
+    "difficulty": 1,
+    "question": "Quale club ha i colori azzurri ed è legato a Diego Maradona?",
+    "options": [
+      "Empoli",
+      "Napoli",
+      "Atalanta"
+    ],
+    "answer": 1,
+    "explanation": "Maradona giocò nel Napoli dal 1984 al 1991."
+  },
+  {
+    "id": 32,
+    "category": "Serie A",
+    "difficulty": 1,
+    "question": "Chi vinse lo scudetto italiano nel 2022/23?",
+    "options": [
+      "Napoli",
+      "Milan",
+      "Inter"
+    ],
+    "answer": 0,
+    "explanation": "Il Napoli vinse il suo terzo scudetto nel 2022/23."
+  },
+  {
+    "id": 33,
+    "category": "Serie A",
+    "difficulty": 2,
+    "question": "Chi allenava l’Inter del Triplete nel 2010?",
+    "options": [
+      "Roberto Mancini",
+      "Antonio Conte",
+      "José Mourinho"
+    ],
+    "answer": 2,
+    "explanation": "José Mourinho guidò l’Inter a campionato, Coppa Italia e Champions."
+  },
+  {
+    "id": 34,
+    "category": "Serie A",
+    "difficulty": 2,
+    "question": "Quale squadra vinse lo scudetto 1984/85?",
+    "options": [
+      "Torino",
+      "Verona",
+      "Napoli"
+    ],
+    "answer": 1,
+    "explanation": "Il Verona conquistò lo storico scudetto 1984/85."
+  },
+  {
+    "id": 35,
+    "category": "Serie A",
+    "difficulty": 2,
+    "question": "Quale squadra giocava allo stadio San Paolo prima della rinomina?",
+    "options": [
+      "Napoli",
+      "Bari",
+      "Palermo"
+    ],
+    "answer": 0,
+    "explanation": "Lo stadio di Napoli è stato rinominato Diego Armando Maradona nel 2020."
+  },
+  {
+    "id": 36,
+    "category": "Serie A",
+    "difficulty": 2,
+    "question": "Chi è conosciuto come “Il Divin Codino”?",
+    "options": [
+      "Andrea Pirlo",
+      "Francesco Totti",
+      "Roberto Baggio"
+    ],
+    "answer": 2,
+    "explanation": "È il soprannome di Roberto Baggio."
+  },
+  {
+    "id": 37,
+    "category": "Serie A",
+    "difficulty": 3,
+    "question": "Quale club italiano vinse la Coppa UEFA nel 1995?",
+    "options": [
+      "Inter",
+      "Parma",
+      "Juventus"
+    ],
+    "answer": 1,
+    "explanation": "Il Parma superò la Juventus nella finale a doppio confronto."
+  },
+  {
+    "id": 38,
+    "category": "Serie A",
+    "difficulty": 3,
+    "question": "Quale club vinse la prima Serie A a girone unico nel 1929/30?",
+    "options": [
+      "Inter",
+      "Torino",
+      "Genoa"
+    ],
+    "answer": 0,
+    "explanation": "L’Ambrosiana-Inter vinse il campionato 1929/30."
+  },
+  {
+    "id": 39,
+    "category": "Serie A",
+    "difficulty": 3,
+    "question": "Quale squadra vinse lo scudetto 1969/70?",
+    "options": [
+      "Fiorentina",
+      "Lazio",
+      "Cagliari"
+    ],
+    "answer": 2,
+    "explanation": "Il Cagliari di Gigi Riva vinse il suo unico scudetto."
+  },
+  {
+    "id": 40,
+    "category": "Leggende",
+    "difficulty": 1,
+    "question": "Quale calciatore è soprannominato “O Rei”?",
+    "options": [
+      "Zico",
+      "Pelé",
+      "Maradona"
+    ],
+    "answer": 1,
+    "explanation": "Pelé è universalmente conosciuto come O Rei."
+  },
+  {
+    "id": 41,
+    "category": "Leggende",
+    "difficulty": 1,
+    "question": "Chi è noto come “La Pulga”?",
+    "options": [
+      "Lionel Messi",
+      "Cristiano Ronaldo",
+      "Neymar"
+    ],
+    "answer": 0,
+    "explanation": "La Pulga è il soprannome di Messi."
+  },
+  {
+    "id": 42,
+    "category": "Leggende",
+    "difficulty": 1,
+    "question": "Chi era chiamato “Il Fenomeno”?",
+    "options": [
+      "Ronaldinho",
+      "Romário",
+      "Ronaldo Nazário"
+    ],
+    "answer": 2,
+    "explanation": "Ronaldo Nazário è il Fenomeno."
+  },
+  {
+    "id": 43,
+    "category": "Leggende",
+    "difficulty": 1,
+    "question": "Quale giocatore fu capitano della Francia campione del mondo nel 1998?",
+    "options": [
+      "Thierry Henry",
+      "Didier Deschamps",
+      "Zinedine Zidane"
+    ],
+    "answer": 1,
+    "explanation": "Deschamps era il capitano dei Bleus nel 1998."
+  },
+  {
+    "id": 44,
+    "category": "Leggende",
+    "difficulty": 2,
+    "question": "Quale calciatore vinse il Pallone d’Oro nel 2007?",
+    "options": [
+      "Kaká",
+      "Cristiano Ronaldo",
+      "Messi"
+    ],
+    "answer": 0,
+    "explanation": "Kaká vinse il Pallone d’Oro nel 2007."
+  },
+  {
+    "id": 45,
+    "category": "Leggende",
+    "difficulty": 2,
+    "question": "Per quale nazionale giocava Johan Cruyff?",
+    "options": [
+      "Belgio",
+      "Danimarca",
+      "Paesi Bassi"
+    ],
+    "answer": 2,
+    "explanation": "Cruyff fu simbolo dei Paesi Bassi e del calcio totale."
+  },
+  {
+    "id": 46,
+    "category": "Leggende",
+    "difficulty": 2,
+    "question": "Quale portiere vinse il Pallone d’Oro nel 1963?",
+    "options": [
+      "Gordon Banks",
+      "Lev Jašin",
+      "Dino Zoff"
+    ],
+    "answer": 1,
+    "explanation": "Lev Jašin è l’unico portiere ad aver vinto il Pallone d’Oro maschile."
+  },
+  {
+    "id": 47,
+    "category": "Leggende",
+    "difficulty": 2,
+    "question": "Chi è soprannominato “Pinturicchio”?",
+    "options": [
+      "Alessandro Del Piero",
+      "Francesco Totti",
+      "Filippo Inzaghi"
+    ],
+    "answer": 0,
+    "explanation": "Gianni Agnelli soprannominò Del Piero Pinturicchio."
+  },
+  {
+    "id": 48,
+    "category": "Leggende",
+    "difficulty": 3,
+    "question": "Chi vinse il Pallone d’Oro nel 1995?",
+    "options": [
+      "Paolo Maldini",
+      "Roberto Baggio",
+      "George Weah"
+    ],
+    "answer": 2,
+    "explanation": "George Weah vinse il Pallone d’Oro nel 1995."
+  },
+  {
+    "id": 49,
+    "category": "Leggende",
+    "difficulty": 3,
+    "question": "Chi segnò 13 gol al Mondiale 1958?",
+    "options": [
+      "Vavá",
+      "Just Fontaine",
+      "Pelé"
+    ],
+    "answer": 1,
+    "explanation": "Just Fontaine stabilì il primato di reti in una singola edizione."
+  },
+  {
+    "id": 50,
+    "category": "Leggende",
+    "difficulty": 3,
+    "question": "Quale calciatore era soprannominato “Der Kaiser”?",
+    "options": [
+      "Franz Beckenbauer",
+      "Gerd Müller",
+      "Lothar Matthäus"
+    ],
+    "answer": 0,
+    "explanation": "Der Kaiser era Franz Beckenbauer."
+  },
+  {
+    "id": 51,
+    "category": "Leggende",
+    "difficulty": 3,
+    "question": "Quale leggendario attaccante del Milan era detto “il Cigno di Utrecht”?",
+    "options": [
+      "Ruud Gullit",
+      "Frank Rijkaard",
+      "Marco van Basten"
+    ],
+    "answer": 2,
+    "explanation": "Il Cigno di Utrecht era Marco van Basten."
+  },
+  {
+    "id": 52,
+    "category": "Europa",
+    "difficulty": 1,
+    "question": "In quale campionato gioca storicamente il Celtic?",
+    "options": [
+      "Inghilterra",
+      "Scozia",
+      "Irlanda"
+    ],
+    "answer": 1,
+    "explanation": "Il Celtic è un club di Glasgow, nel campionato scozzese."
+  },
+  {
+    "id": 53,
+    "category": "Europa",
+    "difficulty": 1,
+    "question": "Quale club è soprannominato “i Gunners”?",
+    "options": [
+      "Arsenal",
+      "Chelsea",
+      "Tottenham"
+    ],
+    "answer": 0,
+    "explanation": "Il soprannome dell’Arsenal è Gunners."
+  },
+  {
+    "id": 54,
+    "category": "Europa",
+    "difficulty": 1,
+    "question": "Quale club disputa il clásico contro il Real Madrid?",
+    "options": [
+      "Atlético Madrid",
+      "Siviglia",
+      "Barcellona"
+    ],
+    "answer": 2,
+    "explanation": "Il Clásico spagnolo è Real Madrid-Barcellona."
+  },
+  {
+    "id": 55,
+    "category": "Europa",
+    "difficulty": 2,
+    "question": "Quale club inglese è noto come “The Toffees”?",
+    "options": [
+      "West Ham",
+      "Everton",
+      "Leicester"
+    ],
+    "answer": 1,
+    "explanation": "The Toffees è il soprannome dell’Everton."
+  },
+  {
+    "id": 56,
+    "category": "Europa",
+    "difficulty": 2,
+    "question": "Quale club vinse la Premier League nel 2015/16?",
+    "options": [
+      "Leicester City",
+      "Chelsea",
+      "Tottenham"
+    ],
+    "answer": 0,
+    "explanation": "Il Leicester di Claudio Ranieri completò una stagione storica."
+  },
+  {
+    "id": 57,
+    "category": "Europa",
+    "difficulty": 2,
+    "question": "Quale club ha sede allo stadio Signal Iduna Park?",
+    "options": [
+      "Bayern Monaco",
+      "Schalke 04",
+      "Borussia Dortmund"
+    ],
+    "answer": 2,
+    "explanation": "Il Signal Iduna Park è lo stadio del Borussia Dortmund."
+  },
+  {
+    "id": 58,
+    "category": "Europa",
+    "difficulty": 2,
+    "question": "In quale paese ha sede il club Benfica?",
+    "options": [
+      "Brasile",
+      "Portogallo",
+      "Spagna"
+    ],
+    "answer": 1,
+    "explanation": "Il Benfica è un club di Lisbona."
+  },
+  {
+    "id": 59,
+    "category": "Europa",
+    "difficulty": 3,
+    "question": "Quale club vinse la prima Premier League 1992/93?",
+    "options": [
+      "Manchester United",
+      "Blackburn",
+      "Arsenal"
+    ],
+    "answer": 0,
+    "explanation": "Lo United vinse la prima edizione della Premier League."
+  },
+  {
+    "id": 60,
+    "category": "Europa",
+    "difficulty": 3,
+    "question": "Quale allenatore guidò il Leicester al titolo 2015/16?",
+    "options": [
+      "Brendan Rodgers",
+      "Nigel Pearson",
+      "Claudio Ranieri"
+    ],
+    "answer": 2,
+    "explanation": "Ranieri guidò il Leicester allo storico titolo."
+  },
+  {
+    "id": 61,
+    "category": "Europa",
+    "difficulty": 3,
+    "question": "Quale squadra vinse la Bundesliga nel 2008/09?",
+    "options": [
+      "Werder Brema",
+      "Wolfsburg",
+      "Bayern Monaco"
+    ],
+    "answer": 1,
+    "explanation": "Il Wolfsburg vinse la Bundesliga 2008/09."
+  },
+  {
+    "id": 62,
+    "category": "Curiosità",
+    "difficulty": 1,
+    "question": "Come si chiama il trofeo della Coppa del Mondo antecedente al 1974?",
+    "options": [
+      "Jules Rimet",
+      "Henri Delaunay",
+      "Artemio Franchi"
+    ],
+    "answer": 0,
+    "explanation": "Il trofeo Jules Rimet fu assegnato definitivamente al Brasile nel 1970."
+  },
+  {
+    "id": 63,
+    "category": "Curiosità",
+    "difficulty": 1,
+    "question": "Quanti giocatori per squadra iniziano una partita di calcio a 11?",
+    "options": [
+      "10",
+      "12",
+      "11"
+    ],
+    "answer": 2,
+    "explanation": "Il calcio a undici prevede 11 titolari per squadra."
+  },
+  {
+    "id": 64,
+    "category": "Curiosità",
+    "difficulty": 1,
+    "question": "Che colore ha normalmente il cartellino di espulsione?",
+    "options": [
+      "Blu",
+      "Rosso",
+      "Giallo"
+    ],
+    "answer": 1,
+    "explanation": "Il cartellino rosso segnala l’espulsione."
+  },
+  {
+    "id": 65,
+    "category": "Curiosità",
+    "difficulty": 2,
+    "question": "Come si chiama il derby tra Boca Juniors e River Plate?",
+    "options": [
+      "Superclásico",
+      "Derby della Madonnina",
+      "Old Firm"
+    ],
+    "answer": 0,
+    "explanation": "Il Superclásico argentino oppone Boca e River."
+  },
+  {
+    "id": 66,
+    "category": "Curiosità",
+    "difficulty": 2,
+    "question": "Quali squadre disputano l’Old Firm?",
+    "options": [
+      "Arsenal e Tottenham",
+      "Benfica e Porto",
+      "Celtic e Rangers"
+    ],
+    "answer": 2,
+    "explanation": "L’Old Firm è il derby di Glasgow fra Celtic e Rangers."
+  },
+  {
+    "id": 67,
+    "category": "Curiosità",
+    "difficulty": 2,
+    "question": "In quale città si trova lo stadio Maracanã?",
+    "options": [
+      "Brasília",
+      "Rio de Janeiro",
+      "San Paolo"
+    ],
+    "answer": 1,
+    "explanation": "Il Maracanã sorge a Rio de Janeiro."
+  },
+  {
+    "id": 68,
+    "category": "Curiosità",
+    "difficulty": 2,
+    "question": "In quale anno fu introdotto il VAR al Mondiale maschile?",
+    "options": [
+      "2018",
+      "2014",
+      "2022"
+    ],
+    "answer": 0,
+    "explanation": "Il VAR debuttò ai Mondiali maschili in Russia nel 2018."
+  },
+  {
+    "id": 69,
+    "category": "Curiosità",
+    "difficulty": 3,
+    "question": "Quale nazionale vinse il primo Europeo nel 1960?",
+    "options": [
+      "Jugoslavia",
+      "Spagna",
+      "Unione Sovietica"
+    ],
+    "answer": 2,
+    "explanation": "L’URSS vinse la finale della prima edizione contro la Jugoslavia."
+  },
+  {
+    "id": 70,
+    "category": "Curiosità",
+    "difficulty": 3,
+    "question": "Quale squadra vinse l’Europeo del 1992 dopo essere stata ripescata?",
+    "options": [
+      "Paesi Bassi",
+      "Danimarca",
+      "Svezia"
+    ],
+    "answer": 1,
+    "explanation": "La Danimarca entrò in sostituzione della Jugoslavia e vinse."
+  },
+  {
+    "id": 71,
+    "category": "Curiosità",
+    "difficulty": 3,
+    "question": "Quale nazione ospitò il Mondiale maschile 2002 con il Giappone?",
+    "options": [
+      "Corea del Sud",
+      "Cina",
+      "Australia"
+    ],
+    "answer": 0,
+    "explanation": "Corea del Sud e Giappone furono co-organizzatori."
+  },
+  {
+    "id": 72,
+    "category": "Calcio femminile",
+    "difficulty": 1,
+    "question": "Chi vinse il Mondiale femminile nel 2019?",
+    "options": [
+      "Paesi Bassi",
+      "Germania",
+      "Stati Uniti"
+    ],
+    "answer": 2,
+    "explanation": "Gli Stati Uniti superarono i Paesi Bassi 2-0 in finale."
+  },
+  {
+    "id": 73,
+    "category": "Calcio femminile",
+    "difficulty": 1,
+    "question": "Chi vinse il Mondiale femminile nel 2023?",
+    "options": [
+      "Svezia",
+      "Spagna",
+      "Inghilterra"
+    ],
+    "answer": 1,
+    "explanation": "La Spagna sconfisse l’Inghilterra 1-0 nella finale."
+  },
+  {
+    "id": 74,
+    "category": "Calcio femminile",
+    "difficulty": 2,
+    "question": "Dove si disputò il primo Mondiale femminile FIFA nel 1991?",
+    "options": [
+      "Cina",
+      "Stati Uniti",
+      "Svezia"
+    ],
+    "answer": 0,
+    "explanation": "La Cina ospitò l’edizione inaugurale del 1991."
+  },
+  {
+    "id": 75,
+    "category": "Calcio femminile",
+    "difficulty": 2,
+    "question": "Quale nazionale vinse il Mondiale femminile nel 2011?",
+    "options": [
+      "Stati Uniti",
+      "Brasile",
+      "Giappone"
+    ],
+    "answer": 2,
+    "explanation": "Il Giappone batté gli USA ai rigori."
+  },
+  {
+    "id": 76,
+    "category": "Calcio femminile",
+    "difficulty": 3,
+    "question": "Chi vinse il primo Mondiale femminile nel 1991?",
+    "options": [
+      "Germania",
+      "Stati Uniti",
+      "Norvegia"
+    ],
+    "answer": 1,
+    "explanation": "Gli USA sconfissero la Norvegia in finale."
+  },
+  {
+    "id": 77,
+    "category": "Calcio femminile",
+    "difficulty": 3,
+    "question": "Quale nazione vinse il Mondiale femminile 2007?",
+    "options": [
+      "Germania",
+      "Brasile",
+      "Stati Uniti"
+    ],
+    "answer": 0,
+    "explanation": "La Germania batté il Brasile 2-0 nella finale."
+  },
+  {
+    "id": 78,
+    "category": "Nazionale italiana",
+    "difficulty": 1,
+    "question": "Qual è il soprannome della nazionale maschile italiana?",
+    "options": [
+      "Blues",
+      "Oranje",
+      "Azzurri"
+    ],
+    "answer": 2,
+    "explanation": "Gli Azzurri è il soprannome della nazionale italiana."
+  },
+  {
+    "id": 79,
+    "category": "Nazionale italiana",
+    "difficulty": 1,
+    "question": "Quale portiere italiano alzò la Coppa del Mondo nel 2006?",
+    "options": [
+      "Gianluigi Donnarumma",
+      "Gianluigi Buffon",
+      "Dino Zoff"
+    ],
+    "answer": 1,
+    "explanation": "Buffon fu il portiere titolare nel trionfo del 2006."
+  },
+  {
+    "id": 80,
+    "category": "Nazionale italiana",
+    "difficulty": 2,
+    "question": "Chi allenava l’Italia campione del mondo nel 2006?",
+    "options": [
+      "Marcello Lippi",
+      "Roberto Mancini",
+      "Giovanni Trapattoni"
+    ],
+    "answer": 0,
+    "explanation": "Marcello Lippi era il commissario tecnico del 2006."
+  },
+  {
+    "id": 81,
+    "category": "Nazionale italiana",
+    "difficulty": 2,
+    "question": "Chi segnò il rigore decisivo nella finale mondiale del 2006?",
+    "options": [
+      "Andrea Pirlo",
+      "Alessandro Del Piero",
+      "Fabio Grosso"
+    ],
+    "answer": 2,
+    "explanation": "Fabio Grosso segnò il quinto rigore contro la Francia."
+  },
+  {
+    "id": 82,
+    "category": "Nazionale italiana",
+    "difficulty": 3,
+    "question": "Chi era capitano dell’Italia al Mondiale 1982?",
+    "options": [
+      "Marco Tardelli",
+      "Dino Zoff",
+      "Gaetano Scirea"
+    ],
+    "answer": 1,
+    "explanation": "Dino Zoff alzò la Coppa del Mondo nel 1982."
+  },
+  {
+    "id": 83,
+    "category": "Nazionale italiana",
+    "difficulty": 3,
+    "question": "Quale azzurro segnò una tripletta al Brasile nel 1982?",
+    "options": [
+      "Paolo Rossi",
+      "Marco Tardelli",
+      "Bruno Conti"
+    ],
+    "answer": 0,
+    "explanation": "Paolo Rossi segnò tre reti nella vittoria 3-2 al Brasile."
+  },
+  {
+    "id": 84,
+    "category": "La Liga",
+    "difficulty": 1,
+    "question": "Chi ha vinto La Liga nella stagione 2025/26?",
+    "options": [
+      "Barcellona",
+      "Real Madrid",
+      "Atlético Madrid"
+    ],
+    "answer": 0,
+    "explanation": "Il Barcellona ha conquistato il titolo 2025/26 con 94 punti."
+  },
+  {
+    "id": 85,
+    "category": "La Liga",
+    "difficulty": 2,
+    "question": "Chi è stato premiato come miglior giocatore di La Liga 2025/26?",
+    "options": [
+      "Lamine Yamal",
+      "Kylian Mbappé",
+      "Jude Bellingham"
+    ],
+    "answer": 0,
+    "explanation": "Il premio ufficiale di miglior giocatore 2025/26 è stato assegnato a Lamine Yamal."
+  },
+  {
+    "id": 86,
+    "category": "La Liga",
+    "difficulty": 1,
+    "question": "Chi allenava il Barcellona campione di Spagna nel 2025/26?",
+    "options": [
+      "Hansi Flick",
+      "Xavi Hernández",
+      "Carlo Ancelotti"
+    ],
+    "answer": 0,
+    "explanation": "Hansi Flick ha guidato il Barcellona al titolo 2025/26."
+  },
+  {
+    "id": 87,
+    "category": "La Liga",
+    "difficulty": 3,
+    "question": "Quanti punti ha ottenuto il Barcellona campione 2025/26?",
+    "options": [
+      "94",
+      "88",
+      "91"
+    ],
+    "answer": 0,
+    "explanation": "La Liga ha comunicato 94 punti per il Barça 2025/26."
+  },
+  {
+    "id": 88,
+    "category": "La Liga",
+    "difficulty": 2,
+    "question": "Quale club vinse la prima edizione del campionato spagnolo nel 1928/29?",
+    "options": [
+      "Barcellona",
+      "Real Madrid",
+      "Athletic Club"
+    ],
+    "answer": 0,
+    "explanation": "La prima edizione 1928/29 fu vinta dal Barcellona."
+  },
+  {
+    "id": 89,
+    "category": "La Liga",
+    "difficulty": 3,
+    "question": "Quale club vinse La Liga nel 1934/35?",
+    "options": [
+      "Real Betis",
+      "Valencia",
+      "Siviglia"
+    ],
+    "answer": 0,
+    "explanation": "Il Real Betis vinse il titolo nel 1934/35."
+  },
+  {
+    "id": 90,
+    "category": "La Liga",
+    "difficulty": 3,
+    "question": "Quale club vinse La Liga nel 1929/30?",
+    "options": [
+      "Athletic Club",
+      "Barcellona",
+      "Real Madrid"
+    ],
+    "answer": 0,
+    "explanation": "La Liga 1929/30 fu conquistata dall’Athletic Club."
+  },
+  {
+    "id": 91,
+    "category": "La Liga",
+    "difficulty": 1,
+    "question": "In quale città gioca le partite casalinghe il Real Betis?",
+    "options": [
+      "Siviglia",
+      "Valencia",
+      "Vigo"
+    ],
+    "answer": 0,
+    "explanation": "Il Real Betis è uno dei club della città di Siviglia."
+  },
+  {
+    "id": 92,
+    "category": "La Liga",
+    "difficulty": 1,
+    "question": "Quale squadra conquistò il titolo spagnolo 2024/25?",
+    "options": [
+      "Barcellona",
+      "Atlético Madrid",
+      "Real Madrid"
+    ],
+    "answer": 0,
+    "explanation": "Il Barcellona conquistò La Liga 2024/25."
+  },
+  {
+    "id": 93,
+    "category": "La Liga",
+    "difficulty": 2,
+    "question": "Chi ricevette il premio di miglior allenatore di La Liga 2025/26?",
+    "options": [
+      "Hansi Flick",
+      "Diego Simeone",
+      "Manuel Pellegrini"
+    ],
+    "answer": 0,
+    "explanation": "La Liga ha nominato Hansi Flick miglior allenatore 2025/26."
+  },
+  {
+    "id": 94,
+    "category": "La Liga",
+    "difficulty": 2,
+    "question": "Quale club spagnolo è soprannominato Los Colchoneros?",
+    "options": [
+      "Atlético Madrid",
+      "Valencia",
+      "Villarreal"
+    ],
+    "answer": 0,
+    "explanation": "Los Colchoneros è un soprannome dell’Atlético Madrid."
+  },
+  {
+    "id": 95,
+    "category": "La Liga",
+    "difficulty": 1,
+    "question": "Dove si trova lo stadio San Mamés?",
+    "options": [
+      "Bilbao",
+      "Madrid",
+      "Siviglia"
+    ],
+    "answer": 0,
+    "explanation": "San Mamés è lo stadio dell’Athletic Club di Bilbao."
+  },
+  {
+    "id": 96,
+    "category": "Premier League",
+    "difficulty": 1,
+    "question": "Chi ha vinto la Premier League 2025/26?",
+    "options": [
+      "Arsenal",
+      "Liverpool",
+      "Manchester City"
+    ],
+    "answer": 0,
+    "explanation": "Il sito ufficiale della Premier League indica l’Arsenal campione nel 2025/26."
+  },
+  {
+    "id": 97,
+    "category": "Premier League",
+    "difficulty": 1,
+    "question": "Chi ha vinto la Premier League 2024/25?",
+    "options": [
+      "Liverpool",
+      "Arsenal",
+      "Chelsea"
+    ],
+    "answer": 0,
+    "explanation": "Il Liverpool ha conquistato il titolo 2024/25."
+  },
+  {
+    "id": 98,
+    "category": "Premier League",
+    "difficulty": 1,
+    "question": "Chi ha vinto la Premier League 2015/16?",
+    "options": [
+      "Leicester City",
+      "Tottenham",
+      "Manchester United"
+    ],
+    "answer": 0,
+    "explanation": "Il Leicester City completò una delle imprese più sorprendenti nel 2015/16."
+  },
+  {
+    "id": 99,
+    "category": "Premier League",
+    "difficulty": 2,
+    "question": "Quale club rimase imbattuto in Premier League nel 2003/04?",
+    "options": [
+      "Arsenal",
+      "Chelsea",
+      "Manchester City"
+    ],
+    "answer": 0,
+    "explanation": "L’Arsenal di Arsène Wenger concluse il campionato 2003/04 senza sconfitte."
+  },
+  {
+    "id": 100,
+    "category": "Premier League",
+    "difficulty": 2,
+    "question": "Chi vinse la prima Premier League nel 1992/93?",
+    "options": [
+      "Manchester United",
+      "Blackburn Rovers",
+      "Newcastle United"
+    ],
+    "answer": 0,
+    "explanation": "Il Manchester United vinse la stagione inaugurale 1992/93."
+  },
+  {
+    "id": 101,
+    "category": "Premier League",
+    "difficulty": 3,
+    "question": "Chi vinse la Premier League 1994/95?",
+    "options": [
+      "Blackburn Rovers",
+      "Arsenal",
+      "Chelsea"
+    ],
+    "answer": 0,
+    "explanation": "Il Blackburn Rovers vinse il campionato nel 1994/95."
+  },
+  {
+    "id": 102,
+    "category": "Premier League",
+    "difficulty": 1,
+    "question": "Quale club vinse la Premier League 2019/20?",
+    "options": [
+      "Liverpool",
+      "Manchester City",
+      "Leicester City"
+    ],
+    "answer": 0,
+    "explanation": "Il Liverpool conquistò il titolo nel 2019/20."
+  },
+  {
+    "id": 103,
+    "category": "Premier League",
+    "difficulty": 2,
+    "question": "Quale squadra vinse la Premier League 2011/12?",
+    "options": [
+      "Manchester City",
+      "Manchester United",
+      "Chelsea"
+    ],
+    "answer": 0,
+    "explanation": "Il Manchester City vinse il titolo 2011/12."
+  },
+  {
+    "id": 104,
+    "category": "Premier League",
+    "difficulty": 2,
+    "question": "Quale squadra vinse la Premier League 2016/17?",
+    "options": [
+      "Chelsea",
+      "Arsenal",
+      "Tottenham"
+    ],
+    "answer": 0,
+    "explanation": "Il Chelsea vinse la Premier League 2016/17."
+  },
+  {
+    "id": 105,
+    "category": "Premier League",
+    "difficulty": 1,
+    "question": "In quale città gioca le partite casalinghe il Newcastle United?",
+    "options": [
+      "Newcastle upon Tyne",
+      "Leeds",
+      "Birmingham"
+    ],
+    "answer": 0,
+    "explanation": "Il Newcastle United gioca a St James’ Park, a Newcastle upon Tyne."
+  },
+  {
+    "id": 106,
+    "category": "Premier League",
+    "difficulty": 1,
+    "question": "Quale squadra vinse la Premier League 2023/24?",
+    "options": [
+      "Manchester City",
+      "Arsenal",
+      "Liverpool"
+    ],
+    "answer": 0,
+    "explanation": "Il Manchester City vinse il titolo 2023/24."
+  },
+  {
+    "id": 107,
+    "category": "Premier League",
+    "difficulty": 1,
+    "question": "Quale club è noto come The Gunners?",
+    "options": [
+      "Arsenal",
+      "Everton",
+      "West Ham"
+    ],
+    "answer": 0,
+    "explanation": "The Gunners è il soprannome dell’Arsenal."
+  },
+  {
+    "id": 108,
+    "category": "Campionato svizzero",
+    "difficulty": 1,
+    "question": "Chi ha vinto la Super League svizzera 2025/26?",
+    "options": [
+      "FC Thun",
+      "FC Basilea",
+      "Young Boys"
+    ],
+    "answer": 0,
+    "explanation": "Il Thun ha vinto il suo primo titolo svizzero nella stagione 2025/26."
+  },
+  {
+    "id": 109,
+    "category": "Campionato svizzero",
+    "difficulty": 2,
+    "question": "Quale neopromossa vinse il titolo svizzero 2025/26?",
+    "options": [
+      "FC Thun",
+      "FC Aarau",
+      "FC Sion"
+    ],
+    "answer": 0,
+    "explanation": "Il Thun vinse da neopromossa nel 2025/26."
+  },
+  {
+    "id": 110,
+    "category": "Campionato svizzero",
+    "difficulty": 2,
+    "question": "Chi allenava il Thun campione svizzero 2025/26?",
+    "options": [
+      "Mauro Lustrinelli",
+      "Gerardo Seoane",
+      "Raphaël Wicky"
+    ],
+    "answer": 0,
+    "explanation": "Mauro Lustrinelli guidò il Thun al titolo 2025/26."
+  },
+  {
+    "id": 111,
+    "category": "Campionato svizzero",
+    "difficulty": 3,
+    "question": "Chi fu il capocannoniere della Super League svizzera 2025/26?",
+    "options": [
+      "Christian Fassnacht",
+      "Alessandro Vogt",
+      "Xherdan Shaqiri"
+    ],
+    "answer": 0,
+    "explanation": "Christian Fassnacht concluse come miglior marcatore con 18 reti."
+  },
+  {
+    "id": 112,
+    "category": "Campionato svizzero",
+    "difficulty": 3,
+    "question": "Quanti punti raccolse il Thun nella Super League 2025/26?",
+    "options": [
+      "75",
+      "70",
+      "67"
+    ],
+    "answer": 0,
+    "explanation": "Il Thun terminò la stagione 2025/26 con 75 punti."
+  },
+  {
+    "id": 113,
+    "category": "Campionato svizzero",
+    "difficulty": 2,
+    "question": "Quale squadra arrivò seconda nella Super League 2025/26?",
+    "options": [
+      "San Gallo",
+      "Lugano",
+      "Sion"
+    ],
+    "answer": 0,
+    "explanation": "Il San Gallo finì secondo, davanti al Lugano."
+  },
+  {
+    "id": 114,
+    "category": "Campionato svizzero",
+    "difficulty": 2,
+    "question": "Quale squadra arrivò terza nella Super League 2025/26?",
+    "options": [
+      "Lugano",
+      "Basilea",
+      "Young Boys"
+    ],
+    "answer": 0,
+    "explanation": "Il Lugano chiuse al terzo posto con 67 punti."
+  },
+  {
+    "id": 115,
+    "category": "Campionato svizzero",
+    "difficulty": 2,
+    "question": "Quale club svizzero ha il maggior numero di titoli nazionali nel palmarès storico SFL aggiornato al 2026?",
+    "options": [
+      "Grasshopper Club Zurigo",
+      "FC Basilea",
+      "Servette"
+    ],
+    "answer": 0,
+    "explanation": "Nel palmarès SFL 2026 il Grasshopper è in testa con 27 titoli."
+  },
+  {
+    "id": 116,
+    "category": "Campionato svizzero",
+    "difficulty": 3,
+    "question": "Da quale stagione si chiama Super League la massima serie svizzera?",
+    "options": [
+      "2003/04",
+      "1999/00",
+      "2010/11"
+    ],
+    "answer": 0,
+    "explanation": "La Super League svizzera nasce con la stagione 2003/04."
+  },
+  {
+    "id": 117,
+    "category": "Campionato svizzero",
+    "difficulty": 3,
+    "question": "Quale squadra fu l’altra neopromossa campione svizzera nel 1951/52?",
+    "options": [
+      "Grasshopper Club Zurigo",
+      "FC Lugano",
+      "FC Zurigo"
+    ],
+    "answer": 0,
+    "explanation": "Prima del Thun nel 2025/26, il GC vinse il titolo da neopromossa nel 1951/52."
+  },
+  {
+    "id": 118,
+    "category": "Campionato svizzero",
+    "difficulty": 1,
+    "question": "Quale club svizzero gioca allo stadio di Cornaredo?",
+    "options": [
+      "FC Lugano",
+      "FC Sion",
+      "FC Losanna"
+    ],
+    "answer": 0,
+    "explanation": "Cornaredo è lo stadio di casa del FC Lugano."
+  },
+  {
+    "id": 119,
+    "category": "Campionato svizzero",
+    "difficulty": 3,
+    "question": "Quale squadra vinse la seconda edizione storica della Super League nel 2004/05?",
+    "options": [
+      "FC Basilea",
+      "FC Zurigo",
+      "Young Boys"
+    ],
+    "answer": 0,
+    "explanation": "Il Basilea vinse il titolo nel 2004/05."
+  },
+  {
+    "id": 120,
+    "category": "Süper Lig turca",
+    "difficulty": 1,
+    "question": "Chi ha vinto la Süper Lig turca 2025/26?",
+    "options": [
+      "Galatasaray",
+      "Fenerbahçe",
+      "Beşiktaş"
+    ],
+    "answer": 0,
+    "explanation": "La federazione turca TFF indica il Galatasaray campione 2025/26."
+  },
+  {
+    "id": 121,
+    "category": "Süper Lig turca",
+    "difficulty": 2,
+    "question": "Chi vinse il primo titolo della prima lega nazionale turca nel 1959?",
+    "options": [
+      "Fenerbahçe",
+      "Galatasaray",
+      "Beşiktaş"
+    ],
+    "answer": 0,
+    "explanation": "Nel 1959 il Fenerbahçe sconfisse il Galatasaray nella finale su due partite."
+  },
+  {
+    "id": 122,
+    "category": "Süper Lig turca",
+    "difficulty": 2,
+    "question": "Quale squadra vinse la Süper Lig 2021/22?",
+    "options": [
+      "Trabzonspor",
+      "Galatasaray",
+      "Başakşehir"
+    ],
+    "answer": 0,
+    "explanation": "Il Trabzonspor ha conquistato il titolo 2021/22."
+  },
+  {
+    "id": 123,
+    "category": "Süper Lig turca",
+    "difficulty": 1,
+    "question": "Chi ha vinto la Süper Lig turca 2024/25?",
+    "options": [
+      "Galatasaray",
+      "Beşiktaş",
+      "Fenerbahçe"
+    ],
+    "answer": 0,
+    "explanation": "La TFF accredita al Galatasaray il titolo 2024/25."
+  },
+  {
+    "id": 124,
+    "category": "Süper Lig turca",
+    "difficulty": 3,
+    "question": "Quale squadra vinse la Süper Lig 2009/10?",
+    "options": [
+      "Bursaspor",
+      "Galatasaray",
+      "Trabzonspor"
+    ],
+    "answer": 0,
+    "explanation": "Il Bursaspor vinse il titolo 2009/10."
+  },
+  {
+    "id": 125,
+    "category": "Süper Lig turca",
+    "difficulty": 2,
+    "question": "Quale squadra vinse la Süper Lig 2019/20?",
+    "options": [
+      "İstanbul Başakşehir",
+      "Fenerbahçe",
+      "Beşiktaş"
+    ],
+    "answer": 0,
+    "explanation": "Il Başakşehir conquistò il campionato 2019/20."
+  },
+  {
+    "id": 126,
+    "category": "Süper Lig turca",
+    "difficulty": 2,
+    "question": "Chi vinse il titolo turco 2020/21?",
+    "options": [
+      "Beşiktaş",
+      "Galatasaray",
+      "Trabzonspor"
+    ],
+    "answer": 0,
+    "explanation": "Il Beşiktaş vinse il campionato 2020/21."
+  },
+  {
+    "id": 127,
+    "category": "Süper Lig turca",
+    "difficulty": 3,
+    "question": "Quale club vinse il campionato turco 1975/76?",
+    "options": [
+      "Trabzonspor",
+      "Fenerbahçe",
+      "Galatasaray"
+    ],
+    "answer": 0,
+    "explanation": "Il Trabzonspor conquistò il titolo 1975/76."
+  },
+  {
+    "id": 128,
+    "category": "Süper Lig turca",
+    "difficulty": 2,
+    "question": "Quale squadra vinse la Süper Lig 2013/14?",
+    "options": [
+      "Fenerbahçe",
+      "Galatasaray",
+      "Beşiktaş"
+    ],
+    "answer": 0,
+    "explanation": "Il Fenerbahçe conquistò il titolo 2013/14."
+  },
+  {
+    "id": 129,
+    "category": "Süper Lig turca",
+    "difficulty": 2,
+    "question": "Quale squadra vinse il campionato turco 2002/03?",
+    "options": [
+      "Beşiktaş",
+      "Fenerbahçe",
+      "Galatasaray"
+    ],
+    "answer": 0,
+    "explanation": "Il Beşiktaş vinse nel 2002/03."
+  },
+  {
+    "id": 130,
+    "category": "Süper Lig turca",
+    "difficulty": 1,
+    "question": "Quale club turco è soprannominato Sarı-Kırmızılılar, cioè giallorossi?",
+    "options": [
+      "Galatasaray",
+      "Beşiktaş",
+      "Trabzonspor"
+    ],
+    "answer": 0,
+    "explanation": "Il Galatasaray è conosciuto per i colori giallo e rosso."
+  },
+  {
+    "id": 131,
+    "category": "Süper Lig turca",
+    "difficulty": 3,
+    "question": "Da quale anno parte la cronologia della massima lega nazionale turca riconosciuta dalla TFF?",
+    "options": [
+      "1959",
+      "1968",
+      "1981"
+    ],
+    "answer": 0,
+    "explanation": "La TFF considera il 1959 la stagione d’inizio del campionato nazionale."
+  }
+]

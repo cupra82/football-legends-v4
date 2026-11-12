@@ -1,0 +1,43 @@
+name: Aggiorna archivio Football Legends V4 LAB (manuale)
+on:
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - run: npm install --ignore-scripts
+      - run: node scripts/test-wikidata-priority.js
+      - run: node test-almanac.js
+      - run: node scripts/build-bank.js
+      - name: Genera domande su calciatori e allenatori
+        run: node scripts/build-people.js
+      - name: Genera quesiti Wikidata (con limiti e salvataggi)
+        env:
+          FL_WIKIDATA_REQUEST_TIMEOUT_MS: '12000'
+          FL_WIKIDATA_BUDGET_MS: '240000'
+          FL_CLUBS_PER_RUN: '24'
+        run: node scripts/build-wikidata.js
+      - name: Verifica archivio storico espanso
+        run: node scripts/build-history-expansion.js --check
+      - name: Verifica dati storici UEFA/FIFA
+        run: node scripts/build-official.js --check
+      - name: Verifica nuovo archivio storico Champions Mondiali Europei
+        run: node scripts/test-deep-history.js
+      - name: Controlla numero e qualità di ogni categoria
+        run: node scripts/audit-categories.js
+      - name: Pubblica solo se cambia il dataset
+        run: |
+          git config user.name 'football-legends-bot'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add questions-generated.json people-generated.json wikidata-generated.json wikidata-clubs.json wikidata-club-cache.json category-report.json category-report.md
+          if ! git diff --cached --quiet; then
+            git commit -m 'Aggiorna archivio domande dal calcio storico'
+            git push
+          fi

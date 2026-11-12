@@ -1,0 +1,10 @@
+services:
+  - type: web
+    name: football-legends
+    runtime: node
+    plan: free
+    buildCommand: npm install
+    startCommand: npm start
+    healthCheckPath: /
+    # Imposta DATABASE_URL manualmente in Render > Environment.
+    # Non inserire mai la password o la stringa di connessione in questo file.
