@@ -2,7 +2,7 @@
 
 Versione generatore: **3.3.4**
 
-Totale sorgenti lette: **35071** · Domande valide, uniche e giocabili: **35005**
+Totale sorgenti lette: **35806** · Domande valide, uniche e giocabili: **35740**
 
 Filtrate per tipo non desiderato: **6** · Duplicati: **60** · Non valide: **0**
 
@@ -22,9 +22,9 @@ Filtrate per tipo non desiderato: **6** · Duplicati: **60** · Non valide: **0*
 | Campionati | Championship inglese | 92 | 2000 | 1908 | Da ampliare |
 | Campionati | Segunda División | 89 | 2000 | 1911 | Da ampliare |
 | Coppe e tornei | Champions | 13 | 2000 | 1987 | Da ampliare |
-| Coppe e tornei | Champions League | 291 | 2000 | 1709 | Da ampliare |
+| Coppe e tornei | Champions League | 722 | 2000 | 1278 | Da ampliare |
 | Coppe e tornei | Coppe europee | 0 | 2000 | 2000 | Da ampliare |
-| Coppe e tornei | Mondiali | 462 | 2000 | 1538 | Da ampliare |
+| Coppe e tornei | Mondiali | 678 | 2000 | 1322 | Da ampliare |
 | Coppe e tornei | Europei e nazionali | 17 | 2000 | 1983 | Da ampliare |
 | Coppe e tornei | Marcatori dei Mondiali | 0 | 2000 | 2000 | Da ampliare |
 | Coppe e tornei | Coppa Svizzera | 0 | 2000 | 2000 | Da ampliare |
@@ -43,7 +43,7 @@ Filtrate per tipo non desiderato: **6** · Duplicati: **60** · Non valide: **0*
 | Altro | Europa | 10 | 2000 | 1990 | Da ampliare |
 | Categorie aggiuntive | 2. Bundesliga tedesca | 133 | 2000 | 1867 | Da ampliare |
 | Categorie aggiuntive | Eredivisie olandese | 67 | 2000 | 1933 | Da ampliare |
-| Categorie aggiuntive | Europei | 303 | 2000 | 1697 | Da ampliare |
+| Categorie aggiuntive | Europei | 391 | 2000 | 1609 | Da ampliare |
 | Categorie aggiuntive | League One inglese | 94 | 2000 | 1906 | Da ampliare |
 | Categorie aggiuntive | Ligue 2 francese | 74 | 2000 | 1926 | Da ampliare |
 | Categorie aggiuntive | Stadi famosi | 122 | 2000 | 1878 | Da ampliare |
@@ -61,7 +61,8 @@ Filtrate per tipo non desiderato: **6** · Duplicati: **60** · Non valide: **0*
 - official-questions.json: 67 elementi
 - history-expansion.json: 483 elementi
 - deep-history.json: 350 elementi
-- competition-history-generated.json: 501 elementi
+- competition-history-generated.json: 805 elementi
+- european-cups-generated.json: 431 elementi
 
 ## Criterio di qualità
 
