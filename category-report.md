@@ -2,7 +2,7 @@
 
 Versione generatore: **3.3.4**
 
-Totale sorgenti lette: **34570** · Domande valide, uniche e giocabili: **34504**
+Totale sorgenti lette: **35071** · Domande valide, uniche e giocabili: **35005**
 
 Filtrate per tipo non desiderato: **6** · Duplicati: **60** · Non valide: **0**
 
@@ -24,7 +24,7 @@ Filtrate per tipo non desiderato: **6** · Duplicati: **60** · Non valide: **0*
 | Coppe e tornei | Champions | 13 | 2000 | 1987 | Da ampliare |
 | Coppe e tornei | Champions League | 291 | 2000 | 1709 | Da ampliare |
 | Coppe e tornei | Coppe europee | 0 | 2000 | 2000 | Da ampliare |
-| Coppe e tornei | Mondiali | 186 | 2000 | 1814 | Da ampliare |
+| Coppe e tornei | Mondiali | 462 | 2000 | 1538 | Da ampliare |
 | Coppe e tornei | Europei e nazionali | 17 | 2000 | 1983 | Da ampliare |
 | Coppe e tornei | Marcatori dei Mondiali | 0 | 2000 | 2000 | Da ampliare |
 | Coppe e tornei | Coppa Svizzera | 0 | 2000 | 2000 | Da ampliare |
@@ -36,14 +36,14 @@ Filtrate per tipo non desiderato: **6** · Duplicati: **60** · Non valide: **0*
 | Protagonisti e storia | Allenatori e tecnici | 699 | 2000 | 1301 | Da ampliare |
 | Protagonisti e storia | Allenatori storici | 84 | 2000 | 1916 | Da ampliare |
 | Protagonisti e storia | Nazionale italiana | 6 | 2000 | 1994 | Da ampliare |
-| Altro | Stadi leggendari | 25 | 2000 | 1975 | Da ampliare |
+| Altro | Stadi leggendari | 60 | 2000 | 1940 | Da ampliare |
 | Altro | Curiosità | 10 | 2000 | 1990 | Da ampliare |
 | Altro | Derby e rivalità | 39 | 2000 | 1961 | Da ampliare |
 | Altro | Grandi club | 0 | 2000 | 2000 | Da ampliare |
 | Altro | Europa | 10 | 2000 | 1990 | Da ampliare |
 | Categorie aggiuntive | 2. Bundesliga tedesca | 133 | 2000 | 1867 | Da ampliare |
 | Categorie aggiuntive | Eredivisie olandese | 67 | 2000 | 1933 | Da ampliare |
-| Categorie aggiuntive | Europei | 113 | 2000 | 1887 | Da ampliare |
+| Categorie aggiuntive | Europei | 303 | 2000 | 1697 | Da ampliare |
 | Categorie aggiuntive | League One inglese | 94 | 2000 | 1906 | Da ampliare |
 | Categorie aggiuntive | Ligue 2 francese | 74 | 2000 | 1926 | Da ampliare |
 | Categorie aggiuntive | Stadi famosi | 122 | 2000 | 1878 | Da ampliare |
@@ -61,6 +61,7 @@ Filtrate per tipo non desiderato: **6** · Duplicati: **60** · Non valide: **0*
 - official-questions.json: 67 elementi
 - history-expansion.json: 483 elementi
 - deep-history.json: 350 elementi
+- competition-history-generated.json: 501 elementi
 
 ## Criterio di qualità
 

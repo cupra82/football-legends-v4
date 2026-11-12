@@ -1,6 +1,6 @@
 {
   "version": "3.3.4",
-  "generatedAt": "2026-11-12T13:02:23.682Z",
+  "generatedAt": "2026-11-12T13:20:18.081Z",
   "minimumPerCategory": 2000,
   "sourceStats": {
     "questions.json": {
@@ -42,10 +42,14 @@
     "deep-history.json": {
       "present": true,
       "loaded": 350
+    },
+    "competition-history-generated.json": {
+      "present": true,
+      "loaded": 501
     }
   },
-  "rawCount": 34570,
-  "validUniquePlayable": 34504,
+  "rawCount": 35071,
+  "validUniquePlayable": 35005,
   "filteredByKind": 6,
   "invalid": 0,
   "duplicates": 60,
@@ -101,7 +105,11 @@
     "Allenatori campioni d’Europa": 17,
     "Marcatori Europei": 10,
     "Gol e primati": 10,
-    "Miglior giocatore": 8
+    "Miglior giocatore": 8,
+    "Sedi delle grandi finali": 35,
+    "Incroci storici": 313,
+    "Protagonisti delle finali": 85,
+    "Percorso nelle fasi finali": 68
   },
   "categories": [
     {
@@ -219,9 +227,9 @@
     {
       "group": "Coppe e tornei",
       "category": "Mondiali",
-      "available": 186,
+      "available": 462,
       "target": 2000,
-      "missing": 1814,
+      "missing": 1538,
       "met": false
     },
     {
@@ -315,9 +323,9 @@
     {
       "group": "Altro",
       "category": "Stadi leggendari",
-      "available": 25,
+      "available": 60,
       "target": 2000,
-      "missing": 1975,
+      "missing": 1940,
       "met": false
     },
     {
@@ -371,9 +379,9 @@
     {
       "group": "Categorie aggiuntive",
       "category": "Europei",
-      "available": 113,
+      "available": 303,
       "target": 2000,
-      "missing": 1887,
+      "missing": 1697,
       "met": false
     },
     {
