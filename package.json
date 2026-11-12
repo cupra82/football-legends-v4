@@ -1,12 +1,12 @@
 {
   "name": "football-legends-v4-lab",
-  "version": "4.0.0",
+  "version": "4.0.1",
   "private": true,
-  "description": "Football Legends 4.0.0 Ultimate Edition — desktop multiplayer, tournaments, Ranked, Rush, historical archive",
+  "description": "Football Legends 4.0.1 Ultimate Edition — desktop multiplayer, tournaments, Ranked, Rush, historical archive",
   "scripts": {
     "start": "node server.js",
     "check:release": "node scripts/release-preflight.js",
-    "test": "node test-bank.js && node test-almanac.js && node test-people-bank.js && node scripts/test-new-sources.js && node scripts/test-deep-history.js && node scripts/test-competition-history.js && node scripts/test-european-cups.js"
+    "test": "node test-bank.js && node test-almanac.js && node test-people-bank.js && node scripts/test-new-sources.js && node scripts/test-deep-history.js && node scripts/test-competition-history.js && node scripts/test-european-cups.js && node test-tournament-formats.js"
   },
   "dependencies": {
     "ws": "^8.18.0",

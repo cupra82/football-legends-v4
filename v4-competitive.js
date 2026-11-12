@@ -3,6 +3,7 @@
 const crypto=require('crypto');
 const {Pool}=require('pg');
 const WebSocket=require('ws');
+const formats=require('./tournament-formats');
 let ctx,db=null,ready=false;const rush=new Map(),tournaments=new Map(),sockets=new Map();
 const isId=x=>typeof x==='string'&&/^[0-9a-f]{32}$/i.test(x);
 const key=x=>crypto.createHash('sha256').update(x.toLowerCase()).digest('hex');
@@ -35,7 +36,7 @@ async function init({wss,accounts,bank,topics}){
 async function handleHttp(req,res,pathname){
  if(!ctx)return reply(res,503,{error:'Motore 4.0 non pronto'});
  if(req.method==='GET'&&['/api/v4/rush/leaderboard','/api/v4/ranked/leaderboard','/api/v4/info'].includes(pathname)){
-  if(pathname==='/api/v4/info')return reply(res,200,{version:'4.0.0',features:['tournaments','ranked','rush','ready-lobby'],databaseReady:ready});
+  if(pathname==='/api/v4/info')return reply(res,200,{version:'4.0.1',features:['tournaments','ranked','rush','ready-lobby'],databaseReady:ready});
   if(!ready)return reply(res,503,{error:'Database LAB non disponibile'});
   try{const table=pathname.includes('ranked')?'fl_v4_ratings':'fl_v4_rush',order=pathname.includes('ranked')?'rating DESC,games DESC':'best DESC,games ASC';const result=await db.query(`SELECT name,${table==='fl_v4_ratings'?'rating,games,wins':'best,games,correct'} FROM ${table} ORDER BY ${order} LIMIT 30`);return reply(res,200,{players:result.rows})}catch(e){return reply(res,503,{error:'Classifica temporaneamente non disponibile'})}
  }
@@ -87,49 +88,125 @@ async function rankRound(roundId,players){if(!ready)throw Error('Classifica Rank
 function send(ws,x){if(ws.readyState===WebSocket.OPEN)ws.send(JSON.stringify(x))}
 function broadcast(r,x){r.players.forEach(p=>send(p.ws,x))}
 function tournamentCode(){let c;do{c=crypto.randomBytes(4).toString('hex').slice(0,6).toUpperCase()}while(tournaments.has(c));return c}
-function safePlayer(p){return {name:p.acc.nickname,ready:p.ready,active:p.active,host:p===tournaments.get(p.room)?.players[0]}}
-function tournamentLobby(r){broadcast(r,{type:'v4t:lobby',code:r.code,players:r.players.map(safePlayer),size:r.size,phase:r.phase,hostId:r.hostId})}
+function safePlayer(p){return {name:p.acc.nickname,ready:p.ready,active:p.active,host:p.acc.id===tournaments.get(p.room)?.hostId}}
+function tournamentLobby(r){broadcast(r,{type:'v4t:lobby',code:r.code,players:r.players.map(safePlayer),size:r.size,format:r.format,total:r.total,phase:r.phase,hostId:r.hostId})}
+function scoreRecords(r,matches){
+ const results=[],winners=[];
+ for(const [a,b] of matches){
+  const winner=formats.chooseWinner(a,b),loser=winner===a?b:a;
+  winners.push(winner);
+  results.push({a:a.acc.nickname,b:b.acc.nickname,scoreA:a.points,scoreB:b.points,winner:winner.acc.nickname});
+  if(r.stage!=='eliminazione'){
+   for(const p of [a,b]){const s=r.records.get(p.acc.id);s.played++;s.score+=p.points;s.correct+=p.correct;if(p===winner){s.wins++;s.points+=3}}
+  }
+ }
+ return {results,winners};
+}
+function standingsPayload(r){if(!r.records)return [];
+ const arranged=r.groups?r.groups.map(g=>formats.standings(g,r.records)): [formats.standings(r.seeded,r.records)];
+ return arranged.map((group,i)=>({name:r.groups?`Girone ${i===0?'A':'B'}`:'Classifica',players:group.map(s=>({name:s.player.acc.nickname,wins:s.wins,played:s.played,points:s.points,score:s.score}))}));
+}
+function startWave(r,matches,byes=[]){
+ if(!tournaments.has(r.code))return;
+ clearTimeout(r.timer);r.matches=matches;r.byes=byes;r.active=[...new Set(matches.flat())];r.round++;
+ for(const p of r.players){p.active=r.active.includes(p);p.points=0;p.correct=0;p.elapsed=0}
+ r.deck=shuffle(bank()).slice(0,r.total);if(r.deck.length<r.total){broadcast(r,{type:'v4t:error',message:'Domande insufficienti per il torneo.'});tournaments.delete(r.code);return}
+ r.index=0;r.phase='round';broadcast(r,{type:'v4t:round',round:r.round,stage:r.stage,total:r.total,pairs:matches.map(([a,b])=>[a.acc.nickname,b.acc.nickname]),byes:byes.map(p=>p.acc.nickname),standings:standingsPayload(r)});
+ nextTournament(r);
+}
+function startKnockoutWave(r){
+ r.stage='eliminazione';r.groups=null;
+ if(r.contenders.length===1)return finishTournament(r,r.contenders[0]);
+ const {matches,byes}=formats.knockoutWave(r.contenders);startWave(r,matches,byes);
+}
+function initiateTournament(r){
+ r.seeded=shuffle(r.players);r.seeded.forEach((p,i)=>p.seed=i);
+ r.history=[];r.records=new Map(r.players.map(p=>[p.acc.id,{wins:0,played:0,points:0,correct:0,score:0}]));r.round=0;
+ const mode=formats.formatFor(r.size,r.format);r.mode=mode;
+ if(mode==='knockout'){r.contenders=r.seeded;startKnockoutWave(r);return}
+ r.groups=mode==='groups'?formats.splitGroups(r.seeded):null;
+ r.waves=mode==='groups'?formats.groupWaves(r.groups):formats.roundRobin(r.seeded);
+ r.waveIndex=0;r.stage=mode==='groups'?'gironi':'girone unico';startWave(r,r.waves[0]);
+}
 async function tournamentMessage(ws,x){
  if(x.type==='v4t:create'||x.type==='v4t:join'){
   if(sockets.has(ws))return send(ws,{type:'v4t:error',message:'Sei già in un torneo'});
   const acc=await ctx.accounts.authenticate(x.token);if(!acc)return send(ws,{type:'v4t:error',message:'Registra il nickname in Arena online prima di creare il torneo.'});
   let r;
-  if(x.type==='v4t:create'){const size=[4,8].includes(Number(x.size))?Number(x.size):4;r={code:tournamentCode(),id:crypto.randomUUID(),size,players:[],phase:'lobby',round:0,bracket:[],timer:null,hostId:acc.id};tournaments.set(r.code,r)}
-  else {r=tournaments.get(String(x.code||'').toUpperCase());if(!r||r.phase!=='lobby'||r.players.length>=r.size)return send(ws,{type:'v4t:error',message:'Stanza non disponibile o completa'})}
+  if(x.type==='v4t:create'){
+   let settings;try{settings=formats.validate(x.size,x.format||'auto',x.total||10)}catch(e){return send(ws,{type:'v4t:error',message:e.message})}
+   r={code:tournamentCode(),id:crypto.randomUUID(),...settings,players:[],phase:'lobby',round:0,timer:null,hostId:acc.id};tournaments.set(r.code,r);
+  }else{
+   r=tournaments.get(String(x.code||'').toUpperCase());
+   if(!r||r.phase!=='lobby'||r.players.length>=r.size)return send(ws,{type:'v4t:error',message:'Stanza non disponibile o completa'});
+  }
   if(r.players.some(p=>p.acc.id===acc.id))return send(ws,{type:'v4t:error',message:'Questo nickname è già nel torneo'});
   const p={ws,acc,room:r.code,ready:x.type==='v4t:create',active:true,points:0,correct:0,elapsed:0};r.players.push(p);sockets.set(ws,p);tournamentLobby(r);return;
  }
- const p=sockets.get(ws);if(!p)return;
- const r=tournaments.get(p.room);if(!r)return;
+ const p=sockets.get(ws);if(!p)return;const r=tournaments.get(p.room);if(!r)return;
  if(x.type==='v4t:ready'&&r.phase==='lobby'){p.ready=!!x.ready;tournamentLobby(r);return}
- if(x.type==='v4t:start'){if(r.phase!=='lobby'||r.hostId!==p.acc.id)return; if(r.players.length!==r.size||r.players.some(a=>!a.ready))return send(ws,{type:'v4t:error',message:`Servono ${r.size} giocatori pronti per iniziare`});r.active=shuffle(r.players);r.bracket=[];r.phase='playing';r.round=0;startTournamentRound(r);return}
+ if(x.type==='v4t:start'){
+  if(r.phase!=='lobby'||r.hostId!==p.acc.id)return;
+  if(r.players.length!==r.size||r.players.some(a=>!a.ready))return send(ws,{type:'v4t:error',message:`Servono ${r.size} giocatori pronti per iniziare`});
+  initiateTournament(r);return;
+ }
  if(x.type==='v4t:answer'&&r.phase==='question'&&p.active&&!r.answers.has(p.acc.id)){
   const v=Number(x.index);if(!Number.isInteger(v)||v<0||v>2)return;
-  r.answers.set(p.acc.id,v);const q=r.deck[r.index];if(r.order[v]===q.answer){p.correct++;p.points+=100+Math.ceil(Math.max(0,15000-(Date.now()-r.started))/1000)*10;p.elapsed+=Date.now()-r.started}
+  r.answers.set(p.acc.id,v);const q=r.deck[r.index];
+  if(r.order[v]===q.answer){p.correct++;p.points+=100+Math.ceil(Math.max(0,15000-(Date.now()-r.started))/1000)*10}
+  p.elapsed+=Date.now()-r.started;
   send(ws,{type:'v4t:answered'});if(r.active.every(a=>r.answers.has(a.acc.id)))revealTournament(r);
  }
 }
-function startTournamentRound(r){
- if(!tournaments.has(r.code))return;
- r.round++;r.pairs=[];for(let i=0;i<r.active.length;i+=2)r.pairs.push([r.active[i],r.active[i+1]]);
- for(const p of r.players){p.active=r.active.includes(p);p.points=0;p.correct=0;p.elapsed=0}
- const pool=bank();r.deck=shuffle(pool).slice(0,10);r.index=0;r.phase='round';broadcast(r,{type:'v4t:round',round:r.round,rounds:Math.log2(r.size),pairs:r.pairs.map(([a,b])=>[a.acc.nickname,b.acc.nickname])});nextTournament(r);
+function nextTournament(r){
+ if(!tournaments.has(r.code))return;clearTimeout(r.timer);
+ if(r.index>=r.deck.length){finishTournamentRound(r).catch(e=>console.error('tournament finish:',e.message));return}
+ r.phase='question';const q=r.deck[r.index];r.order=shuffle([0,1,2]);r.answers=new Map();r.started=Date.now();
+ broadcast(r,{type:'v4t:question',round:r.round,stage:r.stage,number:r.index+1,total:r.deck.length,question:q.question,category:q.category,options:r.order.map(j=>q.options[j]),active:r.active.map(p=>p.acc.nickname),scores:r.active.map(p=>({name:p.acc.nickname,score:p.points})),seconds:15});
+ r.timer=setTimeout(()=>revealTournament(r),15500);
 }
-function nextTournament(r){if(!tournaments.has(r.code))return;clearTimeout(r.timer);if(r.index>=r.deck.length){finishTournamentRound(r).catch(e=>console.error('tournament finish:',e.message));return}
- r.phase='question';const q=r.deck[r.index];r.order=shuffle([0,1,2]);r.answers=new Map();r.started=Date.now();broadcast(r,{type:'v4t:question',round:r.round,number:r.index+1,total:r.deck.length,question:q.question,category:q.category,options:r.order.map(j=>q.options[j]),active:r.active.map(p=>p.acc.nickname),scores:r.active.map(p=>({name:p.acc.nickname,score:p.points})),seconds:15});r.timer=setTimeout(()=>revealTournament(r),15500);
+function revealTournament(r){
+ if(!tournaments.has(r.code)||r.phase!=='question')return;clearTimeout(r.timer);r.phase='reveal';const q=r.deck[r.index];
+ broadcast(r,{type:'v4t:reveal',correct:r.order.indexOf(q.answer),answer:q.options[q.answer],scores:r.active.map(p=>({name:p.acc.nickname,score:p.points}))});r.index++;r.timer=setTimeout(()=>nextTournament(r),1400);
 }
-function revealTournament(r){if(!tournaments.has(r.code)||r.phase!=='question')return;clearTimeout(r.timer);r.phase='reveal';const q=r.deck[r.index];broadcast(r,{type:'v4t:reveal',correct:r.order.indexOf(q.answer),answer:q.options[q.answer],scores:r.active.map(p=>({name:p.acc.nickname,score:p.points}))});r.index++;r.timer=setTimeout(()=>nextTournament(r),1400)}
+async function finishTournament(r,winner){
+ if(!tournaments.has(r.code))return;r.phase='finished';clearTimeout(r.timer);
+ broadcast(r,{type:'v4t:round_end',bracket:r.history,standings:standingsPayload(r),champion:winner.acc.nickname,finished:true});
+ if(ready){try{await db.query('INSERT INTO fl_v4_tournaments(id,winner_id,winner_name,player_count) VALUES($1,$2,$3,$4) ON CONFLICT DO NOTHING',[r.id,key(winner.acc.id),winner.acc.nickname,r.size])}catch(e){console.error('Torneo salva:',e.message)}}
+}
 async function finishTournamentRound(r){
- if(!tournaments.has(r.code))return;r.phase='between';const winners=[];const results=[];
- for(const [a,b] of r.pairs){const winner=a.points!==b.points?(a.points>b.points?a:b):a.correct!==b.correct?(a.correct>b.correct?a:b):a.elapsed!==b.elapsed?(a.elapsed<b.elapsed?a:b):(a.acc.id<b.acc.id?a:b);winners.push(winner);results.push({a:a.acc.nickname,b:b.acc.nickname,scoreA:a.points,scoreB:b.points,winner:winner.acc.nickname})}
- r.bracket.push({round:r.round,matches:results});broadcast(r,{type:'v4t:round_end',bracket:r.bracket,champion:winners.length===1?winners[0].acc.nickname:null});
- if(winners.length===1){r.phase='finished';if(ready){try{await db.query('INSERT INTO fl_v4_tournaments(id,winner_id,winner_name,player_count) VALUES($1,$2,$3,$4) ON CONFLICT DO NOTHING',[r.id,key(winners[0].acc.id),winners[0].acc.nickname,r.size])}catch(e){console.error('Torneo salva:',e.message)}}return}
- r.active=winners;r.timer=setTimeout(()=>startTournamentRound(r),6000);
+ if(!tournaments.has(r.code)||r.phase==='between'||r.phase==='finished')return;r.phase='between';
+ const {results,winners}=scoreRecords(r,r.matches);
+ r.history.push({round:r.round,stage:r.stage,matches:results,byes:r.byes.map(p=>p.acc.nickname)});
+ if(r.stage==='eliminazione'){
+  r.contenders=[...r.byes,...winners];
+  if(r.contenders.length===1)return finishTournament(r,r.contenders[0]);
+  broadcast(r,{type:'v4t:round_end',bracket:r.history,standings:[],champion:null,finished:false});
+  r.timer=setTimeout(()=>startKnockoutWave(r),4500);return;
+ }
+ r.waveIndex++;
+ if(r.waveIndex<r.waves.length){
+  broadcast(r,{type:'v4t:round_end',bracket:r.history,standings:standingsPayload(r),champion:null,finished:false});
+  r.timer=setTimeout(()=>startWave(r,r.waves[r.waveIndex]),4500);return;
+ }
+ if(r.mode==='league'){const ranked=formats.standings(r.seeded,r.records);return finishTournament(r,ranked[0].player)}
+ if(r.mode==='groups'){
+  const [a,b]=r.groups.map(g=>formats.standings(g,r.records));r.contenders=[a[0].player,b[1].player,b[0].player,a[1].player];
+ }else{
+  const ranked=formats.standings(r.seeded,r.records);r.contenders=r.size===3?[ranked[0].player,ranked[1].player]:[ranked[0].player,ranked[3].player,ranked[1].player,ranked[2].player];
+ }
+ broadcast(r,{type:'v4t:round_end',bracket:r.history,standings:standingsPayload(r),champion:null,finished:false});
+ r.timer=setTimeout(()=>startKnockoutWave(r),4500);
 }
-function leaveTournament(ws){const p=sockets.get(ws);if(!p)return;sockets.delete(ws);const r=tournaments.get(p.room);if(!r)return;r.players=r.players.filter(x=>x!==p);
- if(r.phase!=='lobby'){clearTimeout(r.timer);broadcast(r,{type:'v4t:error',message:'Un giocatore si è disconnesso. Il torneo è stato annullato.'});for(const a of r.players)sockets.delete(a.ws);tournaments.delete(r.code);return}
+function leaveTournament(ws){
+ const p=sockets.get(ws);if(!p)return;sockets.delete(ws);const r=tournaments.get(p.room);if(!r)return;
+ if(r.phase!=='lobby'&&r.phase!=='finished'){
+  clearTimeout(r.timer);broadcast(r,{type:'v4t:error',message:'Un giocatore si è disconnesso. Il torneo è stato annullato.'});
+  for(const a of r.players)sockets.delete(a.ws);tournaments.delete(r.code);return;
+ }
+ r.players=r.players.filter(x=>x!==p);
  if(!r.players.length){tournaments.delete(r.code);return}
  if(r.hostId===p.acc.id){r.hostId=r.players[0].acc.id;r.players[0].ready=true}
- tournamentLobby(r);
+ if(r.phase==='lobby')tournamentLobby(r);
 }
 module.exports={init,handleHttp,rankRound};
