@@ -1,32 +1,16 @@
-name: V4 - Importa grande archivio domande (una tantum)
+name: V4 - Verifica archivi importati (non sovrascrive)
 on:
   workflow_dispatch:
 permissions:
-  contents: write
-concurrency:
-  group: v4-archive-import
-  cancel-in-progress: false
+  contents: read
 jobs:
-  import:
+  verify:
     runs-on: ubuntu-latest
-    timeout-minutes: 8
+    timeout-minutes: 5
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-node@v4
         with:
           node-version: '22'
-      - name: Importa archivi pubblici dalla versione stabile
-        run: node scripts/import-v4-snapshot.js
-      - name: Verifica coerenza del progetto
-        run: |
-          node --check server.js
-          node test-v4-modes.js
-      - name: Salva gli archivi nel repository V4
-        run: |
-          git config user.name 'football-legends-v4-bot'
-          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
-          git add questions-generated.json people-generated.json wikidata-generated.json
-          if ! git diff --cached --quiet; then
-            git commit -m 'V4: importa archivio indipendente di domande'
-            git push
-          fi
+      - name: Controlla che gli archivi grandi siano presenti
+        run: node scripts/release-preflight.js --strict

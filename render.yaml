@@ -1,10 +1,13 @@
 services:
   - type: web
-    name: football-legends
+    name: football-legends-v4
     runtime: node
     plan: free
-    buildCommand: npm install
+    buildCommand: npm install --ignore-scripts
     startCommand: npm start
-    healthCheckPath: /
-    # Imposta DATABASE_URL manualmente in Render > Environment.
-    # Non inserire mai la password o la stringa di connessione in questo file.
+    healthCheckPath: /api/version
+    envVars:
+      - key: FL_V4_DB_ISOLATED
+        value: 'YES'
+      # DATABASE_URL belongs only to the isolated V4 Supabase project.
+      # Configure it privately in Render > Environment, not in GitHub.

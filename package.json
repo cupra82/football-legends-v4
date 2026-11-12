@@ -1,10 +1,12 @@
 {
   "name": "football-legends-v4-lab",
-  "version": "4.4.0-lab",
+  "version": "4.0.0",
   "private": true,
-  "description": "Football Legends V4.4 \u2014 domande storiche, stadi, derby, premi e leggende + desktop multiplayer",
+  "description": "Football Legends 4.0.0 Ultimate Edition — desktop multiplayer, tournaments, Ranked, Rush, historical archive",
   "scripts": {
-    "start": "node server.js"
+    "start": "node server.js",
+    "check:release": "node scripts/release-preflight.js",
+    "test": "node test-bank.js && node test-almanac.js && node test-people-bank.js && node scripts/test-new-sources.js && node scripts/test-deep-history.js && node scripts/test-competition-history.js && node scripts/test-european-cups.js"
   },
   "dependencies": {
     "ws": "^8.18.0",

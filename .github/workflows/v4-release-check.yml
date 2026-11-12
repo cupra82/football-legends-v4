@@ -1,0 +1,25 @@
+name: V4 4.0.0 - Verifica pre-lancio (manuale)
+on:
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    timeout-minutes: 8
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - run: npm install --ignore-scripts
+      - name: Controlla codice e motore di gioco
+        run: |
+          node --check server.js
+          node --check v4-competitive.js
+          node --check v4-ui.js
+          node --check v400-design.js
+          node test-v4-modes.js
+          npm test
+      - name: Controlla archivio completo
+        run: node scripts/release-preflight.js --strict

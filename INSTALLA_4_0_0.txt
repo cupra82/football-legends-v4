@@ -1,0 +1,28 @@
+FOOTBALL LEGENDS 4.0.0 — ULTIMATE EDITION
+=========================================
+
+UN SOLO REPOSITORY: cupra82/football-legends-v4
+SITO WEB: https://football-legends-v4.onrender.com
+DATABASE: solo Supabase V4 indipendente
+
+1. GitHub Desktop: seleziona football-legends-v4, Fetch/Pull se necessario.
+2. COPIA DI SICUREZZA della cartella del repository.
+3. Estrai lo ZIP e copia TUTTO il suo contenuto nella cartella del repository V4.
+4. NON ELIMINARE i grandi file *-generated.json che erano gia presenti nella cartella.
+   In particolare: people-generated.json, wikidata-generated.json, questions-generated.json,
+   competition-history-generated.json, european-cups-generated.json e gli altri archivi.
+   Lo ZIP NON contiene le oltre 35.000 domande del tuo GitHub: esse restano nel repository.
+5. Commit to main e Push origin.
+6. Render V4: verifica Live. Apri https://football-legends-v4.onrender.com/api/version
+   Deve riportare 4.0.0.
+7. GitHub Actions: avvia "V4 4.0.0 - Verifica pre-lancio (manuale)".
+   La spunta verde conferma i test automatici e la presenza dei grandi archivi.
+8. Test con amici: almeno 2 PC per Arena; 4 profili per Tornei; Rush e Ranked;
+   verifica che i profili/risultati persistano nel Supabase V4.
+
+UN SOLO WORKFLOW DI AGGIORNAMENTO SETTIMANALE:
+"V4 4.0.0 - Aggiorna tutto l'archivio (lunedi + manuale)".
+
+NOTA IMPORTANTE: il pacchetto locale contiene il software completo ma non puo includere i
+file da decine di MB scaricati/generati sul tuo GitHub. La copia dei file gia presenti
+e' sufficiente; non occorre ripetere l'importazione una tantum.

@@ -1,4 +1,4 @@
-/* Football Legends 4.0.4 LAB — standalone desktop modes, no modifications to production. */
+/* Football Legends 4.0.0 Ultimate Edition — desktop modes and isolated database. */
 (function(){'use strict';
 const $=id=>document.getElementById(id);
 const make=(tag,cls,text)=>{const n=document.createElement(tag);if(cls)n.className=cls;if(text!==undefined)n.textContent=text;return n};

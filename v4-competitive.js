@@ -1,5 +1,5 @@
 'use strict';
-// Football Legends 4.0.4 LAB — separate features (isolated DB schema), server-authoritative Rush and tournament.
+// Football Legends 4.0.0 Ultimate Edition — isolated competitive features and server-authoritative Rush / tournaments.
 const crypto=require('crypto');
 const {Pool}=require('pg');
 const WebSocket=require('ws');
@@ -35,7 +35,7 @@ async function init({wss,accounts,bank,topics}){
 async function handleHttp(req,res,pathname){
  if(!ctx)return reply(res,503,{error:'Motore 4.0 non pronto'});
  if(req.method==='GET'&&['/api/v4/rush/leaderboard','/api/v4/ranked/leaderboard','/api/v4/info'].includes(pathname)){
-  if(pathname==='/api/v4/info')return reply(res,200,{version:'4.0.4-lab',features:['tournaments','ranked','rush','ready-lobby'],databaseReady:ready});
+  if(pathname==='/api/v4/info')return reply(res,200,{version:'4.0.0',features:['tournaments','ranked','rush','ready-lobby'],databaseReady:ready});
   if(!ready)return reply(res,503,{error:'Database LAB non disponibile'});
   try{const table=pathname.includes('ranked')?'fl_v4_ratings':'fl_v4_rush',order=pathname.includes('ranked')?'rating DESC,games DESC':'best DESC,games ASC';const result=await db.query(`SELECT name,${table==='fl_v4_ratings'?'rating,games,wins':'best,games,correct'} FROM ${table} ORDER BY ${order} LIMIT 30`);return reply(res,200,{players:result.rows})}catch(e){return reply(res,503,{error:'Classifica temporaneamente non disponibile'})}
  }

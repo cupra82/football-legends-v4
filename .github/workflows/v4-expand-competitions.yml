@@ -1,4 +1,4 @@
-name: V4 - MEGA archivio unico (coppe, stadi, leggende e premi)
+name: V4 4.0.0 - Aggiorna tutto l'archivio (lunedi + manuale)
 on:
   workflow_dispatch:
   schedule:
@@ -6,54 +6,68 @@ on:
 permissions:
   contents: write
 concurrency:
-  group: v4-historical-archive
+  group: v4-ultimate-archive
   cancel-in-progress: false
 jobs:
-  enrich:
+  update:
     runs-on: ubuntu-latest
-    timeout-minutes: 13
+    timeout-minutes: 22
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-node@v4
         with:
           node-version: '22'
-      - name: Testa entrambi i generatori storici
+      - name: Verifica JavaScript e logica dei generatori
         run: |
+          node --check server.js
+          node --check v4-ui.js
+          node --check v400-design.js
           node scripts/test-competition-history.js
           node scripts/test-european-cups.js
-      - name: Genera Mondiali ed Europei
+          node scripts/test-famous-careers.js
+          node scripts/test-wikidata-priority.js
+      - name: Genera campionati nazionali
+        run: node scripts/build-bank.js
+      - name: Aggiorna calciatori e allenatori
+        run: node scripts/build-people.js
+      - name: Aggiorna club e carriere Wikidata
         env:
-          FL_HISTORY_BUDGET_MS: '200000'
+          FL_WIKIDATA_REQUEST_TIMEOUT_MS: '12000'
+          FL_WIKIDATA_BUDGET_MS: '160000'
+          FL_CLUBS_PER_RUN: '20'
+        run: node scripts/build-wikidata.js
+      - name: Mondiali e Europei
+        env:
+          FL_HISTORY_BUDGET_MS: '170000'
         run: node scripts/build-competition-history.js
-      - name: Genera Champions, Europa League e Conference League
+      - name: Coppe europee
         env:
-          FL_CUP_BUDGET_MS: '300000'
+          FL_CUP_BUDGET_MS: '200000'
         run: node scripts/build-european-cups.js
-      - name: Integra stadi, derby, leggende e premi curati
+      - name: Stadi, derby, leggende e premi
         run: node scripts/build-themed-archive.js
-      - name: Scopri nuovi stadi dai club Wikidata (limiti e checkpoint)
+      - name: Nuovi stadi da Wikidata
         env:
-          FL_STADIUM_BUDGET_MS: '160000'
-          FL_STADIUM_CLUBS_PER_RUN: '500'
+          FL_STADIUM_BUDGET_MS: '130000'
+          FL_STADIUM_CLUBS_PER_RUN: '220'
         run: node scripts/build-v4-stadiums.js
-      - name: Verifica categorie e formati
-        run: node scripts/audit-categories.js
-      - name: Riepilogo per categoria
+      - name: Carriere famose e legami tra club
         run: |
-          node - <<'JS'
-          const r=require('./category-report.json');
-          console.log('DOMANDE VALIDE TOTALE:',r.validUniquePlayable);
-          for(const c of r.categories.filter(x=>['Mondiali','Europei','Champions League','Coppe europee','Stadi leggendari','Derby e rivalità','Leggende del calcio','Pallone d’Oro'].includes(x.category)))console.log(c.category, c.available);
-          JS
-      - name: Pubblica SOLO le domande effettivamente modificate
+          node scripts/enrich-famous-index.js
+          node scripts/build-famous-careers.js
+      - name: Controlla categorie e qualita
+        run: |
+          node scripts/audit-categories.js
+          node scripts/release-preflight.js
+      - name: Pubblica solo gli archivi effettivamente modificati
         run: |
           git config user.name 'football-legends-v4-bot'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
-          git add competition-history-generated.json european-cups-generated.json themed-generated.json stadiums-wikidata-generated.json stadiums-wikidata-progress.json category-report.json category-report.md
+          git add -A -- '*-generated.json' 'famous-index.json' 'wikidata-clubs.json' 'wikidata-club-cache.json' 'stadiums-wikidata-progress.json'
           if ! git diff --cached --quiet; then
-            git commit -m 'V4: archivio storico integrato coppe e nazionali'
+            git commit -m 'V4: aggiornamento completo archivio calcistico'
             git pull --rebase origin main
-            git push
+            git push origin HEAD:main
           else
-            echo 'Nessuna nuova domanda / dati già aggiornati'
+            echo 'Archivio invariato: nessun nuovo commit'
           fi
