@@ -41,3 +41,13 @@ header .brand{font-size:19px;letter-spacing:3px;font-weight:950}header .brand b{
 @media(max-width:990px){#home .modes{grid-template-columns:repeat(2,minmax(0,1fr))}#home .hero{min-height:470px}#home .hero h1{font-size:clamp(56px,8.5vw,88px)}.fl-nav .fl-nav-right{margin-left:0}}
 @media(max-width:610px){main{padding:10px 12px 56px}header{padding:14px!important}.brand{font-size:15px!important}#home .hero{padding:37px 22px;min-height:475px;background-position:60% center}#home .hero h1{font-size:58px}#home .hero p{font-size:14px}#home .modes{grid-template-columns:1fr}#home .mode{min-height:162px}.fl-trophy-shelf{grid-template-columns:1fr}.fl-nav{overflow-x:auto;flex-wrap:nowrap}.fl-nav button{flex:none}#game{padding:24px 16px}#game .question{font-size:25px}}
 @media(prefers-reduced-motion:reduce){*{animation:none!important;transition:none!important}}
+
+/* 4.0.2 — guida classifica generale / Ranked, senza modificare i punteggi */
+.fl-leader-guide{margin:16px 0 18px;padding:22px 25px;border:1px solid #e6bc6a66;border-radius:18px;background:linear-gradient(120deg,#233345e8,#111f2ee8);box-shadow:0 12px 28px #0003}
+.fl-leader-guide-title{font-size:19px;font-weight:900;letter-spacing:-.02em;color:#f0d49a;margin:0 0 8px}
+.fl-leader-guide-text{font-size:14px;line-height:1.7;color:#e0e9ee;margin:0;max-width:1000px}
+.fl-elo-help{margin-top:12px;background:#0d1927;border:1px solid #526c85;border-radius:11px;padding:11px 14px}
+.fl-elo-help[hidden]{display:none}
+.fl-elo-help summary{cursor:pointer;font-weight:800;font-size:13px;color:#c3e7f5;list-style-position:inside}
+.fl-elo-help summary:hover,.fl-elo-help summary:focus-visible{color:#fff}
+.fl-elo-help p{font-size:13px;line-height:1.65;color:#dbe6ec;margin:9px 0 3px}

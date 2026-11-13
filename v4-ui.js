@@ -36,6 +36,22 @@ const lbTabs=make('div','v4buttonRow');lbTabs.id='flLeaderboardTabs';
 const lbGeneral=addButton(lbTabs,'🏆 Generale',()=>showClassifiche('general'),'btn');
 const lbRanked=addButton(lbTabs,'💎 Ranked',()=>showClassifiche('ranked'),'btn secondary');
 lbPanel?.before(lbTabs);
+// Guide contestuali: spiegazioni visibili anche quando la classifica è vuota.
+const lbGuide=make('section','fl-leader-guide');lbGuide.id='flLeaderboardGuide';lbGuide.setAttribute('aria-live','polite');
+const lbGuideTitle=make('h3','fl-leader-guide-title');
+const lbGuideText=make('p','fl-leader-guide-text');
+const lbEloHelp=make('details','fl-elo-help');
+const lbEloSummary=make('summary','','ⓘ Cosa significa Elo?');
+const lbEloDetails=make('p','','Gli Elo sono punti competitivi: vincere contro un avversario più forte fa guadagnare più Elo, mentre perdere contro uno più debole può farne perdere di più. Il punteggio sale o scende soltanto nelle sfide Ranked.');
+lbEloHelp.append(lbEloSummary,lbEloDetails);lbGuide.append(lbGuideTitle,lbGuideText,lbEloHelp);
+lbPanel?.before(lbGuide);
+function updateLeaderboardGuide(ranked){
+ lbGuideTitle.textContent=ranked?'💎 Classifica Ranked — chi è più competitivo':'🏆 Classifica Generale — tutti i risultati';
+ lbGuideText.textContent=ranked?'Qui conta il rating Elo: parti da 1.000 punti e sali o scendi in base alle vittorie, alle sconfitte e alla forza degli avversari. Le sfide amichevoli non cambiano l’Elo. Le divisioni vanno da Bronzo a Leggenda.':'Qui trovi i risultati accumulati nelle partite Arena online: vittorie (V), sconfitte (S) e punti totali. Più giochi e ottieni buoni risultati, più puoi salire in questa classifica.';
+ lbEloHelp.hidden=!ranked;
+ if(!ranked)lbEloHelp.open=false;
+}
+updateLeaderboardGuide(false);
 const lbRankedRows=make('div','v4table');lbRankedRows.id='flRankedRows';lbPanel?.append(lbRankedRows);
 const lbOriginalTitle=lbScreen?.querySelector('h2'),lbOriginalDescription=lbScreen?.querySelector('p');
 const lbGeneralStatus=$('globalLeaderboardStatus'),lbGeneralRows=$('globalLeaderboardRows');
@@ -46,7 +62,7 @@ async function showClassifiche(tab='general'){
  lbGeneral.className=lbView==='general'?'btn':'btn secondary';lbRanked.className=lbView==='ranked'?'btn':'btn secondary';
  if(lbOriginalTitle)lbOriginalTitle.textContent='🏆 Classifiche degli amici';
  if(lbOriginalDescription)lbOriginalDescription.textContent=lbView==='ranked'?'💎 Graduatoria competitiva: Elo e divisioni. Le partite amichevoli non cambiano questo rating.':'🏆 Risultati permanenti delle partite Arena: vittorie, sconfitte e punti.';
- const ranked=lbView==='ranked';lbRankedRows.classList.toggle('hidden',!ranked);lbGeneralStatus.classList.toggle('hidden',ranked);lbGeneralRows.classList.toggle('hidden',ranked);
+ const ranked=lbView==='ranked';updateLeaderboardGuide(ranked);lbRankedRows.classList.toggle('hidden',!ranked);lbGeneralStatus.classList.toggle('hidden',ranked);lbGeneralRows.classList.toggle('hidden',ranked);
  if(lbRefresh){lbRefresh.textContent='↻ Aggiorna '+(ranked?'Ranked':'classifica');lbRefresh.onclick=()=>showClassifiche(lbView)}
  if(!ranked){await loadLeaderboard();return}
  lbRankedRows.textContent='Caricamento classifica Ranked…';
