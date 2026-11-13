@@ -4,6 +4,7 @@ const crypto=require('crypto');
 const {Pool}=require('pg');
 const WebSocket=require('ws');
 const formats=require('./tournament-formats');
+const insights403=require('./v403-insights');
 let ctx,db=null,ready=false;const rush=new Map(),tournaments=new Map(),sockets=new Map();
 const isId=x=>typeof x==='string'&&/^[0-9a-f]{32}$/i.test(x);
 const key=x=>crypto.createHash('sha256').update(x.toLowerCase()).digest('hex');
@@ -36,7 +37,7 @@ async function init({wss,accounts,bank,topics}){
 async function handleHttp(req,res,pathname){
  if(!ctx)return reply(res,503,{error:'Motore 4.0 non pronto'});
  if(req.method==='GET'&&['/api/v4/rush/leaderboard','/api/v4/ranked/leaderboard','/api/v4/info'].includes(pathname)){
-  if(pathname==='/api/v4/info')return reply(res,200,{version:'4.0.1',features:['tournaments','ranked','rush','ready-lobby'],databaseReady:ready});
+  if(pathname==='/api/v4/info')return reply(res,200,{version:'4.0.3',features:['tournaments','ranked','rush','ready-lobby'],databaseReady:ready});
   if(!ready)return reply(res,503,{error:'Database LAB non disponibile'});
   try{const table=pathname.includes('ranked')?'fl_v4_ratings':'fl_v4_rush',order=pathname.includes('ranked')?'rating DESC,games DESC':'best DESC,games ASC';const result=await db.query(`SELECT name,${table==='fl_v4_ratings'?'rating,games,wins':'best,games,correct'} FROM ${table} ORDER BY ${order} LIMIT 30`);return reply(res,200,{players:result.rows})}catch(e){return reply(res,503,{error:'Classifica temporaneamente non disponibile'})}
  }
@@ -63,10 +64,10 @@ async function handleHttp(req,res,pathname){
    const chosen=Number(x.answer),expired=Date.now()>=state.expires;
    const wasCorrect=!expired&&Number.isInteger(chosen)&&chosen>=0&&chosen<=2&&state.order[chosen]===q.answer;
    if(wasCorrect){state.combo++;state.correct++;state.score+=100+Math.min(state.combo-1,10)*15}else state.combo=0;
-   const answer=q.options[q.answer];state.index++;
+   const answer=q.options[q.answer];const insight={question:q.question,questionId:String(q.id||q.question).slice(0,160),explanation:q.explanation||'',source:typeof q.source==='string'?q.source:null};state.index++;
    const ended=expired||state.index>=state.deck.length;
-   if(ended){state.finished=true;const saved=await saveRush(state);rush.delete(state.id);return reply(res,200,{finished:true,score:state.score,correct:state.correct,answered:state.index,answer,wasCorrect,saved})}
-   return reply(res,200,{finished:false,score:state.score,correct:state.correct,answered:state.index,expires:state.expires,answer,wasCorrect,question:rushQuestion(state)});
+   if(ended){state.finished=true;const saved=await saveRush(state);rush.delete(state.id);return reply(res,200,{finished:true,score:state.score,correct:state.correct,answered:state.index,answer,wasCorrect,insight,saved})}
+   return reply(res,200,{finished:false,score:state.score,correct:state.correct,answered:state.index,expires:state.expires,answer,wasCorrect,insight,question:rushQuestion(state)});
   }
   if(pathname==='/api/v4/rush/finish'){
    const state=rush.get(String(x.session||''));if(!state||state.acc.id!==acc.id)return reply(res,404,{error:'Sessione non trovata'});
@@ -77,7 +78,7 @@ async function handleHttp(req,res,pathname){
  }catch(e){console.error('V4 request:',e.message);return reply(res,500,{error:'Operazione non riuscita'})}
 }
 function rushQuestion(state){const q=state.deck[state.index];if(!q)return null;state.order=shuffle([0,1,2]);return {number:state.index+1,category:q.category,question:q.question,options:state.order.map(i=>q.options[i])}}
-async function saveRush(r){if(!ready)return false;await db.query(`INSERT INTO fl_v4_rush(player_id,name,best,games,correct) VALUES($1,$2,$3,1,$4) ON CONFLICT(player_id) DO UPDATE SET name=EXCLUDED.name,best=GREATEST(fl_v4_rush.best,EXCLUDED.best),games=fl_v4_rush.games+1,correct=fl_v4_rush.correct+EXCLUDED.correct,updated_at=now()`,[key(r.acc.id),r.acc.nickname,r.score,r.correct]);return true}
+async function saveRush(r){if(!ready)return false;await db.query(`INSERT INTO fl_v4_rush(player_id,name,best,games,correct) VALUES($1,$2,$3,1,$4) ON CONFLICT(player_id) DO UPDATE SET name=EXCLUDED.name,best=GREATEST(fl_v4_rush.best,EXCLUDED.best),games=fl_v4_rush.games+1,correct=fl_v4_rush.correct+EXCLUDED.correct,updated_at=now()`,[key(r.acc.id),r.acc.nickname,r.score,r.correct]);await insights403.award(r.acc.id,'rush-prima');if(r.score>=3000)await insights403.award(r.acc.id,'rush-3000');return true}
 async function rankRound(roundId,players){if(!ready)throw Error('Classifica Ranked temporaneamente non disponibile');if(!players.length||players.some(p=>!isId(p.id)))throw Error('Profilo Ranked non valido');
  const cl=await db.connect();try{await cl.query('BEGIN');const insert=await cl.query('INSERT INTO fl_v4_ranked_rounds(round_id) VALUES($1) ON CONFLICT DO NOTHING RETURNING round_id',[roundId]);if(!insert.rowCount){await cl.query('ROLLBACK');return []}
  const before=[];for(const p of players){let r=await cl.query('SELECT rating,games,wins FROM fl_v4_ratings WHERE player_id=$1 FOR UPDATE',[key(p.id)]);before.push({player:p,rating:r.rows[0]?.rating||1000,games:r.rows[0]?.games||0,wins:r.rows[0]?.wins||0})}
@@ -167,11 +168,12 @@ function nextTournament(r){
 }
 function revealTournament(r){
  if(!tournaments.has(r.code)||r.phase!=='question')return;clearTimeout(r.timer);r.phase='reveal';const q=r.deck[r.index];
- broadcast(r,{type:'v4t:reveal',correct:r.order.indexOf(q.answer),answer:q.options[q.answer],scores:r.active.map(p=>({name:p.acc.nickname,score:p.points}))});r.index++;r.timer=setTimeout(()=>nextTournament(r),1400);
+ broadcast(r,{type:'v4t:reveal',correct:r.order.indexOf(q.answer),answer:q.options[q.answer],explanation:q.explanation||'',scores:r.active.map(p=>({name:p.acc.nickname,score:p.points}))});r.index++;r.timer=setTimeout(()=>nextTournament(r),1400);
 }
 async function finishTournament(r,winner){
  if(!tournaments.has(r.code))return;r.phase='finished';clearTimeout(r.timer);
  broadcast(r,{type:'v4t:round_end',bracket:r.history,standings:standingsPayload(r),champion:winner.acc.nickname,finished:true});
+ await insights403.award(winner.acc.id,'campione-torneo');
  if(ready){try{await db.query('INSERT INTO fl_v4_tournaments(id,winner_id,winner_name,player_count) VALUES($1,$2,$3,$4) ON CONFLICT DO NOTHING',[r.id,key(winner.acc.id),winner.acc.nickname,r.size])}catch(e){console.error('Torneo salva:',e.message)}}
 }
 async function finishTournamentRound(r){
