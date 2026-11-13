@@ -103,7 +103,7 @@ const httpServer=http.createServer((req,res)=>{
  if(pathname==='/api/leaderboard/status'){res.writeHead(200,{'Content-Type':'application/json; charset=utf-8','Cache-Control':'no-store'});return res.end(JSON.stringify(ranking.status()))}
  if(pathname==='/api/leaderboard'){res.writeHead(200,{'Content-Type':'application/json; charset=utf-8','Cache-Control':'no-store'});return ranking.leaderboard(30).then(rows=>res.end(JSON.stringify({status:ranking.status(),players:rows}))).catch(e=>res.end(JSON.stringify({status:{...ranking.status(),ready:false},players:[]})))}
  if(pathname==='/api/topics'){res.writeHead(200,{'Content-Type':'application/json; charset=utf-8','Cache-Control':'no-store'});return res.end(JSON.stringify({groups:topicFilters.counts(questions),available:questions.length}));}
- if(pathname==='/api/version'){res.writeHead(200,{'Content-Type':'application/json; charset=utf-8','Cache-Control':'no-store'});return res.end(JSON.stringify({version:'4.0.5',game:'Football Legends Ultimate Edition',state:bankStatus.state,questions:bankStatus.count}))}
+ if(pathname==='/api/version'){res.writeHead(200,{'Content-Type':'application/json; charset=utf-8','Cache-Control':'no-store'});return res.end(JSON.stringify({version:'4.0.6',game:'Football Legends Ultimate Edition',state:bankStatus.state,questions:bankStatus.count}))}
  if(pathname==='/api/status'){res.writeHead(200,{'Content-Type':'application/json; charset=utf-8','Cache-Control':'no-store'});return res.end(JSON.stringify(bankStatus))}
  // File immagine locali: serviti dal server Node.js con percorso ristretto e tipo MIME corretto.
  if(/^\/assets\/categories\/[a-z0-9-]+\.webp$/.test(pathname)){

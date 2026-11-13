@@ -51,3 +51,31 @@ header .brand{font-size:19px;letter-spacing:3px;font-weight:950}header .brand b{
 .fl-elo-help summary{cursor:pointer;font-weight:800;font-size:13px;color:#c3e7f5;list-style-position:inside}
 .fl-elo-help summary:hover,.fl-elo-help summary:focus-visible{color:#fff}
 .fl-elo-help p{font-size:13px;line-height:1.65;color:#dbe6ec;margin:9px 0 3px}
+
+/* V4.0.6: visible play actions on desktop without scrolling */
+#home .hero{min-height:0!important;padding:30px clamp(22px,4vw,55px) 27px!important}
+#home .hero h1{font-size:clamp(42px,5.3vw,73px)!important;line-height:0.98!important;margin:12px 0 14px!important;max-width:850px}
+#home .hero p{font-size:clamp(13px,1.2vw,15px)!important;line-height:1.42!important;margin:0 0 10px!important;max-width:640px}
+#home .hero .v41-live-tag{margin:3px 0!important;padding:6px 10px!important;font-size:10px!important}
+#home .hero .release-line{margin-top:9px!important;font-size:10px!important}
+#home .hero .fl-hero-shortcuts{margin:10px 0 8px!important;gap:8px}
+#home .hero .fl-hero-shortcuts button{padding:11px 15px!important;font-size:12px!important}
+#home .fl-ticker{margin:9px 0 0!important;padding:9px 14px!important}
+#home .fl-section-head{margin:14px 0 10px!important}
+#home .mode{min-height:154px!important;padding:18px 20px!important}
+#home .mode .emoji{font-size:30px!important}
+#home .mode strong{margin-top:13px!important;font-size:19px!important}
+#home .modes{gap:11px!important}
+@media(max-width:610px){#home .hero{padding:22px 18px!important}#home .hero h1{font-size:clamp(39px,11vw,55px)!important}#home .modes{grid-template-columns:1fr}#home .mode{min-height:126px!important}}
+/* Game compact enough for long questions with three answers. */
+#game{padding-top:24px!important;padding-bottom:25px!important}
+#game .question{font-size:clamp(23px,2.7vw,34px)!important;line-height:1.18!important;margin:13px 0 15px!important;overflow-wrap:break-word}
+#game .answer{min-height:54px!important;padding:10px 14px!important;font-size:clamp(14px,1.4vw,17px)!important}
+#game .answers{gap:8px!important}
+#game .fl406-score-strip{position:sticky;top:8px;z-index:40;display:flex;align-items:center;gap:9px;padding:7px 11px;margin:8px 0;border:1px solid #e6c27b88;border-radius:12px;background:#0a1b2af5;color:#fff3d2;box-shadow:0 8px 22px #0008;max-width:100%;min-height:43px;overflow-x:auto;scrollbar-width:thin}
+#game .fl406-score-title{font-size:10px;letter-spacing:1px;color:#edca84;font-weight:950;white-space:nowrap}
+#game .fl406-score-entry{display:inline-flex;align-items:center;gap:6px;white-space:nowrap;background:#23354b;border:1px solid #4d647c;border-radius:7px;padding:5px 8px;font-size:12px;font-weight:700}
+#game .fl406-score-entry strong{color:#f7d68e;font-variant-numeric:tabular-nums}
+#game #scoreboard{display:none!important}
+#game .fl406-score-strip[hidden]{display:none!important}
+@media(max-height:780px){#game{padding:15px 20px!important}#game .question{font-size:clamp(20px,2.2vw,29px)!important;margin:8px 0 10px!important}#game .answer{min-height:47px!important;padding:7px 11px!important}#game .fl406-score-strip{padding:5px 8px}}

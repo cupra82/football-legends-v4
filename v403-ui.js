@@ -55,13 +55,27 @@
  const historyBody=el('div');historyPanel.append(historyBody);
  const resultList=document.getElementById('resultsList');resultList?.insertAdjacentElement('afterend',historyPanel);
  function displayHistory(){if(!resultList)return;historyBody.replaceChildren();historyPanel.hidden=almanacHistory.length===0;
-  for(const item of almanacHistory){const c=el('div','fl403-card');appendText(c,'strong',item.question);appendText(c,'p','✅ '+item.answer);appendText(c,'p',item.explanation||'Nessuna spiegazione disponibile.','fl403-muted');
+  for(const item of almanacHistory){const c=el('div','fl403-card');appendText(c,'strong',item.question);appendText(c,'p','✅ '+item.answer);if(item.explanation)appendText(c,'p',item.explanation,'fl403-muted');
    historyBody.append(c)}
  }
  function resetTools(q){active=q;toolbox.replaceChildren();almanac.hidden=true;report.hidden=true;report.replaceChildren()}
+ // Generic encyclopedic answers often restate the question verbatim. Hide them, but keep substantive context.
+ function usefulHistoricalNote(question,answer,description){
+  let t=String(description||'').trim();if(!t)return '';
+  const clean=v=>String(v||'').toLowerCase().normalize('NFD').replace(/[\u0300-\u036f]/g,'').replace(/[^a-z0-9]+/g,' ').trim();
+  const q=clean(question),a=clean(answer),e=clean(t);
+  if(!e||e===a||e==='risposta '+a)return '';
+  // For repetitive archive templates, the answer is the only new fact.
+  if(/^(nel registro dei profili|secondo wikidata|dai dati wikidata|risposta:)/i.test(t))return '';
+  const words=val=>new Set(val.split(' ').filter(w=>w.length>=4));
+  const qw=words(q), ew=words(e);const shared=[...ew].filter(w=>qw.has(w)).length;
+  const evidence=ew.size?shared/ew.size:0;
+  if(a&&e.includes(a)&&e.length<170&&(evidence>=0.35||ew.size<=12))return '';
+  return t;
+ }
  const almanacButton=button('📖 Almanacco della risposta',()=>{almanac.hidden=!almanac.hidden});
  const reportButton=button('🚩 Segnala domanda',()=>{report.hidden=!report.hidden});
- function showTools(q,correctText,explanation){if(!q||!feedback)return;active=q;const last=almanacHistory[almanacHistory.length-1];if(!last||last.question!==q.question){almanacHistory.push({question:q.question,answer:correctText||'',explanation:explanation||'',source:q.source||null});if(almanacHistory.length>30)almanacHistory.shift()}toolbox.replaceChildren();toolbox.append(almanacButton,reportButton);almanac.hidden=false;almanac.replaceChildren();appendText(almanac,'strong','📖 Lo sapevi?');appendText(almanac,'p',explanation||'Questa domanda non dispone ancora di una spiegazione storica verificata.');if(correctText)appendText(almanac,'p','Risposta: '+correctText);
+ function showTools(q,correctText,explanation){if(!q||!feedback)return;active=q;const note=usefulHistoricalNote(q.question,correctText,explanation);const last=almanacHistory[almanacHistory.length-1];if(!last||last.question!==q.question){almanacHistory.push({question:q.question,answer:correctText||'',explanation:note,source:null});if(almanacHistory.length>30)almanacHistory.shift()}else{last.answer=correctText||last.answer;last.explanation=note;}toolbox.replaceChildren();if(note)toolbox.append(almanacButton);toolbox.append(reportButton);almanac.hidden=!note;almanac.replaceChildren();if(note){appendText(almanac,'strong','📖 Lo sapevi?');appendText(almanac,'p',note);} 
  }
  function showReport(){if(!active)return;report.replaceChildren();appendText(report,'strong','Segnala un problema con questa domanda');appendText(report,'p','La segnalazione non cambia il risultato della partita. Serve un nickname registrato in Arena.','fl403-muted');const select=el('select');for(const [v,t] of [['errata','Risposta errata'],['ambigua','Domanda ambigua'],['duplicata','Domanda ripetuta'],['altro','Altro problema']]){const o=el('option','',t);o.value=v;select.append(o)}report.append(select);const note=el('textarea');note.placeholder='Dettagli (facoltativo, massimo 500 caratteri)';note.maxLength=500;note.rows=2;report.append(note);const msg=el('p','fl403-muted');report.append(button('Invia segnalazione',async()=>{const a=typeof getAccount==='function'?getAccount():null;if(!a?.token){msg.textContent='Registra prima un nickname nella sezione Arena online.';return}try{const d=await request('report',{token:a.token,questionId:String(active.id||active.question).slice(0,160),reason:select.value,comment:note.value});msg.textContent='✅ '+d.message}catch(e){msg.textContent='⚠️ '+e.message}}));report.append(msg)}
  reportButton.addEventListener('click',()=>{if(!report.hidden)showReport()});
