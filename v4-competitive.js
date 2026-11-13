@@ -5,6 +5,7 @@ const {Pool}=require('pg');
 const WebSocket=require('ws');
 const formats=require('./tournament-formats');
 const insights403=require('./v403-insights');
+const quality407=require('./fl407-quality');
 let ctx,db=null,ready=false;const rush=new Map(),tournaments=new Map(),sockets=new Map();
 const isId=x=>typeof x==='string'&&/^[0-9a-f]{32}$/i.test(x);
 const key=x=>crypto.createHash('sha256').update(x.toLowerCase()).digest('hex');
@@ -53,7 +54,7 @@ async function handleHttp(req,res,pathname){
    const pool=bank().filter(q=>ctx.topics.matches(category,q));if(pool.length<12)return reply(res,400,{error:'Categoria con meno di 12 domande: scegli Mix totale.'});
    // In-memory sessions are intentional: a Render restart cancels a running Rush but cannot corrupt scores.
    for(const [k,v] of rush)if(v.acc.id===acc.id)rush.delete(k);
-   const id=crypto.randomUUID(),deck=shuffle(pool).slice(0,Math.min(180,pool.length));
+   const id=crypto.randomUUID(),deck=quality407.select(pool,Math.min(180,pool.length));
    const state={id,acc,deck,index:0,score:0,correct:0,combo:0,expires:Date.now()+seconds*1000,answered:false,finished:false,seconds};rush.set(id,state);
    return reply(res,200,{session:id,expires:state.expires,seconds,score:0,correct:0,question:rushQuestion(state)});
   }
@@ -111,7 +112,7 @@ function startWave(r,matches,byes=[]){
  if(!tournaments.has(r.code))return;
  clearTimeout(r.timer);r.matches=matches;r.byes=byes;r.active=[...new Set(matches.flat())];r.round++;
  for(const p of r.players){p.active=r.active.includes(p);p.points=0;p.correct=0;p.elapsed=0}
- r.deck=shuffle(bank()).slice(0,r.total);if(r.deck.length<r.total){broadcast(r,{type:'v4t:error',message:'Domande insufficienti per il torneo.'});tournaments.delete(r.code);return}
+ r.deck=quality407.select(bank(),r.total);if(r.deck.length<r.total){broadcast(r,{type:'v4t:error',message:'Domande insufficienti per il torneo.'});tournaments.delete(r.code);return}
  r.index=0;r.phase='round';broadcast(r,{type:'v4t:round',round:r.round,stage:r.stage,total:r.total,pairs:matches.map(([a,b])=>[a.acc.nickname,b.acc.nickname]),byes:byes.map(p=>p.acc.nickname),standings:standingsPayload(r)});
  nextTournament(r);
 }
