@@ -1,8 +1,8 @@
 {
   "name": "football-legends-v4-lab",
-  "version": "4.0.2",
+  "version": "4.0.4",
   "private": true,
-  "description": "Football Legends 4.0.2 Ultimate Edition — desktop multiplayer, tournaments, Ranked, Rush, historical archive",
+  "description": "Football Legends 4.0.4 Ultimate Edition — Stadium Experience desktop",
   "scripts": {
     "start": "node server.js",
     "check:release": "node scripts/release-preflight.js",
