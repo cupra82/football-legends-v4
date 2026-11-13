@@ -2,7 +2,7 @@
 
 Versione generatore: **3.3.4**
 
-Totale sorgenti lette: **36360** · Domande valide, uniche e giocabili: **36294**
+Totale sorgenti lette: **36370** · Domande valide, uniche e giocabili: **36304**
 
 Filtrate per tipo non desiderato: **6** · Duplicati: **60** · Non valide: **0**
 
@@ -10,11 +10,11 @@ Filtrate per tipo non desiderato: **6** · Duplicati: **60** · Non valide: **0*
 
 | Gruppo | Categoria | Disponibili | Obiettivo | Mancanti | Esito |
 |---|---|---:|---:|---:|---|
-| Campionati | Serie A | 142 | 2000 | 1858 | Da ampliare |
-| Campionati | Premier League | 186 | 2000 | 1814 | Da ampliare |
-| Campionati | La Liga | 155 | 2000 | 1845 | Da ampliare |
-| Campionati | Bundesliga | 179 | 2000 | 1821 | Da ampliare |
-| Campionati | Ligue 1 | 113 | 2000 | 1887 | Da ampliare |
+| Campionati | Serie A | 153 | 2000 | 1847 | Da ampliare |
+| Campionati | Premier League | 200 | 2000 | 1800 | Da ampliare |
+| Campionati | La Liga | 167 | 2000 | 1833 | Da ampliare |
+| Campionati | Bundesliga | 193 | 2000 | 1807 | Da ampliare |
+| Campionati | Ligue 1 | 123 | 2000 | 1877 | Da ampliare |
 | Campionati | Primeira Liga portoghese | 188 | 2000 | 1812 | Da ampliare |
 | Campionati | Campionato svizzero | 12 | 2000 | 1988 | Da ampliare |
 | Campionati | Challenge League svizzera | 0 | 2000 | 2000 | Da ampliare |
@@ -33,13 +33,13 @@ Filtrate per tipo non desiderato: **6** · Duplicati: **60** · Non valide: **0*
 | Protagonisti e storia | Calciatori leggendari | 51 | 2000 | 1949 | Da ampliare |
 | Protagonisti e storia | Leggende | 12 | 2000 | 1988 | Da ampliare |
 | Protagonisti e storia | Leggende del calcio | 225 | 2000 | 1775 | Da ampliare |
-| Protagonisti e storia | Allenatori e tecnici | 699 | 2000 | 1301 | Da ampliare |
+| Protagonisti e storia | Allenatori e tecnici | 716 | 2000 | 1284 | Da ampliare |
 | Protagonisti e storia | Allenatori storici | 84 | 2000 | 1916 | Da ampliare |
 | Protagonisti e storia | Nazionale italiana | 6 | 2000 | 1994 | Da ampliare |
-| Altro | Stadi leggendari | 405 | 2000 | 1595 | Da ampliare |
+| Altro | Stadi leggendari | 310 | 2000 | 1690 | Da ampliare |
 | Altro | Curiosità | 10 | 2000 | 1990 | Da ampliare |
 | Altro | Derby e rivalità | 174 | 2000 | 1826 | Da ampliare |
-| Altro | Grandi club | 0 | 2000 | 2000 | Da ampliare |
+| Altro | Grandi club | 27 | 2000 | 1973 | Da ampliare |
 | Altro | Europa | 10 | 2000 | 1990 | Da ampliare |
 | Categorie aggiuntive | 2. Bundesliga tedesca | 133 | 2000 | 1867 | Da ampliare |
 | Categorie aggiuntive | Eredivisie olandese | 67 | 2000 | 1933 | Da ampliare |
@@ -64,7 +64,10 @@ Filtrate per tipo non desiderato: **6** · Duplicati: **60** · Non valide: **0*
 - competition-history-generated.json: 805 elementi
 - european-cups-generated.json: 431 elementi
 - themed-generated.json: 431 elementi
-- stadiums-wikidata-generated.json: 123 elementi
+- stadiums-wikidata-generated.json: 0 elementi
+- famous-careers-generated.json: 0 elementi
+- world-v410-generated.json: 72 elementi
+- v410-champions-generated.json: 61 elementi
 
 ## Criterio di qualità
 

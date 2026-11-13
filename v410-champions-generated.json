@@ -1,0 +1,986 @@
+{
+  "stats": {
+    "newQuestions": 61,
+    "total": 61,
+    "successfulSeasons": 61,
+    "missingOrIncomplete": 14
+  },
+  "questions": [
+    {
+      "id": "v410-title-20d99b7affb5e1f948",
+      "category": "Premier League",
+      "kind": "Albo d’oro campionati",
+      "difficulty": 2,
+      "question": "Chi ha conquistato la Premier League nella stagione 2010-11?",
+      "options": [
+        "Chelsea FC",
+        "Manchester City",
+        "Manchester United"
+      ],
+      "answer": 2,
+      "explanation": "La classifica finale ricostruita dai risultati stagionali registra Manchester United al primo posto della Premier League 2010-11.",
+      "source": "https://raw.githubusercontent.com/openfootball/football.json/master/2010-11/en.1.json",
+      "sourceName": "OpenFootball Football.JSON CC0"
+    },
+    {
+      "id": "v410-title-d731cecdf6c4ea1ee6",
+      "category": "Bundesliga",
+      "kind": "Albo d’oro campionati",
+      "difficulty": 2,
+      "question": "Chi ha conquistato la Bundesliga nella stagione 2010-11?",
+      "options": [
+        "Borussia Dortmund",
+        "Bayer Leverkusen",
+        "Bayern München"
+      ],
+      "answer": 0,
+      "explanation": "La classifica finale ricostruita dai risultati stagionali registra Borussia Dortmund al primo posto della Bundesliga 2010-11.",
+      "source": "https://raw.githubusercontent.com/openfootball/football.json/master/2010-11/de.1.json",
+      "sourceName": "OpenFootball Football.JSON CC0"
+    },
+    {
+      "id": "v410-title-e402a795bf06686c32",
+      "category": "Bundesliga",
+      "kind": "Albo d’oro campionati",
+      "difficulty": 2,
+      "question": "Chi ha conquistato la Bundesliga nella stagione 2011-12?",
+      "options": [
+        "Bayern München",
+        "Borussia Dortmund",
+        "FC Schalke 04"
+      ],
+      "answer": 1,
+      "explanation": "La classifica finale ricostruita dai risultati stagionali registra Borussia Dortmund al primo posto della Bundesliga 2011-12.",
+      "source": "https://raw.githubusercontent.com/openfootball/football.json/master/2011-12/de.1.json",
+      "sourceName": "OpenFootball Football.JSON CC0"
+    },
+    {
+      "id": "v410-title-6f9190fa9246fa5a27",
+      "category": "Premier League",
+      "kind": "Albo d’oro campionati",
+      "difficulty": 2,
+      "question": "Chi ha conquistato la Premier League nella stagione 2012-13?",
+      "options": [
+        "Chelsea FC",
+        "Manchester City",
+        "Manchester United"
+      ],
+      "answer": 2,
+      "explanation": "La classifica finale ricostruita dai risultati stagionali registra Manchester United al primo posto della Premier League 2012-13.",
+      "source": "https://raw.githubusercontent.com/openfootball/football.json/master/2012-13/en.1.json",
+      "sourceName": "OpenFootball Football.JSON CC0"
+    },
+    {
+      "id": "v410-title-55a381fbc3581cd5a5",
+      "category": "La Liga",
+      "kind": "Albo d’oro campionati",
+      "difficulty": 2,
+      "question": "Chi ha conquistato la La Liga nella stagione 2012-13?",
+      "options": [
+        "Real Madrid",
+        "FC Barcelona",
+        "Atlético Madrid"
+      ],
+      "answer": 1,
+      "explanation": "La classifica finale ricostruita dai risultati stagionali registra FC Barcelona al primo posto della La Liga 2012-13.",
+      "source": "https://raw.githubusercontent.com/openfootball/football.json/master/2012-13/es.1.json",
+      "sourceName": "OpenFootball Football.JSON CC0"
+    },
+    {
+      "id": "v410-title-47fa29e295bc2a1408",
+      "category": "Bundesliga",
+      "kind": "Albo d’oro campionati",
+      "difficulty": 2,
+      "question": "Chi ha conquistato la Bundesliga nella stagione 2012-13?",
+      "options": [
+        "Bayern München",
+        "Borussia Dortmund",
+        "Bayer Leverkusen"
+      ],
+      "answer": 0,
+      "explanation": "La classifica finale ricostruita dai risultati stagionali registra Bayern München al primo posto della Bundesliga 2012-13.",
+      "source": "https://raw.githubusercontent.com/openfootball/football.json/master/2012-13/de.1.json",
+      "sourceName": "OpenFootball Football.JSON CC0"
+    },
+    {
+      "id": "v410-title-3404498be9c5172935",
+      "category": "Premier League",
+      "kind": "Albo d’oro campionati",
+      "difficulty": 2,
+      "question": "Chi ha conquistato la Premier League nella stagione 2013-14?",
+      "options": [
+        "Chelsea FC",
+        "Manchester City",
+        "Liverpool FC"
+      ],
+      "answer": 1,
+      "explanation": "La classifica finale ricostruita dai risultati stagionali registra Manchester City al primo posto della Premier League 2013-14.",
+      "source": "https://raw.githubusercontent.com/openfootball/football.json/master/2013-14/en.1.json",
+      "sourceName": "OpenFootball Football.JSON CC0"
+    },
+    {
+      "id": "v410-title-6f80e11aee7d9fe297",
+      "category": "Serie A",
+      "kind": "Albo d’oro campionati",
+      "difficulty": 2,
+      "question": "Chi ha conquistato la Serie A nella stagione 2013-14?",
+      "options": [
+        "Juventus",
+        "AS Roma",
+        "SSC Napoli"
+      ],
+      "answer": 0,
+      "explanation": "La classifica finale ricostruita dai risultati stagionali registra Juventus al primo posto della Serie A 2013-14.",
+      "source": "https://raw.githubusercontent.com/openfootball/football.json/master/2013-14/it.1.json",
+      "sourceName": "OpenFootball Football.JSON CC0"
+    },
+    {
+      "id": "v410-title-5ce3dde51d7c6dcae0",
+      "category": "La Liga",
+      "kind": "Albo d’oro campionati",
+      "difficulty": 2,
+      "question": "Chi ha conquistato la La Liga nella stagione 2013-14?",
+      "options": [
+        "Atlético Madrid",
+        "FC Barcelona",
+        "Real Madrid"
+      ],
+      "answer": 0,
+      "explanation": "La classifica finale ricostruita dai risultati stagionali registra Atlético Madrid al primo posto della La Liga 2013-14.",
+      "source": "https://raw.githubusercontent.com/openfootball/football.json/master/2013-14/es.1.json",
+      "sourceName": "OpenFootball Football.JSON CC0"
+    },
+    {
+      "id": "v410-title-72e83b198f1c7d2788",
+      "category": "Bundesliga",
+      "kind": "Albo d’oro campionati",
+      "difficulty": 2,
+      "question": "Chi ha conquistato la Bundesliga nella stagione 2013-14?",
+      "options": [
+        "Borussia Dortmund",
+        "Bayern München",
+        "FC Schalke 04"
+      ],
+      "answer": 1,
+      "explanation": "La classifica finale ricostruita dai risultati stagionali registra Bayern München al primo posto della Bundesliga 2013-14.",
+      "source": "https://raw.githubusercontent.com/openfootball/football.json/master/2013-14/de.1.json",
+      "sourceName": "OpenFootball Football.JSON CC0"
+    },
+    {
+      "id": "v410-title-8d5418540aa3eafad7",
+      "category": "Premier League",
+      "kind": "Albo d’oro campionati",
+      "difficulty": 2,
+      "question": "Chi ha conquistato la Premier League nella stagione 2014-15?",
+      "options": [
+        "Manchester City",
+        "Chelsea FC",
+        "Arsenal FC"
+      ],
+      "answer": 1,
+      "explanation": "La classifica finale ricostruita dai risultati stagionali registra Chelsea FC al primo posto della Premier League 2014-15.",
+      "source": "https://raw.githubusercontent.com/openfootball/football.json/master/2014-15/en.1.json",
+      "sourceName": "OpenFootball Football.JSON CC0"
+    },
+    {
+      "id": "v410-title-1980ad78dc6892ad22",
+      "category": "Serie A",
+      "kind": "Albo d’oro campionati",
+      "difficulty": 2,
+      "question": "Chi ha conquistato la Serie A nella stagione 2014-15?",
+      "options": [
+        "Juventus",
+        "AS Roma",
+        "Lazio Roma"
+      ],
+      "answer": 0,
+      "explanation": "La classifica finale ricostruita dai risultati stagionali registra Juventus al primo posto della Serie A 2014-15.",
+      "source": "https://raw.githubusercontent.com/openfootball/football.json/master/2014-15/it.1.json",
+      "sourceName": "OpenFootball Football.JSON CC0"
+    },
+    {
+      "id": "v410-title-5be35d45a1737b0220",
+      "category": "La Liga",
+      "kind": "Albo d’oro campionati",
+      "difficulty": 2,
+      "question": "Chi ha conquistato la La Liga nella stagione 2014-15?",
+      "options": [
+        "Atlético Madrid",
+        "Real Madrid",
+        "FC Barcelona"
+      ],
+      "answer": 2,
+      "explanation": "La classifica finale ricostruita dai risultati stagionali registra FC Barcelona al primo posto della La Liga 2014-15.",
+      "source": "https://raw.githubusercontent.com/openfootball/football.json/master/2014-15/es.1.json",
+      "sourceName": "OpenFootball Football.JSON CC0"
+    },
+    {
+      "id": "v410-title-6e3a1356292f68e783",
+      "category": "Bundesliga",
+      "kind": "Albo d’oro campionati",
+      "difficulty": 2,
+      "question": "Chi ha conquistato la Bundesliga nella stagione 2014-15?",
+      "options": [
+        "VfL Wolfsburg",
+        "Bor. Mönchengladbach",
+        "Bayern München"
+      ],
+      "answer": 2,
+      "explanation": "La classifica finale ricostruita dai risultati stagionali registra Bayern München al primo posto della Bundesliga 2014-15.",
+      "source": "https://raw.githubusercontent.com/openfootball/football.json/master/2014-15/de.1.json",
+      "sourceName": "OpenFootball Football.JSON CC0"
+    },
+    {
+      "id": "v410-title-85fd02d4bd2234e4a7",
+      "category": "Ligue 1",
+      "kind": "Albo d’oro campionati",
+      "difficulty": 2,
+      "question": "Chi ha conquistato la Ligue 1 nella stagione 2014-15?",
+      "options": [
+        "AS Monaco",
+        "Paris Saint-Germain",
+        "Olympique Lyonnais"
+      ],
+      "answer": 1,
+      "explanation": "La classifica finale ricostruita dai risultati stagionali registra Paris Saint-Germain al primo posto della Ligue 1 2014-15.",
+      "source": "https://raw.githubusercontent.com/openfootball/football.json/master/2014-15/fr.1.json",
+      "sourceName": "OpenFootball Football.JSON CC0"
+    },
+    {
+      "id": "v410-title-5cb0bd283a84877eab",
+      "category": "Premier League",
+      "kind": "Albo d’oro campionati",
+      "difficulty": 2,
+      "question": "Chi ha conquistato la Premier League nella stagione 2015-16?",
+      "options": [
+        "Tottenham Hotspur",
+        "Arsenal FC",
+        "Leicester City"
+      ],
+      "answer": 2,
+      "explanation": "La classifica finale ricostruita dai risultati stagionali registra Leicester City al primo posto della Premier League 2015-16.",
+      "source": "https://raw.githubusercontent.com/openfootball/football.json/master/2015-16/en.1.json",
+      "sourceName": "OpenFootball Football.JSON CC0"
+    },
+    {
+      "id": "v410-title-ad7717b989a29f0262",
+      "category": "Serie A",
+      "kind": "Albo d’oro campionati",
+      "difficulty": 2,
+      "question": "Chi ha conquistato la Serie A nella stagione 2015-16?",
+      "options": [
+        "AS Roma",
+        "Juventus",
+        "SSC Napoli"
+      ],
+      "answer": 1,
+      "explanation": "La classifica finale ricostruita dai risultati stagionali registra Juventus al primo posto della Serie A 2015-16.",
+      "source": "https://raw.githubusercontent.com/openfootball/football.json/master/2015-16/it.1.json",
+      "sourceName": "OpenFootball Football.JSON CC0"
+    },
+    {
+      "id": "v410-title-4847cf9bb5c8aad1fb",
+      "category": "La Liga",
+      "kind": "Albo d’oro campionati",
+      "difficulty": 2,
+      "question": "Chi ha conquistato la La Liga nella stagione 2015-16?",
+      "options": [
+        "Real Madrid",
+        "FC Barcelona",
+        "Atlético Madrid"
+      ],
+      "answer": 1,
+      "explanation": "La classifica finale ricostruita dai risultati stagionali registra FC Barcelona al primo posto della La Liga 2015-16.",
+      "source": "https://raw.githubusercontent.com/openfootball/football.json/master/2015-16/es.1.json",
+      "sourceName": "OpenFootball Football.JSON CC0"
+    },
+    {
+      "id": "v410-title-7113353c87eb8ab2bc",
+      "category": "Bundesliga",
+      "kind": "Albo d’oro campionati",
+      "difficulty": 2,
+      "question": "Chi ha conquistato la Bundesliga nella stagione 2015-16?",
+      "options": [
+        "Borussia Dortmund",
+        "Bayer Leverkusen",
+        "Bayern München"
+      ],
+      "answer": 2,
+      "explanation": "La classifica finale ricostruita dai risultati stagionali registra Bayern München al primo posto della Bundesliga 2015-16.",
+      "source": "https://raw.githubusercontent.com/openfootball/football.json/master/2015-16/de.1.json",
+      "sourceName": "OpenFootball Football.JSON CC0"
+    },
+    {
+      "id": "v410-title-6df4f80c2068ac90ff",
+      "category": "Ligue 1",
+      "kind": "Albo d’oro campionati",
+      "difficulty": 2,
+      "question": "Chi ha conquistato la Ligue 1 nella stagione 2015-16?",
+      "options": [
+        "Olympique Lyonnais",
+        "Paris Saint-Germain",
+        "AS Monaco"
+      ],
+      "answer": 1,
+      "explanation": "La classifica finale ricostruita dai risultati stagionali registra Paris Saint-Germain al primo posto della Ligue 1 2015-16.",
+      "source": "https://raw.githubusercontent.com/openfootball/football.json/master/2015-16/fr.1.json",
+      "sourceName": "OpenFootball Football.JSON CC0"
+    },
+    {
+      "id": "v410-title-42b2df2732c7e3ff83",
+      "category": "Premier League",
+      "kind": "Albo d’oro campionati",
+      "difficulty": 2,
+      "question": "Chi ha conquistato la Premier League nella stagione 2016-17?",
+      "options": [
+        "Chelsea FC",
+        "Manchester City",
+        "Tottenham Hotspur"
+      ],
+      "answer": 0,
+      "explanation": "La classifica finale ricostruita dai risultati stagionali registra Chelsea FC al primo posto della Premier League 2016-17.",
+      "source": "https://raw.githubusercontent.com/openfootball/football.json/master/2016-17/en.1.json",
+      "sourceName": "OpenFootball Football.JSON CC0"
+    },
+    {
+      "id": "v410-title-39bb0a20ebe08e24b2",
+      "category": "Serie A",
+      "kind": "Albo d’oro campionati",
+      "difficulty": 2,
+      "question": "Chi ha conquistato la Serie A nella stagione 2016-17?",
+      "options": [
+        "AS Roma",
+        "SSC Napoli",
+        "Juventus"
+      ],
+      "answer": 2,
+      "explanation": "La classifica finale ricostruita dai risultati stagionali registra Juventus al primo posto della Serie A 2016-17.",
+      "source": "https://raw.githubusercontent.com/openfootball/football.json/master/2016-17/it.1.json",
+      "sourceName": "OpenFootball Football.JSON CC0"
+    },
+    {
+      "id": "v410-title-489ec8ca139022cfa2",
+      "category": "La Liga",
+      "kind": "Albo d’oro campionati",
+      "difficulty": 2,
+      "question": "Chi ha conquistato la La Liga nella stagione 2016-17?",
+      "options": [
+        "FC Barcelona",
+        "Real Madrid",
+        "Atlético Madrid"
+      ],
+      "answer": 1,
+      "explanation": "La classifica finale ricostruita dai risultati stagionali registra Real Madrid al primo posto della La Liga 2016-17.",
+      "source": "https://raw.githubusercontent.com/openfootball/football.json/master/2016-17/es.1.json",
+      "sourceName": "OpenFootball Football.JSON CC0"
+    },
+    {
+      "id": "v410-title-d18ee6790fb1736767",
+      "category": "Bundesliga",
+      "kind": "Albo d’oro campionati",
+      "difficulty": 2,
+      "question": "Chi ha conquistato la Bundesliga nella stagione 2016-17?",
+      "options": [
+        "RB Leipzig",
+        "Borussia Dortmund",
+        "Bayern München"
+      ],
+      "answer": 2,
+      "explanation": "La classifica finale ricostruita dai risultati stagionali registra Bayern München al primo posto della Bundesliga 2016-17.",
+      "source": "https://raw.githubusercontent.com/openfootball/football.json/master/2016-17/de.1.json",
+      "sourceName": "OpenFootball Football.JSON CC0"
+    },
+    {
+      "id": "v410-title-8c2d20d7de4115e275",
+      "category": "Ligue 1",
+      "kind": "Albo d’oro campionati",
+      "difficulty": 2,
+      "question": "Chi ha conquistato la Ligue 1 nella stagione 2016-17?",
+      "options": [
+        "Paris Saint-Germain",
+        "OGC Nice",
+        "AS Monaco"
+      ],
+      "answer": 2,
+      "explanation": "La classifica finale ricostruita dai risultati stagionali registra AS Monaco al primo posto della Ligue 1 2016-17.",
+      "source": "https://raw.githubusercontent.com/openfootball/football.json/master/2016-17/fr.1.json",
+      "sourceName": "OpenFootball Football.JSON CC0"
+    },
+    {
+      "id": "v410-title-0a472d64f5d48badf1",
+      "category": "Premier League",
+      "kind": "Albo d’oro campionati",
+      "difficulty": 2,
+      "question": "Chi ha conquistato la Premier League nella stagione 2017-18?",
+      "options": [
+        "Tottenham Hotspur",
+        "Manchester United",
+        "Manchester City"
+      ],
+      "answer": 2,
+      "explanation": "La classifica finale ricostruita dai risultati stagionali registra Manchester City al primo posto della Premier League 2017-18.",
+      "source": "https://raw.githubusercontent.com/openfootball/football.json/master/2017-18/en.1.json",
+      "sourceName": "OpenFootball Football.JSON CC0"
+    },
+    {
+      "id": "v410-title-4abc4b69dc6b9fc882",
+      "category": "Serie A",
+      "kind": "Albo d’oro campionati",
+      "difficulty": 2,
+      "question": "Chi ha conquistato la Serie A nella stagione 2017-18?",
+      "options": [
+        "SSC Napoli",
+        "AS Roma",
+        "Juventus"
+      ],
+      "answer": 2,
+      "explanation": "La classifica finale ricostruita dai risultati stagionali registra Juventus al primo posto della Serie A 2017-18.",
+      "source": "https://raw.githubusercontent.com/openfootball/football.json/master/2017-18/it.1.json",
+      "sourceName": "OpenFootball Football.JSON CC0"
+    },
+    {
+      "id": "v410-title-8f7f66607296afa46d",
+      "category": "La Liga",
+      "kind": "Albo d’oro campionati",
+      "difficulty": 2,
+      "question": "Chi ha conquistato la La Liga nella stagione 2017-18?",
+      "options": [
+        "Real Madrid",
+        "Atlético Madrid",
+        "FC Barcelona"
+      ],
+      "answer": 2,
+      "explanation": "La classifica finale ricostruita dai risultati stagionali registra FC Barcelona al primo posto della La Liga 2017-18.",
+      "source": "https://raw.githubusercontent.com/openfootball/football.json/master/2017-18/es.1.json",
+      "sourceName": "OpenFootball Football.JSON CC0"
+    },
+    {
+      "id": "v410-title-523ed33b03fb698dd0",
+      "category": "Bundesliga",
+      "kind": "Albo d’oro campionati",
+      "difficulty": 2,
+      "question": "Chi ha conquistato la Bundesliga nella stagione 2017-18?",
+      "options": [
+        "FC Schalke 04",
+        "Bayern München",
+        "Bayer Leverkusen"
+      ],
+      "answer": 1,
+      "explanation": "La classifica finale ricostruita dai risultati stagionali registra Bayern München al primo posto della Bundesliga 2017-18.",
+      "source": "https://raw.githubusercontent.com/openfootball/football.json/master/2017-18/de.1.json",
+      "sourceName": "OpenFootball Football.JSON CC0"
+    },
+    {
+      "id": "v410-title-f577911aa632b65e4a",
+      "category": "Ligue 1",
+      "kind": "Albo d’oro campionati",
+      "difficulty": 2,
+      "question": "Chi ha conquistato la Ligue 1 nella stagione 2017-18?",
+      "options": [
+        "Olympique Lyonnais",
+        "Paris Saint-Germain",
+        "AS Monaco"
+      ],
+      "answer": 1,
+      "explanation": "La classifica finale ricostruita dai risultati stagionali registra Paris Saint-Germain al primo posto della Ligue 1 2017-18.",
+      "source": "https://raw.githubusercontent.com/openfootball/football.json/master/2017-18/fr.1.json",
+      "sourceName": "OpenFootball Football.JSON CC0"
+    },
+    {
+      "id": "v410-title-1814fb3951555a741d",
+      "category": "Premier League",
+      "kind": "Albo d’oro campionati",
+      "difficulty": 2,
+      "question": "Chi ha conquistato la Premier League nella stagione 2018-19?",
+      "options": [
+        "Chelsea FC",
+        "Manchester City",
+        "Liverpool FC"
+      ],
+      "answer": 1,
+      "explanation": "La classifica finale ricostruita dai risultati stagionali registra Manchester City al primo posto della Premier League 2018-19.",
+      "source": "https://raw.githubusercontent.com/openfootball/football.json/master/2018-19/en.1.json",
+      "sourceName": "OpenFootball Football.JSON CC0"
+    },
+    {
+      "id": "v410-title-c3ab48a25127353f7a",
+      "category": "Serie A",
+      "kind": "Albo d’oro campionati",
+      "difficulty": 2,
+      "question": "Chi ha conquistato la Serie A nella stagione 2018-19?",
+      "options": [
+        "Inter",
+        "SSC Napoli",
+        "Juventus"
+      ],
+      "answer": 2,
+      "explanation": "La classifica finale ricostruita dai risultati stagionali registra Juventus al primo posto della Serie A 2018-19.",
+      "source": "https://raw.githubusercontent.com/openfootball/football.json/master/2018-19/it.1.json",
+      "sourceName": "OpenFootball Football.JSON CC0"
+    },
+    {
+      "id": "v410-title-113e9ee8a6bb468b31",
+      "category": "La Liga",
+      "kind": "Albo d’oro campionati",
+      "difficulty": 2,
+      "question": "Chi ha conquistato la La Liga nella stagione 2018-19?",
+      "options": [
+        "Atlético Madrid",
+        "Real Madrid",
+        "FC Barcelona"
+      ],
+      "answer": 2,
+      "explanation": "La classifica finale ricostruita dai risultati stagionali registra FC Barcelona al primo posto della La Liga 2018-19.",
+      "source": "https://raw.githubusercontent.com/openfootball/football.json/master/2018-19/es.1.json",
+      "sourceName": "OpenFootball Football.JSON CC0"
+    },
+    {
+      "id": "v410-title-a5074c06bef8e079bf",
+      "category": "Bundesliga",
+      "kind": "Albo d’oro campionati",
+      "difficulty": 2,
+      "question": "Chi ha conquistato la Bundesliga nella stagione 2018-19?",
+      "options": [
+        "RB Leipzig",
+        "Borussia Dortmund",
+        "Bayern München"
+      ],
+      "answer": 2,
+      "explanation": "La classifica finale ricostruita dai risultati stagionali registra Bayern München al primo posto della Bundesliga 2018-19.",
+      "source": "https://raw.githubusercontent.com/openfootball/football.json/master/2018-19/de.1.json",
+      "sourceName": "OpenFootball Football.JSON CC0"
+    },
+    {
+      "id": "v410-title-d631c66a56e42dbf7e",
+      "category": "Ligue 1",
+      "kind": "Albo d’oro campionati",
+      "difficulty": 2,
+      "question": "Chi ha conquistato la Ligue 1 nella stagione 2018-19?",
+      "options": [
+        "Paris Saint-Germain",
+        "Lille OSC",
+        "Olympique Lyonnais"
+      ],
+      "answer": 0,
+      "explanation": "La classifica finale ricostruita dai risultati stagionali registra Paris Saint-Germain al primo posto della Ligue 1 2018-19.",
+      "source": "https://raw.githubusercontent.com/openfootball/football.json/master/2018-19/fr.1.json",
+      "sourceName": "OpenFootball Football.JSON CC0"
+    },
+    {
+      "id": "v410-title-a74f495001bab0be5d",
+      "category": "Premier League",
+      "kind": "Albo d’oro campionati",
+      "difficulty": 2,
+      "question": "Chi ha conquistato la Premier League nella stagione 2019-20?",
+      "options": [
+        "Manchester City",
+        "Manchester United",
+        "Liverpool FC"
+      ],
+      "answer": 2,
+      "explanation": "La classifica finale ricostruita dai risultati stagionali registra Liverpool FC al primo posto della Premier League 2019-20.",
+      "source": "https://raw.githubusercontent.com/openfootball/football.json/master/2019-20/en.1.json",
+      "sourceName": "OpenFootball Football.JSON CC0"
+    },
+    {
+      "id": "v410-title-f286375cf6b41c2c02",
+      "category": "Serie A",
+      "kind": "Albo d’oro campionati",
+      "difficulty": 2,
+      "question": "Chi ha conquistato la Serie A nella stagione 2019-20?",
+      "options": [
+        "Inter",
+        "Juventus",
+        "Lazio Roma"
+      ],
+      "answer": 1,
+      "explanation": "La classifica finale ricostruita dai risultati stagionali registra Juventus al primo posto della Serie A 2019-20.",
+      "source": "https://raw.githubusercontent.com/openfootball/football.json/master/2019-20/it.1.json",
+      "sourceName": "OpenFootball Football.JSON CC0"
+    },
+    {
+      "id": "v410-title-f5e6c9cbf71a9128f7",
+      "category": "La Liga",
+      "kind": "Albo d’oro campionati",
+      "difficulty": 2,
+      "question": "Chi ha conquistato la La Liga nella stagione 2019-20?",
+      "options": [
+        "FC Barcelona",
+        "Sevilla FC",
+        "Real Madrid"
+      ],
+      "answer": 2,
+      "explanation": "La classifica finale ricostruita dai risultati stagionali registra Real Madrid al primo posto della La Liga 2019-20.",
+      "source": "https://raw.githubusercontent.com/openfootball/football.json/master/2019-20/es.1.json",
+      "sourceName": "OpenFootball Football.JSON CC0"
+    },
+    {
+      "id": "v410-title-ae0259e1c389ef4283",
+      "category": "Bundesliga",
+      "kind": "Albo d’oro campionati",
+      "difficulty": 2,
+      "question": "Chi ha conquistato la Bundesliga nella stagione 2019-20?",
+      "options": [
+        "RB Leipzig",
+        "Borussia Dortmund",
+        "Bayern München"
+      ],
+      "answer": 2,
+      "explanation": "La classifica finale ricostruita dai risultati stagionali registra Bayern München al primo posto della Bundesliga 2019-20.",
+      "source": "https://raw.githubusercontent.com/openfootball/football.json/master/2019-20/de.1.json",
+      "sourceName": "OpenFootball Football.JSON CC0"
+    },
+    {
+      "id": "v410-title-f8cd7f08694c148b4b",
+      "category": "Premier League",
+      "kind": "Albo d’oro campionati",
+      "difficulty": 2,
+      "question": "Chi ha conquistato la Premier League nella stagione 2020-21?",
+      "options": [
+        "Manchester United FC",
+        "Manchester City FC",
+        "Liverpool FC"
+      ],
+      "answer": 1,
+      "explanation": "La classifica finale ricostruita dai risultati stagionali registra Manchester City FC al primo posto della Premier League 2020-21.",
+      "source": "https://raw.githubusercontent.com/openfootball/football.json/master/2020-21/en.1.json",
+      "sourceName": "OpenFootball Football.JSON CC0"
+    },
+    {
+      "id": "v410-title-1ca65b44fdef066f5d",
+      "category": "Serie A",
+      "kind": "Albo d’oro campionati",
+      "difficulty": 2,
+      "question": "Chi ha conquistato la Serie A nella stagione 2020-21?",
+      "options": [
+        "FC Internazionale Milano",
+        "AC Milan",
+        "Juventus FC"
+      ],
+      "answer": 0,
+      "explanation": "La classifica finale ricostruita dai risultati stagionali registra FC Internazionale Milano al primo posto della Serie A 2020-21.",
+      "source": "https://raw.githubusercontent.com/openfootball/football.json/master/2020-21/it.1.json",
+      "sourceName": "OpenFootball Football.JSON CC0"
+    },
+    {
+      "id": "v410-title-8eee7e2b5f808a4efc",
+      "category": "La Liga",
+      "kind": "Albo d’oro campionati",
+      "difficulty": 2,
+      "question": "Chi ha conquistato la La Liga nella stagione 2020-21?",
+      "options": [
+        "Club Atlético de Madrid",
+        "FC Barcelona",
+        "Real Madrid CF"
+      ],
+      "answer": 0,
+      "explanation": "La classifica finale ricostruita dai risultati stagionali registra Club Atlético de Madrid al primo posto della La Liga 2020-21.",
+      "source": "https://raw.githubusercontent.com/openfootball/football.json/master/2020-21/es.1.json",
+      "sourceName": "OpenFootball Football.JSON CC0"
+    },
+    {
+      "id": "v410-title-85e1541056a89ab9cd",
+      "category": "Bundesliga",
+      "kind": "Albo d’oro campionati",
+      "difficulty": 2,
+      "question": "Chi ha conquistato la Bundesliga nella stagione 2020-21?",
+      "options": [
+        "RB Leipzig",
+        "Borussia Dortmund",
+        "FC Bayern München"
+      ],
+      "answer": 2,
+      "explanation": "La classifica finale ricostruita dai risultati stagionali registra FC Bayern München al primo posto della Bundesliga 2020-21.",
+      "source": "https://raw.githubusercontent.com/openfootball/football.json/master/2020-21/de.1.json",
+      "sourceName": "OpenFootball Football.JSON CC0"
+    },
+    {
+      "id": "v410-title-af2bcb042a6128cbec",
+      "category": "Ligue 1",
+      "kind": "Albo d’oro campionati",
+      "difficulty": 2,
+      "question": "Chi ha conquistato la Ligue 1 nella stagione 2020-21?",
+      "options": [
+        "Lille OSC",
+        "Paris Saint-Germain",
+        "AS Monaco"
+      ],
+      "answer": 0,
+      "explanation": "La classifica finale ricostruita dai risultati stagionali registra Lille OSC al primo posto della Ligue 1 2020-21.",
+      "source": "https://raw.githubusercontent.com/openfootball/football.json/master/2020-21/fr.1.json",
+      "sourceName": "OpenFootball Football.JSON CC0"
+    },
+    {
+      "id": "v410-title-781c00c4e9e25ec198",
+      "category": "Premier League",
+      "kind": "Albo d’oro campionati",
+      "difficulty": 2,
+      "question": "Chi ha conquistato la Premier League nella stagione 2021-22?",
+      "options": [
+        "Chelsea FC",
+        "Manchester City FC",
+        "Liverpool FC"
+      ],
+      "answer": 1,
+      "explanation": "La classifica finale ricostruita dai risultati stagionali registra Manchester City FC al primo posto della Premier League 2021-22.",
+      "source": "https://raw.githubusercontent.com/openfootball/football.json/master/2021-22/en.1.json",
+      "sourceName": "OpenFootball Football.JSON CC0"
+    },
+    {
+      "id": "v410-title-84c5f1d27722d122dc",
+      "category": "Serie A",
+      "kind": "Albo d’oro campionati",
+      "difficulty": 2,
+      "question": "Chi ha conquistato la Serie A nella stagione 2021-22?",
+      "options": [
+        "FC Internazionale Milano",
+        "SSC Napoli",
+        "AC Milan"
+      ],
+      "answer": 2,
+      "explanation": "La classifica finale ricostruita dai risultati stagionali registra AC Milan al primo posto della Serie A 2021-22.",
+      "source": "https://raw.githubusercontent.com/openfootball/football.json/master/2021-22/it.1.json",
+      "sourceName": "OpenFootball Football.JSON CC0"
+    },
+    {
+      "id": "v410-title-360fe78022e46e4b97",
+      "category": "La Liga",
+      "kind": "Albo d’oro campionati",
+      "difficulty": 2,
+      "question": "Chi ha conquistato la La Liga nella stagione 2021-22?",
+      "options": [
+        "Club Atlético de Madrid",
+        "Real Madrid CF",
+        "FC Barcelona"
+      ],
+      "answer": 1,
+      "explanation": "La classifica finale ricostruita dai risultati stagionali registra Real Madrid CF al primo posto della La Liga 2021-22.",
+      "source": "https://raw.githubusercontent.com/openfootball/football.json/master/2021-22/es.1.json",
+      "sourceName": "OpenFootball Football.JSON CC0"
+    },
+    {
+      "id": "v410-title-b2d912d71895a16ddc",
+      "category": "Bundesliga",
+      "kind": "Albo d’oro campionati",
+      "difficulty": 2,
+      "question": "Chi ha conquistato la Bundesliga nella stagione 2021-22?",
+      "options": [
+        "FC Bayern München",
+        "Bayer 04 Leverkusen",
+        "Borussia Dortmund"
+      ],
+      "answer": 0,
+      "explanation": "La classifica finale ricostruita dai risultati stagionali registra FC Bayern München al primo posto della Bundesliga 2021-22.",
+      "source": "https://raw.githubusercontent.com/openfootball/football.json/master/2021-22/de.1.json",
+      "sourceName": "OpenFootball Football.JSON CC0"
+    },
+    {
+      "id": "v410-title-00b8db24a6d49c702e",
+      "category": "Ligue 1",
+      "kind": "Albo d’oro campionati",
+      "difficulty": 2,
+      "question": "Chi ha conquistato la Ligue 1 nella stagione 2021-22?",
+      "options": [
+        "Paris Saint-Germain",
+        "AS Monaco",
+        "Olympique Marseille"
+      ],
+      "answer": 0,
+      "explanation": "La classifica finale ricostruita dai risultati stagionali registra Paris Saint-Germain al primo posto della Ligue 1 2021-22.",
+      "source": "https://raw.githubusercontent.com/openfootball/football.json/master/2021-22/fr.1.json",
+      "sourceName": "OpenFootball Football.JSON CC0"
+    },
+    {
+      "id": "v410-title-288fc76b7d8ccf0d54",
+      "category": "Premier League",
+      "kind": "Albo d’oro campionati",
+      "difficulty": 2,
+      "question": "Chi ha conquistato la Premier League nella stagione 2022-23?",
+      "options": [
+        "Manchester City FC",
+        "Arsenal FC",
+        "Manchester United FC"
+      ],
+      "answer": 0,
+      "explanation": "La classifica finale ricostruita dai risultati stagionali registra Manchester City FC al primo posto della Premier League 2022-23.",
+      "source": "https://raw.githubusercontent.com/openfootball/football.json/master/2022-23/en.1.json",
+      "sourceName": "OpenFootball Football.JSON CC0"
+    },
+    {
+      "id": "v410-title-f013abcad1ab13b728",
+      "category": "Serie A",
+      "kind": "Albo d’oro campionati",
+      "difficulty": 2,
+      "question": "Chi ha conquistato la Serie A nella stagione 2022-23?",
+      "options": [
+        "SS Lazio",
+        "SSC Napoli",
+        "FC Internazionale Milano"
+      ],
+      "answer": 1,
+      "explanation": "La classifica finale ricostruita dai risultati stagionali registra SSC Napoli al primo posto della Serie A 2022-23.",
+      "source": "https://raw.githubusercontent.com/openfootball/football.json/master/2022-23/it.1.json",
+      "sourceName": "OpenFootball Football.JSON CC0"
+    },
+    {
+      "id": "v410-title-def21d2fc4294c808c",
+      "category": "La Liga",
+      "kind": "Albo d’oro campionati",
+      "difficulty": 2,
+      "question": "Chi ha conquistato la La Liga nella stagione 2022-23?",
+      "options": [
+        "Club Atlético de Madrid",
+        "FC Barcelona",
+        "Real Madrid CF"
+      ],
+      "answer": 1,
+      "explanation": "La classifica finale ricostruita dai risultati stagionali registra FC Barcelona al primo posto della La Liga 2022-23.",
+      "source": "https://raw.githubusercontent.com/openfootball/football.json/master/2022-23/es.1.json",
+      "sourceName": "OpenFootball Football.JSON CC0"
+    },
+    {
+      "id": "v410-title-0955c627e09b282a38",
+      "category": "Ligue 1",
+      "kind": "Albo d’oro campionati",
+      "difficulty": 2,
+      "question": "Chi ha conquistato la Ligue 1 nella stagione 2022-23?",
+      "options": [
+        "Paris Saint-Germain",
+        "Olympique Marseille",
+        "RC Lens"
+      ],
+      "answer": 0,
+      "explanation": "La classifica finale ricostruita dai risultati stagionali registra Paris Saint-Germain al primo posto della Ligue 1 2022-23.",
+      "source": "https://raw.githubusercontent.com/openfootball/football.json/master/2022-23/fr.1.json",
+      "sourceName": "OpenFootball Football.JSON CC0"
+    },
+    {
+      "id": "v410-title-81e6da3cb375667f16",
+      "category": "Premier League",
+      "kind": "Albo d’oro campionati",
+      "difficulty": 2,
+      "question": "Chi ha conquistato la Premier League nella stagione 2023-24?",
+      "options": [
+        "Arsenal FC",
+        "Liverpool FC",
+        "Manchester City FC"
+      ],
+      "answer": 2,
+      "explanation": "La classifica finale ricostruita dai risultati stagionali registra Manchester City FC al primo posto della Premier League 2023-24.",
+      "source": "https://raw.githubusercontent.com/openfootball/football.json/master/2023-24/en.1.json",
+      "sourceName": "OpenFootball Football.JSON CC0"
+    },
+    {
+      "id": "v410-title-42ad75dbf6d999f0f1",
+      "category": "Serie A",
+      "kind": "Albo d’oro campionati",
+      "difficulty": 2,
+      "question": "Chi ha conquistato la Serie A nella stagione 2023-24?",
+      "options": [
+        "Juventus FC",
+        "FC Internazionale Milano",
+        "AC Milan"
+      ],
+      "answer": 1,
+      "explanation": "La classifica finale ricostruita dai risultati stagionali registra FC Internazionale Milano al primo posto della Serie A 2023-24.",
+      "source": "https://raw.githubusercontent.com/openfootball/football.json/master/2023-24/it.1.json",
+      "sourceName": "OpenFootball Football.JSON CC0"
+    },
+    {
+      "id": "v410-title-08e1b71a5610abd5a3",
+      "category": "La Liga",
+      "kind": "Albo d’oro campionati",
+      "difficulty": 2,
+      "question": "Chi ha conquistato la La Liga nella stagione 2023-24?",
+      "options": [
+        "Girona FC",
+        "FC Barcelona",
+        "Real Madrid CF"
+      ],
+      "answer": 2,
+      "explanation": "La classifica finale ricostruita dai risultati stagionali registra Real Madrid CF al primo posto della La Liga 2023-24.",
+      "source": "https://raw.githubusercontent.com/openfootball/football.json/master/2023-24/es.1.json",
+      "sourceName": "OpenFootball Football.JSON CC0"
+    },
+    {
+      "id": "v410-title-38cabba5b834ff3d08",
+      "category": "Bundesliga",
+      "kind": "Albo d’oro campionati",
+      "difficulty": 2,
+      "question": "Chi ha conquistato la Bundesliga nella stagione 2023-24?",
+      "options": [
+        "VfB Stuttgart",
+        "Bayer 04 Leverkusen",
+        "FC Bayern München"
+      ],
+      "answer": 1,
+      "explanation": "La classifica finale ricostruita dai risultati stagionali registra Bayer 04 Leverkusen al primo posto della Bundesliga 2023-24.",
+      "source": "https://raw.githubusercontent.com/openfootball/football.json/master/2023-24/de.1.json",
+      "sourceName": "OpenFootball Football.JSON CC0"
+    },
+    {
+      "id": "v410-title-1e44b1fcce6e66bf60",
+      "category": "Ligue 1",
+      "kind": "Albo d’oro campionati",
+      "difficulty": 2,
+      "question": "Chi ha conquistato la Ligue 1 nella stagione 2023-24?",
+      "options": [
+        "Stade Brestois 29",
+        "AS Monaco FC",
+        "Paris Saint-Germain FC"
+      ],
+      "answer": 2,
+      "explanation": "La classifica finale ricostruita dai risultati stagionali registra Paris Saint-Germain FC al primo posto della Ligue 1 2023-24.",
+      "source": "https://raw.githubusercontent.com/openfootball/football.json/master/2023-24/fr.1.json",
+      "sourceName": "OpenFootball Football.JSON CC0"
+    },
+    {
+      "id": "v410-title-b86a719408d7588f77",
+      "category": "Premier League",
+      "kind": "Albo d’oro campionati",
+      "difficulty": 2,
+      "question": "Chi ha conquistato la Premier League nella stagione 2024-25?",
+      "options": [
+        "Liverpool FC",
+        "Manchester City FC",
+        "Arsenal FC"
+      ],
+      "answer": 0,
+      "explanation": "La classifica finale ricostruita dai risultati stagionali registra Liverpool FC al primo posto della Premier League 2024-25.",
+      "source": "https://raw.githubusercontent.com/openfootball/football.json/master/2024-25/en.1.json",
+      "sourceName": "OpenFootball Football.JSON CC0"
+    },
+    {
+      "id": "v410-title-ef23f070d6fbafe89d",
+      "category": "Bundesliga",
+      "kind": "Albo d’oro campionati",
+      "difficulty": 2,
+      "question": "Chi ha conquistato la Bundesliga nella stagione 2024-25?",
+      "options": [
+        "FC Bayern München",
+        "Eintracht Frankfurt",
+        "Bayer 04 Leverkusen"
+      ],
+      "answer": 0,
+      "explanation": "La classifica finale ricostruita dai risultati stagionali registra FC Bayern München al primo posto della Bundesliga 2024-25.",
+      "source": "https://raw.githubusercontent.com/openfootball/football.json/master/2024-25/de.1.json",
+      "sourceName": "OpenFootball Football.JSON CC0"
+    },
+    {
+      "id": "v410-title-7f40c4f90023e2dbfc",
+      "category": "Ligue 1",
+      "kind": "Albo d’oro campionati",
+      "difficulty": 2,
+      "question": "Chi ha conquistato la Ligue 1 nella stagione 2024-25?",
+      "options": [
+        "AS Monaco FC",
+        "Paris Saint-Germain FC",
+        "Olympique de Marseille"
+      ],
+      "answer": 1,
+      "explanation": "La classifica finale ricostruita dai risultati stagionali registra Paris Saint-Germain FC al primo posto della Ligue 1 2024-25.",
+      "source": "https://raw.githubusercontent.com/openfootball/football.json/master/2024-25/fr.1.json",
+      "sourceName": "OpenFootball Football.JSON CC0"
+    }
+  ]
+}

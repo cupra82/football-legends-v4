@@ -1,6 +1,6 @@
 {
   "version": "3.3.4",
-  "generatedAt": "2026-11-12T14:02:23.012Z",
+  "generatedAt": "2026-11-13T13:12:26.890Z",
   "minimumPerCategory": 2000,
   "sourceStats": {
     "questions.json": {
@@ -57,11 +57,23 @@
     },
     "stadiums-wikidata-generated.json": {
       "present": true,
-      "loaded": 123
+      "loaded": 0
+    },
+    "famous-careers-generated.json": {
+      "present": true,
+      "loaded": 0
+    },
+    "world-v410-generated.json": {
+      "present": true,
+      "loaded": 72
+    },
+    "v410-champions-generated.json": {
+      "present": true,
+      "loaded": 61
     }
   },
-  "rawCount": 36360,
-  "validUniquePlayable": 36294,
+  "rawCount": 36370,
+  "validUniquePlayable": 36304,
   "filteredByKind": 6,
   "invalid": 0,
   "duplicates": 60,
@@ -132,47 +144,50 @@
     "Paesi e stadi": 74,
     "Derby storici": 45,
     "Cronologia Pallone d’Oro": 48,
-    "Stadi Wikidata": 123
+    "Stadi e grandi club": 28,
+    "Fondazione grandi club": 27,
+    "Allenatori grandi squadre": 17,
+    "Albo d’oro campionati": 61
   },
   "categories": [
     {
       "group": "Campionati",
       "category": "Serie A",
-      "available": 142,
+      "available": 153,
       "target": 2000,
-      "missing": 1858,
+      "missing": 1847,
       "met": false
     },
     {
       "group": "Campionati",
       "category": "Premier League",
-      "available": 186,
+      "available": 200,
       "target": 2000,
-      "missing": 1814,
+      "missing": 1800,
       "met": false
     },
     {
       "group": "Campionati",
       "category": "La Liga",
-      "available": 155,
+      "available": 167,
       "target": 2000,
-      "missing": 1845,
+      "missing": 1833,
       "met": false
     },
     {
       "group": "Campionati",
       "category": "Bundesliga",
-      "available": 179,
+      "available": 193,
       "target": 2000,
-      "missing": 1821,
+      "missing": 1807,
       "met": false
     },
     {
       "group": "Campionati",
       "category": "Ligue 1",
-      "available": 113,
+      "available": 123,
       "target": 2000,
-      "missing": 1887,
+      "missing": 1877,
       "met": false
     },
     {
@@ -322,9 +337,9 @@
     {
       "group": "Protagonisti e storia",
       "category": "Allenatori e tecnici",
-      "available": 699,
+      "available": 716,
       "target": 2000,
-      "missing": 1301,
+      "missing": 1284,
       "met": false
     },
     {
@@ -346,9 +361,9 @@
     {
       "group": "Altro",
       "category": "Stadi leggendari",
-      "available": 405,
+      "available": 310,
       "target": 2000,
-      "missing": 1595,
+      "missing": 1690,
       "met": false
     },
     {
@@ -370,9 +385,9 @@
     {
       "group": "Altro",
       "category": "Grandi club",
-      "available": 0,
+      "available": 27,
       "target": 2000,
-      "missing": 2000,
+      "missing": 1973,
       "met": false
     },
     {

@@ -1,0 +1,205 @@
+{
+  "facts": [
+    {
+      "clubId": "Q1422",
+      "club": "Juventus FC",
+      "coachId": "Q310813",
+      "coach": "Luciano Spalletti"
+    },
+    {
+      "clubId": "Q1543",
+      "club": "AC Milan",
+      "coachId": "Q368682",
+      "coach": "Rúben Amorim"
+    },
+    {
+      "clubId": "Q120881664",
+      "club": "Alcione Milano 1952",
+      "coachId": "Q5563825",
+      "coach": "Giovanni Cusatis"
+    },
+    {
+      "clubId": "Q126923253",
+      "club": "Milan Futuro",
+      "coachId": "Q234885",
+      "coach": "Daniele Bonera"
+    },
+    {
+      "clubId": "Q135451504",
+      "club": "Football Club Internazionale Milano U23",
+      "coachId": "Q15706885",
+      "coach": "Stefano Vecchi"
+    },
+    {
+      "clubId": "Q1886",
+      "club": "Atalanta Bergamasca Calcio",
+      "coachId": "Q3852721",
+      "coach": "Maurizio Sarri"
+    },
+    {
+      "clubId": "Q1893",
+      "club": "Bologna FC 1909",
+      "coachId": "Q282551",
+      "coach": "Raffaele Palladino"
+    },
+    {
+      "clubId": "Q2052",
+      "club": "ACF Fiorentina",
+      "coachId": "Q3362674",
+      "coach": "Paolo Vanoli"
+    },
+    {
+      "clubId": "Q2609",
+      "club": "SS Lazio",
+      "coachId": "Q116980",
+      "coach": "Gennaro Gattuso"
+    },
+    {
+      "clubId": "Q2641",
+      "club": "SSC Napoli",
+      "coachId": "Q354529",
+      "coach": "Massimiliano Allegri"
+    },
+    {
+      "clubId": "Q2739",
+      "club": "AS Roma",
+      "coachId": "Q367846",
+      "coach": "Gian Piero Gasperini"
+    },
+    {
+      "clubId": "Q2768",
+      "club": "Torino FC",
+      "coachId": "Q213007",
+      "coach": "Ignazio Abate"
+    },
+    {
+      "clubId": "Q289613",
+      "club": "Pisa Sporting Club",
+      "coachId": "Q1444184",
+      "coach": "Paolo Bianco"
+    },
+    {
+      "clubId": "Q3299830",
+      "club": "AC Milan Primavera",
+      "coachId": "Q213007",
+      "coach": "Ignazio Abate"
+    },
+    {
+      "clubId": "Q5423698",
+      "club": "Football Club Internazionale Milano Elite Academy",
+      "coachId": "Q533753",
+      "coach": "Armando Madonna"
+    },
+    {
+      "clubId": "Q56025745",
+      "club": "Juventus Next Gen",
+      "coachId": "Q342484",
+      "coach": "Paolo Montero"
+    },
+    {
+      "clubId": "Q913041",
+      "club": "Calcio Portogruaro-Summaga",
+      "coachId": "Q533753",
+      "coach": "Armando Madonna"
+    }
+  ],
+  "checked": [
+    "Q1052316",
+    "Q106254380",
+    "Q108666261",
+    "Q116949682",
+    "Q116974165",
+    "Q120881664",
+    "Q121213625",
+    "Q126923253",
+    "Q133810466",
+    "Q135451504",
+    "Q1422",
+    "Q1465587",
+    "Q1538737",
+    "Q1543",
+    "Q15712979",
+    "Q15982366",
+    "Q16481752",
+    "Q16607001",
+    "Q16848188",
+    "Q17462058",
+    "Q17621667",
+    "Q18124291",
+    "Q18202805",
+    "Q1833715",
+    "Q18418222",
+    "Q18718757",
+    "Q1884655",
+    "Q1886",
+    "Q1893",
+    "Q20008141",
+    "Q20009216",
+    "Q20009545",
+    "Q2052",
+    "Q2084931",
+    "Q2107075",
+    "Q21211168",
+    "Q2147776",
+    "Q2184038",
+    "Q2191086",
+    "Q2205008",
+    "Q22936201",
+    "Q2462850",
+    "Q2543506",
+    "Q2609",
+    "Q2641",
+    "Q2739",
+    "Q2768",
+    "Q28229321",
+    "Q28229333",
+    "Q289613",
+    "Q2929903",
+    "Q3076503",
+    "Q3093415",
+    "Q3299830",
+    "Q3395169",
+    "Q3501099",
+    "Q3620904",
+    "Q3626866",
+    "Q3626870",
+    "Q3626957",
+    "Q3627849",
+    "Q3628971",
+    "Q3629465",
+    "Q3747545",
+    "Q3820995",
+    "Q3855388",
+    "Q3870303",
+    "Q3877601",
+    "Q3892754",
+    "Q3916767",
+    "Q4004991",
+    "Q4005110",
+    "Q433529",
+    "Q4647075",
+    "Q4647313",
+    "Q4812692",
+    "Q48803557",
+    "Q48845013",
+    "Q5423698",
+    "Q5423727",
+    "Q56025745",
+    "Q58237098",
+    "Q5942712",
+    "Q60038697",
+    "Q602108",
+    "Q60836938",
+    "Q610482",
+    "Q611018",
+    "Q63522011",
+    "Q65048663",
+    "Q66387099",
+    "Q728986",
+    "Q7863009",
+    "Q7863453",
+    "Q913041",
+    "Q950089",
+    "Q954970"
+  ]
+}

@@ -1,0 +1,1176 @@
+{
+  "stats": {
+    "generatedAt": "2026-11-13T13:12:20.699Z",
+    "added": {
+      "careers": 0,
+      "clubs": 55,
+      "managers": 17,
+      "total": 72
+    },
+    "total": 72,
+    "categories": {
+      "Stadi leggendari": 28,
+      "Grandi club": 27,
+      "Allenatori e tecnici": 17
+    },
+    "sources": [
+      "Wikidata P54",
+      "Wikidata P286",
+      "openfootball/clubs (CC0)"
+    ]
+  },
+  "questions": [
+    {
+      "id": "v410-c91a7caf115b9ae9c4",
+      "category": "Stadi leggendari",
+      "kind": "Stadi e grandi club",
+      "difficulty": 2,
+      "question": "Quale stadio è associato a FC Arsenal Dzerzhinsk nell'archivio OpenFootball Clubs?",
+      "options": [
+        "Groupama Stadium",
+        "City Stadium",
+        "Stamford Bridge"
+      ],
+      "answer": 1,
+      "explanation": "L'archivio OpenFootball Clubs riporta City Stadium per FC Arsenal Dzerzhinsk. Il nome può riferirsi allo stadio storico del club.",
+      "source": "https://raw.githubusercontent.com/openfootball/clubs/master/europe/belarus/by.clubs.txt",
+      "sourceName": "OpenFootball Clubs CC0"
+    },
+    {
+      "id": "v410-901ff5ed69eb156b72",
+      "category": "Grandi club",
+      "kind": "Fondazione grandi club",
+      "difficulty": 2,
+      "question": "Secondo l'archivio OpenFootball Clubs, in quale anno fu fondato FC Arsenal Dzerzhinsk?",
+      "options": [
+        "1909",
+        "2019",
+        "1892"
+      ],
+      "answer": 1,
+      "explanation": "OpenFootball Clubs indica il 2019 come anno di fondazione di FC Arsenal Dzerzhinsk.",
+      "source": "https://raw.githubusercontent.com/openfootball/clubs/master/europe/belarus/by.clubs.txt",
+      "sourceName": "OpenFootball Clubs CC0"
+    },
+    {
+      "id": "v410-b3c64241a7f8a13d1d",
+      "category": "Stadi leggendari",
+      "kind": "Stadi e grandi club",
+      "difficulty": 2,
+      "question": "Quale stadio è associato a Arsenal FC nell'archivio OpenFootball Clubs?",
+      "options": [
+        "Stamford Bridge",
+        "Emirates Stadium",
+        "Allianz Arena"
+      ],
+      "answer": 1,
+      "explanation": "L'archivio OpenFootball Clubs riporta Emirates Stadium per Arsenal FC. Il nome può riferirsi allo stadio storico del club.",
+      "source": "https://raw.githubusercontent.com/openfootball/clubs/master/europe/england/eng.clubs.txt",
+      "sourceName": "OpenFootball Clubs CC0"
+    },
+    {
+      "id": "v410-70bacbe7d865a9892a",
+      "category": "Grandi club",
+      "kind": "Fondazione grandi club",
+      "difficulty": 2,
+      "question": "Secondo l'archivio OpenFootball Clubs, in quale anno fu fondato Arsenal FC?",
+      "options": [
+        "1898",
+        "1886",
+        "1908"
+      ],
+      "answer": 1,
+      "explanation": "OpenFootball Clubs indica il 1886 come anno di fondazione di Arsenal FC.",
+      "source": "https://raw.githubusercontent.com/openfootball/clubs/master/europe/england/eng.clubs.txt",
+      "sourceName": "OpenFootball Clubs CC0"
+    },
+    {
+      "id": "v410-e28a87bd9e9ecd225a",
+      "category": "Stadi leggendari",
+      "kind": "Stadi e grandi club",
+      "difficulty": 2,
+      "question": "Quale stadio è associato a Chelsea FC nell'archivio OpenFootball Clubs?",
+      "options": [
+        "Stade de Genève",
+        "Stamford Bridge",
+        "City Stadium"
+      ],
+      "answer": 1,
+      "explanation": "L'archivio OpenFootball Clubs riporta Stamford Bridge per Chelsea FC. Il nome può riferirsi allo stadio storico del club.",
+      "source": "https://raw.githubusercontent.com/openfootball/clubs/master/europe/england/eng.clubs.txt",
+      "sourceName": "OpenFootball Clubs CC0"
+    },
+    {
+      "id": "v410-cfd6e3710def07aaa6",
+      "category": "Grandi club",
+      "kind": "Fondazione grandi club",
+      "difficulty": 2,
+      "question": "Secondo l'archivio OpenFootball Clubs, in quale anno fu fondato Chelsea FC?",
+      "options": [
+        "1892",
+        "1905",
+        "1882"
+      ],
+      "answer": 1,
+      "explanation": "OpenFootball Clubs indica il 1905 come anno di fondazione di Chelsea FC.",
+      "source": "https://raw.githubusercontent.com/openfootball/clubs/master/europe/england/eng.clubs.txt",
+      "sourceName": "OpenFootball Clubs CC0"
+    },
+    {
+      "id": "v410-80ad851f0c4567bffa",
+      "category": "Stadi leggendari",
+      "kind": "Stadi e grandi club",
+      "difficulty": 2,
+      "question": "Quale stadio è associato a Tottenham Hotspur FC nell'archivio OpenFootball Clubs?",
+      "options": [
+        "Stade Louis II",
+        "White Hart Lane",
+        "Åråsen"
+      ],
+      "answer": 1,
+      "explanation": "L'archivio OpenFootball Clubs riporta White Hart Lane per Tottenham Hotspur FC. Il nome può riferirsi allo stadio storico del club.",
+      "source": "https://raw.githubusercontent.com/openfootball/clubs/master/europe/england/eng.clubs.txt",
+      "sourceName": "OpenFootball Clubs CC0"
+    },
+    {
+      "id": "v410-5e891b01e64f63dd26",
+      "category": "Grandi club",
+      "kind": "Fondazione grandi club",
+      "difficulty": 2,
+      "question": "Secondo l'archivio OpenFootball Clubs, in quale anno fu fondato Tottenham Hotspur FC?",
+      "options": [
+        "1882",
+        "2019",
+        "1924"
+      ],
+      "answer": 0,
+      "explanation": "OpenFootball Clubs indica il 1882 come anno di fondazione di Tottenham Hotspur FC.",
+      "source": "https://raw.githubusercontent.com/openfootball/clubs/master/europe/england/eng.clubs.txt",
+      "sourceName": "OpenFootball Clubs CC0"
+    },
+    {
+      "id": "v410-baa03647f8a468a7ff",
+      "category": "Stadi leggendari",
+      "kind": "Stadi e grandi club",
+      "difficulty": 2,
+      "question": "Quale stadio è associato a Queens Park Rangers FC nell'archivio OpenFootball Clubs?",
+      "options": [
+        "Stadion Letzigrund",
+        "Stamford Bridge",
+        "Loftus Road"
+      ],
+      "answer": 2,
+      "explanation": "L'archivio OpenFootball Clubs riporta Loftus Road per Queens Park Rangers FC. Il nome può riferirsi allo stadio storico del club.",
+      "source": "https://raw.githubusercontent.com/openfootball/clubs/master/europe/england/eng.clubs.txt",
+      "sourceName": "OpenFootball Clubs CC0"
+    },
+    {
+      "id": "v410-2e4cc02f50a90da37e",
+      "category": "Grandi club",
+      "kind": "Fondazione grandi club",
+      "difficulty": 2,
+      "question": "Secondo l'archivio OpenFootball Clubs, in quale anno fu fondato Queens Park Rangers FC?",
+      "options": [
+        "1905",
+        "1882",
+        "1944"
+      ],
+      "answer": 1,
+      "explanation": "OpenFootball Clubs indica il 1882 come anno di fondazione di Queens Park Rangers FC.",
+      "source": "https://raw.githubusercontent.com/openfootball/clubs/master/europe/england/eng.clubs.txt",
+      "sourceName": "OpenFootball Clubs CC0"
+    },
+    {
+      "id": "v410-770165e3bc08521402",
+      "category": "Stadi leggendari",
+      "kind": "Stadi e grandi club",
+      "difficulty": 2,
+      "question": "Quale stadio è associato a Everton FC nell'archivio OpenFootball Clubs?",
+      "options": [
+        "White Hart Lane",
+        "Weserstadion",
+        "Goodison Park"
+      ],
+      "answer": 2,
+      "explanation": "L'archivio OpenFootball Clubs riporta Goodison Park per Everton FC. Il nome può riferirsi allo stadio storico del club.",
+      "source": "https://raw.githubusercontent.com/openfootball/clubs/master/europe/england/eng.clubs.txt",
+      "sourceName": "OpenFootball Clubs CC0"
+    },
+    {
+      "id": "v410-80d584e51e06d99b55",
+      "category": "Grandi club",
+      "kind": "Fondazione grandi club",
+      "difficulty": 2,
+      "question": "Secondo l'archivio OpenFootball Clubs, in quale anno fu fondato Everton FC?",
+      "options": [
+        "1917",
+        "1878",
+        "1924"
+      ],
+      "answer": 1,
+      "explanation": "OpenFootball Clubs indica il 1878 come anno di fondazione di Everton FC.",
+      "source": "https://raw.githubusercontent.com/openfootball/clubs/master/europe/england/eng.clubs.txt",
+      "sourceName": "OpenFootball Clubs CC0"
+    },
+    {
+      "id": "v410-7cf7951e965cc1e1fd",
+      "category": "Stadi leggendari",
+      "kind": "Stadi e grandi club",
+      "difficulty": 2,
+      "question": "Quale stadio è associato a Liverpool FC nell'archivio OpenFootball Clubs?",
+      "options": [
+        "Waldstadion",
+        "Anfield",
+        "St James' Park"
+      ],
+      "answer": 1,
+      "explanation": "L'archivio OpenFootball Clubs riporta Anfield per Liverpool FC. Il nome può riferirsi allo stadio storico del club.",
+      "source": "https://raw.githubusercontent.com/openfootball/clubs/master/europe/england/eng.clubs.txt",
+      "sourceName": "OpenFootball Clubs CC0"
+    },
+    {
+      "id": "v410-daef8689ff14e77069",
+      "category": "Grandi club",
+      "kind": "Fondazione grandi club",
+      "difficulty": 2,
+      "question": "Secondo l'archivio OpenFootball Clubs, in quale anno fu fondato Liverpool FC?",
+      "options": [
+        "1882",
+        "1892",
+        "1899"
+      ],
+      "answer": 1,
+      "explanation": "OpenFootball Clubs indica il 1892 come anno di fondazione di Liverpool FC.",
+      "source": "https://raw.githubusercontent.com/openfootball/clubs/master/europe/england/eng.clubs.txt",
+      "sourceName": "OpenFootball Clubs CC0"
+    },
+    {
+      "id": "v410-b72bfe9bcc3748dc97",
+      "category": "Stadi leggendari",
+      "kind": "Stadi e grandi club",
+      "difficulty": 2,
+      "question": "Quale stadio è associato a Manchester United FC nell'archivio OpenFootball Clubs?",
+      "options": [
+        "Goodison Park",
+        "Old Trafford",
+        "Stade Vélodrome"
+      ],
+      "answer": 1,
+      "explanation": "L'archivio OpenFootball Clubs riporta Old Trafford per Manchester United FC. Il nome può riferirsi allo stadio storico del club.",
+      "source": "https://raw.githubusercontent.com/openfootball/clubs/master/europe/england/eng.clubs.txt",
+      "sourceName": "OpenFootball Clubs CC0"
+    },
+    {
+      "id": "v410-976748f4029f4e5570",
+      "category": "Grandi club",
+      "kind": "Fondazione grandi club",
+      "difficulty": 2,
+      "question": "Secondo l'archivio OpenFootball Clubs, in quale anno fu fondato Manchester United FC?",
+      "options": [
+        "1886",
+        "1884",
+        "1878"
+      ],
+      "answer": 2,
+      "explanation": "OpenFootball Clubs indica il 1878 come anno di fondazione di Manchester United FC.",
+      "source": "https://raw.githubusercontent.com/openfootball/clubs/master/europe/england/eng.clubs.txt",
+      "sourceName": "OpenFootball Clubs CC0"
+    },
+    {
+      "id": "v410-bde9255bd7787c0520",
+      "category": "Stadi leggendari",
+      "kind": "Stadi e grandi club",
+      "difficulty": 2,
+      "question": "Quale stadio è associato a Manchester City FC nell'archivio OpenFootball Clubs?",
+      "options": [
+        "Groupama Stadium",
+        "Etihad Stadium",
+        "Waldstadion"
+      ],
+      "answer": 1,
+      "explanation": "L'archivio OpenFootball Clubs riporta Etihad Stadium per Manchester City FC. Il nome può riferirsi allo stadio storico del club.",
+      "source": "https://raw.githubusercontent.com/openfootball/clubs/master/europe/england/eng.clubs.txt",
+      "sourceName": "OpenFootball Clubs CC0"
+    },
+    {
+      "id": "v410-a8fce4168e327b757a",
+      "category": "Grandi club",
+      "kind": "Fondazione grandi club",
+      "difficulty": 2,
+      "question": "Secondo l'archivio OpenFootball Clubs, in quale anno fu fondato Manchester City FC?",
+      "options": [
+        "1893",
+        "1880",
+        "1900"
+      ],
+      "answer": 1,
+      "explanation": "OpenFootball Clubs indica il 1880 come anno di fondazione di Manchester City FC.",
+      "source": "https://raw.githubusercontent.com/openfootball/clubs/master/europe/england/eng.clubs.txt",
+      "sourceName": "OpenFootball Clubs CC0"
+    },
+    {
+      "id": "v410-6d508a305f8d19b5f3",
+      "category": "Stadi leggendari",
+      "kind": "Stadi e grandi club",
+      "difficulty": 2,
+      "question": "Quale stadio è associato a Aston Villa FC nell'archivio OpenFootball Clubs?",
+      "options": [
+        "White Hart Lane",
+        "Villa Park",
+        "Emirates Stadium"
+      ],
+      "answer": 1,
+      "explanation": "L'archivio OpenFootball Clubs riporta Villa Park per Aston Villa FC. Il nome può riferirsi allo stadio storico del club.",
+      "source": "https://raw.githubusercontent.com/openfootball/clubs/master/europe/england/eng.clubs.txt",
+      "sourceName": "OpenFootball Clubs CC0"
+    },
+    {
+      "id": "v410-3d064172d7330dab4a",
+      "category": "Grandi club",
+      "kind": "Fondazione grandi club",
+      "difficulty": 2,
+      "question": "Secondo l'archivio OpenFootball Clubs, in quale anno fu fondato Aston Villa FC?",
+      "options": [
+        "1874",
+        "1924",
+        "1892"
+      ],
+      "answer": 0,
+      "explanation": "OpenFootball Clubs indica il 1874 come anno di fondazione di Aston Villa FC.",
+      "source": "https://raw.githubusercontent.com/openfootball/clubs/master/europe/england/eng.clubs.txt",
+      "sourceName": "OpenFootball Clubs CC0"
+    },
+    {
+      "id": "v410-59d7e1e717b9db5a9f",
+      "category": "Stadi leggendari",
+      "kind": "Stadi e grandi club",
+      "difficulty": 2,
+      "question": "Quale stadio è associato a Newcastle United FC nell'archivio OpenFootball Clubs?",
+      "options": [
+        "Old Trafford",
+        "Stade Pierre-Mauroy",
+        "St James' Park"
+      ],
+      "answer": 2,
+      "explanation": "L'archivio OpenFootball Clubs riporta St James' Park per Newcastle United FC. Il nome può riferirsi allo stadio storico del club.",
+      "source": "https://raw.githubusercontent.com/openfootball/clubs/master/europe/england/eng.clubs.txt",
+      "sourceName": "OpenFootball Clubs CC0"
+    },
+    {
+      "id": "v410-bf98542862d34ee1fb",
+      "category": "Grandi club",
+      "kind": "Fondazione grandi club",
+      "difficulty": 2,
+      "question": "Secondo l'archivio OpenFootball Clubs, in quale anno fu fondato Newcastle United FC?",
+      "options": [
+        "1884",
+        "1892",
+        "1880"
+      ],
+      "answer": 1,
+      "explanation": "OpenFootball Clubs indica il 1892 come anno di fondazione di Newcastle United FC.",
+      "source": "https://raw.githubusercontent.com/openfootball/clubs/master/europe/england/eng.clubs.txt",
+      "sourceName": "OpenFootball Clubs CC0"
+    },
+    {
+      "id": "v410-ece7aca6a906e97e49",
+      "category": "Stadi leggendari",
+      "kind": "Stadi e grandi club",
+      "difficulty": 2,
+      "question": "Quale stadio è associato a Leicester City FC nell'archivio OpenFootball Clubs?",
+      "options": [
+        "Stamford Bridge",
+        "King Power Stadium",
+        "Groupama Stadium"
+      ],
+      "answer": 1,
+      "explanation": "L'archivio OpenFootball Clubs riporta King Power Stadium per Leicester City FC. Il nome può riferirsi allo stadio storico del club.",
+      "source": "https://raw.githubusercontent.com/openfootball/clubs/master/europe/england/eng.clubs.txt",
+      "sourceName": "OpenFootball Clubs CC0"
+    },
+    {
+      "id": "v410-8850661abd1ca52ec7",
+      "category": "Grandi club",
+      "kind": "Fondazione grandi club",
+      "difficulty": 2,
+      "question": "Secondo l'archivio OpenFootball Clubs, in quale anno fu fondato Leicester City FC?",
+      "options": [
+        "1898",
+        "1944",
+        "1884"
+      ],
+      "answer": 2,
+      "explanation": "OpenFootball Clubs indica il 1884 come anno di fondazione di Leicester City FC.",
+      "source": "https://raw.githubusercontent.com/openfootball/clubs/master/europe/england/eng.clubs.txt",
+      "sourceName": "OpenFootball Clubs CC0"
+    },
+    {
+      "id": "v410-f471d5a30152d0cede",
+      "category": "Stadi leggendari",
+      "kind": "Stadi e grandi club",
+      "difficulty": 2,
+      "question": "Quale stadio è associato a Nottingham Forest FC nell'archivio OpenFootball Clubs?",
+      "options": [
+        "City Ground",
+        "Old Trafford",
+        "Allianz Arena"
+      ],
+      "answer": 0,
+      "explanation": "L'archivio OpenFootball Clubs riporta City Ground per Nottingham Forest FC. Il nome può riferirsi allo stadio storico del club.",
+      "source": "https://raw.githubusercontent.com/openfootball/clubs/master/europe/england/eng.clubs.txt",
+      "sourceName": "OpenFootball Clubs CC0"
+    },
+    {
+      "id": "v410-5fb0c82b36a28eea0a",
+      "category": "Stadi leggendari",
+      "kind": "Stadi e grandi club",
+      "difficulty": 2,
+      "question": "Quale stadio è associato a Paris Saint-Germain nell'archivio OpenFootball Clubs?",
+      "options": [
+        "Allianz Arena",
+        "King Power Stadium",
+        "Parc des Princes"
+      ],
+      "answer": 2,
+      "explanation": "L'archivio OpenFootball Clubs riporta Parc des Princes per Paris Saint-Germain. Il nome può riferirsi allo stadio storico del club.",
+      "source": "https://raw.githubusercontent.com/openfootball/clubs/master/europe/france/fr.clubs.txt",
+      "sourceName": "OpenFootball Clubs CC0"
+    },
+    {
+      "id": "v410-1987e9e01f6bd5c4ac",
+      "category": "Grandi club",
+      "kind": "Fondazione grandi club",
+      "difficulty": 2,
+      "question": "Secondo l'archivio OpenFootball Clubs, in quale anno fu fondato Paris Saint-Germain?",
+      "options": [
+        "1944",
+        "1898",
+        "1970"
+      ],
+      "answer": 2,
+      "explanation": "OpenFootball Clubs indica il 1970 come anno di fondazione di Paris Saint-Germain.",
+      "source": "https://raw.githubusercontent.com/openfootball/clubs/master/europe/france/fr.clubs.txt",
+      "sourceName": "OpenFootball Clubs CC0"
+    },
+    {
+      "id": "v410-af5d674648de96f511",
+      "category": "Stadi leggendari",
+      "kind": "Stadi e grandi club",
+      "difficulty": 2,
+      "question": "Quale stadio è associato a Lille OSC nell'archivio OpenFootball Clubs?",
+      "options": [
+        "Stade Pierre-Mauroy",
+        "Weserstadion",
+        "St James' Park"
+      ],
+      "answer": 0,
+      "explanation": "L'archivio OpenFootball Clubs riporta Stade Pierre-Mauroy per Lille OSC. Il nome può riferirsi allo stadio storico del club.",
+      "source": "https://raw.githubusercontent.com/openfootball/clubs/master/europe/france/fr.clubs.txt",
+      "sourceName": "OpenFootball Clubs CC0"
+    },
+    {
+      "id": "v410-b8ac979aeffdbec152",
+      "category": "Grandi club",
+      "kind": "Fondazione grandi club",
+      "difficulty": 2,
+      "question": "Secondo l'archivio OpenFootball Clubs, in quale anno fu fondato Lille OSC?",
+      "options": [
+        "1944",
+        "2019",
+        "1886"
+      ],
+      "answer": 0,
+      "explanation": "OpenFootball Clubs indica il 1944 come anno di fondazione di Lille OSC.",
+      "source": "https://raw.githubusercontent.com/openfootball/clubs/master/europe/france/fr.clubs.txt",
+      "sourceName": "OpenFootball Clubs CC0"
+    },
+    {
+      "id": "v410-a2f2719600e8ac1f8a",
+      "category": "Stadi leggendari",
+      "kind": "Stadi e grandi club",
+      "difficulty": 2,
+      "question": "Quale stadio è associato a Olympique Lyonnais nell'archivio OpenFootball Clubs?",
+      "options": [
+        "Goodison Park",
+        "Sankt-Jakob-Park",
+        "Groupama Stadium"
+      ],
+      "answer": 2,
+      "explanation": "L'archivio OpenFootball Clubs riporta Groupama Stadium per Olympique Lyonnais. Il nome può riferirsi allo stadio storico del club.",
+      "source": "https://raw.githubusercontent.com/openfootball/clubs/master/europe/france/fr.clubs.txt",
+      "sourceName": "OpenFootball Clubs CC0"
+    },
+    {
+      "id": "v410-b5ea6ccf6ccf8d9dfc",
+      "category": "Grandi club",
+      "kind": "Fondazione grandi club",
+      "difficulty": 2,
+      "question": "Secondo l'archivio OpenFootball Clubs, in quale anno fu fondato Olympique Lyonnais?",
+      "options": [
+        "1899",
+        "1908",
+        "1874"
+      ],
+      "answer": 0,
+      "explanation": "OpenFootball Clubs indica il 1899 come anno di fondazione di Olympique Lyonnais.",
+      "source": "https://raw.githubusercontent.com/openfootball/clubs/master/europe/france/fr.clubs.txt",
+      "sourceName": "OpenFootball Clubs CC0"
+    },
+    {
+      "id": "v410-f98e8eec17721fd1e9",
+      "category": "Stadi leggendari",
+      "kind": "Stadi e grandi club",
+      "difficulty": 2,
+      "question": "Quale stadio è associato a Olympique de Marseille nell'archivio OpenFootball Clubs?",
+      "options": [
+        "Emirates Stadium",
+        "Parc des Princes",
+        "Stade Vélodrome"
+      ],
+      "answer": 2,
+      "explanation": "L'archivio OpenFootball Clubs riporta Stade Vélodrome per Olympique de Marseille. Il nome può riferirsi allo stadio storico del club.",
+      "source": "https://raw.githubusercontent.com/openfootball/clubs/master/europe/france/fr.clubs.txt",
+      "sourceName": "OpenFootball Clubs CC0"
+    },
+    {
+      "id": "v410-51a568e2d710690ac8",
+      "category": "Grandi club",
+      "kind": "Fondazione grandi club",
+      "difficulty": 2,
+      "question": "Secondo l'archivio OpenFootball Clubs, in quale anno fu fondato Olympique de Marseille?",
+      "options": [
+        "1899",
+        "1886",
+        "1880"
+      ],
+      "answer": 0,
+      "explanation": "OpenFootball Clubs indica il 1899 come anno di fondazione di Olympique de Marseille.",
+      "source": "https://raw.githubusercontent.com/openfootball/clubs/master/europe/france/fr.clubs.txt",
+      "sourceName": "OpenFootball Clubs CC0"
+    },
+    {
+      "id": "v410-71653d910cf45a1dec",
+      "category": "Stadi leggendari",
+      "kind": "Stadi e grandi club",
+      "difficulty": 2,
+      "question": "Quale stadio è associato a Bayern München nell'archivio OpenFootball Clubs?",
+      "options": [
+        "Allianz Arena",
+        "Old Trafford",
+        "Etihad Stadium"
+      ],
+      "answer": 0,
+      "explanation": "L'archivio OpenFootball Clubs riporta Allianz Arena per Bayern München. Il nome può riferirsi allo stadio storico del club.",
+      "source": "https://raw.githubusercontent.com/openfootball/clubs/master/europe/germany/de.clubs.txt",
+      "sourceName": "OpenFootball Clubs CC0"
+    },
+    {
+      "id": "v410-0a1a167d319724d513",
+      "category": "Grandi club",
+      "kind": "Fondazione grandi club",
+      "difficulty": 2,
+      "question": "Secondo l'archivio OpenFootball Clubs, in quale anno fu fondato Bayern München?",
+      "options": [
+        "1970",
+        "1944",
+        "1900"
+      ],
+      "answer": 2,
+      "explanation": "OpenFootball Clubs indica il 1900 come anno di fondazione di Bayern München.",
+      "source": "https://raw.githubusercontent.com/openfootball/clubs/master/europe/germany/de.clubs.txt",
+      "sourceName": "OpenFootball Clubs CC0"
+    },
+    {
+      "id": "v410-5f9250a07cc104fdbf",
+      "category": "Stadi leggendari",
+      "kind": "Stadi e grandi club",
+      "difficulty": 2,
+      "question": "Quale stadio è associato a Borussia Dortmund nell'archivio OpenFootball Clubs?",
+      "options": [
+        "Signal Iduna Park",
+        "Groupama Stadium",
+        "Stade Louis II"
+      ],
+      "answer": 0,
+      "explanation": "L'archivio OpenFootball Clubs riporta Signal Iduna Park per Borussia Dortmund. Il nome può riferirsi allo stadio storico del club.",
+      "source": "https://raw.githubusercontent.com/openfootball/clubs/master/europe/germany/de.clubs.txt",
+      "sourceName": "OpenFootball Clubs CC0"
+    },
+    {
+      "id": "v410-8c2eed40d76e9583d2",
+      "category": "Grandi club",
+      "kind": "Fondazione grandi club",
+      "difficulty": 2,
+      "question": "Secondo l'archivio OpenFootball Clubs, in quale anno fu fondato Borussia Dortmund?",
+      "options": [
+        "1880",
+        "1917",
+        "1909"
+      ],
+      "answer": 2,
+      "explanation": "OpenFootball Clubs indica il 1909 come anno di fondazione di Borussia Dortmund.",
+      "source": "https://raw.githubusercontent.com/openfootball/clubs/master/europe/germany/de.clubs.txt",
+      "sourceName": "OpenFootball Clubs CC0"
+    },
+    {
+      "id": "v410-1dc61e23c6db86a862",
+      "category": "Stadi leggendari",
+      "kind": "Stadi e grandi club",
+      "difficulty": 2,
+      "question": "Quale stadio è associato a Werder Bremen nell'archivio OpenFootball Clubs?",
+      "options": [
+        "Old Trafford",
+        "Goodison Park",
+        "Weserstadion"
+      ],
+      "answer": 2,
+      "explanation": "L'archivio OpenFootball Clubs riporta Weserstadion per Werder Bremen. Il nome può riferirsi allo stadio storico del club.",
+      "source": "https://raw.githubusercontent.com/openfootball/clubs/master/europe/germany/de.clubs.txt",
+      "sourceName": "OpenFootball Clubs CC0"
+    },
+    {
+      "id": "v410-f1abcb875d8ab636a1",
+      "category": "Grandi club",
+      "kind": "Fondazione grandi club",
+      "difficulty": 2,
+      "question": "Secondo l'archivio OpenFootball Clubs, in quale anno fu fondato Werder Bremen?",
+      "options": [
+        "1899",
+        "1970",
+        "1878"
+      ],
+      "answer": 0,
+      "explanation": "OpenFootball Clubs indica il 1899 come anno di fondazione di Werder Bremen.",
+      "source": "https://raw.githubusercontent.com/openfootball/clubs/master/europe/germany/de.clubs.txt",
+      "sourceName": "OpenFootball Clubs CC0"
+    },
+    {
+      "id": "v410-1e0c85577557388b4c",
+      "category": "Stadi leggendari",
+      "kind": "Stadi e grandi club",
+      "difficulty": 2,
+      "question": "Quale stadio è associato a Eintracht Frankfurt nell'archivio OpenFootball Clubs?",
+      "options": [
+        "Anfield",
+        "Waldstadion",
+        "Åråsen"
+      ],
+      "answer": 1,
+      "explanation": "L'archivio OpenFootball Clubs riporta Waldstadion per Eintracht Frankfurt. Il nome può riferirsi allo stadio storico del club.",
+      "source": "https://raw.githubusercontent.com/openfootball/clubs/master/europe/germany/de.clubs.txt",
+      "sourceName": "OpenFootball Clubs CC0"
+    },
+    {
+      "id": "v410-94d362560e9009f4fd",
+      "category": "Grandi club",
+      "kind": "Fondazione grandi club",
+      "difficulty": 2,
+      "question": "Secondo l'archivio OpenFootball Clubs, in quale anno fu fondato Eintracht Frankfurt?",
+      "options": [
+        "1944",
+        "1970",
+        "1899"
+      ],
+      "answer": 2,
+      "explanation": "OpenFootball Clubs indica il 1899 come anno di fondazione di Eintracht Frankfurt.",
+      "source": "https://raw.githubusercontent.com/openfootball/clubs/master/europe/germany/de.clubs.txt",
+      "sourceName": "OpenFootball Clubs CC0"
+    },
+    {
+      "id": "v410-b355b829cabe593f97",
+      "category": "Stadi leggendari",
+      "kind": "Stadi e grandi club",
+      "difficulty": 2,
+      "question": "Quale stadio è associato a AS Monaco nell'archivio OpenFootball Clubs?",
+      "options": [
+        "City Ground",
+        "Stade Louis II",
+        "St James' Park"
+      ],
+      "answer": 1,
+      "explanation": "L'archivio OpenFootball Clubs riporta Stade Louis II per AS Monaco. Il nome può riferirsi allo stadio storico del club.",
+      "source": "https://raw.githubusercontent.com/openfootball/clubs/master/europe/monaco/mc.clubs.txt",
+      "sourceName": "OpenFootball Clubs CC0"
+    },
+    {
+      "id": "v410-610a5c79292266cbb1",
+      "category": "Grandi club",
+      "kind": "Fondazione grandi club",
+      "difficulty": 2,
+      "question": "Secondo l'archivio OpenFootball Clubs, in quale anno fu fondato AS Monaco?",
+      "options": [
+        "1874",
+        "1924",
+        "1970"
+      ],
+      "answer": 1,
+      "explanation": "OpenFootball Clubs indica il 1924 come anno di fondazione di AS Monaco.",
+      "source": "https://raw.githubusercontent.com/openfootball/clubs/master/europe/monaco/mc.clubs.txt",
+      "sourceName": "OpenFootball Clubs CC0"
+    },
+    {
+      "id": "v410-e7e4173930ab031767",
+      "category": "Stadi leggendari",
+      "kind": "Stadi e grandi club",
+      "difficulty": 2,
+      "question": "Quale stadio è associato a Lillestrøm SK nell'archivio OpenFootball Clubs?",
+      "options": [
+        "Stade Pierre-Mauroy",
+        "Wankdorf",
+        "Åråsen"
+      ],
+      "answer": 2,
+      "explanation": "L'archivio OpenFootball Clubs riporta Åråsen per Lillestrøm SK. Il nome può riferirsi allo stadio storico del club.",
+      "source": "https://raw.githubusercontent.com/openfootball/clubs/master/europe/norway/no.clubs.txt",
+      "sourceName": "OpenFootball Clubs CC0"
+    },
+    {
+      "id": "v410-e6725240004c9b718b",
+      "category": "Grandi club",
+      "kind": "Fondazione grandi club",
+      "difficulty": 2,
+      "question": "Secondo l'archivio OpenFootball Clubs, in quale anno fu fondato Lillestrøm SK?",
+      "options": [
+        "2019",
+        "1917",
+        "1878"
+      ],
+      "answer": 1,
+      "explanation": "OpenFootball Clubs indica il 1917 come anno di fondazione di Lillestrøm SK.",
+      "source": "https://raw.githubusercontent.com/openfootball/clubs/master/europe/norway/no.clubs.txt",
+      "sourceName": "OpenFootball Clubs CC0"
+    },
+    {
+      "id": "v410-b61b96fe5bd189df82",
+      "category": "Stadi leggendari",
+      "kind": "Stadi e grandi club",
+      "difficulty": 2,
+      "question": "Quale stadio è associato a Grasshoppers Zürich nell'archivio OpenFootball Clubs?",
+      "options": [
+        "Wankdorf",
+        "Waldstadion",
+        "Stadion Letzigrund"
+      ],
+      "answer": 2,
+      "explanation": "L'archivio OpenFootball Clubs riporta Stadion Letzigrund per Grasshoppers Zürich. Il nome può riferirsi allo stadio storico del club.",
+      "source": "https://raw.githubusercontent.com/openfootball/clubs/master/europe/switzerland/ch.clubs.txt",
+      "sourceName": "OpenFootball Clubs CC0"
+    },
+    {
+      "id": "v410-e6093fc966fd494e0a",
+      "category": "Grandi club",
+      "kind": "Fondazione grandi club",
+      "difficulty": 2,
+      "question": "Secondo l'archivio OpenFootball Clubs, in quale anno fu fondato Grasshoppers Zürich?",
+      "options": [
+        "1924",
+        "2019",
+        "1886"
+      ],
+      "answer": 2,
+      "explanation": "OpenFootball Clubs indica il 1886 come anno di fondazione di Grasshoppers Zürich.",
+      "source": "https://raw.githubusercontent.com/openfootball/clubs/master/europe/switzerland/ch.clubs.txt",
+      "sourceName": "OpenFootball Clubs CC0"
+    },
+    {
+      "id": "v410-afd5c28373f74bca75",
+      "category": "Stadi leggendari",
+      "kind": "Stadi e grandi club",
+      "difficulty": 2,
+      "question": "Quale stadio è associato a FC Basel nell'archivio OpenFootball Clubs?",
+      "options": [
+        "Villa Park",
+        "Sankt-Jakob-Park",
+        "City Ground"
+      ],
+      "answer": 1,
+      "explanation": "L'archivio OpenFootball Clubs riporta Sankt-Jakob-Park per FC Basel. Il nome può riferirsi allo stadio storico del club.",
+      "source": "https://raw.githubusercontent.com/openfootball/clubs/master/europe/switzerland/ch.clubs.txt",
+      "sourceName": "OpenFootball Clubs CC0"
+    },
+    {
+      "id": "v410-6faa3595a91577877d",
+      "category": "Grandi club",
+      "kind": "Fondazione grandi club",
+      "difficulty": 2,
+      "question": "Secondo l'archivio OpenFootball Clubs, in quale anno fu fondato FC Basel?",
+      "options": [
+        "2019",
+        "1893",
+        "1898"
+      ],
+      "answer": 1,
+      "explanation": "OpenFootball Clubs indica il 1893 come anno di fondazione di FC Basel.",
+      "source": "https://raw.githubusercontent.com/openfootball/clubs/master/europe/switzerland/ch.clubs.txt",
+      "sourceName": "OpenFootball Clubs CC0"
+    },
+    {
+      "id": "v410-db50f1c8934c1c0293",
+      "category": "Stadi leggendari",
+      "kind": "Stadi e grandi club",
+      "difficulty": 2,
+      "question": "Quale stadio è associato a BSC Young Boys nell'archivio OpenFootball Clubs?",
+      "options": [
+        "Stamford Bridge",
+        "King Power Stadium",
+        "Wankdorf"
+      ],
+      "answer": 2,
+      "explanation": "L'archivio OpenFootball Clubs riporta Wankdorf per BSC Young Boys. Il nome può riferirsi allo stadio storico del club.",
+      "source": "https://raw.githubusercontent.com/openfootball/clubs/master/europe/switzerland/ch.clubs.txt",
+      "sourceName": "OpenFootball Clubs CC0"
+    },
+    {
+      "id": "v410-446420450ba222a109",
+      "category": "Grandi club",
+      "kind": "Fondazione grandi club",
+      "difficulty": 2,
+      "question": "Secondo l'archivio OpenFootball Clubs, in quale anno fu fondato BSC Young Boys?",
+      "options": [
+        "2019",
+        "1898",
+        "1880"
+      ],
+      "answer": 1,
+      "explanation": "OpenFootball Clubs indica il 1898 come anno di fondazione di BSC Young Boys.",
+      "source": "https://raw.githubusercontent.com/openfootball/clubs/master/europe/switzerland/ch.clubs.txt",
+      "sourceName": "OpenFootball Clubs CC0"
+    },
+    {
+      "id": "v410-efa2ed9b1d22b5de78",
+      "category": "Stadi leggendari",
+      "kind": "Stadi e grandi club",
+      "difficulty": 2,
+      "question": "Quale stadio è associato a Servette FC nell'archivio OpenFootball Clubs?",
+      "options": [
+        "Stade de Genève",
+        "Cornaredo",
+        "Stade Vélodrome"
+      ],
+      "answer": 0,
+      "explanation": "L'archivio OpenFootball Clubs riporta Stade de Genève per Servette FC. Il nome può riferirsi allo stadio storico del club.",
+      "source": "https://raw.githubusercontent.com/openfootball/clubs/master/europe/switzerland/ch.clubs.txt",
+      "sourceName": "OpenFootball Clubs CC0"
+    },
+    {
+      "id": "v410-601e27e76de46e1b35",
+      "category": "Grandi club",
+      "kind": "Fondazione grandi club",
+      "difficulty": 2,
+      "question": "Secondo l'archivio OpenFootball Clubs, in quale anno fu fondato Servette FC?",
+      "options": [
+        "1908",
+        "1890",
+        "1878"
+      ],
+      "answer": 1,
+      "explanation": "OpenFootball Clubs indica il 1890 come anno di fondazione di Servette FC.",
+      "source": "https://raw.githubusercontent.com/openfootball/clubs/master/europe/switzerland/ch.clubs.txt",
+      "sourceName": "OpenFootball Clubs CC0"
+    },
+    {
+      "id": "v410-75a26879ceca06b96a",
+      "category": "Stadi leggendari",
+      "kind": "Stadi e grandi club",
+      "difficulty": 2,
+      "question": "Quale stadio è associato a FC Lugano nell'archivio OpenFootball Clubs?",
+      "options": [
+        "Stadion Letzigrund",
+        "Cornaredo",
+        "Wankdorf"
+      ],
+      "answer": 1,
+      "explanation": "L'archivio OpenFootball Clubs riporta Cornaredo per FC Lugano. Il nome può riferirsi allo stadio storico del club.",
+      "source": "https://raw.githubusercontent.com/openfootball/clubs/master/europe/switzerland/ch.clubs.txt",
+      "sourceName": "OpenFootball Clubs CC0"
+    },
+    {
+      "id": "v410-a3f2880aa915a49722",
+      "category": "Grandi club",
+      "kind": "Fondazione grandi club",
+      "difficulty": 2,
+      "question": "Secondo l'archivio OpenFootball Clubs, in quale anno fu fondato FC Lugano?",
+      "options": [
+        "2019",
+        "1908",
+        "1880"
+      ],
+      "answer": 1,
+      "explanation": "OpenFootball Clubs indica il 1908 come anno di fondazione di FC Lugano.",
+      "source": "https://raw.githubusercontent.com/openfootball/clubs/master/europe/switzerland/ch.clubs.txt",
+      "sourceName": "OpenFootball Clubs CC0"
+    },
+    {
+      "id": "v410-963a1c73ddfebc9008",
+      "category": "Allenatori e tecnici",
+      "kind": "Allenatori grandi squadre",
+      "difficulty": 2,
+      "question": "Quale tecnico è registrato come allenatore di Juventus FC nella scheda Wikidata consultata?",
+      "options": [
+        "Luciano Spalletti",
+        "Raffaele Palladino",
+        "Gian Piero Gasperini"
+      ],
+      "answer": 0,
+      "explanation": "Wikidata associa Luciano Spalletti a Juventus FC attraverso la proprietà P286.",
+      "source": "https://www.wikidata.org/wiki/Q1422",
+      "sourceName": "Wikidata CC0"
+    },
+    {
+      "id": "v410-c50341c6a019bf0502",
+      "category": "Allenatori e tecnici",
+      "kind": "Allenatori grandi squadre",
+      "difficulty": 2,
+      "question": "Quale tecnico è registrato come allenatore di AC Milan nella scheda Wikidata consultata?",
+      "options": [
+        "Maurizio Sarri",
+        "Stefano Vecchi",
+        "Rúben Amorim"
+      ],
+      "answer": 2,
+      "explanation": "Wikidata associa Rúben Amorim a AC Milan attraverso la proprietà P286.",
+      "source": "https://www.wikidata.org/wiki/Q1543",
+      "sourceName": "Wikidata CC0"
+    },
+    {
+      "id": "v410-19fb375e9f7871846b",
+      "category": "Allenatori e tecnici",
+      "kind": "Allenatori grandi squadre",
+      "difficulty": 2,
+      "question": "Quale tecnico è registrato come allenatore di Alcione Milano 1952 nella scheda Wikidata consultata?",
+      "options": [
+        "Giovanni Cusatis",
+        "Daniele Bonera",
+        "Paolo Bianco"
+      ],
+      "answer": 0,
+      "explanation": "Wikidata associa Giovanni Cusatis a Alcione Milano 1952 attraverso la proprietà P286.",
+      "source": "https://www.wikidata.org/wiki/Q120881664",
+      "sourceName": "Wikidata CC0"
+    },
+    {
+      "id": "v410-fa171a32f481f4c276",
+      "category": "Allenatori e tecnici",
+      "kind": "Allenatori grandi squadre",
+      "difficulty": 2,
+      "question": "Quale tecnico è registrato come allenatore di Milan Futuro nella scheda Wikidata consultata?",
+      "options": [
+        "Raffaele Palladino",
+        "Gian Piero Gasperini",
+        "Daniele Bonera"
+      ],
+      "answer": 2,
+      "explanation": "Wikidata associa Daniele Bonera a Milan Futuro attraverso la proprietà P286.",
+      "source": "https://www.wikidata.org/wiki/Q126923253",
+      "sourceName": "Wikidata CC0"
+    },
+    {
+      "id": "v410-8e1cee9c36a3cbdc05",
+      "category": "Allenatori e tecnici",
+      "kind": "Allenatori grandi squadre",
+      "difficulty": 2,
+      "question": "Quale tecnico è registrato come allenatore di Football Club Internazionale Milano U23 nella scheda Wikidata consultata?",
+      "options": [
+        "Giovanni Cusatis",
+        "Gennaro Gattuso",
+        "Stefano Vecchi"
+      ],
+      "answer": 2,
+      "explanation": "Wikidata associa Stefano Vecchi a Football Club Internazionale Milano U23 attraverso la proprietà P286.",
+      "source": "https://www.wikidata.org/wiki/Q135451504",
+      "sourceName": "Wikidata CC0"
+    },
+    {
+      "id": "v410-2c440d7ae1316cd7a5",
+      "category": "Allenatori e tecnici",
+      "kind": "Allenatori grandi squadre",
+      "difficulty": 2,
+      "question": "Quale tecnico è registrato come allenatore di Atalanta Bergamasca Calcio nella scheda Wikidata consultata?",
+      "options": [
+        "Daniele Bonera",
+        "Stefano Vecchi",
+        "Maurizio Sarri"
+      ],
+      "answer": 2,
+      "explanation": "Wikidata associa Maurizio Sarri a Atalanta Bergamasca Calcio attraverso la proprietà P286.",
+      "source": "https://www.wikidata.org/wiki/Q1886",
+      "sourceName": "Wikidata CC0"
+    },
+    {
+      "id": "v410-467a0448513a5f8fcd",
+      "category": "Allenatori e tecnici",
+      "kind": "Allenatori grandi squadre",
+      "difficulty": 2,
+      "question": "Quale tecnico è registrato come allenatore di Bologna FC 1909 nella scheda Wikidata consultata?",
+      "options": [
+        "Ignazio Abate",
+        "Raffaele Palladino",
+        "Luciano Spalletti"
+      ],
+      "answer": 1,
+      "explanation": "Wikidata associa Raffaele Palladino a Bologna FC 1909 attraverso la proprietà P286.",
+      "source": "https://www.wikidata.org/wiki/Q1893",
+      "sourceName": "Wikidata CC0"
+    },
+    {
+      "id": "v410-99df1fb56db2cbb508",
+      "category": "Allenatori e tecnici",
+      "kind": "Allenatori grandi squadre",
+      "difficulty": 2,
+      "question": "Quale tecnico è registrato come allenatore di ACF Fiorentina nella scheda Wikidata consultata?",
+      "options": [
+        "Stefano Vecchi",
+        "Massimiliano Allegri",
+        "Paolo Vanoli"
+      ],
+      "answer": 2,
+      "explanation": "Wikidata associa Paolo Vanoli a ACF Fiorentina attraverso la proprietà P286.",
+      "source": "https://www.wikidata.org/wiki/Q2052",
+      "sourceName": "Wikidata CC0"
+    },
+    {
+      "id": "v410-84a7a36f4d65680ebd",
+      "category": "Allenatori e tecnici",
+      "kind": "Allenatori grandi squadre",
+      "difficulty": 2,
+      "question": "Quale tecnico è registrato come allenatore di SS Lazio nella scheda Wikidata consultata?",
+      "options": [
+        "Gennaro Gattuso",
+        "Luciano Spalletti",
+        "Paolo Vanoli"
+      ],
+      "answer": 0,
+      "explanation": "Wikidata associa Gennaro Gattuso a SS Lazio attraverso la proprietà P286.",
+      "source": "https://www.wikidata.org/wiki/Q2609",
+      "sourceName": "Wikidata CC0"
+    },
+    {
+      "id": "v410-33c47c13986c9236ba",
+      "category": "Allenatori e tecnici",
+      "kind": "Allenatori grandi squadre",
+      "difficulty": 2,
+      "question": "Quale tecnico è registrato come allenatore di SSC Napoli nella scheda Wikidata consultata?",
+      "options": [
+        "Massimiliano Allegri",
+        "Paolo Montero",
+        "Raffaele Palladino"
+      ],
+      "answer": 0,
+      "explanation": "Wikidata associa Massimiliano Allegri a SSC Napoli attraverso la proprietà P286.",
+      "source": "https://www.wikidata.org/wiki/Q2641",
+      "sourceName": "Wikidata CC0"
+    },
+    {
+      "id": "v410-2819093b2984f2fcb9",
+      "category": "Allenatori e tecnici",
+      "kind": "Allenatori grandi squadre",
+      "difficulty": 2,
+      "question": "Quale tecnico è registrato come allenatore di AS Roma nella scheda Wikidata consultata?",
+      "options": [
+        "Stefano Vecchi",
+        "Giovanni Cusatis",
+        "Gian Piero Gasperini"
+      ],
+      "answer": 2,
+      "explanation": "Wikidata associa Gian Piero Gasperini a AS Roma attraverso la proprietà P286.",
+      "source": "https://www.wikidata.org/wiki/Q2739",
+      "sourceName": "Wikidata CC0"
+    },
+    {
+      "id": "v410-4817510082ee2a4ca8",
+      "category": "Allenatori e tecnici",
+      "kind": "Allenatori grandi squadre",
+      "difficulty": 2,
+      "question": "Quale tecnico è registrato come allenatore di Torino FC nella scheda Wikidata consultata?",
+      "options": [
+        "Daniele Bonera",
+        "Ignazio Abate",
+        "Gennaro Gattuso"
+      ],
+      "answer": 1,
+      "explanation": "Wikidata associa Ignazio Abate a Torino FC attraverso la proprietà P286.",
+      "source": "https://www.wikidata.org/wiki/Q2768",
+      "sourceName": "Wikidata CC0"
+    },
+    {
+      "id": "v410-f9d0fa2989a8205db5",
+      "category": "Allenatori e tecnici",
+      "kind": "Allenatori grandi squadre",
+      "difficulty": 2,
+      "question": "Quale tecnico è registrato come allenatore di Pisa Sporting Club nella scheda Wikidata consultata?",
+      "options": [
+        "Gian Piero Gasperini",
+        "Ignazio Abate",
+        "Paolo Bianco"
+      ],
+      "answer": 2,
+      "explanation": "Wikidata associa Paolo Bianco a Pisa Sporting Club attraverso la proprietà P286.",
+      "source": "https://www.wikidata.org/wiki/Q289613",
+      "sourceName": "Wikidata CC0"
+    },
+    {
+      "id": "v410-7b945ca73a73c37198",
+      "category": "Allenatori e tecnici",
+      "kind": "Allenatori grandi squadre",
+      "difficulty": 2,
+      "question": "Quale tecnico è registrato come allenatore di AC Milan Primavera nella scheda Wikidata consultata?",
+      "options": [
+        "Daniele Bonera",
+        "Paolo Montero",
+        "Ignazio Abate"
+      ],
+      "answer": 2,
+      "explanation": "Wikidata associa Ignazio Abate a AC Milan Primavera attraverso la proprietà P286.",
+      "source": "https://www.wikidata.org/wiki/Q3299830",
+      "sourceName": "Wikidata CC0"
+    },
+    {
+      "id": "v410-4e1253f6535e2463f4",
+      "category": "Allenatori e tecnici",
+      "kind": "Allenatori grandi squadre",
+      "difficulty": 2,
+      "question": "Quale tecnico è registrato come allenatore di Football Club Internazionale Milano Elite Academy nella scheda Wikidata consultata?",
+      "options": [
+        "Armando Madonna",
+        "Gian Piero Gasperini",
+        "Giovanni Cusatis"
+      ],
+      "answer": 0,
+      "explanation": "Wikidata associa Armando Madonna a Football Club Internazionale Milano Elite Academy attraverso la proprietà P286.",
+      "source": "https://www.wikidata.org/wiki/Q5423698",
+      "sourceName": "Wikidata CC0"
+    },
+    {
+      "id": "v410-6010022047f8c652e6",
+      "category": "Allenatori e tecnici",
+      "kind": "Allenatori grandi squadre",
+      "difficulty": 2,
+      "question": "Quale tecnico è registrato come allenatore di Juventus Next Gen nella scheda Wikidata consultata?",
+      "options": [
+        "Paolo Vanoli",
+        "Paolo Montero",
+        "Armando Madonna"
+      ],
+      "answer": 1,
+      "explanation": "Wikidata associa Paolo Montero a Juventus Next Gen attraverso la proprietà P286.",
+      "source": "https://www.wikidata.org/wiki/Q56025745",
+      "sourceName": "Wikidata CC0"
+    },
+    {
+      "id": "v410-f4236d3991fb848894",
+      "category": "Allenatori e tecnici",
+      "kind": "Allenatori grandi squadre",
+      "difficulty": 2,
+      "question": "Quale tecnico è registrato come allenatore di Calcio Portogruaro-Summaga nella scheda Wikidata consultata?",
+      "options": [
+        "Paolo Bianco",
+        "Gian Piero Gasperini",
+        "Armando Madonna"
+      ],
+      "answer": 2,
+      "explanation": "Wikidata associa Armando Madonna a Calcio Portogruaro-Summaga attraverso la proprietà P286.",
+      "source": "https://www.wikidata.org/wiki/Q913041",
+      "sourceName": "Wikidata CC0"
+    }
+  ]
+}
