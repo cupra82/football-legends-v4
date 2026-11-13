@@ -1,0 +1,58 @@
+name: V4.1.0 - Espandi calcio mondiale (club stadi giocatori allenatori)
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '15 9 * * 1' # lunedì 09:15 UTC (10:15 in inverno in Svizzera)
+permissions:
+  contents: write
+concurrency:
+  group: v4-world-410
+  cancel-in-progress: false
+jobs:
+  expand:
+    runs-on: ubuntu-latest
+    timeout-minutes: 18
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - name: Controlla i generatori prima di usarli
+        run: node scripts/test-v410-world.js
+      - name: Espandi giocatori allenatori club e stadi
+        env:
+          FL_V410_SOURCE_BUDGET_MS: '180000'
+          FL_V410_CLUB_FILES: '130'
+          FL_V410_COACH_CLUBS: '200'
+        run: node scripts/build-v410-world.js
+      - name: Ricostruisci albi d'oro dei grandi campionati
+        run: node scripts/build-v410-champions.js
+      - name: Verifica qualità archivi
+        run: |
+          node scripts/audit-categories.js
+          node scripts/test-v410-world.js
+      - name: Mostra numero reale delle nuove domande
+        run: |
+          node - <<'JS'
+          const fs=require('fs');
+          for(const file of ['world-v410-generated.json','v410-champions-generated.json']){
+            if(!fs.existsSync(file)){console.log(file+': nessun dato valido disponibile');continue;}
+            const d=JSON.parse(fs.readFileSync(file));console.log(file, 'Totale:',d.questions?.length||0,'Nuove:',JSON.stringify(d.stats?.added||d.stats?.newQuestions||0),'Categorie:',JSON.stringify(d.stats?.categories||{}));
+          }
+          JS
+      - name: Pubblica solo i dati nuovi della V4
+        run: |
+          git config user.name 'football-legends-v4-bot'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          for f in world-v410-generated.json v410-champions-generated.json v410-clubs-cache.json v410-coaches-cache.json category-report.json category-report.md; do
+            if test -f "$f"; then git add -- "$f"; fi
+          done
+          if git diff --cached --quiet; then
+            echo 'Nessuna nuova domanda: archivi già aggiornati'
+          else
+            git commit -m 'V4.1.0: espansione mondiale verificata'
+            git pull --rebase origin main
+            git push origin main
+          fi

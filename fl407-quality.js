@@ -19,13 +19,25 @@ function score(q){const text=String(q.question||'').toLowerCase(),kind=String(q.
  return v;
 }
 function shuffle(arr){const a=arr.slice();for(let i=a.length-1;i>0;i--){const j=Math.floor(Math.random()*(i+1));[a[i],a[j]]=[a[j],a[i]]}return a}
-function select(pool,n,{mode='famous',balanced=true}={}){
- if(mode==='all')return shuffle(pool).slice(0,n);
- const ranked=[[],[],[]];for(const q of pool){const s=score(q);ranked[s>=5?0:s>=0?1:2].push(q)}
- const targets=[Math.ceil(n*.78),Math.ceil(n*.18),n];const picked=[],ids=new Set();
- const add=(list,limit)=>{for(const q of shuffle(list)){if(picked.length>=limit)break;const id=String(q.id||q.question);if(ids.has(id))continue;ids.add(id);picked.push(q)}};
- add(ranked[0],targets[0]);add(ranked[1],Math.max(targets[1]+picked.length,Math.ceil(n*.95)));add(ranked[2],n);
- if(picked.length<n)add([...ranked[0],...ranked[1],...ranked[2]],n);
- return shuffle(picked.slice(0,n));
+// 4.0.9: filtro esclusivo. Nessun ripescaggio da domande di nicchia.
+// È una classificazione euristica, non un certificato di notorietà.
+function isFamous(q){
+ const t=String(q.question||'').toLowerCase(),k=String(q.kind||'').toLowerCase();
+ if(k==='fondazione grandi club'||k==='albo d’oro campionati'||k==='stadi e grandi club'||k==='allenatori grandi squadre'||k==='carriere di grandi protagonisti')return true;
+ if(weakQuestions.test(t))return false;
+ // Nazionalità/biografie automatiche non diventano famose solo perché la categoria lo è.
+ if(weakKinds.test(k))return false;
+ return score(q)>=5;
 }
-module.exports={score,select};
+function select(pool,n,{mode='famous'}={}){
+ const eligible=mode==='all'?pool:pool.filter(isFamous);
+ const unique=[],seen=new Set();
+ for(const q of shuffle(eligible)){
+  const id=String(q.id||q.question);
+  if(seen.has(id))continue;
+  seen.add(id);unique.push(q);
+  if(unique.length>=n)break;
+ }
+ return unique;
+}
+module.exports={score,isFamous,select};
