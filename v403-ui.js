@@ -56,17 +56,30 @@
  const resultList=document.getElementById('resultsList');resultList?.insertAdjacentElement('afterend',historyPanel);
  function displayHistory(){if(!resultList)return;historyBody.replaceChildren();historyPanel.hidden=almanacHistory.length===0;
   for(const item of almanacHistory){const c=el('div','fl403-card');appendText(c,'strong',item.question);appendText(c,'p','✅ '+item.answer);appendText(c,'p',item.explanation||'Nessuna spiegazione disponibile.','fl403-muted');
-   if(item.source&&/^https:\/\//.test(item.source)){const a=el('a','','Fonte');a.href=item.source;a.rel='noopener noreferrer';a.target='_blank';c.append(a)}historyBody.append(c)}
+   historyBody.append(c)}
  }
  function resetTools(q){active=q;toolbox.replaceChildren();almanac.hidden=true;report.hidden=true;report.replaceChildren()}
  const almanacButton=button('📖 Almanacco della risposta',()=>{almanac.hidden=!almanac.hidden});
  const reportButton=button('🚩 Segnala domanda',()=>{report.hidden=!report.hidden});
- function showTools(q,correctText,explanation){if(!q||!feedback)return;active=q;const last=almanacHistory[almanacHistory.length-1];if(!last||last.question!==q.question){almanacHistory.push({question:q.question,answer:correctText||'',explanation:explanation||'',source:q.source||null});if(almanacHistory.length>30)almanacHistory.shift()}toolbox.replaceChildren();toolbox.append(almanacButton,reportButton);almanac.hidden=false;almanac.replaceChildren();appendText(almanac,'strong','📖 Lo sapevi?');appendText(almanac,'p',explanation||'Questa domanda non dispone ancora di una spiegazione storica verificata.');if(correctText)appendText(almanac,'p','Risposta: '+correctText);if(q.source&&/^https:\/\//.test(q.source)){const a=el('a','','Consulta la fonte');a.href=q.source;a.target='_blank';a.rel='noopener noreferrer';almanac.append(a)}
+ function showTools(q,correctText,explanation){if(!q||!feedback)return;active=q;const last=almanacHistory[almanacHistory.length-1];if(!last||last.question!==q.question){almanacHistory.push({question:q.question,answer:correctText||'',explanation:explanation||'',source:q.source||null});if(almanacHistory.length>30)almanacHistory.shift()}toolbox.replaceChildren();toolbox.append(almanacButton,reportButton);almanac.hidden=false;almanac.replaceChildren();appendText(almanac,'strong','📖 Lo sapevi?');appendText(almanac,'p',explanation||'Questa domanda non dispone ancora di una spiegazione storica verificata.');if(correctText)appendText(almanac,'p','Risposta: '+correctText);
  }
  function showReport(){if(!active)return;report.replaceChildren();appendText(report,'strong','Segnala un problema con questa domanda');appendText(report,'p','La segnalazione non cambia il risultato della partita. Serve un nickname registrato in Arena.','fl403-muted');const select=el('select');for(const [v,t] of [['errata','Risposta errata'],['ambigua','Domanda ambigua'],['duplicata','Domanda ripetuta'],['altro','Altro problema']]){const o=el('option','',t);o.value=v;select.append(o)}report.append(select);const note=el('textarea');note.placeholder='Dettagli (facoltativo, massimo 500 caratteri)';note.maxLength=500;note.rows=2;report.append(note);const msg=el('p','fl403-muted');report.append(button('Invia segnalazione',async()=>{const a=typeof getAccount==='function'?getAccount():null;if(!a?.token){msg.textContent='Registra prima un nickname nella sezione Arena online.';return}try{const d=await request('report',{token:a.token,questionId:String(active.id||active.question).slice(0,160),reason:select.value,comment:note.value});msg.textContent='✅ '+d.message}catch(e){msg.textContent='⚠️ '+e.message}}));report.append(msg)}
  reportButton.addEventListener('click',()=>{if(!report.hidden)showReport()});
  const oldRender=window.renderBase;window.renderBase=function(q,n,total){if(n===1)almanacHistory=[];resetTools(q);return oldRender.apply(this,arguments)};
- const oldReveal=window.reveal;window.reveal=function(q,pick,msg){const r=oldReveal.apply(this,arguments);const answer=(q.displayOptions||[])[q.correct]?.value;showTools(q,answer,q.explanation||msg);return r};
+ const oldReveal=window.reveal;window.reveal=function(q,pick,msg){
+  const r=oldReveal.apply(this,arguments);
+  const answer=(q.displayOptions||[])[q.correct]?.value;
+  // Keep the score/status in the feedback bar; show historical details only once, in Almanacco.
+  // For offline questions the original code appends q.explanation to the score message.
+  let feedbackText=String(feedback?.textContent||'');
+  const explanation=String(q.explanation||'').trim();
+  if(explanation&&feedbackText.endsWith(explanation))feedbackText=feedbackText.slice(0,-explanation.length).trim();
+  // For online questions the server includes the answer and explanation in the feedback message.
+  if(feedbackText.startsWith('✅ Risposta:'))feedbackText='✅ Risposta rivelata.';
+  if(feedback)feedback.textContent=feedbackText||'✅ Risposta visualizzata.';
+  showTools(q,answer,q.explanation||(!explanation?msg:''));
+  return r
+ };
  // During multiplayer the original question text is sent before the reveal, without correct answer.
  const oldNet=window.handleNet;window.handleNet=function(x){if(x.type==='end'){const out=oldNet.apply(this,arguments);displayHistory();return out}if(x.type==='question'){
   // renderBase runs inside oldNet and takes the question text; add the stable server-side ID after rendering.
