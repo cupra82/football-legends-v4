@@ -107,8 +107,8 @@ const httpServer=http.createServer((req,res)=>{
  if(pathname==='/api/leaderboard/status'){res.writeHead(200,{'Content-Type':'application/json; charset=utf-8','Cache-Control':'no-store'});return res.end(JSON.stringify(ranking.status()))}
  if(pathname==='/api/leaderboard'){res.writeHead(200,{'Content-Type':'application/json; charset=utf-8','Cache-Control':'no-store'});return ranking.leaderboard(30).then(rows=>res.end(JSON.stringify({status:ranking.status(),players:rows}))).catch(e=>res.end(JSON.stringify({status:{...ranking.status(),ready:false},players:[]})))}
  if(pathname==='/api/topics'){res.writeHead(200,{'Content-Type':'application/json; charset=utf-8','Cache-Control':'no-store'});return res.end(JSON.stringify({groups:topicFilters.counts(questions),available:questions.length}));}
- if(pathname==='/api/v407/status')return jsonReply(res,200,{version:'4.0.7',historyReady:history407.status().ready,questions:bankStatus.count,qualityDefault:'famous'});
- if(pathname==='/api/version'){res.writeHead(200,{'Content-Type':'application/json; charset=utf-8','Cache-Control':'no-store'});return res.end(JSON.stringify({version:'4.0.7',game:'Football Legends Ultimate Edition',state:bankStatus.state,questions:bankStatus.count}))}
+ if(pathname==='/api/v407/status')return jsonReply(res,200,{version:'4.0.8',historyReady:history407.status().ready,questions:bankStatus.count,qualityDefault:'famous'});
+ if(pathname==='/api/version'){res.writeHead(200,{'Content-Type':'application/json; charset=utf-8','Cache-Control':'no-store'});return res.end(JSON.stringify({version:'4.0.8',game:'Football Legends Ultimate Edition',state:bankStatus.state,questions:bankStatus.count}))}
  if(pathname==='/api/status'){res.writeHead(200,{'Content-Type':'application/json; charset=utf-8','Cache-Control':'no-store'});return res.end(JSON.stringify(bankStatus))}
  // File immagine locali: serviti dal server Node.js con percorso ristretto e tipo MIME corretto.
  if(/^\/assets\/categories\/[a-z0-9-]+\.webp$/.test(pathname)){
@@ -180,4 +180,4 @@ wss.on('connection',ws=>{ws.isAlive=true;ws.on('pong',()=>ws.isAlive=true);ws.on
 setInterval(()=>{for(const ws of wss.clients){if(ws.isAlive===false){ws.terminate();continue}ws.isAlive=false;ws.ping()}},30000).unref();
 ranking.init().catch(e=>console.error('Classifiche:',e.message));
 accounts.init().catch(e=>console.error('Account:',e.message));
-httpServer.listen(PORT,()=>{console.log(`Football Legends 4.0.7 online http://localhost:${PORT} (${questions.length} domande iniziali)`);if(!generated.length||process.env.FORCE_REFRESH==='true')refresh()});
+httpServer.listen(PORT,()=>{console.log(`Football Legends 4.0.8 online http://localhost:${PORT} (${questions.length} domande iniziali)`);if(!generated.length||process.env.FORCE_REFRESH==='true')refresh()});
