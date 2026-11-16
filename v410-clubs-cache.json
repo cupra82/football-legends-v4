@@ -327,6 +327,27 @@
     "north-america/clubs.wiki.txt",
     "north-america/mexico/mx.clubs.props.txt",
     "north-america/mexico/mx.clubs.txt",
-    "north-america/mexico/mx.stadiums.txt"
+    "north-america/mexico/mx.stadiums.txt",
+    "north-america/united-states/us.clubs.props.txt",
+    "north-america/united-states/us.clubs.txt",
+    "north-america/united-states/us.stadiums.txt",
+    "asia/china/cn.clubs.txt",
+    "asia/clubs.wiki.txt",
+    "asia/india/in.clubs.txt",
+    "asia/japan/jp.clubs.lang.jp.txt",
+    "asia/japan/jp.clubs.txt",
+    "asia/kazakhstan/kz.clubs.txt",
+    "asia/singapore/sg.clubs.txt",
+    "asia/south-korea/kr.clubs.lang.ko.txt",
+    "asia/south-korea/kr.clubs.txt",
+    "asia/thailand/th.clubs.txt",
+    "africa/congo-dr/cd.clubs.txt",
+    "africa/egypt/eg.clubs.lang.ar.txt",
+    "africa/egypt/eg.clubs.txt",
+    "africa/morocco/ma.clubs.txt",
+    "africa/morocco/ma.stadiums.txt",
+    "africa/south-africa/za.clubs.txt",
+    "africa/south-africa/za.stadiums.txt",
+    "africa/tunisia/tn.clubs.txt"
   ]
 }
